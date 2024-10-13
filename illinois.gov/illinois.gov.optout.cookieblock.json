@@ -1,0 +1,844 @@
+{
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828079501,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744380079.499163,
+                        "expiry": 15552000.499162912,
+                        "value": "22856277837545658410444775190991142480",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828079500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.64418888,
+                        "value": "22856277837545658410444775190991142480",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828079647
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.717020988,
+                        "value": "22856277837545658410444775190991142480",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828080720
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828080718,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744380080.716951,
+                        "expiry": 15552000.716950893,
+                        "value": "22856277837545658410444775190991142480",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828080717
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828080569,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760364080.567145,
+                        "expiry": 31536000.56714511,
+                        "value": "g_surferid~ZwvSsAAAAGm4WwN2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828080567
+                    }
+                ]
+            }
+        }
+    },
+    "illinois.gov": {
+        "/": {
+            "AMCVS_36CF020D5D9EE7D70A495ECF%40AdobeOrg": {
+                "name": "AMCVS_36CF020D5D9EE7D70A495ECF%40AdobeOrg",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828079657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079655
+                    }
+                ]
+            },
+            "AMCV_36CF020D5D9EE7D70A495ECF%40AdobeOrg": {
+                "name": "AMCV_36CF020D5D9EE7D70A495ECF%40AdobeOrg",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828078725,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763388078.723452,
+                        "expiry": 34560000.72345209,
+                        "value": "179643557%7CMCIDTS%7C20010%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078723
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64822006,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079649
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64934111,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CMCAAMLH-1729432879%7C7%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.650190115,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CMCAAMLH-1729432879%7C7%7CMCAAMB-1729432879%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.653846025,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CMCAAMLH-1729432879%7C7%7CMCAAMB-1729432879%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728835279s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.482142925,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CMCAAMLH-1729432879%7C7%7CMCAAMB-1729432879%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728835279s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080485
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49084306,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CMCAAMLH-1729432879%7C7%7CMCAAMB-1729432879%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728835280s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080491
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.71873093,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C16361043866759005961090041210323351093%7CMCAAMLH-1729432879%7C7%7CMCAAMB-1729432879%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728835280s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20017%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080720
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728828078717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078717
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078722
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078722
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088454
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088456
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088457
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828077770,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728835277.755564,
+                        "expiry": 7200.7555639743805,
+                        "value": "DE85DC2C8E21C9187C782FE1C9573FA8~000000000000000000000000000000~YAAQSBjQF8w+KXOSAQAAaPcuhhmBcTGTiYk/R8gPdcLMEANNHBDGCuUE84muPcGiHkGJh+KePH4Jc/ucQrIjJ7sCihMd9K9y9sSYGV//srdtt7CUb5pZgOq8aGF5OaBsjnPF+zevfG8eFQ+6OOaFv4OLXbvX9zrs2tX/Tddt0U+T2Ke2vTp9bBeVi0mW3jZlNW8S1/ABqQIo16XUQnSnxKAYm1SV33FwLOJ9oeLxG+g9TWRtM4M1IjoXQxNL5SU+Z/c7fSUqhNU3HShpa3e95L5EgwEU/c1byNi8GJ0HXK65zUVYphYwnoAYivDmUiFhDuTUcgyp8z/sqjOVzlT+umxL4J2VARYQJVlLj6WYSP6U4xy+xRRQAijJ3Y92zsc5j8awC9G7/MicAN8=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828077760
+                    }
+                ]
+            },
+            "at_check": {
+                "name": "at_check",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728828079668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079667
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088467
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828078216,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728835278.199874,
+                        "expiry": 7200.199873924255,
+                        "value": "31DDBD7B5AC211AD9F9B805ADBDDD638~YAAQSBjQFws/KXOSAQAAM/guhhlbW8dwBmE8kWB2TH8fkrxKCCsGgyRCnhxX1Fe4vu6GyNk8lX7KwZczwFF+nGpcA3no+E4jB2lLRlIAHtSAxPdB9Eg2muiwSWil82ngg9AFc0N4fFW+Se5u3NHZM0WzTGkS6jP7ULcJRjJ22nrOVph1rsSYXtHz4vPeYj5hWFIdqr9dxbNlVM7UnTVYu40J6kE43VwRC6jP5wJpHOpVPByQIVDwMZfT15MwfPPLdIE=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078200
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.456070899963,
+                        "value": "31DDBD7B5AC211AD9F9B805ADBDDD638~YAAQSBjQF6A/KXOSAQAAHvouhhksOlydaM7fT1gQP+TsgYRPpdCEnuu0zZUFxmU1sdmA8/IutOQrd2qtzxHFET1NnWECrRTqFhnfZZhgTnRn/H/N/G5SYPCAsFxvUuuNAYWk3rOdu0zOPLf3f2BOAEwUJ4A8Q/hpl0FXy9+sQTR69YYFRjrVvtwHCQnaY+8WPN2QN0eWa3qrT8nes/IS0zRWQtOizDxDR9uaSqZ6uNNZUi47MPs3OaFkWBAjYAkl8NA=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078463
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.43546295166,
+                        "value": "31DDBD7B5AC211AD9F9B805ADBDDD638~YAAQSBjQF+pAKXOSAQAA+/0uhhmR4GKzQt2G06XF+WTILKmZxLpOG5Z5dccKd4XHjw0L5/+ffy08ySaqq9eM5O15w7bL0GweKykKDevpy7RhN6Bw1wKprAVGZQL/dK437zphQP6rIDvbIkMiOA9QMjskS/kQlhzTFQIu4NqD5yYtLSp2F3QFAqmWHBmxcBzrdjW/DErsozDCjkVSpBREaMLMeMSzJ+RVMRkWOHGRqHaDN7U1QAn1r8jGGUORDVWdNGI=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7192.454898118973,
+                        "value": "31DDBD7B5AC211AD9F9B805ADBDDD638~YAAQSBjQFy5IKXOSAQAAZhkvhhlxfsVy/OGX5eu1A0aUqvR/lmil5P0JmJAuOb7cPDZ7Gd5A77RVARd9jmX1CDE65JrrDF6Wjxlt1MZJ+W+9lk3RrhRcFsccUuWH0QxitXHE0r0RfvNPN6ae3nslPI0j9u1jO/V/SAK1imH4Un4WRM9tg+ibK5JZXI/s7Lv+9Mno9EVSTTMSoNjXzchTGSJsbLWKVFl30/exOadJMCtOGhUNQyaUNp+XemqbtueEGuE=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828086457
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7190.43154501915,
+                        "value": "31DDBD7B5AC211AD9F9B805ADBDDD638~YAAQSBjQF4ZKKXOSAQAAHCEvhhnGuSwQraHrJwPw8BPRP5UHf6pKC2Lp8gnGKg0ifQFpePVdhp/wsD3C46aIC6S6bYS+6gdCD7SJxSloTlCY4JFR7fIkK3fOc1oBq1wjvaWecVgUtL2db6PTT6NrYmynrQiSeOL8bM+yFWynLJurOi74gm1FB5QlSoBZq9J3tqjdY8NIjEjutGmfUn+qDyNwbZoAKtfamCpsNPCWY6ZWPgGJyxHIPyv78Fpg9JI2oVg=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088433
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7190.585887908936,
+                        "value": "31DDBD7B5AC211AD9F9B805ADBDDD638~YAAQSBjQF7pKKXOSAQAAuiEvhhlV9U++LYJqPhd4/wt/hXBNXl0sShe6q9wNnhHyzrUXrD+Orv/BqeJW3eHlg0i6PmhVbFoxdwZ0Llyz1K6rj09WCoFNINJcwDlF7LCKkT7nrA4GCGykds8N6Dgr+7hNTC+PR9vhRexS+VBptJADFGv3Mu4SbY1OW0+fK8ZPBuORLcHAX9zLk5yUfHfecdXTGexnBzzGj1Q1EB3VwfAb86lmDK+/EqBB1mSNT5drgIk=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088586
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828079667,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.51604605,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829941|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072881",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080516
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.51666689,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829941|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072881",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080517
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.481600046,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829948|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072881",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828087482
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.46645498,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829949|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072881",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088466
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.469176054,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829949|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072881",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.47081804,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829949|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072881",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088471
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.616031885,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829949|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072889",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.61697602,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829949|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072889",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088617
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.617624044,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829949|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072889",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.625874996,
+                        "value": "session#9ff554f22bcd4deb8c9472c0e97ebf40#1728829954|PC#9ff554f22bcd4deb8c9472c0e97ebf40.34_0#1792072889",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828093626
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828079300,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763388079.298431,
+                        "expiry": 34560000.29843092,
+                        "value": "140cf47e-ec4c-1dbb-d6bf-eed5a931a8b7",
+                        "same_site": "lax",
+                        "timestamp": 1728828079299
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828080489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828089232
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828080483,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763388080.480112,
+                        "expiry": 34560000.480112076,
+                        "value": "MCMID%7C16361043866759005961090041210323351093",
+                        "same_site": "lax",
+                        "timestamp": 1728828080481
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.63166189,
+                        "value": "MCMID%7C16361043866759005961090041210323351093",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828080632
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.372869015,
+                        "value": "MCMID%7C16361043866759005961090041210323351093",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828089373
+                    }
+                ]
+            },
+            "s_plt": {
+                "name": "s_plt",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828082487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5.99",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828082486
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1.12",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828089484
+                    }
+                ]
+            },
+            "s_pltp": {
+                "name": "s_pltp",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828082489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "illinois%3Ahome%7Chttps%3A%2F%2Fwww.illinois.gov%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828082488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "illinois%3Astate%20of%20illinois%20privacy%20notice%7Chttps%3A%2F%2Fwww.illinois.gov%2Fabout%2Fprivacy.html",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828089484
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".illinois.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828088241,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "isppublishprod%3D%2526c.%2526a.%2526activitymap.%2526page%253Dillinois%25253Ahome%2526link%253DIllinois%252520Privacy%252520Info%2526region%253DGF-1%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828088240
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828089232
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.illinois.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828078460,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729432878.455035,
+                        "expiry": 604800.4550349712,
+                        "value": "dQzEDqAOD2fbiHWqf0x+P7oXlP1f9IBFBrp4OlSAT/nymhPU2zgzSfsfW4A+6LMPS+5sTcYxPyj4WQTklkHsPVWe0XNnae6fSB7HExl8cs6mHiZZ7W7zQHMiUUuH",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828078457
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.4352579117,
+                        "value": "6LpdRtiaU9AoRxjwI/7vzueQy9xcF1YuOjUpyWo1jlt/HMqFkXl9KvHxN2c7gToBjgtKWgCZ+lmtc6SAelHhQ0NRw6ZROIt/AL0n/AAAEiS7eFtMGiunICXtHeva",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828079436
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4546709061,
+                        "value": "sYim4IYHgfby3rEMRjYJ+gR9RzrI7/r3xboKJXucW1iXbPTP8Ix+5F0iDf7l+c9gZDimOzbVgwzan24Myk0l+rn7ZWRhrilQvJoYYmiUZx8iRY6UEYbTVpnPFALv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828086456
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.illinois.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828078462,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729432878.455948,
+                        "expiry": 604800.4559481144,
+                        "value": "dQzEDqAOD2fbiHWqf0x+P7oXlP1f9IBFBrp4OlSAT/nymhPU2zgzSfsfW4A+6LMPS+5sTcYxPyj4WQTklkHsPVWe0XNnae6fSB7HExl8cs6mHiZZ7W7zQHMiUUuH",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828078460
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604799.4353721142,
+                        "value": "6LpdRtiaU9AoRxjwI/7vzueQy9xcF1YuOjUpyWo1jlt/HMqFkXl9KvHxN2c7gToBjgtKWgCZ+lmtc6SAelHhQ0NRw6ZROIt/AL0n/AAAEiS7eFtMGiunICXtHeva",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828079436
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.454818964,
+                        "value": "sYim4IYHgfby3rEMRjYJ+gR9RzrI7/r3xboKJXucW1iXbPTP8Ix+5F0iDf7l+c9gZDimOzbVgwzan24Myk0l+rn7ZWRhrilQvJoYYmiUZx8iRY6UEYbTVpnPFALv",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828086457
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728828082764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744380082.762001,
+                        "expiry": 15552000.762001038,
+                        "value": "77YzHzqhLtk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828082764
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828082765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744380082.762177,
+                        "expiry": 15552000.76217699,
+                        "value": "CgJDQRIEGgAgSA%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828082764
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728828082764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZLsiFABlmu0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828082764
+                    }
+                ]
+            }
+        }
+    }
+}

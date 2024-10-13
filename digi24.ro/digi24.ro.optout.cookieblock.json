@@ -1,0 +1,430 @@
+{
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728652368950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188368.948629,
+                        "expiry": 31536000.948628902,
+                        "value": "35dwpk8cslp8z2kxd09dyo635r",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652368949
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.05653906,
+                        "value": "2nf87kbw1lm883cqql9redxzfm",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652369057
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.077838898,
+                        "value": "cx:2wlkh9o4vkwyl2lwu94wvdzjjm:3tpv6zcyok554",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652369078
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.19149208,
+                        "value": "35dwpk8cslp8z2kxd09dyo635r",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652369192
+                    }
+                ]
+            }
+        }
+    },
+    "digi24.ro": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652392425,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760188392,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T13:13:12.422Z",
+                        "same_site": "lax",
+                        "timestamp": 1728652392423
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652367688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A12%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1728652367689
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A12%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728652367717
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A12%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38",
+                        "same_site": "lax",
+                        "timestamp": 1728652367718
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A12%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728652367719
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A12%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.digi24.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728652367724
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A12%3A51+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.digi24.ro%2F&groups=BG2435%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728652371895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A13%3A12+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=BG2435%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728652392427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A13%3A12+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2435%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728652392429
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A13%3A12+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2435%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728652392453
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A13%3A12+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55923c31-800a-4544-bc13-964109c2ae38&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2435%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728652392455
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652366625,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728652396,
+                        "expiry": 30,
+                        "value": "m24qzimxnmblz5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652366619
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24qzin4g7wcbm",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652366626
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24qzjf8bwa87o",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652367638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24qzjfam3iah9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652367640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24qzkmh7gdsxt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652369194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24r09g2g05d43",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652401365
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728652367638,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762783967,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24qzin6lb06gzgy%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728652367637
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652366632,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762783966,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1728652366630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmANgCZ%2BAdgCcQ-gA5eAVhHDuI3iAC%2BQA",
+                        "same_site": "lax",
+                        "timestamp": 1728652366675
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652369196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762783969,
+                        "expiry": 34131600,
+                        "value": "cx%3A2wlkh9o4vkwyl2lwu94wvdzjjm%3A3tpv6zcyok554",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652369194
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728652367639,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762783967,
+                        "expiry": 34131600,
+                        "value": "m24qzin6lb06gzgy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652367638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24qzin6lb06gzgy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652367640
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652392453,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760188392,
+                        "expiry": 31536000,
+                        "value": "CQGUw_AQGUw_AAcABBROBKFwAAAAAAAAAChQAAAAAAFBIAoAMgAiAB-AXmA3UdALABkAEQALoAYgA_AEWAOoAfYBeYDLAG6jgAoBCACIgMEAceA-0hACADEAdQgABAYISgCABEADEAdQBeZIACAywpAKABkAEQAMQAfgCLAHUAPsAvMBlgDdSgAIBggD7S0AEA-w.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728652392451
+                    }
+                ]
+            },
+            "m2digi24ro": {
+                "name": "m2digi24ro",
+                "domain": ".digi24.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728652365917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759756365.906256,
+                        "expiry": 31104000.90625596,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652365908
+                    }
+                ]
+            },
+            "cmp_level": {
+                "name": "cmp_level",
+                "domain": "www.digi24.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652371894,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760188371,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652371893
+                    }
+                ]
+            }
+        }
+    }
+}

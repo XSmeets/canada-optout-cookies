@@ -1,0 +1,3718 @@
+{
+    "1rx.io": {
+        "/": {
+            "_rxuuid": {
+                "name": "_rxuuid",
+                "domain": ".1rx.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491034,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.031888,
+                        "expiry": 31536000.031888008,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-eb58a8dd-6809-4ed3-8fb5-dfae0af2e91c-005%22%2C%22zdxidn%22%3A%222069.5%22%2C%22nxtrdr%22%3A%22https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Drhythmone.com%26id%3D%5BRX_UUID%5D%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491032
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.166784048,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-eb58a8dd-6809-4ed3-8fb5-dfae0af2e91c-005%22%2C%22zdxidn%22%3A%222069.5%22%2C%22nxtrdr%22%3A%22https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Drhythmone.com%26id%3D%5BRX_UUID%5D%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.36129594,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-eb58a8dd-6809-4ed3-8fb5-dfae0af2e91c-005%22%2C%22zdxidn%22%3A%222069.46%22%2C%22nxtrdr%22%3Afalse%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491362
+                    }
+                ]
+            }
+        }
+    },
+    "3lift.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740486590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516486.589354,
+                        "expiry": 7776000.589354038,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486590
+                    }
+                ]
+            },
+            "tluid": {
+                "name": "tluid",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486591,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516486.58948,
+                        "expiry": 7776000.589479923,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.0623960495,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491065
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.066061974,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491070
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.21035099,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491213
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.352018118,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.364787102,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491366
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.367564917,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491368
+                    }
+                ]
+            },
+            "tluidp": {
+                "name": "tluidp",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491063,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516491.062345,
+                        "expiry": 7776000.062345028,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491062
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.066025972,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491070
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.209480047,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491210
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.21032691,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491213
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.351984978,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.364733934,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.367542982,
+                        "value": "1565586490788390989912",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491368
+                    }
+                ]
+            }
+        },
+        "/sync": {
+            "sync": {
+                "name": "sync",
+                "domain": ".3lift.com",
+                "path": "/sync",
+                "current_label": 3,
+                "label_ts": 1728740491065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516491.062378,
+                        "expiry": 7776000.06237793,
+                        "value": "CgoIgAIQyP7Zh6gyCgoIoQEQyP7Zh6gyCgoI4gEQyP7Zh6gyCgoI5gEQyP7Zh6gyCgoIhwIQyP7Zh6gyCgkIOhDI_tmHqDIKCQgbEMj-2YeoMgoKCIwCEMj-2YeoMgoKCKwCEMj-2YeoMgoJCF8QyP7Zh6gy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491064
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486800,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516486.798718,
+                        "expiry": 7776000.798717976,
+                        "value": "QN2HwlNkk5fQgM74M9qZhEqdfkflTzBtTztsxyzqrLGNdpvAAjVW1wDzI8gI57ZkcUTzpBJuXp0MBBaGDww9_kMzHi1Rk-jUJ2XIKQj5_TU.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486799
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.981319904,
+                        "value": "ShJDd42Hp-fjAeg4VCfinVow_vSn4S9FXxXmMs7YEeeyiVaYCWrz-_SzYCHfh9iFCs-nCimlgJf52FGTJFaD9m5Fk_tHSm5UV52kfOaZJxA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.049134016,
+                        "value": "ShJDd42Hp-fjAeg4VCfinVow_vSn4S9FXxXmMs7YEeeyiVaYCWrz-_SzYCHfh9iFCs-nCimlgJf52FGTJFaD9m5Fk_tHSm5UV52kfOaZJxA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490055
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.360946894,
+                        "value": "ShJDd42Hp-fjAeg4VCfinVow_vSn4S9FXxXmMs7YEeeyiVaYCWrz-_SzYCHfh9iFCs-nCimlgJf52FGTJFaD9m5Fk_tHSm5UV52kfOaZJxA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491361
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486801,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516486.798812,
+                        "expiry": 7776000.798811913,
+                        "value": "ChgIpOReEAoYASABKAEwhvmpuAY4AUABSAEQhvmpuAYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.981448889,
+                        "value": "ChgIpOReEAoYASABKAEwhvmpuAY4AUABSAEQhvmpuAYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486982
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486802,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300486.798828,
+                        "expiry": 34560000.79882789,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.981498,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.04931688,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490055
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36097288,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491361
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486802,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516486.798843,
+                        "expiry": 7776000.798842907,
+                        "value": "2728968487837181445",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486802
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.9815449715,
+                        "value": "8887665911048392949",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486983
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.049417973,
+                        "value": "8887665911048392949",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490056
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.360996008,
+                        "value": "8887665911048392949",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491361
+                    }
+                ]
+            }
+        }
+    },
+    "ads.pubmatic.com": {
+        "/": {
+            "KCCH": {
+                "name": "KCCH",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740490410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728826890,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490410
+                    }
+                ]
+            },
+            "PMFREQ_ON": {
+                "name": "PMFREQ_ON",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740491519,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728826891,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491519
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491521
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490583,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276490.579974,
+                        "expiry": 31536000.579973936,
+                        "value": "CAEYBSgCMgsItISW9cmztT0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.716980934,
+                        "value": "CAESGwoMc2hhcmV0aHJvdWdoEgsIxNe7ybOztT0QBRgFIAEoAjILCLSElvXJs7U9EAU4AQ..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490717
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.956334114,
+                        "value": "CAESGwoMc2hhcmV0aHJvdWdoEgsIxNe7ybOztT0QBRIXCghwdWJtYXRpYxILCNje3suzs7U9EAUYASABKAIyCwjk1OH4ybO1PRAFOAFaCHB1Ym1hdGljYAI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.209662914,
+                        "value": "CAESGwoMc2hhcmV0aHJvdWdoEgsIxNe7ybOztT0QBRIXCghwdWJtYXRpYxILCNje3suzs7U9EAUSFgoHc3Z4OXQ1MBILCOTXk86zs7U9EAUYASABKAIyCwi0zZb7ybO1PRAFOAFaB3N2eDl0NTBgAg..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491211
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.521136045,
+                        "value": "CAESGwoMc2hhcmV0aHJvdWdoEgsIxNe7ybOztT0QBRIXCghwdWJtYXRpYxILCNje3suzs7U9EAUSFgoHc3Z4OXQ1MBILCOTXk86zs7U9EAUSFgoHcnViaWNvbhILCMbskNGzs7U9EAUYASACKAIyCwi0zZb7ybO1PRAFOAFaB3N2eDl0NTBgAg..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491522
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490581,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276490.579921,
+                        "expiry": 31536000.579921007,
+                        "value": "7a5b101a-9d8b-4654-bc6a-369412e7349a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490580
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.71693611,
+                        "value": "7a5b101a-9d8b-4654-bc6a-369412e7349a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490717
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.95626712,
+                        "value": "7a5b101a-9d8b-4654-bc6a-369412e7349a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.209628105,
+                        "value": "7a5b101a-9d8b-4654-bc6a-369412e7349a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491211
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.52105093,
+                        "value": "7a5b101a-9d8b-4654-bc6a-369412e7349a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491522
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489310,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1751377289.309605,
+                        "expiry": 22636800.309604883,
+                        "value": "AwqjR5aItkcLrkHDRj-Tzr8|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489310
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 22636800.467768908,
+                        "value": "AwqjR5aItkcLrkHDRj-Tzr8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 22636800.309451103,
+                        "value": "AwqjR5aItkcLrkHDRj-Tzr8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491310
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 22636800.522614002,
+                        "value": "AwqjR5aItkcLrkHDRj-Tzr8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491523
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489470,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300489.467834,
+                        "expiry": 34560000.467833996,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.30949497,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491310
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.52273393,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491523
+                    }
+                ]
+            }
+        }
+    },
+    "bidswitch.net": {
+        "/": {
+            "c": {
+                "name": "c",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491356,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.353922,
+                        "expiry": 31536000.35392189,
+                        "value": "1728740491",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491355
+                    }
+                ]
+            },
+            "custom_data": {
+                "name": "custom_data",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740491518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740791.510127,
+                        "expiry": 300.5101270675659,
+                        "value": "eGhIR182WTRPQUN0M3VuZjJVSmh3akFBR1pRUWlLdUVEbjIwQkQ2TmNhWFc2SmVJaTlHaGJDamtOUnJ3JTJGUnRVMmx2b3FnU290anFxY1FMVFVFaWdXc2gwMUwxcmRUakYlMkZNYW85YTI0NEVIMEJNSTQ5bUxkUnhoRXpZQWZZVyUyQk02bUl5TmczMiUyQnFuMXlrUEglMkJ5N2tCVGY2d1JSV1BtVXJOJTJGa3dyOGlPcVpqRHNza1F3dWJmNE5IVDlJeG9FSjQyeE9JTEdTUzJqU1ZGWGNyV2U5VVl2QkhZMjVTVzJIRHlOMSUyRkxKJTJCSlZVbjI5NW9uSGRLUzh4QnhWbUdvOVhTN2ptM0tSJTJG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491517
+                    }
+                ]
+            },
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.35387,
+                        "expiry": 31536000.353869915,
+                        "value": "54f1bcab-2a1f-4f73-a407-50eb31834195",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.509964943,
+                        "value": "54f1bcab-2a1f-4f73-a407-50eb31834195",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491517
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491355,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.353911,
+                        "expiry": 31536000.353910923,
+                        "value": "1728740491",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491355
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51008892,
+                        "value": "1728740491",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491517
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "CMID": {
+                "name": "CMID",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740491012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.011519,
+                        "expiry": 31536000.011518955,
+                        "value": "Zwp8i9HM6aYAACBSAAxyCwAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491011
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.159356117,
+                        "value": "Zwp8i9HM6aYAACBSAAxyCwAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.314066887,
+                        "value": "Zwp8i9HM6aYAACBSAAxyCwAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491314
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.370273113,
+                        "value": "Zwp8i9HM6aYAACBSAAxyCwAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.460897923,
+                        "value": "Zwp8i9HM6aYAACBSAAxyCwAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491461
+                    }
+                ]
+            },
+            "CMPRO": {
+                "name": "CMPRO",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516491.01156,
+                        "expiry": 7776000.011559963,
+                        "value": "3594",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491013
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.15940094,
+                        "value": "3594",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.314105034,
+                        "value": "3594",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491314
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.370290041,
+                        "value": "3594",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.460946083,
+                        "value": "3594",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491461
+                    }
+                ]
+            },
+            "CMPS": {
+                "name": "CMPS",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516491.011549,
+                        "expiry": 7776000.011548996,
+                        "value": "3594",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491013
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490414,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762436490.413574,
+                        "expiry": 33696000.41357398,
+                        "value": "b9f0eeb0-6658-445b-8ede-3d15ebd77452",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490413
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740487620,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752068487.617656,
+                        "expiry": 23328000.617655993,
+                        "value": "\"ABR4nGNgYGBI56ppZ4ADABHTAXU%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487620
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23328000.013427973,
+                        "value": "\"ABR4nGNgYGBI56rpYYADABIKAXo%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492014
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740487619,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752068487.617643,
+                        "expiry": 23328000.617643118,
+                        "value": "\"ACZ4nGOQT7QwTLMwSktOMjFOMk5KNTNOMTZPSbU0NjJNS7MwNWEAgnSumnYGBAAAUIkKXA%3D%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23328000.013412,
+                        "value": "\"ACZ4nGOQT7QwTLMwSktOMjFOMk5KNTNOMTZPSbU0NjJNS7MwNWEAgnSump7f%2F%2F%2F%2F52eAAwCwfA5o\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492014
+                    }
+                ]
+            },
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740487549,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752066420.548419,
+                        "expiry": 23325933.548419,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23325933.617558956,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487618
+                    }
+                ]
+            },
+            "_cc_domain": {
+                "name": "_cc_domain",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740487618,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752066420.617605,
+                        "expiry": 23325933.61760497,
+                        "value": ".cc.mirror.co.uk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487618
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740487550,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752066420.54847,
+                        "expiry": 23325933.54847002,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23325933.576939106,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487577
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23325933.617624998,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23325928.01336789,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492013
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740487023,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276487.022225,
+                        "expiry": 31536000.022224903,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487022
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.52149701,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487522
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.70888996,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491709
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.132189035,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.495255947,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492496
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740487024,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276487.022263,
+                        "expiry": 31536000.02226305,
+                        "value": "UserID=6fbd13e3-d915-4e3f-b624-23aed1bd28ae&Created=10/12/2024 13:41:27&UserMode=0&guid=b4449534-744c-4ce0-b6c2-28abbc659351&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487023
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.52154994,
+                        "value": "UserID=6fbd13e3-d915-4e3f-b624-23aed1bd28ae&Created=10/12/2024 13:41:27&UserMode=0&guid=b4449534-744c-4ce0-b6c2-28abbc659351&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740487522
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.70893097,
+                        "value": "UserID=6fbd13e3-d915-4e3f-b624-23aed1bd28ae&Created=10/12/2024 13:41:27&UserMode=0&guid=b4449534-744c-4ce0-b6c2-28abbc659351&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491709
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.132267952,
+                        "value": "UserID=6fbd13e3-d915-4e3f-b624-23aed1bd28ae&Created=10/12/2024 13:41:27&UserMode=0&guid=b4449534-744c-4ce0-b6c2-28abbc659351&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.495347023,
+                        "value": "UserID=6fbd13e3-d915-4e3f-b624-23aed1bd28ae&Created=10/12/2024 13:41:27&UserMode=0&guid=b4449534-744c-4ce0-b6c2-28abbc659351&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740492496
+                    }
+                ]
+            }
+        }
+    },
+    "dotomi.com": {
+        "/": {
+            "DotomiTest": {
+                "name": "DotomiTest",
+                "domain": ".dotomi.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490896,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740520.894564,
+                        "expiry": 30.894563913345337,
+                        "value": "5d329db593ca04c6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.342720985412598,
+                        "value": "77462952548205c0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491343
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490855,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300490.854452,
+                        "expiry": 34560000.854451895,
+                        "value": "AHWqTUlr5yxqBuMSxO6GrlyWf40e1-1BcOW49kt3HeKREaw4K3jtVT8-35nvVNVscb0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.97248912,
+                        "value": "AHWqTUlS4ZIwqyAAwUrskzPJ8y9gjrzBUQl80t2OPRflzMkFphDBqbgZ4JvoXFp3m-Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490987
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490706,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728741390.705867,
+                        "expiry": 900.7058670520782,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490706
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "3pi": {
+                "name": "3pi",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516489.449275,
+                        "expiry": 7776000.449275017,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489449
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.328391075,
+                        "value": "108#1728740490308#-1613537759",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490328
+                    }
+                ]
+            },
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516489.0129,
+                        "expiry": 7776000.012900114,
+                        "value": "47ff0d11-2dc3-7f6b-a663-0abeba2c8644#1728740488992#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489013
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.231475115,
+                        "value": "47ff0d11-2dc3-7f6b-a663-0abeba2c8644#1728740488992#2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.449218035,
+                        "value": "47ff0d11-2dc3-7f6b-a663-0abeba2c8644#1728740488992#3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489449
+                    }
+                ]
+            }
+        }
+    },
+    "minutemedia-prebid.com": {
+        "/": {
+            "wrvUserID": {
+                "name": "wrvUserID",
+                "domain": ".minutemedia-prebid.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491218,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731332491.211031,
+                        "expiry": 2592000.21103096,
+                        "value": "hm9XzjHrCp_mm",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491217
+                    }
+                ]
+            }
+        }
+    },
+    "nottinghampost.com": {
+        "/": {
+            "AMP_MKTG_d8c8a103d7": {
+                "name": "AMP_MKTG_d8c8a103d7",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740486309,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276486,
+                        "expiry": 31536000,
+                        "value": "JTdCJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740486308
+                    }
+                ]
+            },
+            "AMP_TLDTEST": {
+                "name": "AMP_TLDTEST",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740486306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "MQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486305
+                    }
+                ]
+            },
+            "AMP_d8c8a103d7": {
+                "name": "AMP_d8c8a103d7",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276486,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI0NTkyMjY2OTIuMTcyODc0MDQ4NiUyMiUyQyUyMm9wdE91dCUyMiUzQWZhbHNlJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740486307
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI0NTkyMjY2OTIuMTcyODc0MDQ4NiUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0ODYzMDUlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDg2MzA3JTJDJTIybGFzdEV2ZW50SWQlMjIlM0ExJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740486312
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI0NTkyMjY2OTIuMTcyODc0MDQ4NiUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0ODYzMDUlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDg2MzgxJTJDJTIybGFzdEV2ZW50SWQlMjIlM0EyJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740486382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI0NTkyMjY2OTIuMTcyODc0MDQ4NiUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0ODYzMDUlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDg2NzExJTJDJTIybGFzdEV2ZW50SWQlMjIlM0EzJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740486718
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740486908,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762868486,
+                        "expiry": 34128000,
+                        "value": "Dqd1UqBvHi3Z647Ri",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "Dqd1UqBvHi3Z647Ri",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491873
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740486911,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728742286,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491874
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491876
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740485325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740485323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740485325
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486905
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486911
+                    }
+                ]
+            },
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740487623,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1752068487,
+                        "expiry": 23328000,
+                        "value": "ABR4nGNgYGBI56ppZ4ADABHTAXU%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740487622
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740487622,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1752068487,
+                        "expiry": 23328000,
+                        "value": "ACZ4nGOQT7QwTLMwSktOMjFOMk5KNTNOMTZPSbU0NjJNS7MwNWEAgnSumnYGBAAAUIkKXA%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740487622
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740487552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1752068487,
+                        "expiry": 23328000,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "lax",
+                        "timestamp": 1728740487552
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 23328000,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "lax",
+                        "timestamp": 1728740487578
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 23328000,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "lax",
+                        "timestamp": 1728740487622
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 23328000,
+                        "value": "a81f82fcb43b3be63d37de9325ff854",
+                        "same_site": "lax",
+                        "timestamp": 1728740492016
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740486909,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762868486,
+                        "expiry": 34128000,
+                        "value": ".1728740486906.1728740486906.1.DypzmDCgNyCX9MW6uCC0lYN3LoLA.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486908
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": ".1728740486906.1728740491873.1.DypzmDCgNyCX9MW6uCC0lYN3LoLA.2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491873
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740491479,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740551,
+                        "expiry": 60,
+                        "value": "t=SYnml63NZNCEC_0DtxRBvB0DLxo&E=0&x=15420&c=0.08&y=16310&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 60,
+                        "value": "t=yTzvkVJxG1jnbhBBHcsbpCJsrEK&E=3&x=4969&c=0.21&y=5859&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740504206
+                    }
+                ]
+            },
+            "_chartbeat5": {
+                "name": "_chartbeat5",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740491053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740551,
+                        "expiry": 60,
+                        "value": "1424|16228|%2F|https%3A%2F%2Fwww.nottinghampost.com%2Fcookie-policy%2F|CFHF3ODLKkyEKYMmODADWpwBwcEN7||c|-2gC0BuCaBpo9j0bDFj_bZB4HhVS|nottinghampost.com|",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491052
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 60,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491877
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740488397,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736516488,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728740488395.299820260764640676",
+                        "same_site": "lax",
+                        "timestamp": 1728740488396
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728740488395.299820260764640676",
+                        "same_site": "lax",
+                        "timestamp": 1728740488399
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728740488395.299820260764640676",
+                        "same_site": "lax",
+                        "timestamp": 1728740491048
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740485719,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736516485,
+                        "expiry": 7776000,
+                        "value": "1.1.1203780900.1728740486",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740485718
+                    }
+                ]
+            },
+            "_gd1728740496949_sharedId": {
+                "name": "_gd1728740496949_sharedId",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740496955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740496954
+                    }
+                ]
+            },
+            "_sharedid": {
+                "name": "_sharedid",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740496950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276496,
+                        "expiry": 31536000,
+                        "value": "f828de58-d458-47b4-8c55-aa04f53c4543",
+                        "same_site": "lax",
+                        "timestamp": 1728740496949
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "f828de58-d458-47b4-8c55-aa04f53c4543",
+                        "same_site": "lax",
+                        "timestamp": 1728740496955
+                    }
+                ]
+            },
+            "_sharedid_cst": {
+                "name": "_sharedid_cst",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740496951,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276496,
+                        "expiry": 31536000,
+                        "value": "kSylLAssaw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740496950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "kSylLAssaw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740496955
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740490271,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762436490,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740490270
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740490272,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762436490,
+                        "expiry": 33696000,
+                        "value": "bPVyYAyo7vLmW9i17aSLjM_FGM8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740490271
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740489135": {
+                "name": "_vf_rd_test_1728740489135",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489137,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740489135",
+                        "same_site": "lax",
+                        "timestamp": 1728740489136
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740489826": {
+                "name": "_vf_rd_test_1728740489826",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740489826",
+                        "same_site": "lax",
+                        "timestamp": 1728740489827
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740489828": {
+                "name": "_vf_rd_test_1728740489828",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489830,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740489828",
+                        "same_site": "lax",
+                        "timestamp": 1728740489830
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740489992": {
+                "name": "_vf_rd_test_1728740489992",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489993,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740489992",
+                        "same_site": "lax",
+                        "timestamp": 1728740489992
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740489993": {
+                "name": "_vf_rd_test_1728740489993",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489994,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740489993",
+                        "same_site": "lax",
+                        "timestamp": 1728740489994
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740492219": {
+                "name": "_vf_rd_test_1728740492219",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740492221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740492219",
+                        "same_site": "lax",
+                        "timestamp": 1728740492220
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740492220": {
+                "name": "_vf_rd_test_1728740492220",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740492222,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740492220",
+                        "same_site": "lax",
+                        "timestamp": 1728740492222
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740492233": {
+                "name": "_vf_rd_test_1728740492233",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740492234,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740492233",
+                        "same_site": "lax",
+                        "timestamp": 1728740492234
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740492234": {
+                "name": "_vf_rd_test_1728740492234",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740492235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740492234",
+                        "same_site": "lax",
+                        "timestamp": 1728740492235
+                    }
+                ]
+            },
+            "_vfa": {
+                "name": "_vfa",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489139,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276489.136832,
+                        "expiry": 31536000.136832,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740489138
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.139710903,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740489141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.82998705,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740489833
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.993825912,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740489995
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.16655302,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740492167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.16817689,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740492169
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.22166896,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740492223
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.235349894,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4652e776-1e3b-4171-812c-4fb604f2a0d6.1728740486.1728740486.1728740486.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740492237
+                    }
+                ]
+            },
+            "_vfb": {
+                "name": "_vfb",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489138,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728742289.136339,
+                        "expiry": 1800.1363389492035,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1.10.1728740486....",
+                        "same_site": "lax",
+                        "timestamp": 1728740489138
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.1392920017242,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.2.10.1728740486....",
+                        "same_site": "lax",
+                        "timestamp": 1728740489141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.8276948928833,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.3.10.1728740486....",
+                        "same_site": "lax",
+                        "timestamp": 1728740489828
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.9925560951233,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.4.10.1728740486....",
+                        "same_site": "lax",
+                        "timestamp": 1728740489994
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.1662731170654,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.5.10.1728740486.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740492166
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.1678099632263,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.6.10.1728740486.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740492168
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.2204658985138,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.7.10.1728740486.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740492222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.2339661121368,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.8.10.1728740486.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740492235
+                    }
+                ]
+            },
+            "_vfz": {
+                "name": "_vfz",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740489140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740849.137173,
+                        "expiry": 360.1371729373932,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740489139
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 360.1402349472046,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740489141
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.82806611061096,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740489828
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.99273109436035,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740489994
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 360.1668949127197,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740492167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 360.16870188713074,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740492169
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.22065711021423,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740492222
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.2342019081116,
+                        "value": "www%2Enottinghampost%2Ecom.00000000-0000-4000-8000-0cd0ec02c1a6.1728740486.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740492235
+                    }
+                ]
+            },
+            "lotame_domain_check": {
+                "name": "lotame_domain_check",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740487103,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728740497,
+                        "expiry": 10,
+                        "value": "nottinghampost.com",
+                        "same_site": "lax",
+                        "timestamp": 1728740487103
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10,
+                        "value": "nottinghampost.com",
+                        "same_site": "lax",
+                        "timestamp": 1728740487551
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10,
+                        "value": "nottinghampost.com",
+                        "same_site": "lax",
+                        "timestamp": 1728740487578
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10,
+                        "value": "nottinghampost.com",
+                        "same_site": "lax",
+                        "timestamp": 1728740491851
+                    }
+                ]
+            },
+            "mantisid": {
+                "name": "mantisid",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740485731,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276485,
+                        "expiry": 31536000,
+                        "value": "97504b77-93af-4639-af39-2f4ab4fcc8be",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740485730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "97504b77-93af-4639-af39-2f4ab4fcc8be",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491763
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740487553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826888,
+                        "expiry": 86401,
+                        "value": "1728826887555",
+                        "same_site": "lax",
+                        "timestamp": 1728740487552
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86401,
+                        "value": "1728826887587",
+                        "same_site": "lax",
+                        "timestamp": 1728740487579
+                    }
+                ]
+            },
+            "_gd1728740496946_sharedId": {
+                "name": "_gd1728740496946_sharedId",
+                "domain": ".www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740496947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740496946
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740496949
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": ".www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740485488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762436485.486953,
+                        "expiry": 33696000.48695302,
+                        "value": "1Y--",
+                        "same_site": "lax",
+                        "timestamp": 1728740485487
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.9805069,
+                        "value": "1YYN",
+                        "same_site": "lax",
+                        "timestamp": 1728740496981
+                    }
+                ]
+            },
+            "AMP_TEST": {
+                "name": "AMP_TEST",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740486304,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "JTIyMTcyODc0MDQ4NjMwMyUyMg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740486303
+                    }
+                ]
+            },
+            "DM_SitId903": {
+                "name": "DM_SitId903",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740487314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740487313
+                    }
+                ]
+            },
+            "DM_SitId903SecId5054": {
+                "name": "DM_SitId903SecId5054",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740487316,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740487316
+                    }
+                ]
+            },
+            "DM_SitId903SecId5055": {
+                "name": "DM_SitId903SecId5055",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740492126,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740492125
+                    }
+                ]
+            },
+            "GS_GROUP": {
+                "name": "GS_GROUP",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740484234,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731332484.221984,
+                        "expiry": 2592000.2219839096,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740484224
+                    }
+                ]
+            },
+            "GS_RESTRICT": {
+                "name": "GS_RESTRICT",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740484245,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740484244
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740485444
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740485588
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740485854
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491475
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740498171
+                    }
+                ]
+            },
+            "GS_REVENUE_LOC": {
+                "name": "GS_REVENUE_LOC",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740484243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731332484.223111,
+                        "expiry": 2592000.223110914,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740484235
+                    }
+                ]
+            },
+            "TM_PagesViewed": {
+                "name": "TM_PagesViewed",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740495067,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728742295,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740495066
+                    }
+                ]
+            },
+            "TM_ga_clientId": {
+                "name": "TM_ga_clientId",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740485559,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300485.55716,
+                        "expiry": 34560000.5571599,
+                        "value": "459226692.1728740486",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740485558
+                    }
+                ]
+            },
+            "_lr_env_src_ats": {
+                "name": "_lr_env_src_ats",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740496957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731332496,
+                        "expiry": 2592000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740496957
+                    }
+                ]
+            },
+            "_lr_geo_location": {
+                "name": "_lr_geo_location",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740488041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826888.039802,
+                        "expiry": 86400.03980207443,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740488040
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.16603088379,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740488166
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.29552698135,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740488296
+                    }
+                ]
+            },
+            "_lr_geo_location_state": {
+                "name": "_lr_geo_location_state",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740488040,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826888.039751,
+                        "expiry": 86400.03975105286,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740488040
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.16598200798,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740488166
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.29545593262,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740488295
+                    }
+                ]
+            },
+            "_lr_retry_request": {
+                "name": "_lr_retry_request",
+                "domain": "www.nottinghampost.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740496956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728744096,
+                        "expiry": 3600,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740496956
+                    }
+                ]
+            }
+        },
+        "/cookie-policy": {
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".nottinghampost.com",
+                "path": "/cookie-policy",
+                "current_label": 0,
+                "label_ts": 1728740491871,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491872
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740491875
+                    }
+                ]
+            }
+        }
+    },
+    "pubmatic.com": {
+        "/": {
+            "DPSync4": {
+                "name": "DPSync4",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490813,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516490.806357,
+                        "expiry": 7776000.806356907,
+                        "value": "1729296000%3A252_265%7C1729900800%3A263_262",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490812
+                    }
+                ]
+            },
+            "KADUSERCOOKIE": {
+                "name": "KADUSERCOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276490.806138,
+                        "expiry": 31536000.80613804,
+                        "value": "63666C35-7AFF-4AA1-8870-67CD689516D2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490807
+                    }
+                ]
+            },
+            "KTPCACOOKIE": {
+                "name": "KTPCACOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740490409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516490,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490424
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490509
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490524
+                    }
+                ]
+            },
+            "SyncRTB4": {
+                "name": "SyncRTB4",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516490.806407,
+                        "expiry": 7776000.806406975,
+                        "value": "1729900800%3A13_54_220_201_21%7C1729296000%3A223",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490813
+                    }
+                ]
+            },
+            "chkChromeAb67Sec": {
+                "name": "chkChromeAb67Sec",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490811,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516490.806224,
+                        "expiry": 7776000.806224108,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490810
+                    }
+                ]
+            },
+            "pi": {
+                "name": "pi",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728826890.806306,
+                        "expiry": 86400.80630588531,
+                        "value": "156011:2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490811
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740486522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276486.516619,
+                        "expiry": 31536000.516618967,
+                        "value": "1|mFVHqHkj5bFCEDwwfhyGHyTZ8QWn7H601w1wSoM3hqomsBE/Wh86ahyJDp/UKj2tQ69PWZdzxf6jkrb82NJt2qihMpzv1nLR59VR0YmYTzAijy0RC4Zd8SKPLRELhl3x0A+VO7RH1E0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486521
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.517227888,
+                        "value": "1|mFVHqHkj5bFCEDwwfhyGHyTZ8QWn7H601w1wSoM3hqomsBE/Wh86ahyJDp/UKj2tQ69PWZdzxf6jkrb82NJt2qihMpzv1nLR59VR0YmYTzAijy0RC4Zd8SKPLRELhl3x0A+VO7RH1E0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.698400974,
+                        "value": "1|mFVHqHkj5bGaj6+QrkppyCTZ8QWn7H601w1wSoM3hqomsBE/Wh86ahyJDp/UKj2tQ69PWZdzxf6jkrb82NJt2qihMpzv1nLR59VR0YmYTzAijy0RC4Zd8SKPLRELhl3x0A+VO7RH1E0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486701
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.278884888,
+                        "value": "1|mFVHqHkj5bGaj6+QrkppyCTZ8QWn7H601w1wSoM3hqqe+S/dZ1vLHUIr/bifnd+iKmiulZQ+pffhlI2uKWkDtnEqdlK6snNOns6luyo3KjOma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.518343925,
+                        "value": "1|mFVHqHkj5bGaj6+QrkppyCTZ8QWn7H601w1wSoM3hqoSpUWav01EyUIr/bifnd+iKmiulZQ+pffhlI2uKWkDtnEqdlK6snNOns6luyo3KjOma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491522
+                    }
+                ]
+            },
+            "audit_p": {
+                "name": "audit_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740491280,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.278768,
+                        "expiry": 31536000.278768063,
+                        "value": "1|mFVHqHkj5bGaj6+QrkppyCTZ8QWn7H601w1wSoM3hqqe+S/dZ1vLHUIr/bifnd+iKmiulZQ+pffhlI2uKWkDtnEqdlK6snNOns6luyo3KjOma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491279
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.518311977,
+                        "value": "1|mFVHqHkj5bGaj6+QrkppyCTZ8QWn7H601w1wSoM3hqoSpUWav01EyUIr/bifnd+iKmiulZQ+pffhlI2uKWkDtnEqdlK6snNOns6luyo3KjOma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491521
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740486522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276486.516643,
+                        "expiry": 31536000.516643047,
+                        "value": "M267G8DJ-9-6ED2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486522
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51714897,
+                        "value": "M267G8DJ-9-6ED2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.6976099,
+                        "value": "M267G8F8-20-CI29",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486699
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.698362112,
+                        "value": "M267G8F8-20-CI29",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740486701
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.278819084,
+                        "value": "M267G8F8-20-CI29",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491280
+                    }
+                ]
+            },
+            "khaos_p": {
+                "name": "khaos_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491280,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276491.278846,
+                        "expiry": 31536000.278846025,
+                        "value": "M267G8F8-20-CI29",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491280
+                    }
+                ]
+            }
+        }
+    },
+    "sharethrough.com": {
+        "/": {
+            "stx_user_id": {
+                "name": "stx_user_id",
+                "domain": ".sharethrough.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490853,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731332490.851987,
+                        "expiry": 2592000.851986885,
+                        "value": "3499683e-831b-4c4f-a3fa-1c5f4b7fad69",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490852
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.9472088814,
+                        "value": "a9c6c06b-32ad-4309-a43e-44c9f9e5cc15",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490949
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.991813898,
+                        "value": "3499683e-831b-4c4f-a3fa-1c5f4b7fad69",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1712510586,
+                        "value": "3499683e-831b-4c4f-a3fa-1c5f4b7fad69",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491171
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.3618290424,
+                        "value": "3499683e-831b-4c4f-a3fa-1c5f4b7fad69",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491362
+                    }
+                ]
+            }
+        }
+    },
+    "smaato.net": {
+        "/": {
+            "SCM": {
+                "name": "SCM",
+                "domain": ".smaato.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740490816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730554890.810801,
+                        "expiry": 1814400.8108010292,
+                        "value": "1621714dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490815
+                    }
+                ]
+            },
+            "SCMs": {
+                "name": "SCMs",
+                "domain": ".smaato.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740490816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730554890.810859,
+                        "expiry": 1814400.810858965,
+                        "value": "1621714dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490816
+                    }
+                ]
+            }
+        }
+    },
+    "stmg-prod.mirror.co.uk": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".stmg-prod.mirror.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740485558,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300485.556565,
+                        "expiry": 34560000.55656505,
+                        "value": "GA1.4.459226692.1728740486",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740485557
+                    }
+                ]
+            }
+        }
+    },
+    "tapad.com": {
+        "/": {
+            "TapAd_3WAY_SYNCS": {
+                "name": "TapAd_3WAY_SYNCS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740490115,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733924490.113513,
+                        "expiry": 5184000.113512993,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490114
+                    }
+                ]
+            },
+            "TapAd_DID": {
+                "name": "TapAd_DID",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733924489.959017,
+                        "expiry": 5184000.959017038,
+                        "value": "62c2ecca-e5c9-4b1a-a8da-232ca4ac3cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.113491058,
+                        "value": "62c2ecca-e5c9-4b1a-a8da-232ca4ac3cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490114
+                    }
+                ]
+            },
+            "TapAd_TS": {
+                "name": "TapAd_TS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733924489.958974,
+                        "expiry": 5184000.958973885,
+                        "value": "1728740489971",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.11345005,
+                        "value": "1728740489971",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740490114
+                    }
+                ]
+            }
+        }
+    },
+    "thrtle.com": {
+        "/": {
+            "mc": {
+                "name": "mc",
+                "domain": ".thrtle.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740491396,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1746020491.395766,
+                        "expiry": 17280000.39576602,
+                        "value": "eyJpZCI6IjIxOTRlNGMyLTIxZTAtNDYwYi05MTQ5LTZkOWY4MzQ1ZDk0MCIsImwiOjE3Mjg3NDA0OTE0MTMsInQiOjF9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740491396
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740489821,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762436489.820201,
+                        "expiry": 33696000.82020092,
+                        "value": "2nL7QyA7WSCCnrIUv0KraYmv7hl",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740489821
+                    }
+                ]
+            }
+        }
+    }
+}

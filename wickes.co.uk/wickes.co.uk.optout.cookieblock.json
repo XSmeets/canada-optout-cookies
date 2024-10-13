@@ -1,0 +1,374 @@
+{
+    "wickes.co.uk": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741137967,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744293137,
+                        "expiry": 15552000,
+                        "value": "2024-10-12T13:52:17.965Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741137966
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741119295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744293119,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A51%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0",
+                        "same_site": "lax",
+                        "timestamp": 1728741119295
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A51%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741119297
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A51%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1728741119299
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A51%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=0&landingPath=https%3A%2F%2Fwww.wickes.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728741119301
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A51%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=0&landingPath=https%3A%2F%2Fwww.wickes.co.uk%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741119732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A52%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741137971
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A52%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741137974
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A52%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741137996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A52%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09acbdbc-7084-4484-a4bd-1dab6677332b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0&iType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728741137997
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".wickes.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741137977,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301137.975782,
+                        "expiry": 34560000.97578192,
+                        "value": "GA1.1.2022464134.1728741120",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137976
+                    }
+                ]
+            },
+            "_ga_9QHS4WRMW0": {
+                "name": "_ga_9QHS4WRMW0",
+                "domain": ".wickes.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741137981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301137.976925,
+                        "expiry": 34560000.976924896,
+                        "value": "GS1.1.1728741119.1.0.1728741119.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137980
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.986291885,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.98684406,
+                        "value": "GS1.1.1728741119.1.0.1728741137.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137987
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.04141998,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741146042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.04224205,
+                        "value": "GS1.1.1728741119.1.0.1728741146.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741146044
+                    }
+                ]
+            },
+            "_ga_DS7E7S7P9S": {
+                "name": "_ga_DS7E7S7P9S",
+                "domain": ".wickes.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741137983,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301137.980378,
+                        "expiry": 34560000.98037791,
+                        "value": "GS1.1.1728741119.1.0.1728741119.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.9904089,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137990
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.990878105,
+                        "value": "GS1.1.1728741119.1.0.1728741137.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741137991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.0462029,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741146046
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.046802044,
+                        "value": "GS1.1.1728741119.1.0.1728741146.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741146047
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741117616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729345917.601004,
+                        "expiry": 604800.6010038853,
+                        "value": "4c7r9wCQlmUreCjVukAXM+vrEq2FTnUCgz+CKC0Z0uQ9WNGTP62qLKQWQi4FjTkzwmA1d/XFcniFeHLABGH1BUu3XfGgBASbrD6C7EK4PvKp7kxnJUjQWH6+myGM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741117606
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741117621,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729345917.604401,
+                        "expiry": 604800.6044011116,
+                        "value": "4c7r9wCQlmUreCjVukAXM+vrEq2FTnUCgz+CKC0Z0uQ9WNGTP62qLKQWQi4FjTkzwmA1d/XFcniFeHLABGH1BUu3XfGgBASbrD6C7EK4PvKp7kxnJUjQWH6+myGM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741117616
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741117625,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Y22-5e0dcfee-fc7b-4885-95b2-a5aad064f49c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741117624
+                    }
+                ]
+            },
+            "rewards-counter": {
+                "name": "rewards-counter",
+                "domain": "www.wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741117624,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728744717.604539,
+                        "expiry": 3600.6045389175415,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741117623
+                    }
+                ]
+            },
+            "searchEngine": {
+                "name": "searchEngine",
+                "domain": "www.wickes.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741117623,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Bloomreach",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741117622
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "house.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".www.house.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728827155409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GA1.3.1829163090.1728827155",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827155403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GA1.3.1829163090.1728827155",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827170637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GA1.3.1829163090.1728827155",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827192418
+                    }
+                ]
+            },
+            "_ga_65K8PR1QER": {
+                "name": "_ga_65K8PR1QER",
+                "domain": ".www.house.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728827155403,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GS1.3.1728827155.1.0.1728827155.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827155395
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GS1.3.1728827155.1.1.1728827170.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827170636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GS1.3.1728827155.1.1.1728827192.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827192417
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GS1.3.1728827155.1.1.1728827199.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827199507
+                    }
+                ]
+            },
+            "SERVERID": {
+                "name": "SERVERID",
+                "domain": "www.house.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827170318,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "wb04",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827170315
+                    }
+                ]
+            }
+        }
+    }
+}

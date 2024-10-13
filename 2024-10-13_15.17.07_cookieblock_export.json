@@ -1,0 +1,406 @@
+{
+    "dhs.gov": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".dhs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825287625,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728832487.622884,
+                        "expiry": 7200.6228840351105,
+                        "value": "56E748A4554811AC85FBECCCF49B1354~000000000000000000000000000000~YAAQkhwhF3nCp3qSAQAARGQEhhmrJukLDwiqHc1tCc+QVoXwo5LV7n0qNGNDdk8Bi4zUjkqYZBIqGhH6gtwMituRzggdU7uKYsTwWns8Q0aEFpi8TKsHO0LFnY+cSONBORlQGxqGISMY9KM3k0gpN09v6kxaF1ilSBG8v+FUlZPnO+AGtLFvJxCzcjOkOmYsip1QRUjyaI+DNsrUHwtdDxTPLeUKT1dU6YszvRip7XOmZQGs0ctkN9LXeIChxKpTZ7x83vD8jP49ZN73dOjT2XQsJcF8Rcdh6N7F/4oEHH3P747vN5cwaWBoJljFmsN8yQWfkUjMj10W3ZGwPRpi0CCHKjwMSCtFaZ6ooBVEZLtcP226h80xIdGeUafDNVrYkGxacge0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825287623
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".dhs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825287775,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728832487.771189,
+                        "expiry": 7200.7711889743805,
+                        "value": "94CD6B8911E2BDF5A89C75EA372D346F~YAAQkhwhF5PCp3qSAQAA2WQEhhn7hdHCJ3FPZ6aX/aVlI5Nv04/Wbh43YKL1KU2m02+N1SDwbI0ysaHPx+XjRQGOngSd2SHT2him/AYAI+EMe+dH3Z8NWvzJtouf0M1EIO/adIwv55jMCww7XsEswEfQJYWaYHx+Pjht1aANfXkeFlNalL0JOwY0zmoDhF9KbORD1eVfmg3+VGFiptoXDSPpjz65qM6Kxsd6AtpZqVXpDjU0ax8Ii7RLUrro~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825287771
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825290114,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728826190.113437,
+                        "expiry": 900.1134369373322,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825290113
+                    }
+                ]
+            }
+        }
+    },
+    "force.com": {
+        "/": {
+            "BrowserId": {
+                "name": "BrowserId",
+                "domain": ".force.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728825287584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760361287.57892,
+                        "expiry": 31536000.578919888,
+                        "value": "HwbcOYllEe-6KM2S_v3y8w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825287579
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825288047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744636487.04732,
+                        "expiry": 15811199.047319889,
+                        "value": "518=iOFwrFO58zKHXBFkvio4SlSltbV2u4Y_mCXtt-Wse1BOVFOvu7iSMw-xDKKPzj6hR8NeqdVccKnp4gr-FT4EUT9V8KcwdwIbzYMG4LujOmu1Pk3mv28s5dZMLS11jWqQ4D1nKNFuOGf22QvwiFAw4mKPqqPj874j8BmvZCywz-e9J5qbTyVXh9QxFWyQIDk3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825288047
+                    }
+                ]
+            }
+        }
+    },
+    "uscis.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".uscis.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825289374,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744593289,
+                        "expiry": 15768000,
+                        "value": "GA1.1.1689230072.1728825289",
+                        "same_site": "strict",
+                        "timestamp": 1728825289373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.560657024,
+                        "value": "GA1.1.1689230072.1728825289",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825289563
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.58707595,
+                        "value": "GA1.1.1689230072.1728825289",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825289589
+                    }
+                ]
+            },
+            "_ga_3LRB05G9HS": {
+                "name": "_ga_3LRB05G9HS",
+                "domain": ".uscis.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825289588,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385289.586858,
+                        "expiry": 34560000.586858034,
+                        "value": "GS1.1.1728825289.1.0.1728825289.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825289588
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".uscis.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825289373,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744593289,
+                        "expiry": 15768000,
+                        "value": "GS1.1.1728825289.1.0.1728825289.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825289372
+                    }
+                ]
+            },
+            "_ga_QY7WXHK8CT": {
+                "name": "_ga_QY7WXHK8CT",
+                "domain": ".uscis.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825289562,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385289.560437,
+                        "expiry": 34560000.560436964,
+                        "value": "GS1.1.1728825289.1.0.1728825289.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825289561
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".uscis.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825286662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728832486.64602,
+                        "expiry": 7200.646019935608,
+                        "value": "E1ADE65569BDFD90C41675C325355BDC~000000000000000000000000000000~YAAQlBwhF1yz9H6SAQAAbWAEhhl66SWtoUHXfRwHyHPJIiBIXUpD4L74faSujhbsMiTa4a64CwVRY6ymf38g50lFEoxkeq9eip1szvo4bkX206oXk3OSw3PtB1l8moYagQlSFWnCOqrE5ccK2siO+ZbcB4WafEP2dGk/yKMOpq83GDdNGzo7qp3X1/I+Zs8PlqA30yg7E1KBAJJw1wFuFsM3AvdDRdiODWf6SLfgQVlo6Vnn7sFcVN6NF1RuejIIyg+GK/CSwG3CchI1MIpxf5Q2ElU0VxDIwvugZw2PQBPgbAIaVOlHt2uRn1g8mcs3raCESbwGIaFYPnmeURUWa5DzuMCsBYrIDUmnKxjrZLIFyLpwIEim0KPIG6rrfcbJ2CSU/yxP+1c=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825286649
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".uscis.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825287695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385287.694127,
+                        "expiry": 34560000.69412708,
+                        "value": "57aa4783-58d7-76d0-5772-f4f7ae6a2479",
+                        "same_site": "lax",
+                        "timestamp": 1728825287694
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728825288693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744377288.6927,
+                        "expiry": 15552000.69269991,
+                        "value": "pKK1jTkltus",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825288693
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728825288694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744377288.692806,
+                        "expiry": 15552000.692806005,
+                        "value": "CgJDQRIEGgAgWg%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825288693
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728825288693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4LU58E5NtAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825288693
+                    }
+                ]
+            }
+        }
+    },
+    "uscis.my.site.com": {
+        "/": {
+            "BrowserId": {
+                "name": "BrowserId",
+                "domain": "uscis.my.site.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825287840,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760361287.837596,
+                        "expiry": 31536000.83759594,
+                        "value": "HycOMYllEe-vv5tEB75tLg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825287840
+                    }
+                ]
+            },
+            "CookieConsentPolicy": {
+                "name": "CookieConsentPolicy",
+                "domain": "uscis.my.site.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825287839,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760361287.837545,
+                        "expiry": 31536000.837544918,
+                        "value": "0:1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825287838
+                    }
+                ]
+            },
+            "LSKey-c$CookieConsentPolicy": {
+                "name": "LSKey-c$CookieConsentPolicy",
+                "domain": "uscis.my.site.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825287840,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760361287.837584,
+                        "expiry": 31536000.83758402,
+                        "value": "0:1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825287839
+                    }
+                ]
+            }
+        }
+    }
+}

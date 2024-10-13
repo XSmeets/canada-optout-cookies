@@ -1,0 +1,133 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642283351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744453483.351001,
+                        "expiry": 15811200.351001024,
+                        "value": "518=JLVMoCV0PuILWOXT-VL_Ft-hirLic8jeeqUlQyuZZPcn4FJ4zXNwfByRzgtbHfADwTYKggvqZjlJmaZjaeRJGwJbQUz8Kgn0HFmWpXLF4dedZs3T-z0DOqzQ6nsYfNkB-yVbtUNhLm7b5xTu3LRdCnELa1CgjmngZ6irit0K_n0Yfi3FLyo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728642283351
+                    }
+                ]
+            }
+        }
+    },
+    "gov.pl": {
+        "/": {
+            "_pk_id.1.66a7": {
+                "name": "_pk_id.1.66a7",
+                "domain": "www.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642280657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762597481,
+                        "expiry": 33955201,
+                        "value": "4cd10831fddfd9ae.1728642281.",
+                        "same_site": "lax",
+                        "timestamp": 1728642280649
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955196,
+                        "value": "4cd10831fddfd9ae.1728642281.",
+                        "same_site": "lax",
+                        "timestamp": 1728642285652
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955194,
+                        "value": "4cd10831fddfd9ae.1728642281.",
+                        "same_site": "lax",
+                        "timestamp": 1728642287656
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955189,
+                        "value": "4cd10831fddfd9ae.1728642281.",
+                        "same_site": "lax",
+                        "timestamp": 1728642292659
+                    }
+                ]
+            },
+            "_pk_ses.1.66a7": {
+                "name": "_pk_ses.1.66a7",
+                "domain": "www.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642280663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728644080,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728642280657
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728642285652
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728642287656
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728642292659
+                    }
+                ]
+            }
+        }
+    }
+}

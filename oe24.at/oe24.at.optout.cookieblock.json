@@ -1,0 +1,185 @@
+{
+    "oe24.at": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658554476,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194554,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T14:55:54.467Z",
+                        "same_site": "lax",
+                        "timestamp": 1728658554468
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658547963,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194547,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0",
+                        "same_site": "lax",
+                        "timestamp": 1728658547963
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A47+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1728658547964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728658548415
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.oe24.at%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728658548435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.oe24.at%2F&groups=C0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0003%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658548591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0003%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658554477
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0003%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658554505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A55%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0003%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658554521
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658554521,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194554,
+                        "expiry": 31536000,
+                        "value": "CQGUw_AQGUw_AAcABBDEBLFgAAAAAAAAAChQAAAU1gGAA4AM-AlUBvgDtgHcgQUAn2BRQCi0FGgUcApqAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728658554519
+                    }
+                ]
+            },
+            "__adblocker": {
+                "name": "__adblocker",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658547100,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728658847,
+                        "expiry": 300,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658547093
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658546154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728660346.151039,
+                        "expiry": 1800.1510388851166,
+                        "value": "oXaM6l0MFkdA8CZx7Ii9i6oKjZyaRGVtQVzZpvXp7xs-1728658546-1.0.1.1-NVkmnPhCkGU45z8F77_1c3iJ1aDxt9k.in3NUagH4sfjTsnU2HBXs9wK6xMeMFEapOqSVHBeKMlxEYoiozy0Ig",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658546153
+                    }
+                ]
+            }
+        }
+    }
+}

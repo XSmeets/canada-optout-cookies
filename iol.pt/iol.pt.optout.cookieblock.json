@@ -1,0 +1,833 @@
+{
+    "cdns.eu1.gigya.com": {
+        "/": {
+            "apiDomain_3_Keh-vvOJF0c3PnVWIjJq4mUYEcPbPd_wyFIv7mWCIUxdSQ3KMj_TlU3TEqOi7LoK": {
+                "name": "apiDomain_3_Keh-vvOJF0c3PnVWIjJq4mUYEcPbPd_wyFIv7mWCIUxdSQ3KMj_TlU3TEqOi7LoK",
+                "domain": ".cdns.eu1.gigya.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653716311,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189716,
+                        "expiry": 31536000,
+                        "value": "login.iol.pt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653716309
+                    }
+                ]
+            },
+            "gig_canary_3_Keh-vvOJF0c3PnVWIjJq4mUYEcPbPd_wyFIv7mWCIUxdSQ3KMj_TlU3TEqOi7LoK": {
+                "name": "gig_canary_3_Keh-vvOJF0c3PnVWIjJq4mUYEcPbPd_wyFIv7mWCIUxdSQ3KMj_TlU3TEqOi7LoK",
+                "domain": ".cdns.eu1.gigya.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653718032,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189718,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718031
+                    }
+                ]
+            },
+            "gig_canary_ver_3_Keh-vvOJF0c3PnVWIjJq4mUYEcPbPd_wyFIv7mWCIUxdSQ3KMj_TlU3TEqOi7LoK": {
+                "name": "gig_canary_ver_3_Keh-vvOJF0c3PnVWIjJq4mUYEcPbPd_wyFIv7mWCIUxdSQ3KMj_TlU3TEqOi7LoK",
+                "domain": ".cdns.eu1.gigya.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653718033,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189718,
+                        "expiry": 31536000,
+                        "value": "16460-3-28810890",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718033
+                    }
+                ]
+            }
+        }
+    },
+    "cloud.weborama.design": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".cloud.weborama.design",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653713452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728655513.45117,
+                        "expiry": 1800.4511699676514,
+                        "value": "ZLf9aYNoSDU7BhbID20eEFLfW1nwNnx6ZkJq_Uy5pWY-1728653713-1.0.1.1-mUgJZHQ47v0N_Ym_f_FyIWCX5_ZgFkWGKTGmmnRKy66k7EzIJ6UwqQ5SX45.8cv2g7KozyCzXFLUFA.1eioXUQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653713452
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653715596,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728654615.595012,
+                        "expiry": 900.5950119495392,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653715595
+                    }
+                ]
+            }
+        }
+    },
+    "gigya.com": {
+        "/": {
+            "gig3pctest": {
+                "name": "gig3pctest",
+                "domain": ".gigya.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728653716312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728653717,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653716312
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653718290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744464918.289969,
+                        "expiry": 15811200.289968967,
+                        "value": "518=SrqKAtWgKO9o6GjIY1EgiM9zn-ujQKkbxXvJ9FY0SUzS3eXiBO0BMI_Px6PBPXSdYiff5oQwqbQlH7i6JrqmQ9dkMXr7NyuZ29Wl0dg5x5ys2GJm_HVNJfl_gazGvHZaemq1OOhg7Eb5AD6YhQVDChZZqJZ4Uo7Qjt-fXzzFsPqPofSefg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718290
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653718924,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762781718.922659,
+                        "expiry": 34128000.92265892,
+                        "value": "KlxtnRXGQMGGQJx9rkeRa9MUssGMXP8c28ySssX6nsGfGKfHHb2xQjGowOx1G0F6Sssa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718923
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653718704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762781718.70148,
+                        "expiry": 34128000.70147991,
+                        "value": "uswQAMMzFwc0mfbSPuOP0O3VSVo_tg5SpHKTxhEogg...7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718704
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.922689915,
+                        "value": "RJxlC0wBOt3uzSUcmlLHhb7iSRUA1.APBR2IURajYOr.p7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718924
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653718704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729258518.70145,
+                        "expiry": 604800.7014501095,
+                        "value": "Klx3tMXGQMGGQJx9rkeRa9MUssGMXP8c2RbG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718703
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653718703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762781718.701386,
+                        "expiry": 34128000.701385975,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.922538996,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653718923
+                    }
+                ]
+            }
+        }
+    },
+    "iol.pt": {
+        "/": {
+            "FCCDCF": {
+                "name": "FCCDCF",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653739488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762349739,
+                        "expiry": 33696000,
+                        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CQGVCkAQGVCkAEsACCPTBKFgAAAAAAAAAB6YAAAUWSD2F2K2kKFkPCmwfYAYBCvjYAAxYgAAAkCBsACgAUgQQgFJIAgCIFAAAAAAAAAQEiCQAAQABAAEIACgAAAQAAIAAAAAAAQQAABAAICAAAAAAAEAQAAIAAQAEAQIAABEhCAAQQAEAAAAAAAQAAAAAAAAAAABAAAAAAAAAAgAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgAAA.YAAAAAAAAAA%22%2C%222~~dv.70.89.93.108.122.149.196.236.259.311.313.323.358.415.449.486.494.495.540.574.609.827.864.981.1029.1048.1051.1092.1095.1097.1126.1205.1276.1301.1365.1415.1449.1514.1570.1577.1584.1598.1638.1651.1716.1735.1753.1765.1870.1878.1889.1958.2072.2253.2299.2373.2415.2506.2526.2568.2571.2575.2624.2677.2713.3324%22%2C%2209C2766D-C40E-4226-9BC7-22F2B14FACFD%22%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653739483
+                    }
+                ]
+            },
+            "___iat_ses": {
+                "name": "___iat_ses",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653739982,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728655539,
+                        "expiry": 1800,
+                        "value": "FD6517D88D381BF0",
+                        "same_site": "lax",
+                        "timestamp": 1728653739981
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653718464,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762781718,
+                        "expiry": 34128000,
+                        "value": "r7Fq68O0wG7LF1_1xc9Dww5Cu0cja4iWtPwdDqDCw7b.O7|1728653718|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653718463
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653715296,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762781715,
+                        "expiry": 34128000,
+                        "value": "De9T_QCHz_cBDt0u0b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715295
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653715298,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728655515,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715297
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715299
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728653715293,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715292
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715299
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715321
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715322
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728653715296,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762781715,
+                        "expiry": 34128000,
+                        "value": ".1728653715293.1728653715293.1.DFHSI0Iqp-us98WcBiKAp5DSQfb6.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715296
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653715272,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736429715,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728653715270.824661282328018931",
+                        "same_site": "lax",
+                        "timestamp": 1728653715271
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728653715270.824661282328018931",
+                        "same_site": "lax",
+                        "timestamp": 1728653716254
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728653715270.824661282328018931",
+                        "same_site": "lax",
+                        "timestamp": 1728653716333
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728653715270.824661282328018931",
+                        "same_site": "lax",
+                        "timestamp": 1728653716335
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728653715270.824661282328018931",
+                        "same_site": "lax",
+                        "timestamp": 1728653739474
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728653714939,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763213714.935402,
+                        "expiry": 34560000.93540192,
+                        "value": "GA1.1.279406160.1728653715",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653714938
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.094393015,
+                        "value": "GA1.1.279406160.1728653715",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715097
+                    }
+                ]
+            },
+            "_ga_F2JC3V5NZ2": {
+                "name": "_ga_F2JC3V5NZ2",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728653714938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763213714.935103,
+                        "expiry": 34560000.93510294,
+                        "value": "GS1.1.1728653714.1.0.1728653714.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653714936
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.460391045,
+                        "value": "GS1.1.1728653714.1.1.1728653746.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653746461
+                    }
+                ]
+            },
+            "_ga_LBXFNW840C": {
+                "name": "_ga_LBXFNW840C",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728653715096,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763213715.094246,
+                        "expiry": 34560000.09424591,
+                        "value": "GS1.1.1728653714.1.0.1728653714.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653715096
+                    }
+                ]
+            },
+            "_iola": {
+                "name": "_iola",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653716324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736429716,
+                        "expiry": 7776000,
+                        "value": "a0000PzoxNzI4NjUzNzE2MzIzLjgzOTU5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653716323
+                    }
+                ]
+            },
+            "gig_bootstrap_3_oTkfUCZDoU_1PAIlnCN14iyJAdTwDWmHJC3iJW3WZOnEvgc5oDyjr3e2wsDwzwzu": {
+                "name": "gig_bootstrap_3_oTkfUCZDoU_1PAIlnCN14iyJAdTwDWmHJC3iJW3WZOnEvgc5oDyjr3e2wsDwzwzu",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653717601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189717,
+                        "expiry": 31536000,
+                        "value": "login_ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653717601
+                    }
+                ]
+            },
+            "jwiol_c": {
+                "name": "jwiol_c",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653714679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728725714,
+                        "expiry": 72000,
+                        "value": "Fri Oct 11 2024 15:35:14 GMT+0200 (Central European Summer Time)",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653714674
+                    }
+                ]
+            },
+            "jwiol_i": {
+                "name": "jwiol_i",
+                "domain": ".iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653714674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728725714,
+                        "expiry": 72000,
+                        "value": "MTUzLjkyLjQwLjcy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653714666
+                    }
+                ]
+            },
+            "G_ENABLED_IDPS": {
+                "name": "G_ENABLED_IDPS",
+                "domain": ".www.iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653717164,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763213717.163638,
+                        "expiry": 34560000.163638115,
+                        "value": "google",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653717164
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".www.iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653714754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653714752
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".www.iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653714754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16460-3-28810890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653714754
+                    }
+                ]
+            }
+        }
+    },
+    "login.iol.pt": {
+        "/": {
+            "gmid": {
+                "name": "gmid",
+                "domain": ".login.iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653717597,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189717.595949,
+                        "expiry": 31536000.595948935,
+                        "value": "gmid.ver4.AtLtb5LT-A.2TPQNGo28vo5Jtvy-iImhJvKQHfdHknmOqN72b9tJYhFEHM2FsfbK-qym2wW7u1p.PPqX6j1bLdmWuGpiHSnfFENZRMdEhmmMEsOnUAPQ5NnjnA_xW9L6pOC31H1n5FrRU0ULqv1Y8mzJH9A8jbvTAw.sc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653717596
+                    }
+                ]
+            },
+            "hasGmid": {
+                "name": "hasGmid",
+                "domain": ".login.iol.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653717599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744378517.596042,
+                        "expiry": 15724800.596041918,
+                        "value": "ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653717599
+                    }
+                ]
+            },
+            "ucid": {
+                "name": "ucid",
+                "domain": ".login.iol.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653717599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189717.596016,
+                        "expiry": 31536000.59601593,
+                        "value": "rLLCfw0CoFuYiBEEKFqrjg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653717597
+                    }
+                ]
+            }
+        }
+    }
+}

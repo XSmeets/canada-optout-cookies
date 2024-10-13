@@ -1,0 +1,613 @@
+{
+    "drivebc.ca": {
+        "/": {
+            "_sp_id.a946": {
+                "name": "_sp_id.a946",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728638325042,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763198325.025135,
+                        "expiry": 34560000.02513504,
+                        "value": "4c9c99e2-1cc3-4372-922d-61190349ac22.1728638325.1.1728638325.1728638325.8b34c6e0-f70a-448c-ac63-7825fc40473a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638325041
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.3908689,
+                        "value": "4c9c99e2-1cc3-4372-922d-61190349ac22.1728638325.1.1728638329.1728638325.8b34c6e0-f70a-448c-ac63-7825fc40473a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638329391
+                    }
+                ]
+            },
+            "_sp_ses.a946": {
+                "name": "_sp_ses.a946",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728638325032,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728640125,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638325023
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638325043
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638329392
+                    }
+                ]
+            },
+            "ys-CurrentPlanEventDbcMainChecked": {
+                "name": "ys-CurrentPlanEventDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325045
+                    }
+                ]
+            },
+            "ys-FerryDbcMainChecked": {
+                "name": "ys-FerryDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325051
+                    }
+                ]
+            },
+            "ys-FuturePlanEventDbcMainChecked": {
+                "name": "ys-FuturePlanEventDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325046
+                    }
+                ]
+            },
+            "ys-IncidentDbcMainChecked": {
+                "name": "ys-IncidentDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325045
+                    }
+                ]
+            },
+            "ys-RoadCondDbcMainChecked": {
+                "name": "ys-RoadCondDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325043
+                    }
+                ]
+            },
+            "ys-WeatherCurrentDbcMainChecked": {
+                "name": "ys-WeatherCurrentDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325049
+                    }
+                ]
+            },
+            "ys-WeatherDbcMainChecked": {
+                "name": "ys-WeatherDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325049
+                    }
+                ]
+            },
+            "ys-WeatherHewrDbcMainChecked": {
+                "name": "ys-WeatherHewrDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325050
+                    }
+                ]
+            },
+            "ys-WebcamDbcMainChecked": {
+                "name": "ys-WebcamDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325048,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325047
+                    }
+                ]
+            },
+            "ys-googleTrafficDbcMainChecked": {
+                "name": "ys-googleTrafficDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325051
+                    }
+                ]
+            },
+            "ys-interestDbcMainChecked": {
+                "name": "ys-interestDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325051
+                    }
+                ]
+            },
+            "ys-messageSignDbcMainChecked": {
+                "name": "ys-messageSignDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325047
+                    }
+                ]
+            },
+            "ys-restAreasDbcMainChecked": {
+                "name": "ys-restAreasDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325053
+                    }
+                ]
+            },
+            "ys-variableSpeedDbcMainChecked": {
+                "name": "ys-variableSpeedDbcMainChecked",
+                "domain": "drivebc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638325049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729243125,
+                        "expiry": 604800,
+                        "value": "b%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728638325048
+                    }
+                ]
+            }
+        }
+    },
+    "spt.apps.gov.bc.ca": {
+        "/": {
+            "3c6aa5bf75cec870d6dde49c758533da": {
+                "name": "3c6aa5bf75cec870d6dde49c758533da",
+                "domain": "spt.apps.gov.bc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638326253,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1de0e447b7312596c4d02cc5129e45fb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638326253
+                    }
+                ]
+            },
+            "sp": {
+                "name": "sp",
+                "domain": "spt.apps.gov.bc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728638326253,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760174326.251371,
+                        "expiry": 31536000.251370907,
+                        "value": "3f4b6dba-6dce-4052-bb57-a3958a7073b1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638326252
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.63716507,
+                        "value": "3f4b6dba-6dce-4052-bb57-a3958a7073b1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638329638
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.38049698,
+                        "value": "3f4b6dba-6dce-4052-bb57-a3958a7073b1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638337381
+                    }
+                ]
+            }
+        }
+    },
+    "gov.bc.ca": {
+        "/": {
+            "_sp_id.75a4": {
+                "name": "_sp_id.75a4",
+                "domain": "www2.gov.bc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728638336169,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763198336.166836,
+                        "expiry": 34560000.16683602,
+                        "value": "ee852389-890d-4591-8ae7-b7bc64caf99c.1728638336.1.1728638336.1728638336.60961fde-4c8f-4156-9e8d-e3db8c23adbb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638336168
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.169416904,
+                        "value": "ee852389-890d-4591-8ae7-b7bc64caf99c.1728638336.1.1728638336.1728638336.60961fde-4c8f-4156-9e8d-e3db8c23adbb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638336171
+                    }
+                ]
+            },
+            "_sp_ses.75a4": {
+                "name": "_sp_ses.75a4",
+                "domain": "www2.gov.bc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728638336168,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728640136,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638336167
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638336171
+                    }
+                ]
+            },
+            "a1f8f4f2630d5dc8c83d6bc79f73de7c": {
+                "name": "a1f8f4f2630d5dc8c83d6bc79f73de7c",
+                "domain": "www2.gov.bc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728638331712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8b2fe2104eb8cf5ce23c0f1f479f8713",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335039
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "68ae893d5bc300c66ef2c57034962c4a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335082
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8b2fe2104eb8cf5ce23c0f1f479f8713",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335119
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "c23b3ece9875719231397f131d695bad",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335172
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d10d805386b1897c8dbe7cb3e27d2411",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335268
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ce4437f18987d313923a9dc4bd53d89d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335299
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "aa4c7259b40201431c6c3c055580b87a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335411
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8b2fe2104eb8cf5ce23c0f1f479f8713",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335743
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "61935fccda97a64e31805b0e9d9133e4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335774
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "68ae893d5bc300c66ef2c57034962c4a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638335945
+                    }
+                ]
+            }
+        }
+    }
+}

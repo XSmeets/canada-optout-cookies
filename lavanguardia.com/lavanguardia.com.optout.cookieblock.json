@@ -1,0 +1,180 @@
+{
+    "lavanguardia.com": {
+        "/": {
+            "_ref-0": {
+                "name": "_ref-0",
+                "domain": ".lavanguardia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654189124,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.lavanguardia.com%2Fsuscripciones%2Fsuscribete%3FconsentType%3Dno",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654189124
+                    }
+                ]
+            },
+            "_ref": {
+                "name": "_ref",
+                "domain": ".lavanguardia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654186017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.lavanguardia.com%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654186016
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".lavanguardia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654165399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744465365,
+                        "expiry": 15811200,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JkMTQtNTkxNi02MDk4LWFhMmUtNTA2MGNiNjJkY2I5IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDI6NDUuMzkzWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQyOjQ1LjM5M1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654165395
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15811200,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JkMTQtNTkxNi02MDk4LWFhMmUtNTA2MGNiNjJkY2I5IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDI6NDUuMzkzWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQzOjA1Ljk4NloiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6cGlhbm8tYnNYcHJYOHciLCJjOnNhbGVzZm9yY2UtQjRYQjVRTloiLCJjOmxpdmVmeXJlLTRjYk5XWUV6IiwiYzp5b3V0dWJlLURXdGpDVUtiIiwiYzphY2NlbmdhZ2UtRVdFTHgzNGciLCJjOmNoYXJ0YmVhdC1oeEtoRmJBdyIsImM6YW1hem9uYWRzLTljNVROR2FqIiwiYzp0d2l0dGVyd2ktd1VtQm5uS3kiLCJjOmZhY2Vib29rdy0ya2E3VndROCIsImM6c2NyaWJkLTRqQUVjR2djIiwiYzpnb29nbGVvcHQtUWhpQWRtVmEiLCJjOmdnY3JvbGx1cC1uTkhlaTJhVyIsImM6ZmFjZWJvb2thLWZyVTlNNUpZIiwiYzpnb29nbGVhbmEtRzJic0VKeVQiLCJjOmdvb2dsZWF1ZC1MRGpWWWtlYSIsImM6aW5zdGFncmFtLXRXbUpnSnBxIiwiYzpuZXRxdWVzdC1OMm5XNGZwRyIsImM6cHJvY3RlcmFuLUs0Tnc4eE1DIiwiYzpjb21zY29yZS1qVUZjOWljWSIsImM6eXVzcC16OE5pNDRaTSIsImM6d2VtYXNzbWVkLVBHWjYzRnhZIiwiYzpldm9sb2staXpLejdBWVYiLCJjOnZpZGVvbG9neSIsImM6Z29vZ2xlZmlyLUg4a2NpRkpHIiwiYzpzcHJlYWtlci1nVU1RWThSYyIsImM6Z29vZ2xlZHYtWG1MUTlNWVUiLCJjOmhlbHBteWNhLXpVUjJpTllXIiwiYzpsYWxpZ2EtWTZZUTIyUlIiLCJjOm1pY3Jvc29mdCIsImM6aGF2YXNtZWRpLUJBRzdwSkRlIiwiYzpmcmFjdGlvbmFsLW4yallERlBOIl19LCJwdXJwb3NlcyI6eyJkaXNhYmxlZCI6WyJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwiZ2VvbG9jYXRpb25fZGF0YSJdfSwidmVyc2lvbiI6MiwiYWMiOiJBQUFBLkFBQUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654186010
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".lavanguardia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654186012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744465386,
+                        "expiry": 15811200,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAAAAAAiQAAAAAADFIAMAAQVCHQAYAAgqEQgAwABBUIlABgACCoQSADAAEFQi0AGAAIKhAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728654186010
+                    }
+                ]
+            },
+            "evolok:ecommerce:properties": {
+                "name": "evolok:ecommerce:properties",
+                "domain": ".lavanguardia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654189129,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654189128
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22listName%22%3A%22https%3A%2F%2Fwww.lavanguardia.com%2Fsuscripciones%2Fsuscribete%22%2C%22paymentType%22%3A%22%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654189135
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".lavanguardia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654165975,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654165975
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654187731
+                    }
+                ]
+            }
+        },
+        "/suscripciones": {
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.lavanguardia.com",
+                "path": "/suscripciones",
+                "current_label": 0,
+                "label_ts": 1728654189122,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654189122
+                    }
+                ]
+            }
+        }
+    }
+}

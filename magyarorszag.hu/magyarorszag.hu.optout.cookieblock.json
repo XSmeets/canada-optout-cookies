@@ -1,0 +1,292 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648970015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744460170.01316,
+                        "expiry": 15811200.01315999,
+                        "value": "518=C4Zfw1YSAeblxRYmFYgRzsa9X9O9CdNyfOqwwJczu_-ZNcdq5cGTN4Ios9dZCztNp3TsJ1XEgUhjqVodEUSp27C0ADnZA0FnG-0yAmiC82wzAxElOqCfCKqi8v5QPEANzXaI4KmzsL_1v6dTeSUkrlI6gj6WpfGyhpjDxSmovzaXU_YIYw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648970015
+                    }
+                ]
+            }
+        }
+    },
+    "magyarorszag.hu": {
+        "/": {
+            "BIGipServer~PART_KR~POOL_KR_80_SZUF-P-PORTAL": {
+                "name": "BIGipServer~PART_KR~POOL_KR_80_SZUF-P-PORTAL",
+                "domain": "magyarorszag.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648953999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rd1016o00000000000000000000ffff644f02d4o80",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648953999
+                    }
+                ]
+            },
+            "ROUTEID_P": {
+                "name": "ROUTEID_P",
+                "domain": "magyarorszag.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648954000,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966280
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966565
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966571
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966576
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966581
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648966582
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966583
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966813
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648972566
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "node-P10A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648975031
+                    }
+                ]
+            },
+            "SZUFSESSID": {
+                "name": "SZUFSESSID",
+                "domain": "magyarorszag.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648953999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966564
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966570
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648966575
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966576
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966580
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648966582
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966583
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648966813
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648975028
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "i8fe9bsp1m5fhesuuqka6i72fuidmopdtbsv7162422pcpjv9kn7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648975030
+                    }
+                ]
+            },
+            "szuf_consent": {
+                "name": "szuf_consent",
+                "domain": "magyarorszag.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648975031,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760133600.027615,
+                        "expiry": 31484625.02761507,
+                        "value": "min",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648975030
+                    }
+                ]
+            }
+        }
+    }
+}

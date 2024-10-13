@@ -1,0 +1,150 @@
+{
+    "nps.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".nps.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728826029069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763386029.062762,
+                        "expiry": 34560000.06276202,
+                        "value": "GA1.1.1249294040.1728826029",
+                        "same_site": "strict",
+                        "timestamp": 1728826029068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.89947891,
+                        "value": "GA1.1.1249294040.1728826029",
+                        "same_site": "strict",
+                        "timestamp": 1728826035900
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".nps.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728826029068,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763386029.062497,
+                        "expiry": 34560000.0624969,
+                        "value": "GS1.1.1728826029.1.0.1728826029.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728826029067
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.79476905,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728826033795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.79497695,
+                        "value": "GS1.1.1728826029.1.0.1728826033.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728826033796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.89910507,
+                        "value": "GS1.1.1728826029.1.1.1728826035.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728826035899
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.634629965,
+                        "value": "GS1.1.1728826029.1.1.1728826045.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728826045635
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.20112491,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728826053202
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.nps.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728826028073,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728826028067
+                    }
+                ]
+            }
+        },
+        "/aboutus": {
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.nps.gov",
+                "path": "/aboutus",
+                "current_label": 0,
+                "label_ts": 1728826035753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728826035752
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "rte.ie": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659039661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744211039,
+                        "expiry": 15552000,
+                        "value": "2024-10-11T15:03:59.658Z",
+                        "same_site": "lax",
+                        "timestamp": 1728659039659
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659016638,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728659039681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728659039685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728659039906
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039909
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039915
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039919
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+17%3A03%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=022901f5-5d8c-4734-abb2-d5cd62f335dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728659039937
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659015862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728659045,
+                        "expiry": 30,
+                        "value": "m24uy18483p0m",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659015861
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24uy20a7mdznx",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659016874
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24uyjmqw7gzev",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659039725
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659015867,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762790615,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24uy189knrnkzy1%22%2C%22_t%22%3A%22mhtc0oc9%7Cm24uy189%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728659015866
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%2249ecdd12-0a61-4341-8406-7d5fc874270f%22%2C%22_t%22%3A%22mhtc0oc9%7Cm24uy189%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728659015867
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131599,
+                        "value": "%7B%22browserId%22%3A%2249ecdd12-0a61-4341-8406-7d5fc874270f%22%2C%22_t%22%3A%22mhtc0oc9%7Cm24uy189%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728659016875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131576,
+                        "value": "%7B%22browserId%22%3A%2249ecdd12-0a61-4341-8406-7d5fc874270f%22%2C%22_t%22%3A%22mhtc0oc9%7Cm24uy189%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728659039726
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659039680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744211039,
+                        "expiry": 15552000,
+                        "value": "CQGUw_AQGUw_AAcABBENBKFgAAAAAAAAAChQAAAAAAChIAoAFQAZABEAD8AvMdAHAAqADIAIgAYgA_AEWAXmQgAgBiJQAwAiABiAXmUgDgAVABkAEQAMQAfgCLALzAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728659039678
+                    }
+                ]
+            },
+            "atidvisitor": {
+                "name": "atidvisitor",
+                "domain": "www.rte.ie",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659015307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744383815.293942,
+                        "expiry": 15724800.293941975,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-592983-%22%2C%22at%22%3A%22%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659015305
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15724800.345901966,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-592983-%22%2C%22at%22%3A%22%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659015346
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15724800.346204042,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-592983-%22%2C%22at%22%3A%22%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659015347
+                    }
+                ]
+            },
+            "atuserid": {
+                "name": "atuserid",
+                "domain": "www.rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659015297,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762959815,
+                        "expiry": 34300800,
+                        "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%2249ecdd12-0a61-4341-8406-7d5fc874270f%22%2C%22options%22%3A%7B%22end%22%3A%222025-11-12T15%3A03%3A35.290Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659015292
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": "www.rte.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659015868,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762787015,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1728659015867
+                    }
+                ]
+            }
+        }
+    }
+}

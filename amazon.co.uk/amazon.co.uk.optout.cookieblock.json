@@ -1,0 +1,218 @@
+{
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740708897,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300708.894888,
+                        "expiry": 34560000.894887924,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740708896
+                    }
+                ]
+            }
+        }
+    },
+    "amazon.co.uk": {
+        "/": {
+            "i18n-prefs": {
+                "name": "i18n-prefs",
+                "domain": ".amazon.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740670008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276669.99123,
+                        "expiry": 31535999.99123001,
+                        "value": "GBP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740670002
+                    }
+                ]
+            },
+            "session-id-time": {
+                "name": "session-id-time",
+                "domain": ".amazon.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740670001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276669.991181,
+                        "expiry": 31535999.991180897,
+                        "value": "2082787201l",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740670001
+                    }
+                ]
+            },
+            "session-id": {
+                "name": "session-id",
+                "domain": ".amazon.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740669992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276669.98983,
+                        "expiry": 31536000.989830017,
+                        "value": "258-4929165-1893955",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740669992
+                    }
+                ]
+            },
+            "session-token": {
+                "name": "session-token",
+                "domain": ".amazon.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740672861,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276672.858486,
+                        "expiry": 31536000.858485937,
+                        "value": "\"Bg++ngs93RCiTw5SjQLkcHWkqi/7ibwMDDnqY8loKb7c5P4jsWyT+pWt9zPpVcL2zt/xarpTfOHhKa5l+JwVUXzLz5hksjZagOAMZvF5PGW+VH1wxHuh6cPWhoy88udHWgWnS/OUqp6KHJPPGiUm/+aRm5m+dI1CXjtvQiOHdjuJDfK6istGrSO4O1cO6q1ZjvmUDHsO+azVqS7PDrIfiVgRjAIwX9o4NC9jZK9yz92F4o/0l/2/31BSgi7+YGBzarUiJkH1DZQpspUpNTI4Z/Re8E5o9ULaPEY5a5UUPDaWKN49Avh+lJw4Gb+fwWDkM2JikeJ7GYeiTZTfrvna52jKerkbuvfRYwOjLohPTwY=\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740672859
+                    }
+                ]
+            },
+            "sp-cdn": {
+                "name": "sp-cdn",
+                "domain": ".amazon.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740670013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276669.991268,
+                        "expiry": 31535999.99126792,
+                        "value": "\"L5Z9:CA\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740670008
+                    }
+                ]
+            },
+            "ubid-acbuk": {
+                "name": "ubid-acbuk",
+                "domain": ".amazon.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740671450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276671.449512,
+                        "expiry": 31536000.449512005,
+                        "value": "258-7573150-9962659",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740671450
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.680789948,
+                        "value": "258-7573150-9962659",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740671681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.825372934,
+                        "value": "258-7573150-9962659",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740671826
+                    }
+                ]
+            },
+            "csm-hit": {
+                "name": "csm-hit",
+                "domain": "www.amazon.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740670891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1758980670,
+                        "expiry": 30240000,
+                        "value": "tb:s-MSNYRPKEWP85DDW53ZEM|1728740670889&t:1728740670889",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740670891
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30240000,
+                        "value": "tb:s-MSNYRPKEWP85DDW53ZEM|1728740670889&t:1728740671225&adb:adblk_no",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740671226
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30240000,
+                        "value": "tb:MSNYRPKEWP85DDW53ZEM+s-MSNYRPKEWP85DDW53ZEM|1728740672597&t:1728740672597&adb:adblk_no",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740672598
+                    }
+                ]
+            }
+        }
+    }
+}

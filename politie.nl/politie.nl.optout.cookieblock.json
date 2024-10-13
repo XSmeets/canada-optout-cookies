@@ -1,0 +1,89 @@
+{
+    "politie.nl": {
+        "/": {
+            "_pk_id.1.df1e": {
+                "name": "_pk_id.1.df1e",
+                "domain": "www.politie.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659976122,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762615176,
+                        "expiry": 33955200,
+                        "value": "6afe050bdc5f195d.1728659976.",
+                        "same_site": "lax",
+                        "timestamp": 1728659976118
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955198,
+                        "value": "6afe050bdc5f195d.1728659976.",
+                        "same_site": "lax",
+                        "timestamp": 1728659978603
+                    }
+                ]
+            },
+            "_pk_ses.1.df1e": {
+                "name": "_pk_ses.1.df1e",
+                "domain": "www.politie.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659976126,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661776,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728659976122
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728659978603
+                    }
+                ]
+            },
+            "pol_cookies": {
+                "name": "pol_cookies",
+                "domain": "www.politie.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659978386,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195978.38444,
+                        "expiry": 31536000.384439945,
+                        "value": "no",
+                        "same_site": "lax",
+                        "timestamp": 1728659978385
+                    }
+                ]
+            }
+        }
+    }
+}

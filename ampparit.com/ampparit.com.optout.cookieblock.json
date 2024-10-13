@@ -1,0 +1,363 @@
+{
+    "adnxs.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728652238884,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763212238.882459,
+                        "expiry": 34560000.882458925,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652238883
+                    }
+                ]
+            }
+        }
+    },
+    "ampparit.com": {
+        "/": {
+            "1p-data-v3": {
+                "name": "1p-data-v3",
+                "domain": ".ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652235600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188236.593048,
+                        "expiry": 31536001.593048096,
+                        "value": "q%2bblUlBQylSyUlAySkpNM7AwM9S1TElL0zUxNTHStTCxNNc1MUhJNE4yMEtLNbZQ0gGrLwKpT8wtKEgsyizRS87PhYqXgcTLjKG8VCUrhepaiI5sJSuF6FgIOxnM5uWqBQA%3d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652235594
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.824632883,
+                        "value": "q%2bblUlBQylSyUlBKNTFPMUk2T9U1STS11DUxSDTTtTBPstBNSjE3SjO1SDNOMjVR0gGrLwKpT8wtKEgsyizRS87PhYqXgcTLjKG8VCUrhepaiI5sJSuF6FgIOxnM5uWqBQA%3d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652235826
+                    }
+                ]
+            },
+            "alma-geo-v5-errorcount": {
+                "name": "alma-geo-v5-errorcount",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728652236153,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728738636,
+                        "expiry": 86400,
+                        "value": "0",
+                        "same_site": "strict",
+                        "timestamp": 1728652236152
+                    }
+                ]
+            },
+            "consentDate": {
+                "name": "consentDate",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652246458,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188246.455456,
+                        "expiry": 31536000.45545602,
+                        "value": "2024-10-11T13:10:46.421Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652246458
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652246458,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188246.455308,
+                        "expiry": 31536000.45530796,
+                        "value": "d2e8b18b-30b3-4149-b846-640803d3f62e_36",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652246458
+                    }
+                ]
+            },
+            "cookie-test-460328dc-cf01-4bd9-889c-e75c7c9a9f28": {
+                "name": "cookie-test-460328dc-cf01-4bd9-889c-e75c7c9a9f28",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-6b05b60d-2bac-4870-94c5-d33448996163",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652234692
+                    }
+                ]
+            },
+            "cookie-test-83297b14-bb50-44ca-90f4-17a4380edd4c": {
+                "name": "cookie-test-83297b14-bb50-44ca-90f4-17a4380edd4c",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234692,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-fd4876c6-3d28-4ee5-b981-f22a9bf30f14",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652234691
+                    }
+                ]
+            },
+            "cookie-test-999fda49-a45e-4be8-8ba0-1c05cc7decfd": {
+                "name": "cookie-test-999fda49-a45e-4be8-8ba0-1c05cc7decfd",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234687,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-b8f3217e-8f5e-45d4-a1a3-a624769d4e81",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652234686
+                    }
+                ]
+            },
+            "cookie-test-f8b44961-bce6-4975-9db3-20f7073124be": {
+                "name": "cookie-test-f8b44961-bce6-4975-9db3-20f7073124be",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-5ee4d125-581d-4ad6-8322-3ac63c218d2b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652234688
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652246457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188246.455126,
+                        "expiry": 31536000.455126047,
+                        "value": "CQGVCkAQGVCkAAGABBENBKFgAAAAAAAAAAQAAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652246456
+                    }
+                ]
+            },
+            "sammio-bsid": {
+                "name": "sammio-bsid",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763212234.686655,
+                        "expiry": 34560000.686655045,
+                        "value": "59c9689c-ab30-473c-8c64-90a369192239",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652234689
+                    }
+                ]
+            },
+            "sammio-init-time": {
+                "name": "sammio-init-time",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234692,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763212234.687116,
+                        "expiry": 34560000.68711591,
+                        "value": "2024-10-11T13:10:34.686Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1728652234692
+                    }
+                ]
+            },
+            "tempProfile": {
+                "name": "tempProfile",
+                "domain": "www.ampparit.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652231523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188231.509018,
+                        "expiry": 31536000.509017944,
+                        "value": "j%3A%7B%22whitelistedTags%22%3A%5B%5D%2C%22blacklistedTags%22%3A%5B%5D%2C%22whitelistedCats%22%3A%5B%5D%2C%22blacklistedCats%22%3A%5B%5D%2C%22tvFavoriteChannels%22%3A%5B%5D%2C%22nightMode%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728652231511
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652254576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744463454.576334,
+                        "expiry": 15811200.576334,
+                        "value": "518=lUenCofUja5J9KNyUPjyT0ERNxxasa5SO1vx1612f599kzG_PGTopKFesitaxSNMjwhoNOPslcSB5GSMnQDH7jK1qPDIDZ60bmzIGu9f71neXFwgAjgWY71MTb8DFdsuK1MqOtJ0519QbajPkUJqIs8QronwprjqjvqCmY0rPJt08vICCQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652254576
+                    }
+                ]
+            }
+        }
+    },
+    "gravito.net": {
+        "/": {
+            "gravitoOPUid": {
+                "name": "gravitoOPUid",
+                "domain": ".gravito.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652234671,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736428234.660532,
+                        "expiry": 7776000.660531998,
+                        "value": "%7B%22id%22%3A%22c03d43b4-649e-40a7-aec5-e8795e16afad-p902%22%2C%22isMerged%22%3Afalse%2C%22version%22%3A%221%22%2C%22isDev%22%3Afalse%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652234664
+                    }
+                ]
+            }
+        }
+    },
+    "assets.tunnus.almamedia.fi": {
+        "/cookies": {
+            "cookiecheck": {
+                "name": "cookiecheck",
+                "domain": "assets.tunnus.almamedia.fi",
+                "path": "/cookies",
+                "current_label": 0,
+                "label_ts": 1728652236145,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "value",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728652236144
+                    }
+                ]
+            }
+        }
+    }
+}

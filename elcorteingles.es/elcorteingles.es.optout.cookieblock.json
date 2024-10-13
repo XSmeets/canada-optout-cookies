@@ -1,0 +1,1357 @@
+{
+    "cuenta.elcorteingles.es": {
+        "/": {
+            "_bman": {
+                "name": "_bman",
+                "domain": ".cuenta.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654278981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "c039879666ece97dbf99b455c866c0fa",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654278980
+                    }
+                ]
+            }
+        }
+    },
+    "elcorteingles.es": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728657877.257416,
+                        "expiry": 3600.257416009903,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277278
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654293128,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760190293,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T13:44:53.126Z",
+                        "same_site": "lax",
+                        "timestamp": 1728654293127
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654282381,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1728654282384
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=https%3A%2F%2Fwww.elcorteingles.es%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728654282392
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=https%3A%2F%2Fwww.elcorteingles.es%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728654282574
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=https%3A%2F%2Fwww.elcorteingles.es%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728654282575
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=https%3A%2F%2Fwww.elcorteingles.es%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728654282589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=https%3A%2F%2Fwww.elcorteingles.es%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728654282590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728654293129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728654293131
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728654293132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A44%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=417a5755-097f-4fc1-b448-a3e480e82647&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728654293143
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277282,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190277.257488,
+                        "expiry": 31536000.257488012,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvF9JWJXGSAQAAxPrSeww4iGESoVt2STJ49wohhZbtXeV9tWBr6n4EEePf7H1qE/Utswd0teOpN2IiKhJyAKvRcnDTOZ0O7iBR0kS6Z0OxJPyBmdfwb1T9DWBaU7sOzYg/udZlmrhPtMvxMklXbmJ3XE91SqTHkt+nLv5Y8Ia1r275iQnYGN0Sn8hYXceb6fn5vq2dpMr7ebfAW8+6UkDHFdy/ZqgOSym9pTYz39u0eTAtVR4w0ASNrM5LDVZ0qepDvPNxIHT6ydWv6cLa8h2PfuQ+hVLyBBd7o2xCrJz8Q4zdeO33l56DAEe4HQAjDRCkfopkiYL8Sojcnk4hEFfnZbXc2XMtD+A4FydqF2sgI665i3/75GBHR4P8nrZ/gIQ87YCYLjKyPMvjF/Z1EhccYvZZqQ8HQLghItVGEB4=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.719626904,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvFxxXJXGSAQAAgADTewy8SpBhkeTfdOYjeKRLbRKXLXsejVAmtqGGTuNyaiQORIQJHQrDtwaHDN16enbNm/PoBCnlQeB6JlMX3lJ9nl7Qyc28fNg70I7B4Rj6b3zoY5pR46VZDIi4q/8T4N1i0DSXGg3UzZkuN7O4jQSvM+XllvYF6nZpli7Pmq0gSoFIeUCVuVYs2PzLsSAbVZrPZIfDQtjgFkdSq4rfP/YW8CaddfDd3Xq2WOrfdG21pNVxXBQqpLtruzzftOfDyxbayUKATOeHqHCZgMphlFP3omZ1jiIko4aaG0lCLrZkE4xHDUV2Ihv5T/4VRROFruDneeV01fQMjZAfWTqnqEfQ4fPHItPB4lQRAWNnyIs1/HcdZDBSEKHjPQzq28h/NU7H1z48JPYy5Qpk6wY6jGaV1Q4+7VBIbl3nfO3k5jlfkQ==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654278720
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.22934389,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvFyxXJXGSAQAAfgLTewwvAZ61NB8E+rpS4Tj2g0w14I2XegjEfagIMRmZGiWwGmwSek8hjN3MhW81Dalvw7aJACA5i/Q1DF3quymEDG9U0PaDbS4YdSe09a/5+DXLKnm+bJtRmhMBtA89akMnNmZKerZkr+CUt3lYRXUjKbenwI/QYptGzut5leLLdC4WdjnLoo7GDCI+V8AiBjpp6S48NaU7JfhE1smP8e7IzybXauwJq/CQKMSsMczY7Fu8/Atko5y5xM+iomwOTQXLGTIYIXV6nxlqk2yLoiWBJp8x6V0je4ZFETKU1INoeo2h3AxL6K1xt6obMoSQAxya23ttr82YyGNWgHQI0mAjpc8/XvPX2LHoD2artiSpCKuyZmgm2fp8eiXQJh6t7py/yMO0EIm29psmuSAodGhPClmT7tKKPC/zuLOiyXO1UQ==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279230
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.755377054,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvF09XJXGSAQAAggTTewzaf0kv4zbbSgf7pDwOn6pAMSx60i91MJ5MLfQWUw9vW34r+TWulm+v6Hy6frx+lueJR/AbbuDMcgnoOrlj3a9/u7keqADEepUnCFfnrTDWPWz79dK7xWIJaP7RpvVE78n8tEDvwHVLFNJNxr6j64+xSMlz2SjV3eyB1XyQjEQU5aed4pDHhMTXpMvBnV/nk/yKUFkvsITjOwQ01WM52g+dSdjce6H86UMhYEnPv/FIcJ1gUC3O/dTyB2Z5XX2X8STGjbTRyyxTy2A9HwuOKhJ8ZOt/vTLaKaQSpJ1JFulrW60ndredGu/b53jpMIBTgDw7BFPWL1ZOTPzXMqwUtH9ZADpEhgaQz13jCUjtm0VkyQILCl90xNu3hVaiwDeD1aI19/VaqHRyE0QSolVA8VhrUuoqDogD4wKo0Am2dQ==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279756
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.85989189,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvF1RXJXGSAQAA9ATTewxqbC1AIAlA9Wnrv5Sx6DY6cusf8ZJOwHfPmQczs/VoqkHaagrMq8TkPjAo5Il96eqMzGhv3Kwm6O78E1GUIsKHhMifKuG5h0AMufvCf85R3imWh5VZIcb3E5kZZpmZepLlEgBg47uSmpxUDSOPWu790kjsMLiL/v/jJthn6uQMUTpdE8uFKEh6trVLAttiateCTvH022iMkUuzdfqBGp6xhRgYAaQtN3IYNkXpY9+awBV5pLU+bZCspXMpc3AGatK41Cy1NoegN28JjAXq6U0nBntOPEw2G2l4t2Cm0GUxqSEg2t4dEaioTy/3BU8zKeEh/f3WqRTMQcQ6iHOJIp/JeoPJjNSOiMQClpF3IOE21edDrj0JbcnSbxxxpwLn9lreVudVNfnONkGW3C+Qcc2gm24YpgoVoDvLnrtUNw==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279860
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.353905916,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvF2tXJXGSAQAA4gbTewwele/9/3ZS5oQABjFghmf6wNChfsq9S22vPFQM4s7pdpLY2bUjgZItbZyDEEHPoANC5CYRrY+odbpgialm7RVaKjhn5FLDCRgnzbapi7tON9hCh/EQOw24vRpMyWdXYuyWQHYRUSnIQRBi3o/WnpToAjqvf5S03pP/bDE4CnoC9kHD8v9ePa54v8G3+kVEgFmkzZe7IdiM7M2bsfz/7QzEEUYRD1CX1KHJLIx1f6Kcn7GyeiLsLq/0pZ/GF8or/jpEGuaY7nYZa0qtQXaamr6P2pHeJBjgjfMcyiQdYeCFqJ0MzCH49gXqRrRP8jZML7XJUTTvmmozzxtDTVjsvzdyvvFr/VvMut+mRKsR5lnFOVWjQQOiI4g1NJ3HmWgWJjtZGc6uP/7aTJje1Tb/isINlm3BP1iiKpIrvI7YUw==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.371505022,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvF21XJXGSAQAA9AbTewzbfVjG8B3Lg/pD62fH5sbVRUnDc9hodcrOaOmmeYgM0fAwJdgyxP6l3SKKSsskxsFLB4kOWQ+m3r6OikYBzOXMultV3KppPBVmHB8I3KEWcVQTcIP4yVER7uBuerOYLwW17fyFMsTE+lF09Gqf6wNY7iUtFQEfjNGVH0dKKObDmaLdUDDO+QcgErHZsSRrH4AAMgeiGFt6vsaew5Fq/aAkqwWak0Om9935fSkxVe2kMJLShgrnrRq6rIMaLhfQ1mBDYBLcj4Xo9Be6NBnMkpSm4SSeQcW/O9zwOph0yP3jNNGGPmSCJ7JmxGbZ3ZEtqjAanhMVUuwE/GZzvMMsGOVzW21ii3C1S4tPKYs5po1AKmwVTwwbGn9ZF0sVtyMyHLFIVpRpRNkyqwNb7XMwgFhDBhlrTU3yrnCfsxFOrg==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280372
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.879508972,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvF45XJXGSAQAA8AjTewzfS20a6LGR+N5qXHrY9BZZ1VLO12ttWhN5DWV9ksAPx6HLJB0+L6rrjeW1y8J+Vsq11+a4ofzXNr3lsSO9t2pZljdwgN8d016ZQ2sHQC73QhdDg8Im9wp94dn9UEioNjd/QJlTDD4RNoLihjl16t0Xet+bQyKX7edBgLuxlofrasXsWr2BPgfMn/6g+QZMIY0M0xMaaIHSPZ9EF9Edvl94Yz1Zfxx2WWZGK3OM/MFXiXZhN30JmiJKzuFqKZNrSEEhlcxdbUEVhOIQrH3ovd1aFt+zScScb7nqnOJ4vTj1t72M498IT7Qhyfae6cK9Y+X5SiXHc+GdZ5G+cDV3vlBd+qdVqiPz9N3i0UGhbfLF8uyr1ObUSBJbUPQ9rjgnQPtnEOOELR+FoK2jBfmiSFDjeWYNxCIvjlgSh2KzrQ==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.88179803,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~-1~YAAQmDgvFyBZJXGSAQAASiTTewx2xKJrgt1EkSg7ieHsu/7KwhFC2iiMWUW+GhjbkvVneI02GL40m2iFPh4OR46LBi4tX1IO4uHHAW7UpG1uB9js3MGbSVbVi+6LNhjcM1DVRHa2XQQHoPBZ84GGJdeIVzjPJrf2YLZKqgnIJSXfwoF3MQKLr3sd1hu3BePrlDY0UnWc0TC7EKj7kMUnPme3Y0FhzNcC8ZDH5crnH36UKnxZ2GMrGxJOgqjgaU7/ZVRJQY+FwYXqTjzIycgu3k08jUJ/Gfh4uSdJb6/57uJGGkkgz+wAd24L7RtmWqlf8CRAt7/y0aoqx1zNvDBVwAMJ94JWSO9b9YUZ4XIe5PqNOSS9pUlMo8m7P5rwBJJ05PFqe4iwadPwxO1+Cacwc92G7xBG3DrDlBUpxhcw3CGwt8navl23YBQINt1CrTJ46Q==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654287882
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.037075043,
+                        "value": "43E4C438FB9133DD08D44FEFAFE6E1E7~0~YAAQmDgvF4FZJXGSAQAAtSzTewyS5+X/jl6CTUZfIBGoYNTAU/R7LTuktVRADMb5s/AkA0leZihtK4ufD1tjEGtz6b+buCmTYjrSm0o5BMsYQpfoMFai3LFHxW6OqKuxtgOQ9jz/pwxl3Nt6XwdP7kXgn5RqXoYbvr+7s+4hwbN8iRRInUMQ7ewFbtb7nddOMJ+CYWoj1zooHGrflHeSrZqwtrOKn6tcCaBEcdoUcU6Di7+TKlIDcWJhjLuBLgz1sEeeCcstWOtskkF6+yDlVockmF9NP0b3+6qwbBxcUWXLn/nYwBhDW8rYSfMkB7HcSyOhjMJ/7Dqosj1xMm31JFRoXpdsFdhCJ9RE4N2G/uhGUempA4GT+i8IOwbayvE4Eoji6h1cGok3hsqu8PHRId7n7rMz8af9O5vQqLBXwCnDNPb/IEly8bqdHKF4YvGppiwnuLzRQK1H+GCdA8cu~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654290039
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654280788,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214280.785355,
+                        "expiry": 34560000.78535509,
+                        "value": "GA1.1.1580716035.1728654281",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280787
+                    }
+                ]
+            },
+            "_ga_XG9L1L3E0D": {
+                "name": "_ga_XG9L1L3E0D",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654280786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79405403,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280794
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79423189,
+                        "value": "GS1.1.1728654280.1.0.1728654280.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280794
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79532504,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79543996,
+                        "value": "GS1.1.1728654280.1.0.1728654280.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79658198,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79681897,
+                        "value": "GS1.1.1728654280.1.0.1728654280.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280797
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.00056505,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654294001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.000972986,
+                        "value": "GS1.1.1728654280.1.0.1728654293.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654294003
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.011106014,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654294011
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01130891,
+                        "value": "GS1.1.1728654280.1.0.1728654294.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654294012
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654279603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736430279,
+                        "expiry": 7776000,
+                        "value": "1.1.499209091.1728654280",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279602
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654278997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661477.940765,
+                        "expiry": 7199.940764904022,
+                        "value": "11A55ED3A18FBE3D3DEEB33043AD9984~000000000000000000000000000000~YAAQmDgvFyNXJXGSAQAAXQHTexkFEAAPGCY9Y/D0Huku24N8rPJcXNrg+zYwPGuDtNbO53lVwFt58UJPZJYUxt0Y5zbGLcl7PFVaJTcsrODz0i9UmGFLj8SBCI70I52bGBUgTHXeo5JRLoH07xm/KVsbz73sxHD3PjMNwr8dUmACF/GmulollmFJ/VbG7BCCzQbDBPvbIIXHKwdkwMYXQO6NiwvmesNLnn4efABTRDh6MpFLfn7DMHWt3K3AC46AAAY+XEHdNmoWeJcv0wqFqRbEfOY1051xRn3IdEnvzvX/ykiMPUCuL4ZeBWK4NqRarAsO8tP9oWzqUJIwjcZzW3biW5olQ90UdkdSZ0qS3P8Ls3pQ1VLYeHKqERsi/6lXPXsRZyNfCYrEd4WEKCLSgkBuhm342B0tz9MgzBoTgZU4B9BuSpaBXUBQBvY7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654278996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.145183086395,
+                        "value": "E4D8C42E7F1A800A9ED558E8A41E8E4A~000000000000000000000000000000~YAAQBBvQF7PqDWiSAQAAMwLTexljNgMGj43ZgRtqRE4FlAIWcmN3UBx9QMWeaENiSgTYGri9S4etj7x5f2CTJ7rPb5BHsuycbywXr3/NyIVcOIlIBEtR8FJ5ru9ZLAVgaFYVXQIv8U6nEOC27ikcYe0qPeTM6RFBNxR4BmjMq/YIBTVyyyQ3IGztAO4fCSqcTjJgq88fM9gEkKXzyRw/r1sE7EGEuR3WNllaapEuQJChby51UWvb+fHWeSsnS6H+Wij+MU/S2ejwrKcc1bJz/DPoYvHSUCVopmEsUY9Lz+loNn7W3G1qff3pWWsPNmxBx9aopCts74JPN2v95m9vkglMiPb6g45vf996lEdJer5SscoVo0lLWaQrd1BF2fFUNVkdne2Hrn79y1vA7YmFwrs9G8cM/fHLSjKlTcj+qGSlnlt+O0EgVFHIqA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279155
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.268585920334,
+                        "value": "189EEE598D7A6A4A1C60B14C3FFFAEB1~000000000000000000000000000000~YAAQmDgvFy5XJXGSAQAApALTexkOd2/PGHDP7mZcEw6km0laP9+Svewa8QYN2U28psVdunlYUNLc7NZmhIWrIERFRZvcHYId9oz1948KHrfHdOqOnV/6mHeil/jfes7DcmmD5VyjpwwB/A8Ll6+ugtjON3t889ZVH7YWfLV0/e80+8sBaee0WVObn20P4xf4VzNBTpoPkPzgyqIGcNah09tG76NZreClxnvm4E+elx/EaENpRvO2aiJ6EFQu0v9oTxQZr2YL6Pi5c1BrpwplF6gmETZR8BsSXg55rkMvtcLjl7FvafMbxdu+G3Fxrrzds1S8XVSssEVXnsMx6ZHJOvP8T3mRz/QXoul63NSw4dmFQNDXPbxrAPr/S+6lf09vdxiGCyzHnhbgSlTDNVV9imD7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279274
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.408723115921,
+                        "value": "11A55ED3A18FBE3D3DEEB33043AD9984~000000000000000000000000000000~YAAQmDgvFzZXJXGSAQAAMAPTexmmoyKLwUonC6GbvoIwHIgeiqcd+D9GDUwRuF8qF8AC0LD/7xFZ8rvTnQ+aX1Mosmkmhdn1BGjOy18xf99wxUNAIoYXgrJ4m4CoL7G5av/m+gPimt95QBdTBQSnBYga4PordQlavMYadRXIIb1HN/GucHJaPd8RtHFTPnG0PliTXGkzQkkmChshwwspvVGV6gpAS36u3JDaqjJxg5F4P4A5Q6wv9DXOaVW+6rNGPPW2WOLRoL6vz8Hk2mICq4SXujBSX57KKAs/zGD87QUVV6506kjxP7VCvkBXrnFZhpBY026FVTEgf9JRrsuNfzBEtzYZ45VNscSEUwUPwuNmf6X2NqKqYxFyiXJ+JLIaVFvS/XWNCyohF/1Jk6nxBohrjpR0AXVB8ngYslGq4RmdHOHhCZAKQsTd+RNcbI0DWRq2GFZk+UU=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279412
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.466187000275,
+                        "value": "189EEE598D7A6A4A1C60B14C3FFFAEB1~000000000000000000000000000000~YAAQmDgvFzdXJXGSAQAARwPTexlru/i4Y/uXb928UY+E7kQu6DBNfJDUDVXzOSRR4yTGv+SHy2QX6xmOQdyJoG6mFbxPF2iQTReOeTMzVsN0QsIPpnVkCWHptBnsBBHuSHS6cqblPtAUr9xXifWWhgu1Y3OS6vHWl/UVSDHKXRZRf0bx6NTrvW6O8qcTtPwR3w5DXT6gjaZOyfZqlvw0Mze8v/C8sz+FZut/p9vp9lh9Ptuyd1dKGSIHIfbORyr4Je/T+7eNpy0r0KAQrsV9PSb7cw37DS7iaU0alDZaIh17Xwfo/I/lbWcc5XP6H+XKE9v72vqoIh2lPQqD7C5yjw40eZF8Jb+P1psAQFp39Gb9Z4sJqDyINyfyQ5uVsSM7OwP/BFng4OGQALqvNVsbT/kkd7v1RzEvewVfE1pcJWVUXa1U6Yxvht6ZZAsTqtelELp+IXk9MnE=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279466
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.709157943726,
+                        "value": "189EEE598D7A6A4A1C60B14C3FFFAEB1~000000000000000000000000000000~YAAQmDgvF0hXJXGSAQAAXQTTexnxOmgi4S5+koQdoUrBHEYel9tYEvZ0eAhM2GaoERPjYAeoOryr+fRoq4eopN9QCuoXufXqEEwNK3wzxez6uYnzeXpN9sNt3KAxwbI0Kfwljnrja/wGOksjCPEArf2fAUN15UaLDC6kIxssHrVKsdVDwQoYKou7O/jEdEZk8wF5f0xJtT/ZaaTEcIWihBiMPVNY/0Vc4cr0XXezB3t8l3M8FMNRPtarmByaAMWSyLP/Gas44U2utT0mZZolArwKVE6UeX20rq7CcZUtH0PMM6WdHvd/E7mWmXgyEFpCenXRpq+7nsxp3vH0Am5vReqTfyx0SFZ+iBv5do7wAJHvqRBVZpLOspeNkWWeqXsDauKccK9bbmE+2r0l1Yi+0VmooDHMG2vCoMr1Art89/Y8F1oKy6OGql6/+ouNIPZGCkd3cl4QJXNRKh/eNP7+DJNFslw=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279710
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.740474939346,
+                        "value": "11A55ED3A18FBE3D3DEEB33043AD9984~000000000000000000000000000000~YAAQmDgvF05XJXGSAQAAfATTexmpVjjTdw0m4QZvHLEiue690IK3Gqe+AfMiTB2Vxwjm5r7T9DsGwhw8buh7NgTqOwtD1EEUd1tTpyoBh/tay2fTVeO7jJg12ozpL+zR8cFeoLQGI8z7KubgzMwkF0MK2YSUZDRLPgiGIkJZl43hGnevEjJCpJyeiZyV3rOXOHf2+WpNsfbdwDiSCCA6yQrFFN7H3M7xALbvkas0w3mDzmcdO8dJTFGhRtCjlC8PhDz9Z1Rvcj5/AsHqQ0524YhEvYTFUFJToH6gWCWmzZ/Y8Uo9OyS66g0wjkjl84aRs1bBchD4O/boZ08RRG0vaa3wGR60jgk1EzDvRKzLCaoatcBzkI96RCw6vwyTLz8bfdoLM2FQEWgRctdSmZV7P8Hey4vdaZWv8eu+++DONAU1zowNfhizglmMy3mS6EwuDasCcULfEFM=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279742
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.191448926926,
+                        "value": "11A55ED3A18FBE3D3DEEB33043AD9984~000000000000000000000000000000~YAAQmDgvF2FXJXGSAQAAQAbTexlPpFmHdPJEHq/sO1ggbBctohILoZ6TKIhEgCjyuezPxK1kCD6yEWjvP+k8Ruf0lwxw/gWX28ioHBFXgKVJLCBKF7ISiLaY0qunabJ8Rq03c08S4+P7bp3qlFizoqNRR6vwqEQ0rgclq6CaAEOpV7VN50PwRxd9rOg94D1tqjDWC7DilJicAaswGyzlRXjjfVunRFY0RIxQp0cg2OuDmUAxoWP6fhlzId+Jclqp+a4nbhuYtFWDDf9xszgwYGi7zu443rDbW1eE/KQivQ+IFSSuVLuAyoKrnqfpn3arQfQU/c4gfUFxj8QWGzhG2fVPT/M2KE5U4QMTVS2IRQSd5MIUf3xnJEFYOe+/YaYieBiBzxjDHZkBvvz0xtH2oGwvoYFsn+AKlQ9FpPO9bk+8kJ9Im3UPHju2ZV7dO1Vp7Bo/RS6dddUjh0ekbvaDSSsDyCA=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280192
+                    }
+                ]
+            },
+            "bm_lso": {
+                "name": "bm_lso",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279134,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731246279,
+                        "expiry": 2592000,
+                        "value": "00AF319D699567453316D7ADDCA4230066F82B1FFF3C7182AB3BCABEB659B667~YAAQmDgvF9VWJXGSAQAAxPrSewFICAYRc7eeNw/YWDQYcQoxWQznFHEx4nJrOxICH1rMEEtLp+sEl4hcuwyRdlI/pCRsgu8e78CrF0/pa39BpjPxTZwfwZOUzNqY4mDsVUYKR+KRkKuRndHxlPDxxmlMbwMWDbhKeZwSZsotK/illr4wKxx919aQ7t26KnIqiLWv+nuKYoOf2+YdS3AS8HgHbL+7MkAtiduCG77xTyR+EwRhfwqxfQP65uqM3gT87yUkPtiKTbWBj48Ysi50jSQRlxjg58re9LHUQi7nKlhzjQRWLNP+WkcDWOVklglEI/dv0+egJ0xsxmp60A3AkivoLWzzkAb9A+ut2bb1rw0JQTzY8s3a/CgbzhETCdCulRpnWcnYHAs7Duitx50zpl3q9iFiR7Q+QyRYXQG5bJ9axd0O5C/xTszNpqoYAwbw7cPW1EbyxSkCkyM9YJXL3cUCdSJ/tA==^1728654279132",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279133
+                    }
+                ]
+            },
+            "bm_s": {
+                "name": "bm_s",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277283,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731332677.257573,
+                        "expiry": 2678400.2575728893,
+                        "value": "YAAQmDgvF9RWJXGSAQAAxPrSewKI/QLi98EJpFsPcB7H4MwsfkD/o7T+rpsw/pgcfcjJaAr7H3j4RNSZSQRLzMETFx2SoPlD0Xq5TQjIXn7P0KBArgnurSS6L6eWteLoewybZIWnMjArQ4frtqjZ/hK5g2mexMjJ+XWqXgVz9NTXFKKOW+BHVL+QPcR/62tRio29yrMe0XBmHlZEmOCCoS5Is8gOsD9uH9JdFu0TmN7CiG30tThjPWBex3KM5K1XHV3bruFL/TRPQ9BY5yCO6WA2qI/udSBrg4AwgpTT8dS+fI+bENdNookhfJliQFHrKDktYCp2cwsRISJs8u9T6LkpEIl2nKrBZeA=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277282
+                    }
+                ]
+            },
+            "bm_so": {
+                "name": "bm_so",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277285,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740677.257647,
+                        "expiry": 86400.2576470375,
+                        "value": "00AF319D699567453316D7ADDCA4230066F82B1FFF3C7182AB3BCABEB659B667~YAAQmDgvF9VWJXGSAQAAxPrSewFICAYRc7eeNw/YWDQYcQoxWQznFHEx4nJrOxICH1rMEEtLp+sEl4hcuwyRdlI/pCRsgu8e78CrF0/pa39BpjPxTZwfwZOUzNqY4mDsVUYKR+KRkKuRndHxlPDxxmlMbwMWDbhKeZwSZsotK/illr4wKxx919aQ7t26KnIqiLWv+nuKYoOf2+YdS3AS8HgHbL+7MkAtiduCG77xTyR+EwRhfwqxfQP65uqM3gT87yUkPtiKTbWBj48Ysi50jSQRlxjg58re9LHUQi7nKlhzjQRWLNP+WkcDWOVklglEI/dv0+egJ0xsxmp60A3AkivoLWzzkAb9A+ut2bb1rw0JQTzY8s3a/CgbzhETCdCulRpnWcnYHAs7Duitx50zpl3q9iFiR7Q+QyRYXQG5bJ9axd0O5C/xTszNpqoYAwbw7cPW1EbyxSkCkyM9YJXL3cUCdSJ/tA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277283
+                    }
+                ]
+            },
+            "bm_ss": {
+                "name": "bm_ss",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277279,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728657877.257454,
+                        "expiry": 3600.257453918457,
+                        "value": "ab8e18ef4e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277278
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728668677.257722,
+                        "expiry": 14400.25772190094,
+                        "value": "6142627669664DE3871C0AE110ADA94E~YAAQmDgvF9ZWJXGSAQAAxPrSexnbYVZXNMSm2SLgVRVZUGaKiSgR6rD53GdMVR6TgcR0nzU4tcoR8oXTdgMhszlE+OdrdAu1CeqhOLuZOdIR3Zuh6D0vCqo2wd8k2Q1e65vRgXdFN6Nzl2VOp6hBXN7vgYu34fzsGuAVMDO5Ui9Y6nMffRPUwGmmzslwfTcCbZf7Bluz9NHD42N+rvHajTKh7gSmIxmeN37QrxoQUkZhQPD2w8+l8OChbUdSdadgjqy2u/N1YB+ja/TtU393U9Ue3Na5B8W5dmEi60ka/aXevIy1HMPViDVG/MCit6Q245EBLDhJwbPeYc42znuEEfpQGDKtTEpyLT3VDAYKhGKl4gVtyRomN2JgWoWkiMR0rvhOhd94KF3/Ugoj4q+Web6x5lmU~4343349~3750210",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277285
+                    }
+                ]
+            },
+            "cookiesPolicy": {
+                "name": "cookiesPolicy",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654280992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10000",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10000",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654293989
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10000",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654294006
+                    }
+                ]
+            },
+            "personalization": {
+                "name": "personalization",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.859860897,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279860
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.191421032,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280192
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.3537979126,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.371471882,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280372
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.8794829845,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.327074051,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654283329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.846786976,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654283847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.8816170692,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654287882
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.0369739532,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654290039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.694466114,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654291695
+                    }
+                ]
+            },
+            "source": {
+                "name": "source",
+                "domain": ".elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277276,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.8597979546,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279860
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.1913568974,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280192
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.353632927,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280355
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.371388912,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280372
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.8794300556,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654280880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.326953888,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654283328
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.846672058,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654283847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.881510973,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654287882
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.036803961,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654290038
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3888000.694403887,
+                        "value": "algolia",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654291695
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.elcorteingles.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654279718,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729259079,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.elcorteingles.es&si=7fcb8635-81c1-4aba-b109-69953962acdb&ss=m24s4hw1&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728654279718
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.elcorteingles.es&si=7fcb8635-81c1-4aba-b109-69953962acdb&ss=m24s4hw1&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1728654279724
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.elcorteingles.es&si=7fcb8635-81c1-4aba-b109-69953962acdb&ss=m24s4hw1&sl=1&tt=r3&rl=1&ld=wr\"",
+                        "same_site": "lax",
+                        "timestamp": 1728654279725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.elcorteingles.es&si=05402ec1-8f6f-4a62-a993-28c072a85f8a&ss=m24s4ffq&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728654279768
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.elcorteingles.es&si=05402ec1-8f6f-4a62-a993-28c072a85f8a&ss=m24s4ffq&sl=1&tt=59v&rl=1&ld=59v\"",
+                        "same_site": "lax",
+                        "timestamp": 1728654282202
+                    }
+                ]
+            },
+            "_bman": {
+                "name": "_bman",
+                "domain": ".www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277279,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7d23bf83e82da5f9d2a4ffeaafa4faa1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277279
+                    }
+                ]
+            },
+            "ff_checkout": {
+                "name": "ff_checkout",
+                "domain": ".www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277275,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661477.257222,
+                        "expiry": 7200.25722193718,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277269
+                    }
+                ]
+            },
+            "ff_checkout_akamai": {
+                "name": "ff_checkout_akamai",
+                "domain": ".www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661477.256603,
+                        "expiry": 7200.256603002548,
+                        "value": "ff_checkout_akamai",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277260
+                    }
+                ]
+            },
+            "xSell_enable": {
+                "name": "xSell_enable",
+                "domain": ".www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654277278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733838277.25734,
+                        "expiry": 5184000.257339954,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654277277
+                    }
+                ]
+            },
+            "2d163b5458feecb26fb2b6287362adb7": {
+                "name": "2d163b5458feecb26fb2b6287362adb7",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279274,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "f2a0d328445c654be3f483d3777a715d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654279273
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b83d3e3912271cef4f5ab4e1d5bc0946",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654279411
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "35f71fefd84062c2528fed07fe472348",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654279742
+                    }
+                ]
+            },
+            "ADRUM_BT": {
+                "name": "ADRUM_BT",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279273,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728654309.268407,
+                        "expiry": 30.268407106399536,
+                        "value": "R:29|i:3139143|g:ff61ae5f-c5b6-4560-b1ea-694b84b78ff5100489|e:34|n:ElCorteIngles_21ebfd29-5ff5-438e-8f46-bd65ec7500ec",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279273
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.408318042755127,
+                        "value": "R:29|i:3081101|g:11cce838-6276-4e5b-8343-76cd18d85c6a113640|e:25|n:ElCorteIngles_21ebfd29-5ff5-438e-8f46-bd65ec7500ec",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279411
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.740068912506104,
+                        "value": "R:29|i:3827255|g:152f3e83-eedf-470a-a6fb-d233e4058405119573|e:0|s:f|n:ElCorteIngles_21ebfd29-5ff5-438e-8f46-bd65ec7500ec",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279742
+                    }
+                ]
+            },
+            "centre": {
+                "name": "centre",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279273,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NULL",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279272
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NULL",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279408
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NULL",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279410
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NULL",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279741
+                    }
+                ]
+            },
+            "express": {
+                "name": "express",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279272,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279272
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279409
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279741
+                    }
+                ]
+            },
+            "firefly_cart": {
+                "name": "firefly_cart",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279411,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279410
+                    }
+                ]
+            },
+            "locale": {
+                "name": "locale",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279270,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "es_ES",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279270
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "es_ES",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279408
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "es_ES",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279740
+                    }
+                ]
+            },
+            "session_id": {
+                "name": "session_id",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279271,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1755438279.268327,
+                        "expiry": 26784000.268326998,
+                        "value": "476008f52eaa858707e8e03092e3e8fef0860713e6f446d700410f6de5f37cfe",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279270
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 26784000.407978058,
+                        "value": "ea6f79716d51359a7581defc72277b41c52181885b6db2d81f5b60dbc3eb4d44",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279408
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 26784000.739661932,
+                        "value": "7ff63c8388405ca50d5418e2c2cb06628e4b37adc53a10a857110853d1b3281b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279740
+                    }
+                ]
+            },
+            "store": {
+                "name": "store",
+                "domain": "www.elcorteingles.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654279270,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eciStore",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279269
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eciStore",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279408
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eciStore",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654279740
+                    }
+                ]
+            }
+        }
+    }
+}

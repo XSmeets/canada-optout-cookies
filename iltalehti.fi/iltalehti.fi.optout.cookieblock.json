@@ -1,0 +1,399 @@
+{
+    "adnxs.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728649051659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763209051.657172,
+                        "expiry": 34560000.657171965,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649051657
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649046511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744460246.511016,
+                        "expiry": 15811200.511015892,
+                        "value": "518=1Lkabn7M-qVWLUlhGm6wZG8hX23HVywnpB8vbrt_0d_M6DQz_XS7cqUxVQ4S3arG2WDpKz20CYCcmo4zAZhrwOgifke1v3qq_Ivb8I3rFuq1KhI82Pj11t_tiYVcbzGtdG9MjSzskgm2khA3mD2deUcXlCIYVrE9M33MgT9dzfYJEW9sXA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649046511
+                    }
+                ]
+            }
+        }
+    },
+    "gravito.net": {
+        "/": {
+            "gravitoOPUid": {
+                "name": "gravitoOPUid",
+                "domain": ".gravito.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037080,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736425038.078552,
+                        "expiry": 7776001.078552008,
+                        "value": "%7B%22id%22%3A%2289b1e86d-efe2-4749-b4d9-b651eebc4c96-p309%22%2C%22isMerged%22%3Afalse%2C%22version%22%3A%221%22%2C%22isDev%22%3Afalse%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649037079
+                    }
+                ]
+            }
+        }
+    },
+    "iltalehti.fi": {
+        "/": {
+            "device": {
+                "name": "device",
+                "domain": ".iltalehti.fi",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728649053514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763209052.918275,
+                        "expiry": 34559999.91827512,
+                        "value": "335a5b8d-eb9c-4945-ab34-fa4f4cf0cf79",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649053513
+                    }
+                ]
+            },
+            "ILAppInstallPopupPageViews": {
+                "name": "ILAppInstallPopupPageViews",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649034818,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729858634,
+                        "expiry": 1209600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649034814
+                    }
+                ]
+            },
+            "TcString": {
+                "name": "TcString",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649050554,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762345050,
+                        "expiry": 33696000,
+                        "value": "CQGVCkAQGVCkABUASAFIBLFgAAAAAAAAAApAAAAAAAChIBoACwAKgAeABBADIANAAiABMAD8AIQAbIBIgDFALzHQDwAFgAVABBADIANAAiABMAD8ANEAbIBFgCRAGKAOoAmQBeZCAGAAsAxQB1CUAcABYARAAmADZAMUAdQBeZSAcAAsACoAIIAZABoAEQAJgAfgBogDZAIsASIAxQB1AF5g.YAAAAAAAAIAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649050550
+                    }
+                ]
+            },
+            "alma-geo-v5-errorcount": {
+                "name": "alma-geo-v5-errorcount",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728649051126,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728735451,
+                        "expiry": 86400,
+                        "value": "0",
+                        "same_site": "strict",
+                        "timestamp": 1728649051125
+                    }
+                ]
+            },
+            "cookie-test-0893337e-7f28-4356-b870-abf457261cb9": {
+                "name": "cookie-test-0893337e-7f28-4356-b870-abf457261cb9",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-8212b8ee-ea12-4d9b-ba10-0ad32dd131f7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649037010
+                    }
+                ]
+            },
+            "cookie-test-324edd70-6cbc-41aa-9655-644c36595a1a": {
+                "name": "cookie-test-324edd70-6cbc-41aa-9655-644c36595a1a",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-fdc2fc9b-8221-42d6-81d8-f9190b240eb1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649037014
+                    }
+                ]
+            },
+            "cookie-test-473ae642-3d27-447a-b27e-09dfb4b9e4dd": {
+                "name": "cookie-test-473ae642-3d27-447a-b27e-09dfb4b9e4dd",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037009,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-ca8792ea-df48-4dc5-9529-232a65783cf9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649037002
+                    }
+                ]
+            },
+            "cookie-test-b9887ea6-f3f7-48f1-95e7-801931ce3bcb": {
+                "name": "cookie-test-b9887ea6-f3f7-48f1-95e7-801931ce3bcb",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-eb8729a5-f86a-470f-baf4-8037fb618821",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649037012
+                    }
+                ]
+            },
+            "gravitoData": {
+                "name": "gravitoData",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649050557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762345050,
+                        "expiry": 33696000,
+                        "value": "{\"TCString\":\"CQGVCkAQGVCkABUASAFIBLFgAAAAAAAAAApAAAAAAAChIBoACwAKgAeABBADIANAAiABMAD8AIQAbIBIgDFALzHQDwAFgAVABBADIANAAiABMAD8ANEAbIBFgCRAGKAOoAmQBeZCAGAAsAxQB1CUAcABYARAAmADZAMUAdQBeZSAcAAsACoAIIAZABoAEQAJgAfgBogDZAIsASIAxQB1AF5g.YAAAAAAAAIAA\",\"NonTCFVendors\":[{\"id\":1,\"name\":\"Facebook\",\"consent\":false},{\"id\":2,\"name\":\"Salesforce\",\"consent\":false},{\"id\":3,\"name\":\"Google\",\"consent\":false},{\"id\":4,\"name\":\"Chartbeat\",\"consent\":false},{\"id\":5,\"name\":\"Giosg\",\"consent\":false},{\"id\":6,\"name\":\"Hotjar\",\"consent\":false},{\"id\":7,\"name\":\"Qualifio\",\"consent\":false},{\"id\":8,\"name\":\"Questback\",\"consent\":false},{\"id\":9,\"name\":\"Twitter\",\"consent\":false},{\"id\":10,\"name\":\"Wordpress\",\"consent\":false},{\"id\":15,\"name\":\"Linkedin\",\"consent\":false},{\"id\":16,\"name\":\"Microsoft\",\"consent\":false},{\"id\":17,\"name\":\"OneSignal\",\"consent\":false},{\"id\":18,\"name\":\"AppCues\",\"consent\":false},{\"id\":19,\"name\":\"Vimeo\",\"consent\":false},{\"id\":21,\"name\":\"Finnchat\",\"consent\":false},{\"id\":22,\"name\":\"Lekane\",\"consent\":false},{\"id\":23,\"name\":\"Zendesk\",\"consent\":false},{\"id\":24,\"name\":\"Serviceform\",\"consent\":false},{\"id\":25,\"name\":\"Smilee\",\"consent\":false},{\"id\":26,\"name\":\"Calendly\",\"consent\":false},{\"id\":27,\"name\":\"Apple\",\"consent\":false},{\"id\":29,\"name\":\"Selligent\",\"consent\":false},{\"id\":30,\"name\":\"Echobox\",\"consent\":false},{\"id\":31,\"name\":\"AB Tasty\",\"consent\":false},{\"id\":32,\"name\":\"Spotify\",\"consent\":false},{\"id\":33,\"name\":\"Sentry\",\"consent\":false},{\"id\":34,\"name\":\"Kilkaya\",\"consent\":false}]}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649050554
+                    }
+                ]
+            },
+            "sammio-bsid": {
+                "name": "sammio-bsid",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763209037.003185,
+                        "expiry": 34560000.003185034,
+                        "value": "406b9fac-83a8-4ef0-8e5c-320253f90ddd",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649037011
+                    }
+                ]
+            },
+            "sammio-init-time": {
+                "name": "sammio-init-time",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649037014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763209037.003813,
+                        "expiry": 34560000.00381303,
+                        "value": "2024-10-11T12:17:17.003Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1728649037013
+                    }
+                ]
+            }
+        }
+    },
+    "nettix.fi": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".nettix.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649054637,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728650854.634763,
+                        "expiry": 1800.6347630023956,
+                        "value": "Gu7ynxI8lEM8tsvFbPxIY0MVtxketu9CsPpGc3kC9rA-1728649054-1.0.1.1-Nuyzwko9wTW0wqPQq1fjPWgqilEM3la_Vl1PJJmr6bxpbsQ_3oJEz9DEZ5Jao8RbyggvyRswCPmn3aiIuTO2Vw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649054637
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".nettix.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649055917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760185055.916971,
+                        "expiry": 31536000.91697097,
+                        "value": "5QKEtW13RsNCRX.aWTIlhC4kiKTu9l9RYShGtVD7XUU-1728649056-1.2.1.1-VryaDhdndqYpGPhCpWe1W.G7oKgi_Xuqt6GBU7yPHzdMmuxgL850Vf7Xh_5TR6BLgbJKPql1YsRomtKM6P6DWPrC8hC9cOwlThYA9jgq6u0Ra5isbOE6XX0o3eD0YMjKEta4z9_3nqR5msGtU.SP37wylDGsBuATYIs_DAKBl9DwJRlf1_DkaB5bcP2.xjd8iqXq4LYidGSMTqu_dHjSoUFef5FankOk9uairkklPMMx9DTy_iypcc.k7QLc3Ee7jXdJFDbVLZKJWZ7hhDWo371CuCi7CTEylPjJs3RqAhM98PX.I8fpEbSW9JIwvHsGDlHqtf22trei1ZjP6fFUJbWDRMYYkE8bOb2msqMhakahHJmHqGzr1k5pDzZbNSXQFWWorZCmlBTSvhmYw1R66g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649055917
+                    }
+                ]
+            }
+        }
+    },
+    "banner.nettix.fi": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "banner.nettix.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649054636,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729253854.634712,
+                        "expiry": 604800.6347119808,
+                        "value": "vXIGNc+6bxbYfQAx+UjGActpqUSCITQbTAVN7sHVkw2AA/SJicYr8ET0Ia4ktBybEkcHc0MJN0kYb09EwAJu9Rt7+v0CrkDRsSfMTuwEBPGNd7UMvc0G3crtvx/k",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649054635
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1580369473,
+                        "value": "Gy1I1/wsEwwbox54UBsGwK8//yFoWnchbPN/IErSoS1/G+UTIrker+8GpJ04Kk7+axdmSGcpwWcmF1tLSEo230LYfB47v6Ol5a55zwpdRKo1gL1LA7Rm6Lk3FSW9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649055158
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3015949726,
+                        "value": "woltn2XApMbBd2lnTbvVutsKkGCUpf5+OY8lcUDTtypni9T+3gzTNpaEHUSFACSyB14nHS/lpP2vd/a7UlpHdQ1lHRKCv6n71JO65OJnczVZta+P96GTu0z0+ebi",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649055302
+                    }
+                ]
+            }
+        }
+    }
+}

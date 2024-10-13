@@ -1,0 +1,94 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654477469,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744465677.468235,
+                        "expiry": 15811200.468235016,
+                        "value": "518=kMHVBWadhaaZ4wJAM9J77UndOhHUF2mkrLxQgniewJWnWOu3r37UuBnzqddcz8a8IUMVAVodg1yCBTfu0iF1QLxC_qzqpsA2hwmL7Zt1DJS7s_FO5KS49Q3d9kuLq6-9Z5xQsU5Whiku-M1RpFGI3Y5ilANaKnh2xrYt7uiyjV3SdlcDHA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654477468
+                    }
+                ]
+            }
+        }
+    },
+    "comunidad.madrid": {
+        "/": {
+            "_pk_id.265.4ca4": {
+                "name": "_pk_id.265.4ca4",
+                "domain": "www.comunidad.madrid",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654469903,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762609670,
+                        "expiry": 33955201,
+                        "value": "c6cf4bb6ed969951.1728654470.",
+                        "same_site": "lax",
+                        "timestamp": 1728654469898
+                    }
+                ]
+            },
+            "_pk_ref.265.4ca4": {
+                "name": "_pk_ref.265.4ca4",
+                "domain": "www.comunidad.madrid",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654469897,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744422469,
+                        "expiry": 15768000,
+                        "value": "%5B%22%22%2C%22%22%2C1728654470%2C%22https%3A%2F%2Fwww.madrid.org%2F%22%5D",
+                        "same_site": "lax",
+                        "timestamp": 1728654469889
+                    }
+                ]
+            },
+            "_pk_ses.265.4ca4": {
+                "name": "_pk_ses.265.4ca4",
+                "domain": "www.comunidad.madrid",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654469904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728656269,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728654469903
+                    }
+                ]
+            }
+        }
+    }
+}

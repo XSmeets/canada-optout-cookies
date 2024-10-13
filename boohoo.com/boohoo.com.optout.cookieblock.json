@@ -1,0 +1,1670 @@
+{
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741258090,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762437259.089289,
+                        "expiry": 33696001.08928895,
+                        "value": "1B553DA6201361B31F3728B0213960E4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258089
+                    }
+                ]
+            }
+        }
+    },
+    "boohoo.com": {
+        "/": {
+            "ABTasty": {
+                "name": "ABTasty",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741251576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762264451,
+                        "expiry": 33523200,
+                        "value": "undefinedABTastyCookieQuickTest",
+                        "same_site": "lax",
+                        "timestamp": 1728741251575
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34218000,
+                        "value": "uid=jb8fnph7f4xsskta&fst=1728741251582&pst=-1&cst=1728741251582&ns=1&pvt=1&pvis=1&th=",
+                        "same_site": "lax",
+                        "timestamp": 1728741251583
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34217999,
+                        "value": "uid=jb8fnph7f4xsskta&fst=1728741251582&pst=-1&cst=1728741251582&ns=1&pvt=1&pvis=1&th=1183859.1468074.1.1.1.1.1728741252153.1728741252153.1.1",
+                        "same_site": "lax",
+                        "timestamp": 1728741252155
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34217999,
+                        "value": "uid=jb8fnph7f4xsskta&fst=1728741251582&pst=-1&cst=1728741251582&ns=1&pvt=1&pvis=1&th=1183859.1468074.1.1.1.1.1728741252153.1728741252153.1.1_1217924.0.1.1.1.1.1728741252155.1728741252155.0.1",
+                        "same_site": "lax",
+                        "timestamp": 1728741252157
+                    }
+                ]
+            },
+            "ABTastySession": {
+                "name": "ABTastySession",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741251579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728743051,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.boohoo.com%252F",
+                        "same_site": "lax",
+                        "timestamp": 1728741251577
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.boohoo.com%252F",
+                        "same_site": "lax",
+                        "timestamp": 1728741251581
+                    }
+                ]
+            },
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741251094,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728744851.092527,
+                        "expiry": 3600.092526912689,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251093
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.1031560897827,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251103
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.1035919189453,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251104
+                    }
+                ]
+            },
+            "ConstructorioID_client_id": {
+                "name": "ConstructorioID_client_id",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741251276,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277251,
+                        "expiry": 31536000,
+                        "value": "7184a8a4-a444-4273-b0c0-7ef373e60b5b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "7184a8a4-a444-4273-b0c0-7ef373e60b5b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251277
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741262530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277262,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:54:22.529Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741262530
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741257016,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958",
+                        "same_site": "lax",
+                        "timestamp": 1728741257020
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1728741257020
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728741257021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.boohoo.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728741257026
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.boohoo.com%2F&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741257233
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.boohoo.com%2F&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741257234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741262531
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741262533
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741262541
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A54%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60e46e45-8707-4302-aa9a-0db12449c958&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741262542
+                    }
+                ]
+            },
+            "__adal": {
+                "name": "__adal",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741253303,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728741253301",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253302
+                    }
+                ]
+            },
+            "__adal_ca": {
+                "name": "__adal_ca",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744293253,
+                        "expiry": 15552000,
+                        "value": "so%3Ddirect%26me%3Dnone%26ca%3Ddirect%26co%3D%28not%2520set%29%26ke%3D%28not%2520set%29%26cg%3DDirect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253306
+                    }
+                ]
+            },
+            "__adal_cw": {
+                "name": "__adal_cw",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253308,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729346053,
+                        "expiry": 604800,
+                        "value": "1728741253303",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253307
+                    }
+                ]
+            },
+            "__adal_id": {
+                "name": "__adal_id",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741253306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301253.302898,
+                        "expiry": 34560000.30289793,
+                        "value": "07693758-fa69-4e57-a4a2-2325fb84c2dc.1728741253.1.1728741253.1728741253.3b1ddc94-9275-425f-8510-202c3c5e84d4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253305
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.30515289,
+                        "value": "07693758-fa69-4e57-a4a2-2325fb84c2dc.1728741253.1.1728741253.1728741253.3b1ddc94-9275-425f-8510-202c3c5e84d4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253307
+                    }
+                ]
+            },
+            "__adal_ses": {
+                "name": "__adal_ses",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253305,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728743053,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253307
+                    }
+                ]
+            },
+            "__exponea_etc__": {
+                "name": "__exponea_etc__",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741251842,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301251.840469,
+                        "expiry": 34560000.84046888,
+                        "value": "f6359360-f96b-4230-913f-e5af569946bd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741251841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.162523985,
+                        "value": "f6359360-f96b-4230-913f-e5af569946bd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741252164
+                    }
+                ]
+            },
+            "__exponea_time2__": {
+                "name": "__exponea_time2__",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741252494,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728744852,
+                        "expiry": 3600,
+                        "value": "0.18556523323059082",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741252493
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253604,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277253,
+                        "expiry": 31536000,
+                        "value": "1hnjngd%7C2%7Cfpy%7C0%7C1746",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253603
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741256947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728827656,
+                        "expiry": 86400,
+                        "value": "1dwexmi%7C1728741256946%7C1%7C0%7Cx.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256947
+                    }
+                ]
+            },
+            "dTValidationCookie": {
+                "name": "dTValidationCookie",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741253458,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dTValidationCookieValue",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253457
+                    }
+                ]
+            },
+            "dtCookie": {
+                "name": "dtCookie",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741253462,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_-2D80_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253461
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741259236
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741259273
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261052
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261084
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261268
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261339
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741269600
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_6JD6312GFV6NRIKDB585U7KNKQEPBJRT_app-3Afbd652470ea2f06b_1_ol_0_perc_100000_mul_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741269612
+                    }
+                ]
+            },
+            "dtPC": {
+                "name": "dtPC",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253467,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h5vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h6vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h7vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256824
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h6vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256830
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h2vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257218
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h8vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h2vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257428
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h9vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257430
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-80$141253456_150h-vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257596
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8$141253456_150h-vUCLFCPHNTIUHDRKSVLUOHUGHNKUBVBFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741269616
+                    }
+                ]
+            },
+            "dtSa": {
+                "name": "dtSa",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253469,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253468
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741269598
+                    }
+                ]
+            },
+            "dw_consent_cookie": {
+                "name": "dw_consent_cookie",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741251306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277251,
+                        "expiry": 31536000,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251305
+                    }
+                ]
+            },
+            "dw_cookies_accepted": {
+                "name": "dw_cookies_accepted",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741251305,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277251,
+                        "expiry": 31536000,
+                        "value": "D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251304
+                    }
+                ]
+            },
+            "dw_is_new_consent": {
+                "name": "dw_is_new_consent",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741251306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277251,
+                        "expiry": 31536000,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251306
+                    }
+                ]
+            },
+            "forterToken": {
+                "name": "forterToken",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741251247,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301251.245777,
+                        "expiry": 34560000.24577689,
+                        "value": "b34f7ff988f946fdbe9fe441255bd0ac_1728741251245___9ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251246
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.499761105,
+                        "value": "b34f7ff988f946fdbe9fe441255bd0ac_1728741251245__UDF4_9ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "b34f7ff988f946fdbe9fe441255bd0ac_1728741251245__UDF43_9ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253631
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "b34f7ff988f946fdbe9fe441255bd0ac_1728741251245__UDF43-m4_9ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741258448
+                    }
+                ]
+            },
+            "ftr_ncd": {
+                "name": "ftr_ncd",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741253631,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301253,
+                        "expiry": 34560000,
+                        "value": "6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253630
+                    }
+                ]
+            },
+            "rxVisitor": {
+                "name": "rxVisitor",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741253463,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17287412534593O41T6C4CUKL1HJRJ73GENFCJ801L35N",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253463
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17287412534593O41T6C4CUKL1HJRJ73GENFCJ801L35N",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741259049
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17287412534593O41T6C4CUKL1HJRJ73GENFCJ801L35N",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261056
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17287412534593O41T6C4CUKL1HJRJ73GENFCJ801L35N",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741261086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17287412534593O41T6C4CUKL1HJRJ73GENFCJ801L35N",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741269614
+                    }
+                ]
+            },
+            "rxvt": {
+                "name": "rxvt",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741253466,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743053462|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253465
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743053468|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741253469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743056459|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256459
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743056465|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256465
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743056498|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256498
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743056499|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256499
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743056759|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743056824|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741256824
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743057219|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728743057428|1728741253462",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741257428
+                    }
+                ]
+            },
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741251284,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741251283
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741251772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729346051,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.boohoo.com&si=cee5a3cd-6a99-4293-bf70-b7038e1b424c&ss=m267wk7l&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728741251771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.boohoo.com&si=cee5a3cd-6a99-4293-bf70-b7038e1b424c&ss=m267wk7l&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1728741256826
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.boohoo.com&si=cee5a3cd-6a99-4293-bf70-b7038e1b424c&ss=m267wk7l&sl=1&tt=6js&rl=1&ld=6jt\"",
+                        "same_site": "lax",
+                        "timestamp": 1728741256827
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.boohoo.com&si=cee5a3cd-6a99-4293-bf70-b7038e1b424c&ss=m267wk7l&sl=1&tt=6js&rl=1&ld=6jt&ul=geh\"",
+                        "same_site": "lax",
+                        "timestamp": 1728741269597
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.boohoo.com&si=cee5a3cd-6a99-4293-bf70-b7038e1b424c&ss=m267wk7l&sl=1&tt=6js&rl=1&ld=6jt&ul=geh&hd=ger\"",
+                        "same_site": "lax",
+                        "timestamp": 1728741269606
+                    }
+                ]
+            },
+            "countryBannerStatus": {
+                "name": "countryBannerStatus",
+                "domain": ".www.boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741249999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277248.980351,
+                        "expiry": 31535999.98035097,
+                        "value": "open",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249999
+                    }
+                ]
+            },
+            "__cq_dnt": {
+                "name": "__cq_dnt",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741250000,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249999
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257091
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257092
+                    }
+                ]
+            },
+            "cqcid": {
+                "name": "cqcid",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741249995,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ac7brZMl1RwcyeFo2alpz2kU96",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249990
+                    }
+                ]
+            },
+            "cquid": {
+                "name": "cquid",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741249996,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "||",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249995
+                    }
+                ]
+            },
+            "dw_dnt": {
+                "name": "dw_dnt",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741250001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741250000
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257091
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257093
+                    }
+                ]
+            },
+            "dwac_901934c2df27fe61a1e3d786c2": {
+                "name": "dwac_901934c2df27fe61a1e3d786c2",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741249990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rF9G5R8PfR_80BfEpe2slIDoF-HjB5gIUeQ%3D|dw-only|||GBP|false|Europe%2FLondon|true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249980
+                    }
+                ]
+            },
+            "dwanonymous_3c96516478c33a12ebf223e921102926": {
+                "name": "dwanonymous_3c96516478c33a12ebf223e921102926",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741249997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744293249.978659,
+                        "expiry": 15552000.978658915,
+                        "value": "ac7brZMl1RwcyeFo2alpz2kU96",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249997
+                    }
+                ]
+            },
+            "dwpersonalization_3c96516478c33a12ebf223e921102926": {
+                "name": "dwpersonalization_3c96516478c33a12ebf223e921102926",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741249999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744293248.978698,
+                        "expiry": 15551999.978698015,
+                        "value": "8dd0c5f00c7256781a907105f520241017230000000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249998
+                    }
+                ]
+            },
+            "dwsid": {
+                "name": "dwsid",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741250001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "P5rOGKxoyJ772pNvURrHZBMtnxxQYC2JVu4QbxeAkVxtyTPoivW6UJhaWAMYAbfaEjTO_19SNuSYSNwBdCfgnQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741250001
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": "www.boohoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741249997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rF9G5R8PfR_80BfEpe2slIDoF-HjB5gIUeQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741249996
+                    }
+                ]
+            }
+        }
+    },
+    "c.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741258090,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729346059.089328,
+                        "expiry": 604801.0893280506,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258090
+                    }
+                ]
+            },
+            "SRM_B": {
+                "name": "SRM_B",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741258091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762437259.089347,
+                        "expiry": 33696001.089346886,
+                        "value": "1B553DA6201361B31F3728B0213960E4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258090
+                    }
+                ]
+            }
+        }
+    },
+    "c.clarity.ms": {
+        "/": {
+            "ANONCHK": {
+                "name": "ANONCHK",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741258236,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728741858.234925,
+                        "expiry": 600.234925031662,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258236
+                    }
+                ]
+            },
+            "MR": {
+                "name": "MR",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741258236,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729346058.23491,
+                        "expiry": 604800.2349100113,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258235
+                    }
+                ]
+            },
+            "SM": {
+                "name": "SM",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741257353,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257353
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258235
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741257354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762437257.352581,
+                        "expiry": 33696000.352581024,
+                        "value": "363FBA1B131864F43897AF0D17186A34",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.23488212,
+                        "value": "1B553DA6201361B31F3728B0213960E4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741258235
+                    }
+                ]
+            },
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741253366,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277253.364963,
+                        "expiry": 31536000.364963055,
+                        "value": "5ad0ddb3198a4c24b41c6b3f3ccc8b4e.20241012.20251012",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741253365
+                    }
+                ]
+            }
+        }
+    },
+    "ist-track.com": {
+        "/": {
+            "ARRAffinitySameSite": {
+                "name": "ARRAffinitySameSite",
+                "domain": ".www.ist-track.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741257730,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "bf394d888a6bbe94ff674398f497250ca008e4482b502b39d81a73a24c8ace03",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741257729
+                    }
+                ]
+            }
+        }
+    },
+    "api.e.boohoo.com": {
+        "/": {
+            "xnpe_bae6c690-92e1-11eb-b702-f6c634eb685d": {
+                "name": "xnpe_bae6c690-92e1-11eb-b702-f6c634eb685d",
+                "domain": "api.e.boohoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741251566,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301251.564941,
+                        "expiry": 34560000.56494093,
+                        "value": "f6359360-f96b-4230-913f-e5af569946bd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741251565
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.16034198,
+                        "value": "f6359360-f96b-4230-913f-e5af569946bd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741252161
+                    }
+                ]
+            }
+        }
+    }
+}

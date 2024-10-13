@@ -1,0 +1,475 @@
+{
+    "matalan.co.uk": {
+        "/": {
+            "ABTasty": {
+                "name": "ABTasty",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741387877,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762264587,
+                        "expiry": 33523200,
+                        "value": "undefinedABTastyCookieQuickTest",
+                        "same_site": "lax",
+                        "timestamp": 1728741387875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34218000,
+                        "value": "uid=d29zk8r3van063v5&fst=1728741387882&pst=-1&cst=1728741387882&ns=1&pvt=1&pvis=1&th=",
+                        "same_site": "lax",
+                        "timestamp": 1728741387883
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34217999,
+                        "value": "uid=d29zk8r3van063v5&fst=1728741387882&pst=-1&cst=1728741387882&ns=1&pvt=1&pvis=1&th=1313212.1627545.1.1.1.1.1728741388148.1728741388148.0.1",
+                        "same_site": "lax",
+                        "timestamp": 1728741388149
+                    }
+                ]
+            },
+            "ABTastyDomainTest": {
+                "name": "ABTastyDomainTest",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741387875,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1728741387874
+                    }
+                ]
+            },
+            "ABTastySession": {
+                "name": "ABTastySession",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741387878,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728743187,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.matalan.co.uk%252F",
+                        "same_site": "lax",
+                        "timestamp": 1728741387878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.matalan.co.uk%252F",
+                        "same_site": "lax",
+                        "timestamp": 1728741387879
+                    }
+                ]
+            },
+            "ElysiumBasketmatalan_V6": {
+                "name": "ElysiumBasketmatalan_V6",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741391190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731336991,
+                        "expiry": 2595600,
+                        "value": "ZjBlNjBlYjYtN2EyYy00NTI2LTgzYjQtM2I5MGY1OWVjNzU1OjE3Mjg3NDEzOTEyNTQ=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741391189
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741397035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277397,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:56:37.033Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741397034
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741391392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A31+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728741391396
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A31+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.matalan.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728741391402
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A31+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.matalan.co.uk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741391604
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A31+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.matalan.co.uk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741391605
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741397037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741397038
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741397039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741397047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741397047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A56%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b646a3-a3e9-4e4d-b395-39887d6621f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728741397048
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741389919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301389.916781,
+                        "expiry": 34560000.91678095,
+                        "value": "GA1.1.201733482.1728741390",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741389918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.649004936,
+                        "value": "GA1.1.201733482.1728741390",
+                        "same_site": "lax",
+                        "timestamp": 1728741390650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.447139025,
+                        "value": "GA1.1.201733482.1728741390",
+                        "same_site": "lax",
+                        "timestamp": 1728741391447
+                    }
+                ]
+            },
+            "_ga_8S6XFDJ3SL": {
+                "name": "_ga_8S6XFDJ3SL",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741389917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301389.915907,
+                        "expiry": 34560000.915906906,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741389916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91626191,
+                        "value": "GS1.1.1728741389.1.0.1728741389.0.0.869219815",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741389918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.66371703,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741390664
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.664078,
+                        "value": "GS1.1.1728741389.1.0.1728741390.0.0.869219815",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741390665
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.24298096,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741405244
+                    }
+                ]
+            },
+            "actualOptanonConsent": {
+                "name": "actualOptanonConsent",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741391399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277391,
+                        "expiry": 31536000,
+                        "value": "%2CC0001%2C",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741391398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%2CC0001%2C",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741397043
+                    }
+                ]
+            },
+            "chumewe_sess": {
+                "name": "chumewe_sess",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741386929,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728755786.917934,
+                        "expiry": 14400.917933940887,
+                        "value": "93f399dd-0dd4-4ab5-8a22-ad706a480b88",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741386929
+                    }
+                ]
+            },
+            "chumewe_user": {
+                "name": "chumewe_user",
+                "domain": ".matalan.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741386928,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301386.917616,
+                        "expiry": 34560000.91761589,
+                        "value": "7b433959-63ec-44d2-aaec-73ae528e1010",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741386919
+                    }
+                ]
+            },
+            "metric_nonce": {
+                "name": "metric_nonce",
+                "domain": ".www.matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741386931,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "de2d2312-d11c-451a-93bc-37777f13a386",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741386929
+                    }
+                ]
+            },
+            "_csrf": {
+                "name": "_csrf",
+                "domain": "matalan.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741385764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d4YP6nBx3qoLOlifMgx9WHYm",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741385754
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "k5VMqW68Qhfrp_ROou5w3qgb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741386917
+                    }
+                ]
+            }
+        }
+    }
+}

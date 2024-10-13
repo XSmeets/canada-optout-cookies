@@ -1,0 +1,211 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728649011594,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744460211.593838,
+                        "expiry": 15811200.593837976,
+                        "value": "518=zqvJFlgc5Gx9D0SjZGjrhN1A5Ewh4-qBMD7yYy-aOqAyFkYv7pnhW2s3-2Do_rZOnvlZmVhpgDV4OR_KT-KI1X7Z8axHb8TSr2xMjmdLi0u5VFMnJ2dTx9n1zLwcFm60IUfNERHZZJpEZNorCvUM9svJUmg4SxIidNV4CEzA9K1-rl_P7w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649011594
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.596764088,
+                        "value": "518=HndQdn1BYLJHKDw1up3P3FpSpS4UlwMrOt_Xaj49k7QX4sqKeLcMBteaE7xlICjCFmXHX7dN6rQxnbwN9FmmqDDye_7lUiSew-YAIF38qTUMjrfDx4rkk3E5qvoKGZCLzBLodo__jKZq5442pvK3ww1nMTz1Y8MyDCGKbzKKcRbSeql_4w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649011597
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.598692894,
+                        "value": "518=K5myg92zmW-lI-_WkHNTMRzyU7zXa98vKnpsHfhAy2VDB0WBCUXWS-9Q9sMZv90KTgpJD7h4fqEiAkwcr2QijyfL_XnxsxL8kZ9Eyb8g68xaKK3IrNf8L4h1iUyiR_fFMnKfpU8kPPcc1vv-ZJvsssnTXc0mqA_qTB7vNJmOD7sw0g0hDQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649011599
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728649008846,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744201008.842139,
+                        "expiry": 15552000.842139006,
+                        "value": "GU9IrzCTPT8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649008845
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728649008848,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744201008.844024,
+                        "expiry": 15552000.844023943,
+                        "value": "CgJDQRIEGgAgEA%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649008846
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728649008843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "bUuFtPqtuTY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728649008842
+                    }
+                ]
+            }
+        }
+    },
+    "cdn.kormany.hu": {
+        "/": {
+            "KHUSRV": {
+                "name": "KHUSRV",
+                "domain": "cdn.kormany.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648999519,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!QOcIBDFKAMLoe2GwI9Va95MLrEHnFjdtQb/JOkpQdfFuLiOdKDIgar25z8GL3WmI0Yo3V6Bqkkb2XL58M+o9bJAobrp414X/alubv/w69g==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648999512
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!10cL6ZQu6qdMDZawI9Va95MLrEHnFh0uEmUkxCPNChvffKjCsmGWZErg9HkNvybIq65GTuHyZbJYIW0j4KAlqGEcgKCWhksRwruBq6gcLg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648999520
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!kFBU1Q5T+ckyVrqwI9Va95MLrEHnFugW97iUFUkghIBch+n5tvcUovTR8A2TZMCWOqWkTTumf7p9YEAxWgbyL6WQIHx8HNQdqlG069Ajzw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648999523
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!ReTATyiNgH1bKBCwI9Va95MLrEHnFmPE19J54lqVIdg3zTqW1Zt5yhX6iZky4ppKq/GW10zp1o1WpeA7MLrMq02Q9u5gR7CbmzdGvc+mUg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648999525
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!0lGR/rcS3tAZgS6wI9Va95MLrEHnFoYtvmUVoJ3SDlwgwAp9uEZc3cOByYx4IeVXZkQNiViHHouRw+/jVX9OlifBMp90+6akWxLjvH7/pw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648999527
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!Z0S+PRTR4GHFbFywI9Va95MLrEHnFr/XHqM5W7MPaO/DSsMZumyofP+nFpckAtRM5vgMO1YCGKrcYIrCXXeDx9dVju6YCkDdK9gSfI6vVQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648999528
+                    }
+                ]
+            }
+        }
+    },
+    "kormany.hu": {
+        "/": {
+            "KHUSRV": {
+                "name": "KHUSRV",
+                "domain": "kormany.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648996788,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!b4bjX5RmZ9Qiso6wI9Va95MLrEHnFhbP1ui42o025s6twDXTDCswU/j7tPJ+2sLjNSVmsbSN+jaLYL0xKhGwMxVGqLC2LnsCOemE1xdlMg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728648996780
+                    }
+                ]
+            }
+        }
+    }
+}

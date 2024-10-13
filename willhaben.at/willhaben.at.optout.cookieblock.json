@@ -1,0 +1,350 @@
+{
+    "mpianalytics.com": {
+        "/": {
+            "cis-jwe": {
+                "name": "cis-jwe",
+                "domain": ".mpianalytics.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658678577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194678.572536,
+                        "expiry": 31536000.57253599,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMTAtMTFUMTQ6NTc6NThaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..eSaNQBG4cUMoN3ivpY6eCA.066WOO7fpvj_hjx9LfsQgcTmsArqr40yREf7E_54OHWeb89QnH-ewuB8j4axwZQQ4NaCY4JvkQ1leQaVw3cGj3XaaVXq3eVKVuKv9pSnvJctsT-T7bMP8wx2vKhcoNY5pngofOlH3yvjGK4hImmSFxQ82NqjP31jmwqkOKOo1Hdx6Lh9HiPlmdTNSOQXofeGTqJzsX_TJvxLdxuqmdfWuQ.GQDP7ruzpFGWgCc2MQvP0w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658678574
+                    }
+                ]
+            }
+        }
+    },
+    "willhaben.at": {
+        "/": {
+            "_pulse2data": {
+                "name": "_pulse2data",
+                "domain": ".willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658678585,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763218678.577029,
+                        "expiry": 34560000.57702899,
+                        "value": "22bcf7e0-2380-4f69-b148-91f49e490e65%2Cv%2C%2C1728659578574%2CeyJpc3N1ZWRBdCI6IjIwMjQtMTAtMTFUMTQ6NTc6NThaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..eSaNQBG4cUMoN3ivpY6eCA.066WOO7fpvj_hjx9LfsQgcTmsArqr40yREf7E_54OHWeb89QnH-ewuB8j4axwZQQ4NaCY4JvkQ1leQaVw3cGj3XaaVXq3eVKVuKv9pSnvJctsT-T7bMP8wx2vKhcoNY5pngofOlH3yvjGK4hImmSFxQ82NqjP31jmwqkOKOo1Hdx6Lh9HiPlmdTNSOQXofeGTqJzsX_TJvxLdxuqmdfWuQ.GQDP7ruzpFGWgCc2MQvP0w%2C%2C%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..h0n2_YlR9wtWD8B4uYqW-WueOEXbZDY2EtjDK8Q0Fvo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658678580
+                    }
+                ]
+            },
+            "_pulse2test": {
+                "name": "_pulse2test",
+                "domain": ".willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658678580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728745078,
+                        "expiry": 86400,
+                        "value": "nditwrkyuddyrnn1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658678578
+                    }
+                ]
+            },
+            "atidvisitor": {
+                "name": "atidvisitor",
+                "domain": ".willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658678331,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194678.325506,
+                        "expiry": 31536000.325505972,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-612451-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A31536000%2C%22end%22%3A31536000%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658678328
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.470012903,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-612451-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A31536000%2C%22end%22%3A31536000%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658685470
+                    }
+                ]
+            },
+            "atuserid": {
+                "name": "atuserid",
+                "domain": ".willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658678326,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762959478,
+                        "expiry": 34300800,
+                        "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%2254fcc5a4-ba78-4226-877b-b8239389182d%22%2C%22options%22%3A%7B%22end%22%3A%222025-11-12T14%3A57%3A58.320Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658678324
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34300800,
+                        "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%2254fcc5a4-ba78-4226-877b-b8239389182d%22%2C%22options%22%3A%7B%22end%22%3A%222025-11-12T14%3A58%3A05.469Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658685470
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658680128,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760281080,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2MxNjItOTNlZS02ZDUzLWIyMGItNTJkYjAyZjJjNDg4IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTQ6NTg6MDAuMTI2WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDE0OjU4OjAwLjEyNloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728658680127
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2MxNjItOTNlZS02ZDUzLWIyMGItNTJkYjAyZjJjNDg4IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTQ6NTg6MDAuMTI2WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDE0OjU4OjA0Ljk3MVoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImFtYXpvbiIsImM6c2NoaWJzdGVkLU1RUFhhcXloIiwiYzpvcHRpbWl6ZWx5LTlBZ0dzWGk5IiwiYzpvZXdhLVhBUW1HU2duIiwiYzpmaXJlYmFzZS1hYTU4ZTlXVSIsImM6cHVsc2UteFdzR3BxUzQiLCJjOnNjaGlic3RlZC1QMmlweEd0ZSIsImM6Y3Jhc2hseXRpYy1YQ0pTamk1ZCIsImM6ZmFicmljLTl3Z1BwcXdMIiwiYzpicmF6ZS1WVlQ4Uk00biIsImM6aG90amFyIiwiYzp4aXRpLVZIWlpITTlpIiwiYzphcHBzZmx5ZXItTUhCZE15MkciLCJjOnVzZXJ6b29tIiwiYzptaWNyb3NvZnQtYW5hbHl0aWNzIiwiYzpnb29nbGVhbmEtNFRYbkppZ1IiLCJjOnh4eGx1dHprLW05ZlFrUHRMIiwiYzpvcHRpb25hbGUtYm5BRXlaeHkiLCJjOm1pY3Jvc29mdCIsImM6YWRqdXN0LTlrd3k4Y3ozIiwiYzpkaWRvbWkiXX0sInB1cnBvc2VzIjp7ImRpc2FibGVkIjpbImdlb2xvY2F0aW9uX2RhdGEiLCJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwieHh4bHV0enItcWtyYXAzM1EiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJjOndpbGxoYWJlbi1acUduNll4eiJdLCJkaXNhYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5BQUFBIn0=",
+                        "same_site": "lax",
+                        "timestamp": 1728658684978
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658684979,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760281084,
+                        "expiry": 31622400,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728658684978
+                    }
+                ]
+            },
+            "SRV": {
+                "name": "SRV",
+                "domain": "willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658674791,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4|Zwk89",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658674781
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2|Zwk89",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658675245
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2|Zwk9A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658685348
+                    }
+                ]
+            },
+            "IADVISITOR": {
+                "name": "IADVISITOR",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728658675657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733842675.646435,
+                        "expiry": 5184000.646435022,
+                        "value": "2904764a-be09-456b-83f3-011c067eb7e2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658675647
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.343669891,
+                        "value": "2904764a-be09-456b-83f3-011c067eb7e2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658685347
+                    }
+                ]
+            },
+            "RANDOM_USER_GROUP_COOKIE_NAME": {
+                "name": "RANDOM_USER_GROUP_COOKIE_NAME",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658681003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194681,
+                        "expiry": 31536000,
+                        "value": "80",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658681003
+                    }
+                ]
+            },
+            "TRACKINGID": {
+                "name": "TRACKINGID",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658675659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763218675.646616,
+                        "expiry": 34560000.64661598,
+                        "value": "2976ef2f-b141-414b-8ca8-d89f66bfb382",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658675658
+                    }
+                ]
+            },
+            "context": {
+                "name": "context",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658675658,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "prod",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658675658
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "prod",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658685347
+                    }
+                ]
+            },
+            "x-bbx-csrf-token": {
+                "name": "x-bbx-csrf-token",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658675660,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6240d7b1-7a67-41e2-9a90-271e6df8548b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658675659
+                    }
+                ]
+            }
+        }
+    }
+}

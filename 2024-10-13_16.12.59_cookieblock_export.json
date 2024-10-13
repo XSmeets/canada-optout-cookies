@@ -1,0 +1,371 @@
+{
+    "utah.gov": {
+        "/": {
+            "QSI_SI_6sMjk33bAnPaua2_intercept": {
+                "name": "QSI_SI_6sMjk33bAnPaua2_intercept",
+                "domain": ".utah.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828749814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729001549,
+                        "expiry": 172800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828749812
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".utah.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828721090,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763388721.073418,
+                        "expiry": 34560000.0734179,
+                        "value": "GA1.1.1907721251.1728828721",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828721089
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.381993055,
+                        "value": "GA1.1.1907721251.1728828721",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828732383
+                    }
+                ]
+            },
+            "_ga_621Q114PFJ": {
+                "name": "_ga_621Q114PFJ",
+                "domain": ".utah.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828721081,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763388721.072301,
+                        "expiry": 34560000.07230091,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828721074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.08031201,
+                        "value": "GS1.1.1728828721.1.0.1728828721.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828721090
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.381634,
+                        "value": "GS1.1.1728828721.1.1.1728828732.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828732382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.38509011,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828732385
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.38526201,
+                        "value": "GS1.1.1728828721.1.1.1728828732.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828732386
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34559999.99956393,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828748000
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34559999.99980998,
+                        "value": "GS1.1.1728828721.1.1.1728828747.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828748001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86747503,
+                        "value": "GS1.1.1728828721.1.1.1728828756.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828756868
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.utah.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728828725512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725536
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725539
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725540
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725542
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725544
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725546
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725546
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828725549
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828726034
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828748836
+                    }
+                ]
+            }
+        },
+        "/support": {
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.utah.gov",
+                "path": "/support",
+                "current_label": 0,
+                "label_ts": 1728828733377,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733400
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733401
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733403
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733405
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733407
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733409
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733412
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733415
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733418
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728828733426
+                    }
+                ]
+            }
+        }
+    }
+}

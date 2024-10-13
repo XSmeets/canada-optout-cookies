@@ -1,0 +1,519 @@
+{
+    "connectad.io": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".connectad.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741869567,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731369869.565874,
+                        "expiry": 2628000.5658740997,
+                        "value": "a77c42b2-a264-4f91-8c9f-2102aca6843c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741869566
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741873508,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762437873.504109,
+                        "expiry": 33696000.504108906,
+                        "value": "A-Ca119tR3NEQkxGZ2hDcmRqS3BzTzRUUiUyRkJONXpSdTZhSlprOHYxJTJGZDJHQnRaYmVFZSUyQiUyRkR5ZVdOTGF5c1VYaHVqNVIzbVhZMXZxRzVRREpoV0VHUUtYYllJRjRWSVBkRTVoMWM3NjlSQndWbDhCZTU3VnZkbzZ1a0lLckJyQVFEbiUyQk0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741873506
+                    }
+                ]
+            }
+        }
+    },
+    "hotukdeals.com": {
+        "/": {
+            "browser_push_permission_requested": {
+                "name": "browser_push_permission_requested",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741876036,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301876.035461,
+                        "expiry": 34560000.03546095,
+                        "value": "1728741876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741876036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.10500193,
+                        "value": "1728741876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741876106
+                    }
+                ]
+            },
+            "cookie_policy_agreement": {
+                "name": "cookie_policy_agreement",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741869099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277869.093232,
+                        "expiry": 31536000.093231916,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741869098
+                    }
+                ]
+            },
+            "cto_bidid": {
+                "name": "cto_bidid",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741873514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762441452,
+                        "expiry": 33699579,
+                        "value": "IatR319jeG9HQmVFdEFHR0VCbTYxdVQlMkZaZ2hOelJvVlcyWmtkVXVGS3QxNDlNOGhHZUVyYlV4ZmJxazdwQ052dE0zRm1QViUyQjU3bXFhY0RkOVZ2Q2hDUFAyd1A5dEpORHhoS2w2WVlvWUduRXVYVjNuREpGODdzSiUyQlJ6VVJVUU1HMzVhQw",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741873512
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741873511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762441452,
+                        "expiry": 33699579,
+                        "value": "HVyXN18xWTNKZ0Z6R2I4Q0FVTjY2TnZZY2wyQWZreGExekR2NTBaQzd2V3c0Rlh3b1lSayUyRm5uZ2I2eXRWWkFLbmV1M1h5c0YyVFklMkJpemhPWWhKbHQlMkJHTTVtJTJCZmx4NFVUOWI4eHZTTVpOYUg3SnAxeWFJSVhjMnZVQzYzaTZveHV5dWhYSFpjSktaZkxRb28wbEw4aXlRTWphV0ZJJTJGTmI3TUNYU0t3VVBUbjJ0cjU0JTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741873508
+                    }
+                ]
+            },
+            "dont-track": {
+                "name": "dont-track",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741869096,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301869.0932,
+                        "expiry": 34560000.09319997,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741869094
+                    }
+                ]
+            },
+            "f_c": {
+                "name": "f_c",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741869097,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301869.093212,
+                        "expiry": 34560000.09321189,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741869096
+                    }
+                ]
+            },
+            "f_v": {
+                "name": "f_v",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741849408,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277849.393046,
+                        "expiry": 31536000.393045902,
+                        "value": "%22d9d4508a-88a2-11ef-8fbf-0242ac110002%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741849402
+                    }
+                ]
+            },
+            "g_p": {
+                "name": "g_p",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741869098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301869.093222,
+                        "expiry": 34560000.0932219,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741869097
+                    }
+                ]
+            },
+            "guest_user_visit": {
+                "name": "guest_user_visit",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741871391,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728741991.389437,
+                        "expiry": 120.38943696022034,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741871390
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.41581797599792,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741875419
+                    }
+                ]
+            },
+            "navi": {
+                "name": "navi",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741849411,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731161049.39312,
+                        "expiry": 2419200.3931200504,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741849410
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2419200.3894720078,
+                        "value": "%7B%22homepage%22%3A%22highlights%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741871391
+                    }
+                ]
+            },
+            "pepper_session": {
+                "name": "pepper_session",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741849402,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728743949.392882,
+                        "expiry": 2100.3928821086884,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741849395
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.922460079193,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741850923
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.0783059597015,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741851079
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.093132019043,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741869094
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.3893609046936,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741871390
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.4157240390778,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741875418
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.035404920578,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741876036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.1049149036407,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741876105
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.2696640491486,
+                        "value": "%22yZSVAV5alk5UmKEhvDzjcS8glYC5550L69rUxyHD%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741877270
+                    }
+                ]
+            },
+            "u_l": {
+                "name": "u_l",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741849409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728742749.393081,
+                        "expiry": 900.3930809497833,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741849408
+                    }
+                ]
+            },
+            "xsrf_t": {
+                "name": "xsrf_t",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741849410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728867849.3931,
+                        "expiry": 126000.39310002327,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741849409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.9225730896,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741850923
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.07834792137,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741851079
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.0931789875,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741869094
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.3894469738,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741871391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.41584897041,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741875420
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.03548288345,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741876037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.10502910614,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741876106
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.26971793175,
+                        "value": "%22djX3xOGMf8PnPg2XoiV4u4tkkAIq86NZWHdJQPAC%22",
+                        "same_site": "strict",
+                        "timestamp": 1728741877270
+                    }
+                ]
+            }
+        }
+    }
+}

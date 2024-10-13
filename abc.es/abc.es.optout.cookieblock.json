@@ -1,0 +1,1507 @@
+{
+    "abc.es": {
+        "/": {
+            "AMCVS_9854C13E58403FEB0A495D53%40AdobeOrg": {
+                "name": "AMCVS_9854C13E58403FEB0A495D53%40AdobeOrg",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654123534,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654123532
+                    }
+                ]
+            },
+            "AMCV_9854C13E58403FEB0A495D53%40AdobeOrg": {
+                "name": "AMCV_9854C13E58403FEB0A495D53%40AdobeOrg",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654122873,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763214122.871591,
+                        "expiry": 34560000.87159109,
+                        "value": "179643557%7CMCIDTS%7C20008%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654122871
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.525919914,
+                        "value": "179643557%7CMCIDTS%7C20008%7CMCMID%7C60733096316382051684338305056991352858%7CMCAAMLH-1729258923%7C7%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654123526
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5280571,
+                        "value": "179643557%7CMCIDTS%7C20008%7CMCMID%7C60733096316382051684338305056991352858%7CMCAAMLH-1729258923%7C7%7CMCAAMB-1729258923%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654123529
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.53264403,
+                        "value": "179643557%7CMCIDTS%7C20008%7CMCMID%7C60733096316382051684338305056991352858%7CMCAAMLH-1729258923%7C7%7CMCAAMB-1729258923%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728661323s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654123535
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18074393,
+                        "value": "179643557%7CMCIDTS%7C20008%7CMCMID%7C60733096316382051684338305056991352858%7CMCAAMLH-1729258923%7C7%7CMCAAMB-1729258923%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728661324s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124182
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36893797,
+                        "value": "179643557%7CMCIDTS%7C20008%7CMCMID%7C60733096316382051684338305056991352858%7CMCAAMLH-1729258923%7C7%7CMCAAMB-1729258923%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728661324s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20015%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124370
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654122860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122858
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654122871
+                    }
+                ]
+            },
+            "Y3djb25zZW50": {
+                "name": "Y3djb25zZW50",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654139955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190139,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1728654139954
+                    }
+                ]
+            },
+            "at_check": {
+                "name": "at_check",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654122910,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122910
+                    }
+                ]
+            },
+            "com.adobe.alloy.getTld": {
+                "name": "com.adobe.alloy.getTld",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654122887,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "com.adobe.alloy.getTld",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122886
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654122600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276522,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JkMDktZTY2Ni02MzE3LTliMGMtOWRiNDY0NzMxMDg2IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDI6MDIuNTk4WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQyOjAyLjU5OFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654122599
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JkMDktZTY2Ni02MzE3LTliMGMtOWRiNDY0NzMxMDg2IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDI6MDIuNTk4WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQyOjE5LjkwOFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImFtYXpvbiIsInR3aXR0ZXIiLCJjOmluZGlnaXRhbGwtUDNGNGlmVzQiLCJjOnZpZGVvbG9neSIsImM6cGVuZHVsYXItTWZna0JkQWUiXX0sInB1cnBvc2VzIjp7ImRpc2FibGVkIjpbImdlb2xvY2F0aW9uX2RhdGEiLCJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIl19LCJ2ZW5kb3JzX2xpIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkFBQUEuRE91QS1BRVlBTElBYkFERkFIbUFlcUJFUUNKSUVVd0pSQVRPQXRBQmhZREdBR2RRT0pBY29CQXdDUXdFNXdLendXakF0SkJjNkM2b0dIRU1UZ3hQQmpjREhFR2JnTTZ3In0=",
+                        "same_site": "lax",
+                        "timestamp": 1728654139915
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654139916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276539,
+                        "expiry": 31622400,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAEPgAAiQAAATFAJMNCogDLAkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABBkACAAACABCIAIACgQAAQCBQABgAQCAQAEDAACACwEAgABAdAxTAggECwASMyIhTAhCASCAlsqEEgCBBXCEIs8AiAREwUAAAAABWAAICwWBxJICVCQQJcQbQAAEACAQQAFCCTkwABAGbLUAAA.YAAACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728654139915
+                    }
+                ]
+            },
+            "ev_did": {
+                "name": "ev_did",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654122737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759758122,
+                        "expiry": 31104000,
+                        "value": "67092b2ab803be5b74e304cd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654122737
+                    }
+                ]
+            },
+            "ev_sid": {
+                "name": "ev_sid",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654122736,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759758122,
+                        "expiry": 31104000,
+                        "value": "67092b2ab803be5b74e304ce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654122736
+                    }
+                ]
+            },
+            "gig3pctest": {
+                "name": "gig3pctest",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654126277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728654127,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654126276
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127676
+                    }
+                ]
+            },
+            "gig_bootstrap_3_VjZL6dNEbebJWZu9Fa8JJuSZV00WJeDxEoQEbvVyi-0vOVjBGo7fwqGxuZRNOU5B": {
+                "name": "gig_bootstrap_3_VjZL6dNEbebJWZu9Fa8JJuSZV00WJeDxEoQEbvVyi-0vOVjBGo7fwqGxuZRNOU5B",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127166,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190127,
+                        "expiry": 31536000,
+                        "value": "master-gigya_ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127165
+                    }
+                ]
+            },
+            "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_cluster": {
+                "name": "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_cluster",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654125070,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728655925,
+                        "expiry": 1800,
+                        "value": "va6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654125069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.91712808609,
+                        "value": "va6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654125919
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.0494968891144,
+                        "value": "va6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654140050
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.0764598846436,
+                        "value": "va6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654141077
+                    }
+                ]
+            },
+            "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_identity": {
+                "name": "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_identity",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654125069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762782125,
+                        "expiry": 34128000,
+                        "value": "CiY2MDczMzA5NjMxNjM4MjA1MTY4NDMzODMwNTA1Njk5MTM1Mjg1OFIQCMXQwt6nMhgBKgNWQTYwA_ABxdDC3qcy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654125067
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654122909,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728655983,
+                        "expiry": 1861,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655983",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122908
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655983",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122910
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655984",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654123536
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.085366964,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655984|PC#1b5f71a581cf4e17b4e0b60652385ff4.34_0#1791898925",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.08677602,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655985|PC#1b5f71a581cf4e17b4e0b60652385ff4.34_0#1791898925",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124087
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.08733797,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655985|PC#1b5f71a581cf4e17b4e0b60652385ff4.34_0#1791898925",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.09105492,
+                        "value": "session#1b5f71a581cf4e17b4e0b60652385ff4#1728655985|PC#1b5f71a581cf4e17b4e0b60652385ff4.34_0#1791898925",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124091
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654125691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654125691
+                    }
+                ]
+            },
+            "s_ac": {
+                "name": "s_ac",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654124516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124515
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654124523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124522
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763214124.178347,
+                        "expiry": 34560000.17834711,
+                        "value": "MCMID%7C60733096316382051684338305056991352858",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.659229994,
+                        "value": "MCMID%7C60733096316382051684338305056991352858",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.88164711,
+                        "value": "MCMID%7C60733096316382051684338305056991352858",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124882
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.05728006,
+                        "value": "MCMID%7C60733096316382051684338305056991352858",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654140058
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.34311104,
+                        "value": "MCMID%7C60733096316382051684338305056991352858",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654141344
+                    }
+                ]
+            },
+            "s_nr": {
+                "name": "s_nr",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654124518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731246124,
+                        "expiry": 2592000,
+                        "value": "1728654124512-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124516
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1728654124742-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1728654139904-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654139904
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1728654139921-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654139922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1728654141206-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654141207
+                    }
+                ]
+            },
+            "s_ppn": {
+                "name": "s_ppn",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654124521,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728655924,
+                        "expiry": 1800,
+                        "value": "no%20value",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124520
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "portada%3Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "portada%3Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654139905
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "portada%3Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654139922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "portada%3Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654141207
+                    }
+                ]
+            },
+            "s_ppv": {
+                "name": "s_ppv",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654124748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654145941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654146276
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654146612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654146947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654147282
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654147617
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654147956
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654148295
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654148630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654148966
+                    }
+                ]
+            },
+            "s_ppvl": {
+                "name": "s_ppvl",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654124743,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124741
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "portada%253Aabc-ultimas-noticias-de-espana-y-el-mundo-hoy%2C3%2C3%2C892%2C1920%2C892%2C1920%2C1080%2C1%2CP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654126310
+                    }
+                ]
+            },
+            "voc-rtim": {
+                "name": "voc-rtim",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731246124,
+                        "expiry": 2592000,
+                        "value": "{ \"geo-europe\" : false}",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124098
+                    }
+                ]
+            },
+            "vocuser_information": {
+                "name": "vocuser_information",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127655,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190127,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127654
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127655
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%2C%22lastAction%22%3A%22%22%2C%22lastService%22%3A%22abc%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22returnUrl%22%3A%22%22%2C%22lastAction%22%3A%22%22%2C%22lastService%22%3A%22abc%22%2C%22customerService%22%3A%22%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"returnUrl\":\"\",\"lastAction\":\"\",\"lastService\":\"abc\",\"customerService\":\"\"}",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127666
+                    }
+                ]
+            },
+            "vocuser_nfryl_volver_al_origen": {
+                "name": "vocuser_nfryl_volver_al_origen",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740527,
+                        "expiry": 86400,
+                        "value": "https%253A%252F%252Fwww.abc.es%252F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127660
+                    }
+                ]
+            },
+            "vocuser_uuid": {
+                "name": "vocuser_uuid",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654127674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190127,
+                        "expiry": 31536000,
+                        "value": "84051910-3039-440b-8bfe-475c96e6d6e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "84051910-3039-440b-8bfe-475c96e6d6e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127677
+                    }
+                ]
+            },
+            "vtm_op": {
+                "name": "vtm_op",
+                "domain": ".abc.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654122908,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654122907
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".www.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654120545,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661320.530675,
+                        "expiry": 7200.530674934387,
+                        "value": "4B4266C6B4DD0BEEFB729BA9AAF0B676~000000000000000000000000000000~YAAQzishF4vp9m+SAQAAtpbQexlZbdq/bbZHsowX1BDWbHksmQfjeCsBOUOM4sqL758BEurIUUnfNba0hJwkdAb+88MvSIewngOztdoCRqhA68iixQHSdOxir19dPo06DL7S75kZ1wN9c9QfyQtoRpaXfE4BUIktk/Lvz2SOuMzXezBF6cr5fmHb7nOc3mr/qtSrPt2lq/cAH7oAfbrV/cfx4FbH0t7zEIOnloHEqXIyw0tPdBB0MWNokT+zD5mKx9wHc5E8eB0h8X9lqU4YSVcS/iVzJ5PefN+oDDY5lp8MLiGUOI/nkxJf3lqUKZ3WcuXYzxNS+DvfOvDcVnrCvA2WHZQcRGKQgEz+CWPdFs1l2yzt6Oz7aDNZpL5I7SatgZaH9eAZ0g1K",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654120534
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".www.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654124770,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124769
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".www.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654124771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16460-3-28810890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654124770
+                    }
+                ]
+            },
+            "": {
+                "name": "",
+                "domain": "www.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654121844,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kangaroo-test-cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654121837
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127673,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654127672
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654127676
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654123377,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206123.375867,
+                        "expiry": 15552000.37586689,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654123376
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.522450924,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654123524
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.365828991,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.868094921,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124869
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.063558102,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654125065
+                    }
+                ]
+            },
+            "dextp": {
+                "name": "dextp",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124067,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206124,
+                        "expiry": 15552000,
+                        "value": "771-1-1728654124064",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124065
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124730,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763214124.727404,
+                        "expiry": 34560000.72740412,
+                        "value": "AHWqTUntZoE0LrFI2CJJkTu5eDtCcJKmHwq4TskMMPvbDo3XKynrHpoTCLkgCJhGrqk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124728
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728655024.57441,
+                        "expiry": 900.5744099617004,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124575
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124367,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206124.365743,
+                        "expiry": 15552000.365742922,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124366
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.868041992,
+                        "value": "60890446056999651744394627402089736732",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124869
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654124232,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190124.230493,
+                        "expiry": 31536000.23049307,
+                        "value": "g_surferid~ZwkrLAAAAH_ZcgOj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654124231
+                    }
+                ]
+            }
+        }
+    },
+    "master-gigya.abc.es": {
+        "/": {
+            "apiDomain_3_7ucBJitsjWEvaazgePADopwV_RMT53_QIqbagoyZxTC8biYbjvyx-SsOSekuyBOf": {
+                "name": "apiDomain_3_7ucBJitsjWEvaazgePADopwV_RMT53_QIqbagoyZxTC8biYbjvyx-SsOSekuyBOf",
+                "domain": ".master-gigya.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654126274,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190126,
+                        "expiry": 31536000,
+                        "value": "master-gigya.abc.es",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654126272
+                    }
+                ]
+            },
+            "gig_canary_3_7ucBJitsjWEvaazgePADopwV_RMT53_QIqbagoyZxTC8biYbjvyx-SsOSekuyBOf": {
+                "name": "gig_canary_3_7ucBJitsjWEvaazgePADopwV_RMT53_QIqbagoyZxTC8biYbjvyx-SsOSekuyBOf",
+                "domain": ".master-gigya.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190127,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127525
+                    }
+                ]
+            },
+            "gig_canary_ver_3_7ucBJitsjWEvaazgePADopwV_RMT53_QIqbagoyZxTC8biYbjvyx-SsOSekuyBOf": {
+                "name": "gig_canary_ver_3_7ucBJitsjWEvaazgePADopwV_RMT53_QIqbagoyZxTC8biYbjvyx-SsOSekuyBOf",
+                "domain": ".master-gigya.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190127,
+                        "expiry": 31536000,
+                        "value": "16460-3-28810890",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127526
+                    }
+                ]
+            },
+            "gmid": {
+                "name": "gmid",
+                "domain": ".master-gigya.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127150,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190128.148768,
+                        "expiry": 31536001.14876795,
+                        "value": "gmid.ver4.AtLtpWRG8A.ObXHh4HtHhDNAm2mk5UyAj6fB0kIiPJALKK-6Ol2jxY-wuYWAULmpoeU9Urr_IYx.LT2TuE4tTh0jnUeDFtdDBl1cGx_hJd7RZiyThaUZFUVWTS15yewEyPYBaC6bpOb05DNVkVI4vpnZu5SccvRpQw.sc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127149
+                    }
+                ]
+            },
+            "hasGmid": {
+                "name": "hasGmid",
+                "domain": ".master-gigya.abc.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654127153,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744378928.148915,
+                        "expiry": 15724801.148915052,
+                        "value": "ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127152
+                    }
+                ]
+            },
+            "ucid": {
+                "name": "ucid",
+                "domain": ".master-gigya.abc.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654127152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190128.148845,
+                        "expiry": 31536001.148844957,
+                        "value": "7pKAwWpk_YCeqoYCshxiPw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654127151
+                    }
+                ]
+            }
+        }
+    }
+}

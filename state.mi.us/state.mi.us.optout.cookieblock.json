@@ -1,0 +1,79 @@
+{
+    "state.mi.us": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".state.mi.us",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829911956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728831711.955567,
+                        "expiry": 1800.9555668830872,
+                        "value": "3ju9in8dbnyylsm6Ssb96gGTnRvvH0GxD.X7wCNznoI-1728829912-1.0.1.1-tpls1mMIIIQq1BTPt1NjcDtTs.jPH43njMn3WNI_nchw1sGOY4OLeClaWknE9HEuv7sKAXpDdKFoj8b1HSslqQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829911956
+                    }
+                ]
+            },
+            "cf_ob_info": {
+                "name": "cf_ob_info",
+                "domain": "www.state.mi.us",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829911346,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728829941.341922,
+                        "expiry": 30.34192204475403,
+                        "value": "520:8d200921de9c3870:YYZ",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829911345
+                    }
+                ]
+            },
+            "cf_use_ob": {
+                "name": "cf_use_ob",
+                "domain": "www.state.mi.us",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829911346,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728829941.342497,
+                        "expiry": 30.34249711036682,
+                        "value": "443",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829911346
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.289952039718628,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829931292
+                    }
+                ]
+            }
+        }
+    }
+}

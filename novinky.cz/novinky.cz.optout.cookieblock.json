@@ -1,0 +1,592 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647598184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731329598.182081,
+                        "expiry": 2682000.182080984,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647598183
+                    }
+                ]
+            },
+            "TPC": {
+                "name": "TPC",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647599011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729252399.004396,
+                        "expiry": 604800.0043959618,
+                        "value": "1728647599126",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647599008
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647599006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733835199.004291,
+                        "expiry": 5187600.004291058,
+                        "value": "3451416385104981046",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647599005
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5187600.260552883,
+                        "value": "3451416385104981046",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647599261
+                    }
+                ]
+            }
+        }
+    },
+    "cmp.seznam.cz": {
+        "/": {
+            "last-redirect": {
+                "name": "last-redirect",
+                "domain": ".cmp.seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647600772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728648500.770266,
+                        "expiry": 900.7702660560608,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647600771
+                    }
+                ]
+            }
+        }
+    },
+    "novinky.cz": {
+        "/": {
+            "__cw_snc": {
+                "name": "__cw_snc",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647590931,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728651190.92833,
+                        "expiry": 3600.9283299446106,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647590929
+                    }
+                ]
+            },
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728647597432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183597,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647597431
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647598260
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647597221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183597,
+                        "expiry": 31536000,
+                        "value": "0|giloc9il9g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647597220
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647597220,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183597,
+                        "expiry": 31536000,
+                        "value": "giloc9il9g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647597219
+                    }
+                ]
+            },
+            "cmptestcookie": {
+                "name": "cmptestcookie",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647598470,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183598,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647598469
+                    }
+                ]
+            },
+            "lps": {
+                "name": "lps",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647596740,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731325996.734869,
+                        "expiry": 2678400.7348690033,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRrA.n9LfeBaPR4bAcn9--W3Xcmt3QvY",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647596738
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.7394781113,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRrA.n9LfeBaPR4bAcn9--W3Xcmt3QvY",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647596745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.165879965,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRrQ.GhIRWvEuZ2EVx7FJEchg0Dp4dl8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647597167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.7803730965,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRrw.LSQAftzL3Rt8kRWlMEYfp0H3ckQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647599781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.7825260162,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRrw.LSQAftzL3Rt8kRWlMEYfp0H3ckQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647599783
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647596737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763207596.734794,
+                        "expiry": 34560000.7347939,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647596736
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.73942089,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647596744
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.16574192,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647597167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.780313015,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647599780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.782501936,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647599782
+                    }
+                ]
+            },
+            "last-redirect": {
+                "name": "last-redirect",
+                "domain": ".www.novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647589512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728648489.490032,
+                        "expiry": 900.4900319576263,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647589492
+                    }
+                ]
+            }
+        }
+    },
+    "seznam.cz": {
+        "/": {
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647602794,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183602,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647602793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647603438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647604130
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647620144
+                    }
+                ]
+            },
+            "cmpreferrer": {
+                "name": "cmpreferrer",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647602585,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183602,
+                        "expiry": 31536000,
+                        "value": "https://www.novinky.cz/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647602584
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728647602585,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183602,
+                        "expiry": 31536000,
+                        "value": "0|nqbgpmvqoi",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647602585
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647602584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183602,
+                        "expiry": 31536000,
+                        "value": "nqbgpmvqoi",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647602583
+                    }
+                ]
+            },
+            "cw_return_url": {
+                "name": "cw_return_url",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647603437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183603,
+                        "expiry": 31536000,
+                        "value": "https://www.novinky.cz/?cwreturn=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647603435
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647596978,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731243196.976787,
+                        "expiry": 2595600.9767870903,
+                        "value": "id=14688789865635311192|t=1728647597.109|te=1728647597.109|c=C17B70D5209201DE2ECC3D8601210987",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728647596977
+                    }
+                ]
+            }
+        }
+    },
+    "szn.cz": {
+        "/": {
+            "lps": {
+                "name": "lps",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728647590516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731325990.503852,
+                        "expiry": 2678400.5038518906,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRpg.3C6h-Ux2eCtCxDtvS1cksQpzyRM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647590514
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.403516054,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZwkRsQ.H2HpFcJ3ZBNTKZkuXQmQArkZ5dE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647601404
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728647590513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763207590.503786,
+                        "expiry": 34560000.50378609,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647590504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.40338111,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728647601404
+                    }
+                ]
+            }
+        }
+    }
+}

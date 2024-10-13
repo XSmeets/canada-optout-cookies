@@ -1,0 +1,1906 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728818981815,
+                "storeId": "0",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744630181.810008,
+                        "expiry": 15811200.810008049,
+                        "value": "518=2Kd_j1gL4F4KsS67JlC5QDNEIMdWA9curvnWLBuWG-mWRSxHWJJIuhnydAPsRvBSUw0Jlvq0zfVLkwVhH2oEQCfP5cp0dulqdgRddR1McY5gGNofWxQohw4QsaQIG-VdaZjFyrMCj0ozpeyhFJjtctIS4y2ZrB7-p67aAdNVVMGmcKLTGSdwGCIcv-f9uKCNwCk4EpkWbviAuX5ssw57hOo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728818981814
+                    }
+                ]
+            }
+        }
+    },
+    "walmart.com": {
+        "/": {
+            "ACID": {
+                "name": "ACID",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718309,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760351718.30583,
+                        "expiry": 31536000.30583,
+                        "value": "52240a6a-64b0-43a2-a4de-73616e392974",
+                        "same_site": "lax",
+                        "timestamp": 1728815718306
+                    }
+                ]
+            },
+            "TS01a90220": {
+                "name": "TS01a90220",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718328
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01bab6ef38969c8d82ba8ebe1b32894ba2fc5c53b4c5c739909ac993e877a1facd95b72e16ad2417bd744aa3a4f7290a62b97899dc",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718806
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719663
+                    }
+                ]
+            },
+            "_m": {
+                "name": "_m",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718311,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733999718.305912,
+                        "expiry": 5184000.305912018,
+                        "value": "9",
+                        "same_site": "lax",
+                        "timestamp": 1728815718311
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.8010931015,
+                        "value": "9",
+                        "same_site": "lax",
+                        "timestamp": 1728815718801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.659056902,
+                        "value": "9",
+                        "same_site": "lax",
+                        "timestamp": 1728815719659
+                    }
+                ]
+            },
+            "_px3": {
+                "name": "_px3",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718176,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728816048,
+                        "expiry": 330,
+                        "value": "a3cbfd618deca9522b74f2cb354520ccf65fffa56f8823a5265b461cd98979c2:I1TU9+GeBJ8I36JaRc1vAz0att6z3m4NwTeo9EYf8kkoBt6RFJsVIF0Pc21vj9LIrFnGWsJemzsQCMSyEIRFnA==:1000:E+c/yLQNRikMxrXDRjRMFG3y+Ej32EOZOYzoqNsCAc0JkUfJThJKLhLvt2x02zGP9xclM8E0z2JiV3U/PTH51lHx2OZ83QcizOlPetdAsTjGZCNFgnBIHBrgd1DJhzj4iHi8+msTBzjt1hV1bkj2sirByRshtojGV4xmRo8KhXfHKseamX2t2n5JUB06FiD79OMUdGOrKQSC1ZlJSGhk0QhshSUXV4kpR5h17WhVuSk=",
+                        "same_site": "lax",
+                        "timestamp": 1728815718173
+                    }
+                ]
+            },
+            "_pxTestCookie": {
+                "name": "_pxTestCookie",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728815717266,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815717265
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815717269
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815718172
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815718179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815719044
+                    }
+                ]
+            },
+            "_pxde": {
+                "name": "_pxde",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717271,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728816047,
+                        "expiry": 330,
+                        "value": "2e12d59729964b10385c4472223ce889a17b95b16b7021b2a6eedededfdf7e8e:eyJ0aW1lc3RhbXAiOjE3Mjg4MTU3MTcyODF9",
+                        "same_site": "lax",
+                        "timestamp": 1728815717270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 330,
+                        "value": "806fdc5b7b21d83baf8f8517e0a8c98f7db28bd2677d2d4cfa9d8df9004890e4:eyJ0aW1lc3RhbXAiOjE3Mjg4MTU3MTgxODd9",
+                        "same_site": "lax",
+                        "timestamp": 1728815718179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 330,
+                        "value": "0098fafa8601c76121701394e050fca3b5b755fb2bc16c01ba78d0146a6abce7:eyJ0aW1lc3RhbXAiOjE3Mjg4MTU3MTkwNTh9",
+                        "same_site": "lax",
+                        "timestamp": 1728815719045
+                    }
+                ]
+            },
+            "_pxvid": {
+                "name": "_pxvid",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717269,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760351717,
+                        "expiry": 31536000,
+                        "value": "d695c3af-894e-11ef-ad33-f5fe740ec5eb",
+                        "same_site": "lax",
+                        "timestamp": 1728815717268
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815716172,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728822916.161126,
+                        "expiry": 7200.161125898361,
+                        "value": "D7F8ECA10D492BCBC6E747D8ACB5174A~000000000000000000000000000000~YAAQ2zbZF3Ut+XCSAQAAPFdyhRk4SHVnseUDXq2HqDv7i+F2K6N2msUR71QFx4arQ718TLs554jfyefpwuQk5zZxUZMBSo8at8a8J/Z2ThmtuUil88dtRDPhMgdjhg5k1zApweRBC/sEzby2yzVXfhi+Zcyi1ymCWQcwTviJqQdI2LOuWdfNJ2mGbQoCz6RAxrLBHOzADOgT4HF0iD0etfDarrl3pVh1Y9afP/hGKUKTwfcTcRoqFG3B+QPOywCIFypx/uxhIyWxDfxUFMykFcH7fpxXJJKU3AM/9hffE+RWWJKVibshIK0X7e4VNX9K24N36f+1/dPU8dy1Vilu/YYnO7+pUl4/CcpaaK5RoyoYYdVRn9rCDZKKqxRXYTF6Fd0WTBz7BIxA5w==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815716162
+                    }
+                ]
+            },
+            "auth": {
+                "name": "auth",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728817518.305958,
+                        "expiry": 1800.305958032608,
+                        "value": "MTAyOTYyMDE4QpBwUPgzLAn7H5X4OYoAmfd7VQ46upujNjIwt%2BM5fGFSLgvzV4a%2FX9d0qlggfHCW2CiKsKPE770DReI9Rsms52SzpAswqMGNGKqtQ0hv8de2%2BLcJszfxamCuPuZK6ZZY767wuZloTfhm7Wk2Kcjygp0i2CSRVbB3L7ys%2FtvUzQeSEkTxTxXC5iRW5PIj8yU8q0DjvSelJF0fUd6%2FHKZ%2BaBAP9ktV5Ghd0NxiHjZlozEUMk70P8glgOEpLOprhDfMJ0tmvH1FCaN9tZDh4SCrHZQb3MqXfc3fYg5IqfxXvi81rjiP2JwgFD9CJ0RBtabPyfi8rjhXMzHnNpVEA3S32LvCp8yTXfxdtVHFK%2BSW1MaWCeCBcImRNzzjONvx3uJlAufob8PK%2FKsUnUZJzL54B5E5WBBdZBCyKnCQAR7o6eg%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728815718313
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718330,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728822918.306939,
+                        "expiry": 7200.3069388866425,
+                        "value": "12A40E13CEA27F543098BF2DD9C50269~YAAQ2zbZF0cu+XCSAQAAu19yhRmlD8h2cq+QmgCtY0jR1ZMfX0VQrIDhFE3/hkL0GMtT6lJF+RXqL3douTY1PFAPE+0+Hr3OvohFjTbdg9/Hi9oa2R1uhQXSJnUppE3GqI8xWPePHwqGeUD4GViYGCDvJq0lF63rWQ/7mLDm+fM4SnFUZe4tJyDeTIfS/Hfrn8WaB06rbi20c2mB6jSSPLxgPiM4EP5fNLq2W/ci8t4oRjozxm7F64cUsgsGbux+Ig==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.753587007523,
+                        "value": "12A40E13CEA27F543098BF2DD9C50269~YAAQ2zbZF5cu+XCSAQAAfWFyhRnEGtHIDTMOI3vSjoKpckUwNCjr72/iIxskEhOiHp5Gbrhw443t+29qbgltNXVtv6WDbwMjtGylbs2CK1P2qMVOesIENx8+rbonCdIIoJqjDg/N6Cf0xY4eAB/byVaShIZaOP9MDF3tzogX9wbQkLee6wmBdKYaxmL2E+1JvEA/2jPNnnkngJhfPh5dhaxZYz5jW4f3v5eWzkqoSvcEkepa6XaBenPC8nJPQkrvOA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.802264928818,
+                        "value": "12A40E13CEA27F543098BF2DD9C50269~YAAQ2zbZF50u+XCSAQAApGFyhRlXWNzP8UJasiGCAwxDTfYui5uaIH+pxQcjZZRnkRsw15DbClskUjVjRS6vhuq7qCXPd8NAxW7llvonb/kSAqYylkjUGnIy1Nohi5CkPGet+n5duuUL9XjupVo6r1ZK+v+w19lHQJz9dDoQ4lZ7avokXZayXLiGG/SsHCrVEw5LAA0E9xIiMuq+iyUJTKbVBTRgl9v1810srllfR3oavDk5pP6XGxjxq3sljKEziw==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718807
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.036528110504,
+                        "value": "12A40E13CEA27F543098BF2DD9C50269~YAAQ2zbZF9Yu+XCSAQAAkGJyhRl4tUuDa2mUnr9qPt3bSlix3RQWyxK99DSLM8Cos5V8MolMNigcO4AcrDXy1AfGED7NR+6UpjOiarW4We4qUmSeiwDxNgg2c5Sv88Dn6UGBWOfn6SDPFmQkbzR/JMzKXUnxTrLstGkMrQa+SgLl6xprJkO2Zkf48fC7X6TtHlPQFJdtHP95a+8vXvTQmnhqNa0liwMJbw8G0mMFfHumdJbRhaWyG8h/Xbl0yMEN8A==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.659790992737,
+                        "value": "12A40E13CEA27F543098BF2DD9C50269~YAAQ2zbZFzgv+XCSAQAAB2VyhRmpkH4s8qFVoOCdnegb0JXAb9n3H9PZt8CMAkUt5kifoH/1cQaK0lwy+VgJH+0UbF6d6QXHpre2QsKexHSC7dpDifN6Z9fGRJUkY4yC4JnveGVUZL+RqH4T6AKt0hX0/03CRvc/W2Z+ifS7929DxRsi1hH6DO4wOU49Hy6VeXRWQMmogxvNFKbzyxTBPtV2gQy3eMUwG44WOs8QciisCG0yNuyUMOgFIv5ILOWjrg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719663
+                    }
+                ]
+            },
+            "bstc": {
+                "name": "bstc",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728815717760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.2531299591064,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719254
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.4326419830322,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6591548919678,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8948509693146,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719896
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.676805973053,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6838119029999,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.876298904419,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720877
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8922820091248,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720893
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0366740226746,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721038
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.145695924759,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721146
+                    }
+                ]
+            },
+            "exp-ck": {
+                "name": "exp-ck",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718326,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817518.306656,
+                        "expiry": 1800.306655883789,
+                        "value": "5Lybq25N9IQ15_Bo316Jmxl190cj2199IVe29WnaC19jX6b1BAGZ21DWZZl1LHiaD1M6YU61NbX172OQe8n2V5H9l1_0JH43cl8-a1fdm-71ji_L02mjpKB1pNCZ31pRup41tUwQp1uMekx2uvnI52",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7533600330353,
+                        "value": "5Lybq25N9IQ15_Bo316Jmxl190cj2199IVe29WnaC19jX6b1BAGZ21DWZZl1LHiaD1M6YU61NbX172OQe8n2V5H9l1_0JH43cl8-a1fdm-71ji_L02mjpKB1pNCZ31pRup41tUwQp1uMekx2uvnI52",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8017990589142,
+                        "value": "5Lybq25N9IQ15_Bo316Jmxl190cj2199IVe29WnaC19jX6b1BAGZ21DWZZl1LHiaD1M6YU61NbX172OQe8n2V5H9l1_0JH43cl8-a1fdm-71ji_L02mjpKB1pNCZ31pRup41tUwQp1uMekx2uvnI52",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0360929965973,
+                        "value": "5Lybq25N9IQ15_Bo316Jmxl190cj2199IVe29WnaC19jX6b1BAGZ21DWZZl1LHiaD1M6YU61NbX172OQe8n2V5H9l1_0JH43cl8-a1fdm-71ji_L02mjpKB1pNCZ31pRup41tUwQp1uMekx2uvnI52",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6594638824463,
+                        "value": "5Lybq25N9IQ15_Bo316Jmxl190cj2199IVe29WnaC19jX6b1BAGZ21DWZZl1LHiaD1M6YU61NbX172OQe8n2V5H9l1_0JH43cl8-a1fdm-71ji_L02mjpKB1pNCZ31pRup41tUwQp1uMekx2uvnI52",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719662
+                    }
+                ]
+            },
+            "hasACID": {
+                "name": "hasACID",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760351718.305979,
+                        "expiry": 31536000.305979013,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1728815718314
+                    }
+                ]
+            },
+            "mobileweb": {
+                "name": "mobileweb",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817518.306409,
+                        "expiry": 1800.306408882141,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7528989315033,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718756
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8012480735779,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718803
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0357060432434,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6591749191284,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719661
+                    }
+                ]
+            },
+            "pxcts": {
+                "name": "pxcts",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d695d58f-894e-11ef-ad33-0202a30caae4",
+                        "same_site": "lax",
+                        "timestamp": 1728815717267
+                    }
+                ]
+            },
+            "vtc": {
+                "name": "vtc",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.25310302,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719254
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.432589054,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719434
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.65913296,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89426303,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719896
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.67676902,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68371892,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.87627196,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720877
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89226389,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720893
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03665805,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.14564991,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721146
+                    }
+                ]
+            },
+            "xpa": {
+                "name": "xpa",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817518.30659,
+                        "expiry": 1800.3065900802612,
+                        "value": "-G6VK|0_oLh|3GQFb|5Lybq|5N9IQ|5_Bo3|6Jmxl|90cj2|99IVe|9WnaC|9jX6b|AR5re|BAGZ2|DWZZl|Do9sW|ED6je|EYIXc|LHiaD|M6YU6|NbX17|OQe8n|PGFt4|Q0vLT|V5H9l|WJF1i|YW5Ql|_0JH4|_FEo7|cHrbU|cl8-a|eLOvW|fdm-7|hUYIs|jHL2a|ji_L0|mjpKB|pNCZ3|pRup4|sWtW6|tUwQp|uMekx|uvnI5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718324
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7531580924988,
+                        "value": "-G6VK|0_oLh|3GQFb|5Lybq|5N9IQ|5_Bo3|6Jmxl|90cj2|99IVe|9WnaC|9jX6b|AR5re|BAGZ2|DWZZl|Do9sW|ED6je|EYIXc|LHiaD|M6YU6|NbX17|OQe8n|PGFt4|Q0vLT|V5H9l|WJF1i|YW5Ql|_0JH4|_FEo7|cHrbU|cl8-a|eLOvW|fdm-7|hUYIs|jHL2a|ji_L0|mjpKB|pNCZ3|pRup4|sWtW6|tUwQp|uMekx|uvnI5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8016579151154,
+                        "value": "-G6VK|0_oLh|3GQFb|5Lybq|5N9IQ|5_Bo3|6Jmxl|90cj2|99IVe|9WnaC|9jX6b|AR5re|BAGZ2|DWZZl|Do9sW|ED6je|EYIXc|LHiaD|M6YU6|NbX17|OQe8n|PGFt4|Q0vLT|V5H9l|WJF1i|YW5Ql|_0JH4|_FEo7|cHrbU|cl8-a|eLOvW|fdm-7|hUYIs|jHL2a|ji_L0|mjpKB|pNCZ3|pRup4|sWtW6|tUwQp|uMekx|uvnI5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.035775899887,
+                        "value": "-G6VK|0_oLh|3GQFb|5Lybq|5N9IQ|5_Bo3|6Jmxl|90cj2|99IVe|9WnaC|9jX6b|AR5re|BAGZ2|DWZZl|Do9sW|ED6je|EYIXc|LHiaD|M6YU6|NbX17|OQe8n|PGFt4|Q0vLT|V5H9l|WJF1i|YW5Ql|_0JH4|_FEo7|cHrbU|cl8-a|eLOvW|fdm-7|hUYIs|jHL2a|ji_L0|mjpKB|pNCZ3|pRup4|sWtW6|tUwQp|uMekx|uvnI5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6593070030212,
+                        "value": "-G6VK|0_oLh|3GQFb|5Lybq|5N9IQ|5_Bo3|6Jmxl|90cj2|99IVe|9WnaC|9jX6b|AR5re|BAGZ2|DWZZl|Do9sW|ED6je|EYIXc|LHiaD|M6YU6|NbX17|OQe8n|PGFt4|Q0vLT|V5H9l|WJF1i|YW5Ql|_0JH4|_FEo7|cHrbU|cl8-a|eLOvW|fdm-7|hUYIs|jHL2a|ji_L0|mjpKB|pNCZ3|pRup4|sWtW6|tUwQp|uMekx|uvnI5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719661
+                    }
+                ]
+            },
+            "xpm": {
+                "name": "xpm",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728815718326,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817518.30663,
+                        "expiry": 1800.306629896164,
+                        "value": "0%2B1728815718%2Bdh7o-gQxrWjcLQf-MJ3AnM~%2B0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718325
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7532179355621,
+                        "value": "0%2B1728815718%2Bdh7o-gQxrWjcLQf-MJ3AnM~%2B0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8017420768738,
+                        "value": "0%2B1728815718%2Bdh7o-gQxrWjcLQf-MJ3AnM~%2B0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0359361171722,
+                        "value": "0%2B1728815718%2Bdh7o-gQxrWjcLQf-MJ3AnM~%2B0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6593749523163,
+                        "value": "1%2B1728815718%2Bdh7o-gQxrWjcLQf-MJ3AnM~%2B0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719662
+                    }
+                ]
+            },
+            "xptc": {
+                "name": "xptc",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728815718758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817518.752932,
+                        "expiry": 1800.7529320716858,
+                        "value": "assortmentStoreId%2B3081~_m%2B9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718756
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8013980388641,
+                        "value": "assortmentStoreId%2B3081~_m%2B9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718804
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0357298851013,
+                        "value": "assortmentStoreId%2B3081~_m%2B9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6592059135437,
+                        "value": "_m%2B9~assortmentStoreId%2B3081",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719661
+                    }
+                ]
+            },
+            "xpth": {
+                "name": "xpth",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817518.30656,
+                        "expiry": 1800.3065600395203,
+                        "value": "x-o-mart%2BB2C~x-o-mverified%2Bfalse",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7530000209808,
+                        "value": "x-o-mart%2BB2C~x-o-mverified%2Bfalse",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8015749454498,
+                        "value": "x-o-mart%2BB2C~x-o-mverified%2Bfalse",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718804
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0357539653778,
+                        "value": "x-o-mart%2BB2C~x-o-mverified%2Bfalse",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6592469215393,
+                        "value": "x-o-mart%2BB2C~x-o-mverified%2Bfalse",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719661
+                    }
+                ]
+            },
+            "xptwg": {
+                "name": "xptwg",
+                "domain": ".walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2794887104:197BB120C258D30:3F4F12D:E2F06696:6C75B0FB:E302B874:",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718327
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "549478037:D838F7D199E4D8:2192BA2:578E45F9:4A6D3CC7:D278ED1A:",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "775447266:1CD1668EE17CF00:4797FA1:FB99F87D:F59590E6:89B86FCE:",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1101399102:23A68570F93C5A0:5891637:C9566411:9740CE45:E0A3AA37:",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719663
+                    }
+                ]
+            },
+            "TS012768cf": {
+                "name": "TS012768cf",
+                "domain": ".www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718327
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01bab6ef38969c8d82ba8ebe1b32894ba2fc5c53b4c5c739909ac993e877a1facd95b72e16ad2417bd744aa3a4f7290a62b97899dc",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01203d59cbad74826dce566d517198b40c7075336c81f8fab09e0c6ce99994b3574b0cf8fa8e5aec18cd16a9703e8c6efa7a774a4f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719663
+                    }
+                ]
+            },
+            "abqme": {
+                "name": "abqme",
+                "domain": ".www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731407718.306125,
+                        "expiry": 2592000.3061249256,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718322
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.7527480125,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718753
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.801146984,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.035590887,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.6591091156,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719660
+                    }
+                ]
+            },
+            "akavpau_p2": {
+                "name": "akavpau_p2",
+                "domain": "walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815715263,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728816315~id=eec6cd4bce9459a9f0abb6d6757b419e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815715253
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728816316~id=9355d5b09dd5fe0a5632abcc367ecd32",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815716161
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728816319~id=77623003201913236a02d26b21cbac71",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815719663
+                    }
+                ]
+            },
+            "TS2a5e0c5c027": {
+                "name": "TS2a5e0c5c027",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718329,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08bff2591fab2000c21f5a028bf5248161fa354e77d89846f7a08040dc30d50919322d767eb7802e0889a4bb921130006984b7e33130d62115652bb01f7b72dbff4b80080467eff3eb28577aa0dbccf3a120d0ac92ecf5787d1cd7f2a467c2ee",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718328
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08bff2591fab2000f14eaa6d78dbdf915684c6141e54d92021b2e1125aff5e75fce056710dc7027d082dbaa4fd11300043d8f1f3b83e864215652bb01f7b72dbff4b80080467eff3eb28577aa0dbccf3a120d0ac92ecf5787d1cd7f2a467c2ee",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718758
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0826a4e0adab2000ff8ad7130b8eeb49d9dc8959bb86c790940fa9642674e1d922d0b8dee434ca62087c2ddb8d113000913eb951446d60cddbfedc4a08f5213bff391e957f85af5b83f5ece597c49d51bd2b1a46da0d23610915fa0eac2158d0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718806
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08bff2591fab2000b2d873c0c97e8dd5a02d2ba5b2a70fdaae418652303416f2d0c76ea6ae3a268f08ec5b87541130004a3ee296e9335a7a15652bb01f7b72dbff4b80080467eff3eb28577aa0dbccf3a120d0ac92ecf5787d1cd7f2a467c2ee",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719040
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08bff2591fab2000fa92bfb45369cc3371bb283319d4777ecf498a44ee7b5caa3a90103b31c4163b08cd0f7123113000e710940ed4f6844fb292428cff5d44259c49f7693e8ef4708068587db5fc4c277deedd4a0cd5a69852b4a8d15eb886ee",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719663
+                    }
+                ]
+            },
+            "_astc": {
+                "name": "_astc",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717778,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "f37721b3cbf2409ba97e9f37d1c549cb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815717777
+                    }
+                ]
+            },
+            "_intlbu": {
+                "name": "_intlbu",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718311,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728819318.305891,
+                        "expiry": 3600.3058910369873,
+                        "value": "false",
+                        "same_site": "lax",
+                        "timestamp": 1728815718310
+                    }
+                ]
+            },
+            "_pxhd": {
+                "name": "_pxhd",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760351718.306707,
+                        "expiry": 31536000.306706905,
+                        "value": "9d5494055f7192305a203539288c4185e03ff6e67b783c9b57d9f3d17a1ffb89:d695c3af-894e-11ef-ad33-f5fe740ec5eb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815718326
+                    }
+                ]
+            },
+            "_shcc": {
+                "name": "_shcc",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728819318.305928,
+                        "expiry": 3600.305927991867,
+                        "value": "US",
+                        "same_site": "lax",
+                        "timestamp": 1728815718311
+                    }
+                ]
+            },
+            "adblocked": {
+                "name": "adblocked",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717781,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729420517,
+                        "expiry": 604800,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815717780
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719418
+                    }
+                ]
+            },
+            "akavpau_p1": {
+                "name": "akavpau_p1",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718807,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728816318~id=c178ccfbb365abe4c4ba07fa9df66355",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728815718806
+                    }
+                ]
+            },
+            "assortmentStoreId": {
+                "name": "assortmentStoreId",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728819318.305942,
+                        "expiry": 3600.3059420585632,
+                        "value": "3081",
+                        "same_site": "lax",
+                        "timestamp": 1728815718312
+                    }
+                ]
+            },
+            "hasLocData": {
+                "name": "hasLocData",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718316,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728819318.305994,
+                        "expiry": 3600.3059940338135,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728815718315
+                    }
+                ]
+            },
+            "locDataV3": {
+                "name": "locDataV3",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718320,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728819318.306007,
+                        "expiry": 3600.3060069084167,
+                        "value": "eyJpc0RlZmF1bHRlZCI6dHJ1ZSwiaXNFeHBsaWNpdCI6ZmFsc2UsImludGVudCI6IlNISVBQSU5HIiwicGlja3VwIjpbeyJidUlkIjoiMCIsIm5vZGVJZCI6IjMwODEiLCJkaXNwbGF5TmFtZSI6IlNhY3JhbWVudG8gU3VwZXJjZW50ZXIiLCJub2RlVHlwZSI6IlNUT1JFIiwiYWRkcmVzcyI6eyJwb3N0YWxDb2RlIjoiOTU4MjkiLCJhZGRyZXNzTGluZTEiOiI4OTE1IEdFUkJFUiBST0FEIiwiY2l0eSI6IlNhY3JhbWVudG8iLCJzdGF0ZSI6IkNBIiwiY291bnRyeSI6IlVTIiwicG9zdGFsQ29kZTkiOiI5NTgyOS0wMDAwIn0sImdlb1BvaW50Ijp7ImxhdGl0dWRlIjozOC40ODI2NzcsImxvbmdpdHVkZSI6LTEyMS4zNjkwMjZ9LCJpc0dsYXNzRW5hYmxlZCI6dHJ1ZSwic2NoZWR1bGVkRW5hYmxlZCI6dHJ1ZSwidW5TY2hlZHVsZWRFbmFibGVkIjp0cnVlLCJzdG9yZUhycyI6IjA2OjAwLTIzOjAwIiwiYWxsb3dlZFdJQ0FnZW5jaWVzIjpbIkNBIl0sInN1cHBvcnRlZEFjY2Vzc1R5cGVzIjpbIlBJQ0tVUF9TUEVDSUFMX0VWRU5UIiwiUElDS1VQX0lOU1RPUkUiLCJQSUNLVVBfQ1VSQlNJREUiXSwidGltZVpvbmUiOiJQU1QiLCJzdG9yZUJyYW5kRm9ybWF0IjoiV2FsbWFydCBTdXBlcmNlbnRlciIsImRpc3RhbmNlIjowLCJzZWxlY3Rpb25UeXBlIjoiREVGQVVMVEVEIn1dLCJzaGlwcGluZ0FkZHJlc3MiOnsibGF0aXR1ZGUiOjM4LjQ4MjY3NywibG9uZ2l0dWRlIjotMTIxLjM2OTAyNiwicG9zdGFsQ29kZSI6Ijk1ODI5IiwiY2l0eSI6IlNhY3JhbWVudG8iLCJzdGF0ZSI6IkNBIiwiY291bnRyeUNvZGUiOiJVUyIsImxvY2F0aW9uQWNjdXJhY3kiOiJsb3ciLCJnaWZ0QWRkcmVzcyI6ZmFsc2UsImFsbG93ZWRXSUNBZ2VuY2llcyI6WyJDQSJdfSwiYXNzb3J0bWVudCI6eyJub2RlSWQiOiIzMDgxIiwiZGlzcGxheU5hbWUiOiJTYWNyYW1lbnRvIFN1cGVyY2VudGVyIiwiZGlzdGFuY2UiOjAsImludGVudCI6IlBJQ0tVUCJ9LCJpbnN0b3JlIjpmYWxzZSwiZGVsaXZlcnkiOnsiYnVJZCI6IjAiLCJub2RlSWQiOiIzMDgxIiwiZGlzcGxheU5hbWUiOiJTYWNyYW1lbnRvIFN1cGVyY2VudGVyIiwibm9kZVR5cGUiOiJTVE9SRSIsImFkZHJlc3MiOnsicG9zdGFsQ29kZSI6Ijk1ODI5IiwiYWRkcmVzc0xpbmUxIjoiODkxNSBHRVJCRVIgUk9BRCIsImNpdHkiOiJTYWNyYW1lbnRvIiwic3RhdGUiOiJDQSIsImNvdW50cnkiOiJVUyIsInBvc3RhbENvZGU5IjoiOTU4MjktMDAwMCJ9LCJnZW9Qb2ludCI6eyJsYXRpdHVkZSI6MzguNDgyNjc3LCJsb25naXR1ZGUiOi0xMjEuMzY5MDI2fSwiaXNHbGFzc0VuYWJsZWQiOnRydWUsInNjaGVkdWxlZEVuYWJsZWQiOmZhbHNlLCJ1blNjaGVkdWxlZEVuYWJsZWQiOmZhbHNlLCJhY2Nlc3NQb2ludHMiOlt7ImFjY2Vzc1R5cGUiOiJERUxJVkVSWV9BRERSRVNTIn1dLCJpc0V4cHJlc3NEZWxpdmVyeU9ubHkiOmZhbHNlLCJhbGxvd2VkV0lDQWdlbmNpZXMiOlsiQ0EiXSwic3VwcG9ydGVkQWNjZXNzVHlwZXMiOlsiREVMSVZFUllfQUREUkVTUyJdLCJ0aW1lWm9uZSI6IlBTVCIsInN0b3JlQnJhbmRGb3JtYXQiOiJXYWxtYXJ0IFN1cGVyY2VudGVyIiwiZGlzdGFuY2UiOjAsInNlbGVjdGlvblR5cGUiOiJERUZBVUxURUQifSwiaXNnZW9JbnRsVXNlciI6ZmFsc2UsInJlZnJlc2hBdCI6MTcyODgxOTMxODI2MiwidmFsaWRhdGVLZXkiOiJwcm9kOnYyOjUyMjQwYTZhLTY0YjAtNDNhMi1hNGRlLTczNjE2ZTM5Mjk3NCJ9",
+                        "same_site": "lax",
+                        "timestamp": 1728815718316
+                    }
+                ]
+            },
+            "locGuestData": {
+                "name": "locGuestData",
+                "domain": "www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815718322,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760351718.306045,
+                        "expiry": 31536000.306045055,
+                        "value": "eyJpbnRlbnQiOiJTSElQUElORyIsImlzRXhwbGljaXQiOmZhbHNlLCJzdG9yZUludGVudCI6IlBJQ0tVUCIsIm1lcmdlRmxhZyI6ZmFsc2UsImlzRGVmYXVsdGVkIjp0cnVlLCJwaWNrdXAiOnsibm9kZUlkIjoiMzA4MSIsInRpbWVzdGFtcCI6MTcyODgxNTcxODI2MCwic2VsZWN0aW9uVHlwZSI6IkRFRkFVTFRFRCJ9LCJzaGlwcGluZ0FkZHJlc3MiOnsidGltZXN0YW1wIjoxNzI4ODE1NzE4MjYwLCJ0eXBlIjoicGFydGlhbC1sb2NhdGlvbiIsImdpZnRBZGRyZXNzIjpmYWxzZSwicG9zdGFsQ29kZSI6Ijk1ODI5IiwiZGVsaXZlcnlTdG9yZUxpc3QiOlt7Im5vZGVJZCI6IjMwODEiLCJ0eXBlIjoiREVMSVZFUlkiLCJ0aW1lc3RhbXAiOjE3Mjg4MTU3MTgyNTEsImRlbGl2ZXJ5VGllciI6bnVsbCwic2VsZWN0aW9uVHlwZSI6IkRFRkFVTFRFRCIsInNlbGVjdGlvblNvdXJjZSI6bnVsbH1dLCJjaXR5IjoiU2FjcmFtZW50byIsInN0YXRlIjoiQ0EifSwicG9zdGFsQ29kZSI6eyJ0aW1lc3RhbXAiOjE3Mjg4MTU3MTgyNjAsImJhc2UiOiI5NTgyOSJ9LCJtcCI6W10sIm1zcCI6eyJub2RlSWRzIjpbXSwidGltZXN0YW1wIjpudWxsfSwibXBEZWxTdG9yZUNvdW50IjowLCJ2YWxpZGF0ZUtleSI6InByb2Q6djI6NTIyNDBhNmEtNjRiMC00M2EyLWE0ZGUtNzM2MTZlMzkyOTc0In0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728815718320
+                    }
+                ]
+            }
+        }
+    },
+    "b.www.walmart.com": {
+        "/": {
+            "_tap-criteo": {
+                "name": "_tap-criteo",
+                "domain": "b.www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815719436,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1730025319.432684,
+                        "expiry": 1209600.4326839447,
+                        "value": "1728815719432:0:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719435
+                    }
+                ]
+            },
+            "_tap_path": {
+                "name": "_tap_path",
+                "domain": "b.www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815719439,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "/rum.gif",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719438
+                    }
+                ]
+            },
+            "b30msc": {
+                "name": "b30msc",
+                "domain": "b.www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728817517.756322,
+                        "expiry": 1800.7563219070435,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815717758
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.2530789375305,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719253
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.4325580596924,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719434
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8942248821259,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719896
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6767280101776,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720679
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.6836819648743,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720687
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.876226902008,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720877
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8922500610352,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720892
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.0366439819336,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721037
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.1456379890442,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721146
+                    }
+                ]
+            },
+            "bsc": {
+                "name": "bsc",
+                "domain": "b.www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815717757
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719253
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719434
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719895
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720678
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720686
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720877
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720892
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721037
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721146
+                    }
+                ]
+            },
+            "btc": {
+                "name": "btc",
+                "domain": "b.www.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815717757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763375717.756279,
+                        "expiry": 34560000.75627899,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815717756
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.252995014,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719253
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.43243003,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719433
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89407492,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719895
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.676574945,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720678
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68358898,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720686
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.876153946,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720876
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89219499,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815720892
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.036586046,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721037
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.145582914,
+                        "value": "dh7o-gQxrWjcLQf-MJ3AnM",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815721146
+                    }
+                ]
+            }
+        }
+    },
+    "tap.walmart.com": {
+        "/": {
+            "TS2a5e0c5c027": {
+                "name": "TS2a5e0c5c027",
+                "domain": "tap.walmart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728815719885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0871be614eab20002c1a79f36ac3436bb19a84e46bbbefc8c25f46f4c5b77d4762d47eefe081989508b6e3ef4b11300019a7682244b29db70f651ae046865ea255b0999e824a7b483771b6e5fbe8dab5663eabac5abd8ede0d4c20754e480c7e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728815719884
+                    }
+                ]
+            }
+        }
+    }
+}

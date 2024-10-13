@@ -1,0 +1,27 @@
+{
+    "verwaltung.bund.de": {
+        "/": {
+            "isTrackingConsentGiven": {
+                "name": "isTrackingConsentGiven",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658452713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729263252.702029,
+                        "expiry": 604800.7020289898,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658452704
+                    }
+                ]
+            }
+        }
+    }
+}

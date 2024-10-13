@@ -1,0 +1,700 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642321041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744453521.040135,
+                        "expiry": 15811200.040134907,
+                        "value": "518=RMexEDEMbLxCzKEiNpB5teuVYrCWkWPwV6Mcp_3tN0rwJuw_s9tkbEXnmZMWuy7C70Ry84vOLLS3x95pa3li-xtoRlnDqzjFm2pp-YEifiVL9fejQGp2c8pAxcYUd7Vb4lC7tli6iQ0OLbm0mVtzZ_q6dJhjulAWhtM1MGJxzGZDwal_Vg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728642321041
+                    }
+                ]
+            }
+        }
+    },
+    "sejm.gov.pl": {
+        "/": {
+            "TS01daefc4": {
+                "name": "TS01daefc4",
+                "domain": ".sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642313816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef84482e694822b3e0fbcc60d67f3121700acb550e81cb366edd5f7caba41075f72f67e1cf0084b9773819e4573ac426896cdf1a0fc62f64bd83978a3318d6ebf3ef94b9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642313810
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef84482e26d8ad6d32afddd9946a5c0a3480c4b30e81cb366edd5f7caba41075f72f67e1cf0084b9773819e4573ac426896cdf1a60531848e97ccda01fbcb07eb82f2216fa003164fe3ac05f11860e6a39c9558a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642338660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef84482e16ef4f38ead52c24bda2eb098a3247d20e81cb366edd5f7caba41075f72f67e1cf0084b9773819e4573ac426896cdf1a60531848e97ccda01fbcb07eb82f22162140cffc5b473afe2cc3026d606b8f9fd4ddf91da298cb6015fd894a2cb00b30",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642412205
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef84482e16ef4f38ead52c24bda2eb098a3247d20e81cb366edd5f7caba41075f72f67e1cf0084b9773819e4573ac426896cdf1a60531848e97ccda01fbcb07eb82f22162140cffc5b473afe2cc3026d606b8f9fd4ddf91da298cb6015fd894a2cb00b30",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642414391
+                    }
+                ]
+            },
+            "incap_ses_1382_3054990": {
+                "name": "incap_ses_1382_3054990",
+                "domain": ".sejm.gov.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728642313823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2ZNibqJHmjmhH9g3x9ktEwj9CGcAAAAAzuWSSYDcpbmZh/SN7n7u1w==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642313822
+                    }
+                ]
+            },
+            "nlbi_3054990": {
+                "name": "nlbi_3054990",
+                "domain": ".sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642313822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "hYPaIEH1Gj494FGLQudUdQAAAAB2mhNt1UpbayNfBRXwc64S",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642313821
+                    }
+                ]
+            },
+            "visid_incap_3054990": {
+                "name": "visid_incap_3054990",
+                "domain": ".sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642313820,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760138604.797368,
+                        "expiry": 31496291.79736805,
+                        "value": "9H4D+2JrTzesOw12w3lc+gj9CGcAAAAAQUIPAAAAAAB+hWx5ey4kQfTNs/ceelMi",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642313819
+                    }
+                ]
+            },
+            "SessionID": {
+                "name": "SessionID",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642313810,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "09EE0C2BF8026A861D3F6452C0F69D583160AEBC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642313800
+                    }
+                ]
+            },
+            "TS00000000074": {
+                "name": "TS00000000074",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642320217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728728720,
+                        "expiry": 86400,
+                        "value": "08a02c1a15ab28002923fc26b01db563adced23bd7f9e01023d2a36ea30784abd8fde45b7bc4b181baac1cc210caa934087e2c9ca107e000bb75f27e7970cc24f956a317cd2bcd498a145a47e1bdbbddff7756a406f1e5e62e061c8c8c02b81c1cd22052532fbd315b69c370b4742619bc230cd9ba8f5c7c85fe0c206ac3ac953f91fa4aed44f98f25e27d1c60348bc6fef7a34a163b306797819092fbe12073fa53cb5d8e80e51ea7495ad8923bc79a8c4722619fc5fe9a481b55f2a4a3dd1e8442854dbdf10aa4101f04a2d39345c3919a6ecd23d92f2a51aea46b7ce57b31ba052eec0973252dea09c08baf6371f05e3a7be372ce39bad1bbf2bbaad828a7bcda2b1f2e71bbdd299c1cf45147e74dbf84bf7575001cfc",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642320216
+                    }
+                ]
+            },
+            "TS00000000076": {
+                "name": "TS00000000076",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642320242,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab28002923fc26b01db563adced23bd7f9e01023d2a36ea30784abd8fde45b7bc4b181baac1cc210caa934087e2c9ca109d000fc9278a6bab81c4db1a1bed499a81535e8ac39a86795855c57566b88a6586196c961b3f15cf62423641c6e9cc011000ef5825471a4ee7965031c1efa82ef083fe7e07fe2eba45e2084d4654324aca67f655f7c4bb9433790df0de8131eafebfbe670ea11521c6ba26ec7ab03f055fa753be7ef82a8dee9a897d23ce9931ded0e9d128d0a1c9265da9badf2e31ae20d579aa217509b91a02fdccaa605d8ed17179548ad2be354f617a907f8776ce7caa5395cde3b32bc51c6701fe7e84577ae16c6e6bec876485b45638a219b03d608a1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642320240
+                    }
+                ]
+            },
+            "TSPD_101": {
+                "name": "TSPD_101",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642321557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800fdbd9909f915036e57ffa7406869c072c258552963c5a70b5048acfd354031d9d8d8f6f93750695f088fdf0e2905180086a2f1b46d64ab7d516dc8c9b1f6565c28a28593703239b5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642321555
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800cb411a4a988199d492cd0d64ee6ca85295932bd91cb8725a45b38aa5ef392ac847fc5c2cdcd48d8f08578643ad0518008cb0bfc2d7e38c1aa4047d15281ac6650dbea271b6924581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642338660
+                    }
+                ]
+            },
+            "TSPD_101_DID": {
+                "name": "TSPD_101_DID",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642321289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab28002923fc26b01db563adced23bd7f9e01023d2a36ea30784abd8fde45b7bc4b181baac1cc210caa934087e2c9ca10638007aef580d41a1a5341c7dfa018009098a25dea1c488e28dfcad87fef0e27a05303b36afd17c25556c8738a17bd14cafdaab1c240b9f89d1c8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642321288
+                    }
+                ]
+            },
+            "TSa8269e27029": {
+                "name": "TSa8269e27029",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642313817,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728642343.797217,
+                        "expiry": 30.79721689224243,
+                        "value": "08a02c1a15ab28004a0659ace0ed14311385730c7af87e9f94fe9e40090a5b82b6c09e07e770d1836f7bddf36a21c97b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642313816
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.85286593437195,
+                        "value": "08a02c1a15ab28006f643bdfeb851d178f7e7a3c3e2a09a42cd6dd2525167f599cfa3847ceddf4311750f56113e1a6b8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642315854
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.656131982803345,
+                        "value": "08a02c1a15ab2800d4a68637502f9efabbcc2300555fb4a64dfe8470c235a6422c1801a7225c9efa183ebdd190366bfd",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642338660
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.202574014663696,
+                        "value": "08a02c1a15ab28007ee6997c49ed83051d2f31482dd1d7dbc269707e4a71571899e74b83056d2e4d3f75802092ce9f0a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642412205
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.390389919281006,
+                        "value": "08a02c1a15ab280087fd25483e3263d3d021103979ed153d244932d31e1c354dbb206464bcf402716d3ecee10e1ce7a8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642414391
+                    }
+                ]
+            },
+            "TSa8269e27077": {
+                "name": "TSa8269e27077",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642316294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423207
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423221
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423234
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423247
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423260
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423273
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423288
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423300
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423314
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2800ae9296c1b07e33fdc2a09146174048cb0d08f3552130af45a2dcfe8ee56f596bafb07c38911816fd089098622a172000569f57afccf220d6ff0e855657033d7c98573d40fba764766d76e0af4522f631",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642423340
+                    }
+                ]
+            },
+            "TSb86c9039027": {
+                "name": "TSb86c9039027",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642313818,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000761a9345f1fc1d9b65c1143ac8ab8717be623f13f92519544f853038b197ab7a082039398d113000d913725cbd9b51a4e590fff2c4b5bde27af82c88fc882a1ad068e67855e9dbddfc1cc2b7ef2ee9462ac5ce629915e5da",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642315854
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab200027ef7f21246d02b7fa6506303aa38bebd405bdf08b1d99cfc628a529e60aae5208daa0aa23113000ed33469f233b7ca1e590fff2c4b5bde27af82c88fc882a1ad068e67855e9dbddfc1cc2b7ef2ee9462ac5ce629915e5da",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642315876
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000e2b1ade8fe240a2968ba4ea9e0d31bc3389c8c8696aa51f81520b1f0af9e341d08001cc8791130006b3cb8c555b9a3fd2578149dec18e2bcfe929e3a09592d2648270e1d9dfcde99f87555e7cc6c22ee4b3cfcb887995b2f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642316552
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000aa8605a3c658034b3d8ea5d7ff239f17d488bb80ca9ffc6db218bbf1509c278008abd75694113000723597c35b588a036d18defe7c0d7df99d6eaf4e78be267b08122296bdd077c21a39e5a3ceee05585497d3ce15d42906",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642321558
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000a6380e6b8596fb0ff3dcb000e22858719504e5802eddc3a49b5faf72f92a2876083ea5948f113000965234965adb2409cd8d0b67b8d325ea5bde701af51228eba16611570ac6146b2e9a53eaf01e854242f0b5fa27a2fc8d",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642338660
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab200058bd218cd864eba864cd75fdb1d87ab29393fc87ad588eacefaa965657b7ea210823216983113000cff99caff2bba9e64dc9ba6fc8af121dde6e7034889b791fac807bae86b25bda9b905b9d5f23ee59da6d18713445f990",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642339519
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000bdeae3746a00524dc3fd86bcfc5428cd594865ad24bbefa479485e436b311bcd089061a8c7113000373e787d3dcff485cffa234fae7fdba87d0fb949be695040e8a42a36e1530292ec2e5a3b4e6cbe4e68f0be832081ec19",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642412206
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000ea2bdb20cda149fc8d1463ea67677b7c39d44cef7e44b3105b860a574178d0d9088e76e3c3113000bca26f56c9f71119cffa234fae7fdba87d0fb949be695040e8a42a36e1530292ec2e5a3b4e6cbe4e68f0be832081ec19",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642412518
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000c09b2d21e48b59b8fd7c7cfd43a7d5e1b2ea777a4f397752109acad3d143396708646f46e9113000792d9ad26de8e1605f90b3f1b6d2661b520c1970170a63040eac9a1d3ab76b3497fca690e3214146a8033893a253e0bb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642414391
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab2000633815907860d98210fa16b3dcb2ab979283dc0b9f8440e9346e324272a09ed508521afd4111300077d0644d525eeba15f90b3f1b6d2661b520c1970170a63040eac9a1d3ab76b3497fca690e3214146a8033893a253e0bb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642414695
+                    }
+                ]
+            },
+            "___utmvc": {
+                "name": "___utmvc",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728642315578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728642335,
+                        "expiry": 20,
+                        "value": "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",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642315571
+                    }
+                ]
+            },
+            "f5avr2027356083aaaaaaaaaaaaaaaa_cspm_": {
+                "name": "f5avr2027356083aaaaaaaaaaaaaaaa_cspm_",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642339336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "MADEIMNLPLPFBENNEPOPAEHKGDOJDADBKAMCIADJOAIOAPBKEBJAHCLBOMAEHHCMLEOCBNCBDPENALKGCAJAFCNGAHBCBFEFEBIIFBMDBPABOBNHDLOCCHONPFDGNFMF",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642339335
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDCDCIMMDAAFBAPMLMGGKAFKJABNPMNDFHIOIGKLKGEBGKJLDAOLBBLEOOLKJLLDKLICDJMIDOLMHAIBHBEACAJCAEBKJMONCAFIEJOGMKFCEOLIHPHMIFNLDBGNNBBG",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642412344
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "EAEDHLLINGICPCDDEDCECAENHJMJKNCPNGIJKJNCKMAMJJMLGIMMDBNBPAHDGGHLNBBCMIIFBEJKKCNNPKLAKFMNAFIJAOIGFFLJKJBOFKIODFEFEAOKAGFECNHIEPMK",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642414524
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": "sejm.gov.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728642320223,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08a02c1a15ab28002923fc26b01db563adced23bd7f9e01023d2a36ea30784abd8fde45b7bc4b181baac1cc210caa934087e2c9ca1091000ed9e0c5991485b34f3be4a08a1544d4c",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642320222
+                    }
+                ]
+            }
+        },
+        "/TSPD": {
+            "TSURLCK_test": {
+                "name": "TSURLCK_test",
+                "domain": "sejm.gov.pl",
+                "path": "/TSPD",
+                "current_label": 1,
+                "label_ts": 1728642316295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "test_cookie_support",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642316295
+                    }
+                ]
+            },
+            "TSa8269e27071": {
+                "name": "TSa8269e27071",
+                "domain": "sejm.gov.pl",
+                "path": "/TSPD",
+                "current_label": 0,
+                "label_ts": 1728642321291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728642326,
+                        "expiry": 5,
+                        "value": "08a02c1a15ab28002923fc26b01db563adced23bd7f9e01023d2a36ea30784abd8fde45b7bc4b181baac1cc210caa934:087e2c9ca104b00028f4228e53ff32fd8e8f4afccc19d6d797223291b284803cc6fb36c0ff661487e673cecd56ca32975c0ce3528f3e734c1335d87b0b059576f1d038255966af5ce273fda6fd4abe8b857be58fd676a50cdc73c1b59a41993bf21c73640256e94b770c51c8b9ab848e3207a881c1cdaa196fd077efb13d6d44d2706a89e9be828f6160b2d2091e7db8b81c19cd35eb796c91201448b94b77a3446d719f58045aea523642d83162b74a09c1e7ee224d0e60",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642321290
+                    }
+                ]
+            }
+        },
+        "/Sejm10.nsf/page.xsp": {
+            "f5_cspm": {
+                "name": "f5_cspm",
+                "domain": "sejm.gov.pl",
+                "path": "/Sejm10.nsf/page.xsp",
+                "current_label": 0,
+                "label_ts": 1728642338660,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1234",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642338657
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1234",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642412205
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1234",
+                        "same_site": "unspecified",
+                        "timestamp": 1728642414391
+                    }
+                ]
+            }
+        }
+    }
+}

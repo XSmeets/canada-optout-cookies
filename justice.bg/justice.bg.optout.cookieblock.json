@@ -1,0 +1,115 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641132035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744452332.035267,
+                        "expiry": 15811200.035267115,
+                        "value": "518=LGzwOBfk5OxAplJKKry99_z9Co3XS18M6b96V7MJm3YhGgLmCFM7mqfh6QEeV_TfpW5ZGPEHxBw3BCHsk5TAYOU6Ge9h3Yajnr5FzPvZHegN0xYU1ZQI-OIfVF6co25l46g1hFBwdcEx_-hrl48-ygWbtEUqGEvYiL32-3Q0nya1Kin15w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641132035
+                    }
+                ]
+            }
+        }
+    },
+    "justice.bg": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".justice.bg",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641126059,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201126.051385,
+                        "expiry": 34560000.051384926,
+                        "value": "GA1.2.2025469602.1728641126",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641126053
+                    }
+                ]
+            },
+            "_ga_CTJ6GJ1J8P": {
+                "name": "_ga_CTJ6GJ1J8P",
+                "domain": ".justice.bg",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641126885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201126.882191,
+                        "expiry": 34560000.88219094,
+                        "value": "GS1.2.1728641126.1.0.1728641126.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641126883
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".justice.bg",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641126067,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641186,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641126066
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".justice.bg",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641126065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728727526,
+                        "expiry": 86400,
+                        "value": "GA1.2.937216928.1728641126",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641126059
+                    }
+                ]
+            }
+        }
+    }
+}

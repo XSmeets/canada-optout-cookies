@@ -1,0 +1,738 @@
+{
+    "tesco.com": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741525121,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728745125.119555,
+                        "expiry": 3600.1195549964905,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741525120
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741524216,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277524,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:58:44.214Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741524215
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:58:46.718Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741526718
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:59:02.033Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741542034
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:59:02.514Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741542515
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:59:05.602Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741545603
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T13:59:09.325Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741549326
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741520838,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A09+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=5&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741549349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A09+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741549350
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550310
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550315
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550316
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550321
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550322
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A59%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=829ae80e-722c-4680-be78-9394371d2c96&interactionCount=5&isAnonUser=1&landingPath=NotLandingPage&groups=exp01%3A0%2CC0001%3A1%2Cadv01%3A0%2CV2STACK42%3A0&intType=2&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728741550356
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741525040,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744293524,
+                        "expiry": 15551999,
+                        "value": "ID=ddaaeaf0e7001dd3:T=1728741524:RT=1728741524:S=AA-AfjYsAZTpXiKrJ1dQ87eTK-6b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741525039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=a4b4199e1dfb157b:T=1728741524:RT=1728741524:S=AA-AfjYdPf_Ukxxmuk3FapQikiZL",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741525057
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277519.021287,
+                        "expiry": 31536000.021286964,
+                        "value": "ABBE761972D61844F2CD82704BA8563B~-1~YAAQ9ug3F3v7X3WSAQAAIy8GgQyFUPbWoMihZD16owihX4zZ4v8LyFHGL3zCjxoc2stElkD0OA4WEy2ahuTgG16XsH2oXlhtBCXHAUsEgqksZqeNU7gRTMXMKQDdxBL3xkqCkINL7GzR4I7i8qak+dVWW6rrLUUzpcuJXmFRvYxdOR4EMpItXGE5+iCiCJnxU07Axw4A5CgoRhFzj6yRVqRHaHI1jEEpnBIvR2HHIUlQ04cscL6bsyf1b8QBq1nzh22NGFa9Xl1Uz6SmurSrT59JCJAW9kEk/GUL7qj2oQ3nDkOzHh8YrRT5e2gX7tBwd1UuD95L2QwsHQmnMwxtcR8oniMID5+QFNAv8W6+5QTr24f8izqHmWCf63qjk+lyBjNMhcNMW9Ni2irK7FJn+RtOpdcO8ngxwqeYtA==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741519039
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519042,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728748718.021345,
+                        "expiry": 7199.021344900131,
+                        "value": "D4A20DAF2D3FFC4F23A15C8E29D77D11~000000000000000000000000000000~YAAQ9ug3F3z7X3WSAQAAIy8GgRlz+xj3X57cmUNvrc51XeNo/bUyjPr2uPX9zBzm+iU7L+bFiD1ONVAd3ht8UdIOehGlKVJ9X5gnuwWYv6MZNiWKUcZ6Fp+Mrw6LEXRY9YBP1FxppwDiTzyZ12VocNaL4dudxEfMKmszx8hJqagM0yUPpkR2rnDkzQBubZqjJm2Zy4q1q5tz0pY2FQg7+NmLWNNn0UhkZwGMyJwopZul4l5+wTeyEUftBMONwZV6P2+yPACRBK4qwjZqme/K+AUzmPYIRlFu1XmJptB6u5OV6O9zEjrVbRjHfsnwcuIg3jvZfWiX05Wl/k83WblyAwrfEv+2pVXZVSHGxMkpRRK/H4u36dbHkvFuOCBwULUukHjBlkHfZV3v",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741519041
+                    }
+                ]
+            },
+            "atrc": {
+                "name": "atrc",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741519038,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277519.021122,
+                        "expiry": 31536000.02112198,
+                        "value": "5d5dadb3-e963-4694-95ff-6685423fe2d2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741519033
+                    }
+                ]
+            },
+            "bm_mi": {
+                "name": "bm_mi",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728748718.34243,
+                        "expiry": 7199.342430114746,
+                        "value": "F1C7F8BDF319BAECACDF22EA43E456C8~YAAQ9ug3F4n7X3WSAQAADDAGgRnLhZLcigJ/Qd+lfv+cVr6X95Fx7hX3eo5PtacCGXrCR23dlwTg6yfs/XSjHkknDueLUK7GpShIQtlJZpigrR5b2ZzIujiWD2H22YYC7JQZ28e11dzxZfkJ6LCzxVqjkTOeBOhup2ImEIhAcjtVgvX33C1GD55ZiyWNQB4Xn7TtORsnQJyukwqCuAUOM/+n3+bQmTYyFz3nYxzZNY0CzGU6LswwOGvJf0SVZZaCw+Re6uQI1ncCAUSqyCUrHYqSdzxqGUenEtaqblZkRZmPJ6Mt3rbWJEtNrLo/boOuKAONCl4XJJX60/eE/Mfz90Jz/7PS3oWVr/M1ODz74/zJ~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741519343
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7176.848388910294,
+                        "value": "F1C7F8BDF319BAECACDF22EA43E456C8~YAAQ9ug3F6gFYHWSAQAAKIwGgRkLiEqI7pg3tPV2wmoPUdNR3oIzPMq3DOp+MjxjATzyvYVsrZJfp5KSRiun0OvddKSF74L7udCUYh/4J8JXUDIF0fhxMUJeYpDCS1oDW6CyKby6siK7/zKhCCjD46L+baaaurr4ihoSowoUKg9OSJ80DranpUp9cBnjKJPLhO2/AwbXDinJz85fwRt+oqMqVQdE+9Owk3JMSlfZ2JDEfij3PAok4S4kvPBSEB1u5Bpd5+TlYcD7xx95MF6xOA0ZcDkKN9jTe9GQNnyczzQXaBfAFsQ30E83QZCX~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741542849
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519345,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7173.848411083221,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ5Og3F92t6oCSAQAA2psGgRnPNVbVnbmxuK+H4PPPsZ6BcS8mt+JaeM5eEaEFc8h2K+Fc8Wzx0MlDS1syQpHbE2m5QrP5qeF3m9dOrB0BPetUz26Cvcgc1W0q6mC7GaNyqG0R9YUECDLrehrorImkm7VZl4BSyPx54QCwbMrjivLNvT6N7z98lpITKDdkcEhsos8cT84JYZ21/LgF74sGCoZQDJP8KBVgY75LapUUyH8L59D+yPk8gLhdcHDE~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741546849
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7172.609456062317,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ9ug3F8MHYHWSAQAA0J4GgRmUGLYJEif4bCt3o6ssAg6gr5vM3FP3uwWHfbc9N9HXqOsSFF8PHWdOeNJp6daVZpjErdJ5zW4CDXy+g7BkZ5Rzsl5FL4y6X5YR3k9C2+n2pMupqJ8MKvW0gQvBcIEHpwdq+q1RpDSxyoseOuz3i9Ee9J34r2do1lqFxBEpsU9JRBg7pbFpc44AHDABTj5Q9HXShENE2vmXdsD88EVVXvrbu1TdDLxIq/4AgiNg~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741547611
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7171.9176568984985,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ5Og3Fwyu6oCSAQAAB6AGgRnvy2g3gxP5+kYanQICQtHe/+A3//dcF4DbwZkV1JJSQRLYFhgM4K+QjqJO9yCnq60M5UJ3DHy+Gl790Ulw8cH6TdC/fLGizAQc4MoFx/P6Kf8bPDNix56TB3GYLoCPuQBY/QkFr+riQrkfl0i1TJTTH87fc+Z7m9Lfxc+oZE5qRdphknOC/FS2CSnKhl7EX6ylkZ+pNkWl1Y/pR80aEpVx5Jq11DYzWWzGU8j+~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741547918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7171.197523117065,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ9ug3F/oHYHWSAQAAE6EGgRm7nuOIIEMkDwJn/tNzn24I5xiIPWuByecQvLu0ZAlKKMAYsNSFKmMD4LAfTvkuQ/wqgUz0TZDPkVsXMSG0+QORTZfQpHgy/lMXONF6auzFfklnK2LPCQcU6YV4jAU6Z47Txx2W1U/fFRINtrGFdOSVksRT3FrTwMRTxBGDxxeADu5SF7sObIw2gZPteWVj9ctLXsfg9N9UCLe7afQkCdq2rU5TnBEZb4osLT7T~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741548198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7171.230670928955,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ5Og3Fxau6oCSAQAAQKEGgRlaroYKeq9CuW4fOHtmp7R+tH2R5BEQDaDG9DbxNSk3mHlM1dscT/t1qThswpA+Hv07rw2tGf9lDJYjM+xV6TGDPYPPODk1JfNjHhRHbQGNiS3i2qAPkme7Ky7tPX3u3Vv9epvG+6xb3TwfZN8kBt3zFuR7OExRz5PoU9U6ZFvTeueyHEGAHNYb2QfDYsbPWAzC3MR2nz7r7Kf47rVwVehxP9PWOFLZkTRuKt5T~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741548231
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7169.047090053558,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ9ug3F7cIYHWSAQAAVagGgRlgNQqhIBWqzA7G2K2BHDA2o6VgApax861j0yK3MuWLbA7yLfFk6KbQWtfeJ7PH2Q32m0CkiRmrTtMPAR2NWYBnjd6SieNoCUlFTKteU7LQYlzKqscwJ9fbwGAWJwJgyO3D56UF4oP7T/ac29aLD80frsi5y0JCoYoBNLHDGzKV/ZM7pXOCCMLCGPFJLSMQvkYRZf7hukRXMi0vyk+RppjOsZgXtrLHba4YsTpJ~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550048
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7169.384625911713,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ5Og3F9au6oCSAQAAqqkGgRmi+cI3jwyFhbp1cjj6iYP5FahqYKa7fwLrxXZ+Cpw0IugsewAm5Z4z3MPf0KOukpQlsIQUY6zolIPeza2aHg7QCHNPXJaUwKjGRXQvgvEpNy+WqhIUnMCnCbq9lY2EsZ8djtzzumHYZwqz8FrWXScaECN2q2J9FC2jZP0XQNP5Tmt3lUAQ1TUANZqEOCrcMw3kXQTN7QTCbArRo/hWPlTLmkQqpacBeYDrBa/w~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550385
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7169.633287906647,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ5Og3F+Ou6oCSAQAAoaoGgRkFPbk3a+uwrHjS7X1A23SPBUgEpipF54nyltG0OqGrtAZCC2wXnhAUkS0bRWR22b1+7aLUqx955brD1fDwNFLFl7O7AYoBXmGYea/sm7RJ0w/7jdANObz9S2XZnYqcdbr4bFdO0neBfU5io9ZmyZvpyz3sE1Rn7JsNQOHZ7+5kCNqtybFsHuNyxCD0XmsjiLjvMuKLEljOtwxbm3ldqtEjIbS1ozYWddGfLuuB~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7169.653683900833,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ9ug3F/QIYHWSAQAAtqoGgRnP5crhgbNlpW1HUkadDTD0ImFXVrrx56m7stdkgXpDXef5tE+5miLtEPWXS9rHfo5h1eqcZhImfP7D4gwCFuXQ7fQscm0xKatGMB030rNixTtmJZ0JjcQRcg5onRHH0GoUiYU9GEU93vEVXMn0OIFkZQmuwNJSSovBXrCfa6YPaaDReRyco9rF543WXf+V+2FVwcRZOMKtEfC5fVfy2xSXWhGvp25iAPo8ku26~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550654
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7169.6995849609375,
+                        "value": "716B9D11C276D6A8A74F8C2A7867E6DD~YAAQ5Og3F+Wu6oCSAQAA5aoGgRnro8nC7o0CDwGxEiKXaNNxAksVX6KmQA6rC2xj/jCwiFUeJ90Po7wxJ5wY4y48Bf5XNzuFu8xNOhX/k77f1sdLaXqRTsT0elBUf1e+QHDZVSSZ1w2tsNJ4zTTY/z52in5Qx1eZEw6RobhNK/MfGfiGI7XPhn5jn0uUkul60dnTRJM3h0ftiV31iaLxXNJBDIrcc/3m8zJCFX06tpuHcOsgc3V5Z6GdsDZ631tR~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550700
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519044,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728755918.02145,
+                        "expiry": 14399.021450042725,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3F377X3WSAQAAIy8GgRlxb1uP9KUywK4UJAKiny3NDqFwzAbYMwupImYYrEytVCPBD6xhksHZQJZR7tWtCvoXaFDgF0pZG+wqCIi9eYXyD4k7ylrvPWvYYPXQ1sezoa8uqFhGAPm/WsSP8GIRePcfnC5M4mMq9oy0dnHiCoHZ7g4gNXJBzLJWqUKVqqOjACiHvmpZgK0w6fObyqPJgywfuk4nr+UB+jtqOsGOs/WOa0QD5abGqQKb90uBLTT3r6a0JXIkml/W+enTT20dDG/6w64bXig5xTsiQUShpxRRPPSEuOyeqUOSiIpJmTn1V0o31AMJIZVtq3Z7XbTCHSaqIpeKsWLsfLTZ54peCgkFOsF+wHJnAXOZDxqFj7ys0qV1Cg4gVtEp~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741519042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14393.119649887085,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3F4f9X3WSAQAA+EYGgRnBdLx3VdgU0eJa4hUyPKajvp3VYPO33vE3CVQonjpFJtzO9dW4v/ecfNWFBAc4HRHGmMOJ4JxH/fttRSW2uBWUrCy+yzktM0luWhs6PnxgbsPshqXc1+V05geJEyYdEQgEOhit8wGyWVNfzO0yXnBKR7/y/YFpspBcCDFhl6aJnexWLh5FCOm8HNSZ27ivWIrwqTmKR0POfMFdc0F7KwCgVcYQ6RIjl+E9Jn5MQ5yPB6IlPRapeDvRvKjH53IcAqL263zp4/v56fOOiUd8140/ieB9dfrNOndwZQbfl6O0BV5YTjJdeNuhOE7e76BT2UX9XaMS4fRvJUYJOcQYqsfU7AOK2Jo1c6LTFVKqinX5Go1LJpAZLlnMXPhyRqQ=~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741525122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14391.149679899216,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3Fyf+X3WSAQAA5k4GgRkscuzCgFIQyXrUggRy019fEZ1Y07w/13e9yU4UtaWF/moCma2TRXSd23mnrXvb7NuSxYICdypoOvooMQJR9xmAEeABrFuClVBL3rwgLB8px9RsIjo8mOwyu7kYL/u+hUMNTwgSuUSA/0X1SpCpM768yh1+FWtfgN+F4niuH9vO8FfEQx91PtWIaZsNSVpFNyeUsth6H4KCEji9V3VQdCUAVrRU9KBt/hgpuV3UEHZ4gX4knvDk0+aTXLIH05XVavBgJR/LgEmToVIZJ1uniK8tBZRMI0g3djFw8kvhOf6Z+vKbNvvA+JfHAnEIz6B48NikrSF7aIR+o2liZ7nbClj6d5nESM8sxe+lBQy9yz0fG7pL/qGRu1C/WT31XcK6v4ATRg==~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741527150
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14389.465670108795,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3F2P/X3WSAQAA8VcGgRmuswAO1nOlVQiOQxiluJjpXDQZ/rqJMjfEoaDVdV04ThUleLqnhCOAFEEMsPb72siTNYREkqvg/UvnOsLj/Hr6CZANsz4RUW1P6p0GJQo6fONRAM0m+awR+V2Kv5m+Np6S7tuHrAKzCYuXiCNrupN7DDtJhdl8zPGSgrRiSLB9/eO64tTukToPt15zJsznKEazTmgw+ZqRozQi8ReNDxfFa2iZfHd4Y4eMW1e4HyfH8F9IDEZiqKZLqMJFhc3qRTb9FYxEHcH8/Y5Hqn6cVvsfYoZb4uCeTc7eJHGdmTzwNYmyrFpnpPENy6/loCYYTmiKHYcqcxJE1CfGPaJrtYL1F2Y72OYs8LnA3kGYm8KjD+aop5T1RDULcZD5T8EnYpXwkaRzlUIr/w==~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741529467
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14376.848527908325,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3F6oFYHWSAQAAKIwGgRlMaftDaPHIfwlQq3vFrtS5uOSJv6Ui27NwaaS3hrA/zI8LffNlHGnSc94OXEL8tUI1YE4VQWI3hNz1mORYgfmDm9LqRD2ABoZFMG9yAPykfzZsIH6XhqVgl7HdB9EQX/CiKxOUDaQIbDemUI1hNMmtlR8R9U1it3Xjna1Qd16M2qAeIf7jW4C9aI47k7HWjcAgx3ZFvCqwIV8t2q4GY4lqX7s9/gb8/lLSk/SOsmsvlBHgoz54weZYsYa2LzmmxZAilS33PdSZni7HtnvqaGqMsV7HGlrz1ga25E2nYioUilwtlKvd4YPg4uwWl4RaTqsgThAy60nNGI0b5b4vLJYumgPGX1Lt0LrLP4W1ax6btzORXAc/n0PaHmYSiB2ALLrltfEUJKaQSMxGJGi4Tw==~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741542851
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14372.080426931381,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3FycHYHWSAQAA2JgGgRkK1/JFh93axB+RlnvRy/+0kJy0TDj9KLGZMnmmWHtTrVW9jcTcOPP68l9GQSAdhTThB69bRDj96j5UMh0Ewu1Ljn+m9tMrpiNPnniWHyYwMg8bLjtV1WXyHC7OcZX3wIMY0QiayORjJMS2013vi90zOqe3tIJLXfPaSqmqmiWn5jkDqxC2VHjcfGcgMb+FbSqemJ9f+mQsZpoTFX1g1AMVVzJPTZwyF1eD377DduT0FQ2jM45rf+csP/NzphjdBzsPZCqW8iMPsAso8UezgIQ83e3pftirWx4vyspdinawbXycE+tv7pK74mHbKTUJwhjhpuvriomDeTNVEPvrvYf/TAjcijPt0orasFvN6oKXFZ04LPrUf6SZpCy9T47ch8H41XVr103rEOVodHqJTEHaCDvD~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741546082
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14371.609668970108,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3F8QHYHWSAQAA0J4GgRk7suesPIrHHKtALNWKC+ooz/Sh1e/Br0qX7LQ+5S29EaZc/9jdo6juu40JQCb9GOMvpm9ZAHN5pMlVnhMdscG8BK720Kv8y9ETNhsD408BUk60V0QhB7ymgfHztvyDMYYMSoDPjcr3kPfJJLKarrnvDgBNiyQI5o5JRNZFbAQButyHUm7axwJO7JIVTMlxnYOXaj9GbPOhE0ATJ0XiE+gwuvap2XQySaFbXJjAqMjwHEp1PwDDcxVBysl86t7upwjYgKwNolHQUbVulW9/Ng3Emj3jg3xD8GRP7X/YU4VsiKp8+9LHyg3c0l3Gy9oDDTYc/mGTQriQpG7J+5EuuJR42GAiXXefAG+qmYbHph+0ki5R1vDSyxMID0ID5yWT3qqZDBFdWb8Clg9iJtdYVOsOGuk3EAhaMIo=~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741547611
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14368.047295093536,
+                        "value": "754370DD2DC3BF3EBA94BA1A6FE4F30D~YAAQ9ug3F7gIYHWSAQAAVagGgRlmTouAQXdwuI1pGMisrppKMDcQejpDnAyBK9xCV+J2I4wV0Ic3uiygUzsxXSJerNaygM+BFhu6emDpvnVVxkxWfCx2Nn6mcgs60zk0CQoNnslQc2acqE2hrjKU7bUoB7ZyW5kVnl8bu61e0rGODrVjQKOJAEVweH443XfKAB7VTGcEgAA5kOaJcTtzhwB0RlzSnMSCb6CuPRHCFrNh/xh0ZMrRDT0i0rycdRr+LlVHNgqsAORKSA1z7vK7OwB9ynb6kLLgwskPf1PYe+Mgn1YrDXgRKC5MDf6tKSTwcNiuAOtQlGyAf5L6nE7pebo9BcqqNsyDmsPl5KH1LgkMXiuH0g0hQ1ctYF2GMUMfOiMdlgU2+ZdZFi8tWM2Cquzs1j9p1sKAV/PKvyhb6tepkhOTvlL292Bo87nToxLBcw==~4470325~3159876",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550048
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741524238,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277524,
+                        "expiry": 31536000,
+                        "value": "CQGYD7AQGYD7AAcABBENBLFwAAAAAELAAAYgAAAU8gBALzAp4AAA.YAAACFgAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728741524237
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQGYD7AQGYD7AAcABBENBLFwAAAAAELAAAYgAAAU8gBALzAp4AAA.YAAACFgAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728741526739
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQGYD7AQGYD7AAcABBENBLFwAAAAAELAAAYgAAAU8gBALzAp4AAA.YAAACFgAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728741542062
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQGYD7AQGYD7AAcABBENBLFwAAAAAELAAAYgAAAU8gBALzAp4AAA.YAAACFgAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728741542538
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQGYD7AQGYD7AAcABBENBLFwAAAAAELAAAYgAAAU8gBALzAp4AAA.YAAACFgAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728741545627
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQGYD7AQGYD7AAcABBENBLFwAAAAAELAAAYgAAAU8gBALzAp4AAA.YAAACFgAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728741549345
+                    }
+                ]
+            },
+            "gtm.start": {
+                "name": "gtm.start",
+                "domain": ".tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519039,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728741518560",
+                        "same_site": "lax",
+                        "timestamp": 1728741519038
+                    }
+                ]
+            },
+            "_csrf": {
+                "name": "_csrf",
+                "domain": "www.tesco.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741519032,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "pLCWM33Y3Qx1iXYvTT8iknK4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741519023
+                    }
+                ]
+            }
+        },
+        "/groceries": {
+            "aitHealthCheckDone": {
+                "name": "aitHealthCheckDone",
+                "domain": "www.tesco.com",
+                "path": "/groceries",
+                "current_label": 0,
+                "label_ts": 1728741521916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728742421.914414,
+                        "expiry": 900.9144139289856,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741521914
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.2901620864868,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741525290
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.3820080757141,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741527382
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.6909129619598,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741529691
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.1233170032501,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741543123
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.3042240142822,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741546304
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.8511741161346,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741547851
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.2880299091339,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741550288
+                    }
+                ]
+            }
+        }
+    }
+}

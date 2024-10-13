@@ -1,0 +1,183 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641398437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744452598.436542,
+                        "expiry": 15811200.436542034,
+                        "value": "518=WKdV2mzDjtZXg7vDjGslZ7DHh-EFHji-1nDYVbFE-P0Yp45D5M54YccegT6YgCSKXY9GgYPVEjedwsYR-dZTPA9mJ92UtfVJU6jp8JhfbEZhylB3HPH-RWG04AKXAkdqoyACkzti-cpDgteP-2s9j_G04csP2Scjp9Pd5dOqb5dqxZsSMa8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641398437
+                    }
+                ]
+            }
+        }
+    },
+    "lidl-hellas.gr": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641401618,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177401,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T10:10:01.613Z",
+                        "same_site": "lax",
+                        "timestamp": 1728641401613
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641395601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A09%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728641395766
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A09%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728641395767
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A09%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728641395781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728641401621
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728641403257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728641403258
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728641403259
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1728641403259
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728641403260
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+12%3A10%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36292fa1-6592-498a-a7e5-1046196a0e36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=5&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728641403271
+                    }
+                ]
+            },
+            "LidlID": {
+                "name": "LidlID",
+                "domain": "www.lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641394448,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760201394.442954,
+                        "expiry": 31560000.442954063,
+                        "value": "386fd2fd-963b-4e80-b902-c58a75cf2e78",
+                        "same_site": "strict",
+                        "timestamp": 1728641394444
+                    }
+                ]
+            }
+        }
+    }
+}

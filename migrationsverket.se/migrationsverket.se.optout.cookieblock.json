@@ -1,0 +1,88 @@
+{
+    "migrationsverket.se": {
+        "/": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.migrationsverket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728657770241,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "F6168A4C7E4827AD846FF6CA4264DC32",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728657770230
+                    }
+                ]
+            },
+            "ppms_privacy_d1f25f31-a983-48af-b044-23df3c5af29d": {
+                "name": "ppms_privacy_d1f25f31-a983-48af-b044-23df3c5af29d",
+                "domain": "www.migrationsverket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728657773386,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760193773,
+                        "expiry": 31536000,
+                        "value": "{%22visitorId%22:%22469dece8-006f-4e24-9236-fee3bb3f5a52%22%2C%22domain%22:{%22normalized%22:%22www.migrationsverket.se%22%2C%22isWildcard%22:false%2C%22pattern%22:%22www.migrationsverket.se%22}%2C%22consents%22:{%22analytics%22:{%22status%22:-1}}}",
+                        "same_site": "strict",
+                        "timestamp": 1728657773385
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{%22visitorId%22:%22469dece8-006f-4e24-9236-fee3bb3f5a52%22%2C%22domain%22:{%22normalized%22:%22www.migrationsverket.se%22%2C%22isWildcard%22:false%2C%22pattern%22:%22www.migrationsverket.se%22}%2C%22consents%22:{%22analytics%22:{%22status%22:0}}}",
+                        "same_site": "strict",
+                        "timestamp": 1728657777294
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{%22visitorId%22:%22469dece8-006f-4e24-9236-fee3bb3f5a52%22%2C%22domain%22:{%22normalized%22:%22www.migrationsverket.se%22%2C%22isWildcard%22:false%2C%22pattern%22:%22www.migrationsverket.se%22}%2C%22consents%22:{%22analytics%22:{%22status%22:0}}}",
+                        "same_site": "strict",
+                        "timestamp": 1728657777303
+                    }
+                ]
+            },
+            "sv-cookie-consent": {
+                "name": "sv-cookie-consent",
+                "domain": "www.migrationsverket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728657777293,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760193777.290214,
+                        "expiry": 31536000.29021406,
+                        "value": ".c3YtaW50ZXJuYWwtc3Ytd2ViLWFuYWx5dGljcyxzdi1pbnRlcm5hbC1tdG1fY29va2llX2NvbnNlbnQsc3Ytd2ViLWFuYWx5dGljcyxzdi13ZWItYW5hbHl0aWNzLWN1c3RvbSxzdi13ZWItYW5hbHl0aWNzLW1hcmtldGluZyxzdi13ZWItYW5hbHl0aWNzLWZ1bmN0aW9uYWw=",
+                        "same_site": "lax",
+                        "timestamp": 1728657777290
+                    }
+                ]
+            }
+        }
+    }
+}

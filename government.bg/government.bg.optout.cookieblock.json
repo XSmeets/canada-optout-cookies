@@ -1,0 +1,62 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641005808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744452205.804347,
+                        "expiry": 15811200.804347038,
+                        "value": "518=RvTCGSN68ELrMUaxbcb75eS7lmJR6WqhtfcPiML8d7Wx_lFDdR3y7L2S9HmhOC_DzjzCWEZ0McrbNrBWhKuzA5EkBOyoR-A8ui-MCw4wKZf4HFsAKzwmD9GRY6Vk4V5oMheozAc2cN3Zm15i9CzfqarnfgF-5AdZnyI-5GZ_cOE5VXxbZC0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641005807
+                    }
+                ]
+            }
+        }
+    },
+    "government.bg": {
+        "/": {
+            "cookiebar": {
+                "name": "cookiebar",
+                "domain": "government.bg",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641007180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177007,
+                        "expiry": 31536000,
+                        "value": "CookieDisallowed",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641007175
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CookieDisallowed",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641009526
+                    }
+                ]
+            }
+        }
+    }
+}

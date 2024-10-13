@@ -1,0 +1,1509 @@
+{
+    "cdc.gov": {
+        "/": {
+            "AMCVS_66818A1A54FA2E890A4C98A6%40AdobeOrg": {
+                "name": "AMCVS_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728824964952,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964951
+                    }
+                ]
+            },
+            "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg": {
+                "name": "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824964150,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763384964.14819,
+                        "expiry": 34560000.14819002,
+                        "value": "179643557%7CMCIDTS%7C20010%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964148
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.948632,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C64450798923431083520870131782313688904%7CMCAAMLH-1729429764%7C7%7CMCAAMB-1729429764%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964949
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.95073104,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C64450798923431083520870131782313688904%7CMCAAMLH-1729429764%7C7%7CMCAAMB-1729429764%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1728832164s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964953
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.760524035,
+                        "value": "179643557%7CMCIDTS%7C20010%7CMCMID%7C64450798923431083520870131782313688904%7CMCAAMLH-1729429764%7C7%7CMCAAMB-1729429764%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1728832164s%7CNONE%7CMCSYNCSOP%7C411-20017%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824965761
+                    }
+                ]
+            },
+            "Akamai-Request-ID": {
+                "name": "Akamai-Request-ID",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824963670,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6172117.24963ae15273",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824963669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6172117.24978ae185cc",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824978661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6172117.24980ae18c3b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6172117.24986ae1a2e6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986615
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728824964141,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964146
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964147
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979341
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979344
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979344
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986627
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986629
+                    }
+                ]
+            },
+            "TS01b4334d": {
+                "name": "TS01b4334d",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824962978,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "015d0abe87892e85fea67476485ab3ad80afef875c4df53b5542df97819bab87366a4c289edd2ddcc36c8c0ef86d912b1ae4f9033a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824962967
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824966004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763384966.002203,
+                        "expiry": 34560000.00220299,
+                        "value": "GA1.2.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824966002
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.183800936,
+                        "value": "GA1.1.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824966185
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.47213793,
+                        "value": "GA1.2.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824979472
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.48099995,
+                        "value": "GA1.1.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824979481
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56197691,
+                        "value": "GA1.2.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824980562
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56918812,
+                        "value": "GA1.1.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824980569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67854595,
+                        "value": "GA1.2.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824986679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68608189,
+                        "value": "GA1.1.1305020819.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824986686
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824966184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.169975996,
+                        "value": "GS1.1.1728824966.1.0.1728824975.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824975170
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.66887593,
+                        "value": "GS1.1.1728824966.1.0.1728824978.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824978670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.48063707,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824979480
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.48080611,
+                        "value": "GS1.1.1728824966.1.1.1728824979.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824979481
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56858802,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824980568
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56881189,
+                        "value": "GS1.1.1728824966.1.1.1728824980.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824980569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.620398045,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824986620
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.62072396,
+                        "value": "GS1.1.1728824966.1.1.1728824986.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824986621
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68565202,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824986686
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68580794,
+                        "value": "GS1.1.1728824966.1.1.1728824986.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824986686
+                    }
+                ]
+            },
+            "_gat_GSA_ENOR0": {
+                "name": "_gat_GSA_ENOR0",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824966008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728825026,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728824966006
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824966005,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728911366,
+                        "expiry": 86400,
+                        "value": "GA1.2.673422067.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824966005
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.673422067.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824979472
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.673422067.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824980562
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.673422067.1728824966",
+                        "same_site": "strict",
+                        "timestamp": 1728824986679
+                    }
+                ]
+            },
+            "akamai_visit_id": {
+                "name": "akamai_visit_id",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824963668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763384963.656015,
+                        "expiry": 34560000.65601492,
+                        "value": "6172117.24963ae15273",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824963658
+                    }
+                ]
+            },
+            "gpv_pagename": {
+                "name": "gpv_pagename",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824964930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826764,
+                        "expiry": 1800,
+                        "value": "Centers%20for%20Disease%20Control%20and%20Prevention%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964929
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "CDC%20Digital%20Media%20Channel%20Privacy%20Policy%20Notice%20%7C%20Other%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979453
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "CDC%20Cookie%20Policy%20%7C%20Other%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980544
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "Centers%20for%20Disease%20Control%20and%20Prevention%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986662
+                    }
+                ]
+            },
+            "gpv_pageurl": {
+                "name": "gpv_pageurl",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824964929,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826764,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.cdc.gov%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964928
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.cdc.gov%2Fother%2Fprivacy.html",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979453
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.cdc.gov%2Fother%2Fcookies.html",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980544
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.cdc.gov%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986661
+                    }
+                ]
+            },
+            "s_ac": {
+                "name": "s_ac",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824964501,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980378
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986638
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824965192,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824965191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979562
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980652
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986769
+                    }
+                ]
+            },
+            "s_plt": {
+                "name": "s_plt",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824964503,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NaN",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964502
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2.74",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824965191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1.16",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979560
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0.37",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0.19",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986768
+                    }
+                ]
+            },
+            "s_pltp": {
+                "name": "s_pltp",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824964504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "undefined",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964503
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Centers%20for%20Disease%20Control%20and%20Prevention%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824965191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%20Digital%20Media%20Channel%20Privacy%20Policy%20Notice%20%7C%20Other%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979560
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%20Cookie%20Policy%20%7C%20Other%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Centers%20for%20Disease%20Control%20and%20Prevention%20%7C%20CDC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986768
+                    }
+                ]
+            },
+            "s_ppv": {
+                "name": "s_ppv",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824965188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C52%2C24%2C1896",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824982386
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C52%2C24%2C1896",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824982389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C52%2C24%2C1896",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824983698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C52%2C24%2C1896",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824984497
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C57%2C24%2C2080",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824985347
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C57%2C24%2C2080",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824985354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C57%2C24%2C2080",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDC%2520Cookie%2520Policy%2520%257C%2520Other%2520%257C%2520CDC%2C57%2C24%2C2080",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986472
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986766
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Centers%2520for%2520Disease%2520Control%2520and%2520Prevention%2520%257C%2520CDC%2C21%2C21%2C892",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986767
+                    }
+                ]
+            },
+            "s_ptc": {
+                "name": "s_ptc",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824964505,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824964504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0.77%5E%5E0.00%5E%5E0.29%5E%5E0.27%5E%5E0.13%5E%5E0.10%5E%5E1.27%5E%5E0.02%5E%5E2.74",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824965006
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0.00%5E%5E0.00%5E%5E0.00%5E%5E0.00%5E%5E0.36%5E%5E0.12%5E%5E0.78%5E%5E0.00%5E%5E1.16",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980379
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0.00%5E%5E0.00%5E%5E0.00%5E%5E0.00%5E%5E0.17%5E%5E0.04%5E%5E0.19%5E%5E0.00%5E%5E0.37",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0.00%5E%5E0.00%5E%5E0.00%5E%5E0.00%5E%5E0.14%5E%5E0.00%5E%5E0.04%5E%5E0.00%5E%5E0.19",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986888
+                    }
+                ]
+            },
+            "s_pvs": {
+                "name": "s_pvs",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824970193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824970192
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824975191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979560
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824985653
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824991771
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824976514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCenters%252520for%252520Disease%252520Control%252520and%252520Prevention%252520%25257C%252520CDC%2526link%253DPolicies%2526region%253Dcdc-footer-nav%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCenters%252520for%252520Disease%252520Control%252520and%252520Prevention%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252F%252523policies%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824976512
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCenters%252520for%252520Disease%252520Control%252520and%252520Prevention%252520%25257C%252520CDC%2526link%253DPrivacy%2526region%253Dpolicies%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCenters%252520for%252520Disease%252520Control%252520and%252520Prevention%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252Fother%25252Fprivacy.html%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824978294
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979562
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCDC%252520Digital%252520Media%252520Channel%252520Privacy%252520Policy%252520Notice%252520%25257C%252520Other%252520%25257C%252520CDC%2526link%253DOur%252520Cookie%252520Policy%2526region%253DBODY%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCDC%252520Digital%252520Media%252520Channel%252520Privacy%252520Policy%252520Notice%252520%25257C%252520Other%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252Fother%25252Fcookies.html%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980169
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980652
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526link%253DManage%252520Cookies%2526region%253DBODY%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252Fother%25252Fcookies.html%252523%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824982381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526link%253DRemove%252520all%2526region%253DBODY%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252Fother%25252Fcookies.html%252523%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824983693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526link%253DClose%2526region%253DBODY%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252Fother%25252Fcookies.html%252523%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824985344
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cdcgov%3D%2526c.%2526a.%2526activitymap.%2526page%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526link%253DCenters%252520for%252520Disease%252520Control%252520and%252520Prevention.%252520CDC%252520twenty%252520four%252520seven.%252520Saving%252520Lives%25252C%252520Protecting%252520People%2526region%253Dpage_banner%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCDC%252520Cookie%252520Policy%252520%25257C%252520Other%252520%25257C%252520CDC%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.cdc.gov%25252F%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986769
+                    }
+                ]
+            },
+            "s_tp": {
+                "name": "s_tp",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824965190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4323",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824965189
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4548",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824977194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5458",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979559
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5594",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979624
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3489",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980649
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3651",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980853
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4323",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824986767
+                    }
+                ]
+            },
+            "s_tps": {
+                "name": "s_tps",
+                "domain": ".cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824970192,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824970191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824975191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824979561
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824985653
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824991770
+                    }
+                ]
+            },
+            "CDCActiveGroups": {
+                "name": "CDCActiveGroups",
+                "domain": "www.cdc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824980546,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760360980,
+                        "expiry": 31536000,
+                        "value": "C0002,C0003,C0004,C0005",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824980545
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824983695
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824984494
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728824964948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744376964.947474,
+                        "expiry": 15552000.947474003,
+                        "value": "64481980022139313270873218760516978039",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728824964947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.754439116,
+                        "value": "64481980022139313270873218760516978039",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728824965760
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728824965759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744376965.754356,
+                        "expiry": 15552000.754355907,
+                        "value": "64481980022139313270873218760516978039",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728824965758
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728824965613,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760360965.609787,
+                        "expiry": 31536000.609786987,
+                        "value": "g_surferid~ZwvGhQAAAKwdKAOH",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728824965611
+                    }
+                ]
+            }
+        }
+    }
+}

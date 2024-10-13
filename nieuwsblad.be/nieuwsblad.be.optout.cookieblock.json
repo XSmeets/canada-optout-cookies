@@ -1,0 +1,620 @@
+{
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728659274914,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195274.912806,
+                        "expiry": 31536000.912806034,
+                        "value": "1b7miwxlh7a3e22rbbhkycotrx",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659274913
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.477462053,
+                        "value": "1b7miwxlh7a3e22rbbhkycotrx",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659277478
+                    }
+                ]
+            }
+        }
+    },
+    "nieuwsblad.be": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659276313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763219276.311611,
+                        "expiry": 34560000.31161094,
+                        "value": "GA1.2.899046013.1728659276",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276312
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.31452298,
+                        "value": "GA1.2.899046013.1728659276",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276316
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.47116709,
+                        "value": "GA1.1.899046013.1728659276",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276474
+                    }
+                ]
+            },
+            "_ga_E54BNKJDYM": {
+                "name": "_ga_E54BNKJDYM",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659276473,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763219276.470255,
+                        "expiry": 34560000.4702549,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276470
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.47061491,
+                        "value": "GS1.1.1728659276.1.0.1728659276.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276473
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72623205,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659285727
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.727189064,
+                        "value": "GS1.1.1728659276.1.0.1728659285.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659285731
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659276315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728745676,
+                        "expiry": 86400,
+                        "value": "GA1.2.484879393.1728659276",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276313
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.484879393.1728659276",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659276316
+                    }
+                ]
+            },
+            "_mhtc_cId": {
+                "name": "_mhtc_cId",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659274069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731251274,
+                        "expiry": 2592000,
+                        "value": "d52888bc-709a-4a6c-b322-23992e5f567e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659274068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400,
+                        "value": "d52888bc-709a-4a6c-b322-23992e5f567e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659277798
+                    }
+                ]
+            },
+            "_mhtc_sId": {
+                "name": "_mhtc_sId",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659277799,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661077,
+                        "expiry": 1800,
+                        "value": "b7ca555d-b77b-41b8-9c10-431e3fd1b923",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659277798
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659271205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195271.203273,
+                        "expiry": 31536000.203273058,
+                        "value": "ROTeYd_Nd8pWmpGhMfW2uI_fjTAw20s1LEJI4VwqD28-1728659266-1.2.1.1-.yCY8.dy2sE8HjtCftHgX4m1B3TqxVahnkOw6l7.ekwO1pdo8urv_12xvk9zubuX3OMDSHj_OPEcfkjwHj4RexmHbhTA7QTUKtmI7JF8jwMRWed4tiUsK9q_BoV3TU5GNLVf83113JLdCjOy48VDnlrveHnFqv_F3gd2x67bDAuitlqnIt.a9J6jJqW_h7lImKTBS5Yr0ZxkZ5sHwmR1IsaNA9Hy728ka8m5AgG6dzoT0X5fn1597q7EGobN94jiB5t5vqoE_qOssu6XfsQT4xvMG3lu6j4EWfgYwTi3.PodvWYWr7WsP4bXwXIWM0g0lz3r0JzqvmXuj1q922PkSMgZsmKSknMT8nHS81mcbalBa2OlCmjCefAPuI32CUk0esKqUbqzNuiPBJlJkUGXSsqTAPBms4KGnrX4bTDGCotEuxPm51PlwiFRB65aVM2Y",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659271204
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659273823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760281673,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2MxZjMtODVkYS02MWU4LWFkMjUtOWNhZGQ4ZWNkYWVhIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTU6MDc6NTMuODIxWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDE1OjA3OjUzLjgyMVoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728659273822
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2MxZjMtODVkYS02MWU4LWFkMjUtOWNhZGQ4ZWNkYWVhIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTU6MDc6NTMuODIxWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDE1OjA3OjU3LjAyNVoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6YWRvYmUtdGFnbWFuYWdlciIsImM6YWdub3BsYXktTXpZY0Y0SEYiLCJjOnB1YnN0YWNrLWlZaGZRM2hRIiwiYzpmYWNlYm9vay1iajRGSkZIVyIsImM6b21uaXR1cmUtYWRvYmUtYW5hbHl0aWNzIiwiYzpyZWQtYnktc2ZyIiwiYzppbnRlbGxpYWQiLCJjOmltcGFjdC1yYWRpdXMiLCJjOnNoYXJwc3ByaW5nIiwiYzpiYXRjaC1qWFB4TU1MTiIsImM6Z29vZ2xlYW5hLW42VU1oSjdlIiwiYzpmYWNlYm9va3AtVURVOFlLTmYiLCJjOmdldHNpdGVjb24tOUNxekc3WjYiLCJjOmZyb29tbGUtNE56MlhEd04iLCJjOm9wdGltaXplbHktWXdWcTlNV2IiLCJjOnZ3by1pQ2U2MnhkNyIsImM6bWF0aGVyLWVjb25vbWljcyIsImM6aG90amFyLXluRjhtYVVSIiwiYzppb3RlY2hub2wteVlwY2Z0ZHoiLCJjOnR3aXR0ZXItM3czMzljTDYiLCJjOmZhY2Vib29rLWNvbm5lY3QtemltbW8iLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6aW5zdGFncmFtLWZobXJ4S01XIiwiYzpuZXh0cm9sbC1HRG5wQURHYiIsImM6emFsYW5kby1wVEtZVk1hYiIsImM6dmlydHVhbG1uLUVNQXpNTERXIiwiYzpwbWctWkUyQ3lDRmsiLCJjOm9tbmljb21tZS15UGlqN2dZWiIsImM6aW50ZXJwdWJsaS04SFo4UGZHMyIsImM6Z3NraW5uZXItblVFMzRQMkgiLCJjOnR3aXBlLUNraXROelhEIiwiYzp6ZWJlc3RvZi1jZDdOWUVMTCIsImM6YWRzYW5kZGEtekdUR1JWSHciLCJjOmJsdWVjb25pYy1tZmNlUFVaOSIsImM6bWVkaWFodWlzLVVoTjMyRnFxIiwiYzppbnN0YWdyYW0iLCJjOmZyYWN0aW9uYWwtbjJqWURGUE4iLCJjOmlnbml0aW9uby1MVkFNWmRuaiJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsic29jaWFsX21lZGlhIiwidWl0Z2VicmVpZC1BTU4yY2hldCJdfSwidmVyc2lvbiI6MiwiYWMiOiJBQUFBLkFBQUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728659277043
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659277044,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760281677,
+                        "expiry": 31622400,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAAAAAAAAAAAAAADFIAMAAQVCHQAYAAgqESgAwABBUIJABgACCoRaADAAEFQiEAGAAIKhAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728659277043
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659275138,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195275,
+                        "expiry": 31536000,
+                        "value": "v_id:01927c1f3d7f001a4e1cde54f46705075001a06d00bd0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659275136
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:01927c1f3d7f001a4e1cde54f46705075001a06d00bd0$_sn:1$_se:1$_ss:1$_st:1728661075136$ses_id:1728659275136%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659275140
+                    }
+                ]
+            },
+            "auth0_LKQU5XdEBM6GkrdmOJgD31O4SwXknxGL__state": {
+                "name": "auth0_LKQU5XdEBM6GkrdmOJgD31O4SwXknxGL__state",
+                "domain": ".www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659271227,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJyZXR1cm5UbyI6Imh0dHBzOi8vd3d3Lm5pZXV3c2JsYWQuYmUvIiwiaXNTaWxlbnQiOnRydWV9",
+                        "same_site": "lax",
+                        "timestamp": 1728659271217
+                    }
+                ]
+            },
+            "auth0_LKQU5XdEBM6GkrdmOJgD31O4SwXknxGL_config": {
+                "name": "auth0_LKQU5XdEBM6GkrdmOJgD31O4SwXknxGL_config",
+                "domain": ".www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659271217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "env=production&brand=nb&prefix=&version=v2",
+                        "same_site": "lax",
+                        "timestamp": 1728659271206
+                    }
+                ]
+            },
+            "auth0_LKQU5XdEBM6GkrdmOJgD31O4SwXknxGL_silent_auth": {
+                "name": "auth0_LKQU5XdEBM6GkrdmOJgD31O4SwXknxGL_silent_auth",
+                "domain": ".www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659272069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728661072.066551,
+                        "expiry": 1800.0665509700775,
+                        "value": "1728659271922",
+                        "same_site": "lax",
+                        "timestamp": 1728659272068
+                    }
+                ]
+            },
+            "_previous_pageTypes": {
+                "name": "_previous_pageTypes",
+                "domain": "www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659277802,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728745677,
+                        "expiry": 86400,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659277802
+                    }
+                ]
+            },
+            "_previous_title": {
+                "name": "_previous_title",
+                "domain": "www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659277803,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728745677,
+                        "expiry": 86400,
+                        "value": "Het Nieuwsblad",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659277802
+                    }
+                ]
+            },
+            "_previous_url": {
+                "name": "_previous_url",
+                "domain": "www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728659277801,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728745677,
+                        "expiry": 86400,
+                        "value": "https://www.nieuwsblad.be/",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659277800
+                    }
+                ]
+            },
+            "_previous_viewId": {
+                "name": "_previous_viewId",
+                "domain": "www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659277802,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728745677,
+                        "expiry": 86400,
+                        "value": "0b825de5-ee17-433f-9a62-832cd7d0c874",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659277801
+                    }
+                ]
+            },
+            "_segmentgroup": {
+                "name": "_segmentgroup",
+                "domain": "www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659273646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759763273,
+                        "expiry": 31104000,
+                        "value": "K",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659273644
+                    }
+                ]
+            },
+            "sc": {
+                "name": "sc",
+                "domain": "www.nieuwsblad.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659274067,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728661074,
+                        "expiry": 1800,
+                        "value": "b7ca555d-b77b-41b8-9c10-431e3fd1b923.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659274067
+                    }
+                ]
+            }
+        }
+    },
+    "zimmo.be": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".zimmo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659277685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728661077.683727,
+                        "expiry": 1800.6837270259857,
+                        "value": "Rhl9wxxD_iDfFjfyLz.iHqx_AU4551sBU81eqQTDSkw-1728659277-1.0.1.1-aop4Zlb5n910mYG1ocssXdtXAZct66oGYDC3YoLKAxrCj2GjWLiQJOx4TaF1QIaXo8us1SaLMRF0OCfv7dIcSQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659277685
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".zimmo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659279215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195279.215211,
+                        "expiry": 31536000.215210915,
+                        "value": "FqoniWH94rp_oGlo6z2O.Ii10INzgEuyffPkGlomExc-1728659279-1.2.1.1-qi7AvNWMo9QvNBcgO0USOOXHNxdJN.Zci_bqKAFemUeLRZ.QAezbcJZocLeNFk2oJhGIXYYnnahWSU3r1CL8.4jWED.SS5EAleLCCHEexoqso94d2qtnYjmqLwK6kOAUzaeMsG3CbL6ZY1nxeZLCmiK980JJCL9Q1Fg0mEijs_MiESdYI6sdWzZNu6BlsJIw3JzjmKGkXiPi8OD0aCWCxNCRdAYvYbDonUQVOY_jmzYMNs.OLKl64MACKelF4oU2L5GtiB_INflf0maElTkrvy3YDJjC8B.2WzBIPZOdRfzPptfPsxKOQXXIZcncHfB.hBP6w7qqbPXFg3H423DsKWfO3f2yCTUk5sCkxtMaPctjVjTgT6QUr6P146c19NK9pBKC_CwgMxtZXw9O8rxt8w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659279215
+                    }
+                ]
+            },
+            "zimmo-id": {
+                "name": "zimmo-id",
+                "domain": ".zimmo.be",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728659277685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195277.683684,
+                        "expiry": 31536000.68368411,
+                        "value": "e1da2230-b701-48ad-b2d7-a189f130bc0c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659277684
+                    }
+                ]
+            }
+        }
+    },
+    "login.mediahuis.com": {
+        "/": {
+            "did": {
+                "name": "did",
+                "domain": "login.mediahuis.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659271916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760216871.912998,
+                        "expiry": 31557600.91299796,
+                        "value": "s%3Av0%3Adc34dbaf-f9f4-4dc6-ac0f-38d662e28f6a.jVjlyjRdiYb%2BXY74zwowbtyOp0B2vlVwzDnFHkl8xMA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659271913
+                    }
+                ]
+            },
+            "did_compat": {
+                "name": "did_compat",
+                "domain": "login.mediahuis.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659271919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760216871.913075,
+                        "expiry": 31557600.91307497,
+                        "value": "s%3Av0%3Adc34dbaf-f9f4-4dc6-ac0f-38d662e28f6a.jVjlyjRdiYb%2BXY74zwowbtyOp0B2vlVwzDnFHkl8xMA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659271917
+                    }
+                ]
+            }
+        }
+    }
+}

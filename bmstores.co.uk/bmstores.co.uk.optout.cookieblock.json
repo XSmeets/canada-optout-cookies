@@ -1,0 +1,382 @@
+{
+    "bmstores.co.uk": {
+        "/": {
+            "INGRESSCOOKIE": {
+                "name": "INGRESSCOOKIE",
+                "domain": ".www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b610f4a30771d985f87adbfeb080d72d",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483814
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d756ddc3ec8821d91e86d5c06acde766",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484017
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "852778cde8f34ee34aa5dac868ce459f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484019
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d868e7fad210ebcea2d2d178e0d4d4b0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484030
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "997f3ab9a1197f5be6a7de8da6351ffd",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "64d156edcec66104e5d324e967f9f033",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484041
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "df21cfb21d0b0366de61b399122dbb23",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "701d4a24571af0240f599b947381ef84",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484076
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5f852d6588c8a8ffe3a16765492a7b0a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741484081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1e2648a7a99b3bfd8b40cdf02e85d553",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741486017
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741497272,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731333497,
+                        "expiry": 2592000,
+                        "value": "2024-10-12T13:58:17.269Z",
+                        "same_site": "lax",
+                        "timestamp": 1728741497270
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741487116,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731333487,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728741487116
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=",
+                        "same_site": "lax",
+                        "timestamp": 1728741487117
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.bmstores.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728741487119
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.bmstores.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728741487312
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.bmstores.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728741487313
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.bmstores.co.uk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741487335
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.bmstores.co.uk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741487336
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741497275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "isGpcEnabled=0&datestamp=Sat+Oct+12+2024+15%3A58%3A17+GMT%2B0200+(Central+European+Summer+Time)&version=202404.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728741497276
+                    }
+                ]
+            },
+            "CURRENTFARCRYPROJECT": {
+                "name": "CURRENTFARCRYPROJECT",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483627,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "bmstorescouk",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483626
+                    }
+                ]
+            },
+            "FARCRYDEVICETYPE": {
+                "name": "FARCRYDEVICETYPE",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483627,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483627
+                    }
+                ]
+            },
+            "HASSESSIONSCOPE": {
+                "name": "HASSESSIONSCOPE",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483625,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301483.60455,
+                        "expiry": 34560000.604549885,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483624
+                    }
+                ]
+            },
+            "SESSIONSCOPETESTED": {
+                "name": "SESSIONSCOPETESTED",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483624,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301483.603545,
+                        "expiry": 34560000.60354495,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483623
+                    }
+                ]
+            },
+            "_ALGOLIA": {
+                "name": "_ALGOLIA",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741485535,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "anonymous-0a3c7783-e600-4808-9aa9-2b153c2ab242",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741485534
+                    }
+                ]
+            },
+            "cfid": {
+                "name": "cfid",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301483.604742,
+                        "expiry": 34560000.60474205,
+                        "value": "e51a2a1f-582d-43c9-a1c7-7d32c4a3093f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483625
+                    }
+                ]
+            },
+            "cftoken": {
+                "name": "cftoken",
+                "domain": "www.bmstores.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741483626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763301483.604864,
+                        "expiry": 34560000.60486388,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741483626
+                    }
+                ]
+            }
+        }
+    }
+}

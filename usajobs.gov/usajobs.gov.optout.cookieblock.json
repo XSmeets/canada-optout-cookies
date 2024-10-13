@@ -1,0 +1,866 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825775255,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728826675.253347,
+                        "expiry": 900.2533469200134,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825775254
+                    }
+                ]
+            }
+        }
+    },
+    "opm.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825774728,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385774.726606,
+                        "expiry": 34560000.72660589,
+                        "value": "GA1.1.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825774728
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.77275896,
+                        "value": "GA1.1.969424163.1728825775",
+                        "same_site": "strict",
+                        "timestamp": 1728825774774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60964298,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825775610
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03709102,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825777040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.809365034,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825778811
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.93663812,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825799939
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13435793,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825803135
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.7127409,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825806715
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.779768944,
+                        "value": "GA1.2.969424163.1728825775",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825808782
+                    }
+                ]
+            },
+            "_ga_1QQK83MZ36": {
+                "name": "_ga_1QQK83MZ36",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825774727,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385774.7264,
+                        "expiry": 34560000.7263999,
+                        "value": "GS1.1.1728825774.1.0.1728825774.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825774727
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.182744026,
+                        "value": "GS1.1.1728825774.1.1.1728825810.24.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825810183
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825774774,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763385774.772472,
+                        "expiry": 34560000.772471905,
+                        "value": "GS1.1.1728825774.1.0.1728825774.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825774773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.79470992,
+                        "value": "GS1.1.1728825774.1.1.1728825795.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825795795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18800998,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825810188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18826103,
+                        "value": "GS1.1.1728825774.1.1.1728825810.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825810189
+                    }
+                ]
+            },
+            "_gat_UA-25203340-1": {
+                "name": "_gat_UA-25203340-1",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825775614,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825835,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825775613
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825775612,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728912175,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825775610
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825777040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825778812
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825799940
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825803135
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825806716
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1606459065.1728825776",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825808782
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825772588,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728832972.581511,
+                        "expiry": 7200.58151102066,
+                        "value": "89E3D4EDA172606D5A4BA143D37BD553~000000000000000000000000000000~YAAQlBwhF1aD9X6SAQAAssoLhhm/Dr0Du2pSAq4T7QFjo8hRh6348opHfcMFNTfmHD7YR+yiHd0EalfS/FQcGDY6olcuWLruUwWcz+IPOhVm/WyQGNN7fPuL/TOAkY2a0dErzysw1rL5V7MFcJTI+7/AvrN+U6ePgzVV/gCpT9SbIuOkGAevhd+WBj8fjxrJJ0qn01IPFt7arIhz0grZ7Do+DENSy6YPLlEctfxs+OpzwyjJnHSA7Op0mKZ2e7O4VQKF6Q0L2+goYvT8LtIxU81ZQTZqeGck06HLppQJzfSqEBNGLZcYeUfsFCyzFF30ZFSRutzA8AEMAqA8DqYmkF5Cof3mvIIwzPrqZyjA4eO0ilK8Q6SWhAdiTvM=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825772586
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".opm.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825774301,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728832974.297618,
+                        "expiry": 7200.2976179122925,
+                        "value": "17326F77F29F13DDD798DF4C386D1A1B~YAAQlBwhFyiE9X6SAQAAZdELhhkO/CKe8RU+Yw3rvPV0i6DvjM2HxFDXsPsE4bw0AKFPAtcKKlshQ79hEr+l9wKgkXIZGCzjKJmR3H3tb0S4Jsx8NNRG5uN0AdMOCgLQjPeBO9cCqODumJT+2dv9ksas8PfsPB993yWWHZ5ZCt58vHz+6BMq4lFSuIy7HXpgoXODwgTcl0Hvt2hBAdv9e4WEqOaG5yaFUg8DcbH4XDwoIQfjcam53E+mDW6Y~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825774298
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.570593118668,
+                        "value": "17326F77F29F13DDD798DF4C386D1A1B~YAAQlBwhF0SE9X6SAQAAdtILhhnKKVQXZyahZS8gK0/2ZVCXAjb8z3sMbWRr+20iVz2M5Qw080m297gO07qxJaUiJvQP8Gk5KmYWldYnyyKXipkJgKFSpK1if0puB13CcWI42WhSnFFyUIs/mZHtmELydvJsnZXITyN6lJWza2MdBel8f3h/3vO2DJ5XNecLOy5VGGgOSFcMM0Xxi1GphrI6Y46yrlkUffSyzw7QjMIm5tfSRUYHIDxogaQ9~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825774571
+                    }
+                ]
+            },
+            "ASP.NET_SessionId": {
+                "name": "ASP.NET_SessionId",
+                "domain": "www.opm.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825772585,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gwfzrhuvo1w2x2maoo5r0psq",
+                        "same_site": "lax",
+                        "timestamp": 1728825772582
+                    }
+                ]
+            }
+        }
+    },
+    "usajobs.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".usajobs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825749223,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385749.220235,
+                        "expiry": 34560000.22023511,
+                        "value": "GA1.1.53539116.1728825749",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825749222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.78404188,
+                        "value": "GA1.1.53539116.1728825749",
+                        "same_site": "strict",
+                        "timestamp": 1728825749786
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.11373496,
+                        "value": "GA1.1.53539116.1728825749",
+                        "same_site": "strict",
+                        "timestamp": 1728825760115
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.43458104,
+                        "value": "GA1.1.53539116.1728825749",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825760435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.93062091,
+                        "value": "GA1.1.53539116.1728825749",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825811932
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.955225945,
+                        "value": "GA1.1.53539116.1728825749",
+                        "same_site": "strict",
+                        "timestamp": 1728825811955
+                    }
+                ]
+            },
+            "_ga_CLZB1LJ1VZ": {
+                "name": "_ga_CLZB1LJ1VZ",
+                "domain": ".usajobs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825749221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385749.219779,
+                        "expiry": 34560000.219779015,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825749220
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.21998,
+                        "value": "GS1.1.1728825749.1.0.1728825749.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825749221
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.434412956,
+                        "value": "GS1.1.1728825749.1.1.1728825760.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825760434
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5945549,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825772595
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5949111,
+                        "value": "GS1.1.1728825749.1.1.1728825772.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825772596
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.870574,
+                        "value": "GS1.1.1728825749.1.1.1728825811.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825811871
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.93036699,
+                        "value": "GS1.1.1728825749.1.1.1728825811.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825811931
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".usajobs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825749785,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.02452898,
+                        "value": "GS1.1.1728825749.1.1.1728825769.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825769025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.44109011,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825771441
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.44143796,
+                        "value": "GS1.1.1728825749.1.1.1728825771.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825771443
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.448349,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825771448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.4485631,
+                        "value": "GS1.1.1728825749.1.1.1728825771.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825771449
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.591082096,
+                        "value": "GS1.1.1728825749.1.1.1728825772.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825772591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.87512207,
+                        "value": "GS1.1.1728825749.1.1.1728825811.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825811875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.95499611,
+                        "value": "GS1.1.1728825749.1.1.1728825811.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825811955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.9583621,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825811958
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.95846701,
+                        "value": "GS1.1.1728825749.1.1.1728825811.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825811959
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".usajobs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825747321,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728832947.308415,
+                        "expiry": 7200.308414936066,
+                        "value": "A0B4A252E08CC52A7736140DCBC3C6D2~000000000000000000000000000000~YAAQhRwhF1RBVXSSAQAAhWcLhhmuDjnJfBFcM/BCvQsP4y034+jgnDViZyYLfCDxkdOv0ItRJA2ZyZlfESRSoKg1US/fiCU1J+WdxD9E9cAtOTxmOO2r5JTWnIx6XuVPcDm0S6pbVbMznVeOACc+QlWqW9535cxZN+dkpob+E8ujlyIhYBxteBiISQqzWrg1xujECR5hGtbnMW8wgrm81//UTvq516ZbopujfyfVDkpbma4IGzDbMh60kY8WpceJCAHkeVIBt9FvTu5QF/6Q1mI7f6N8hn5R765107ahzS9HMky+pDH+Y92zgYq7nBIltiCAtA7sT8koW154EiaUyBw/4tGJHleUopVkGazDGDsI9GMr2TJLeLbZix2lv3Kz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825747311
+                    }
+                ]
+            },
+            "akavpau_usajobs": {
+                "name": "akavpau_usajobs",
+                "domain": ".usajobs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825746575,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748022
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748112
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748144
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748228
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826048~id=2eeb6c7324dc20b1b25a5cb138ca76a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825748438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826056~id=f3bad39567b83a3a76d67792a1add92a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825756634
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826079~id=bd786f69255c935d66b2ea4e7948eb94",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825779016
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728826111~id=ab8f1c4b8753e1f0c59400618d87ccb2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825811867
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".usajobs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825748235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728832948.226283,
+                        "expiry": 7200.226283073425,
+                        "value": "3EF476EA055E029EFE0F4876B1DAD00F~YAAQhRwhF41CVXSSAQAAj2sLhhn+WDjGSOyOobjexpYAl+FxQkI9VSz0uph4NkfHZp8PVWgqj6sISAayLBle5vIzexgzjoC8mXtTefLA2cXef1VHwWXagWS1m8DTk6uTl+mMTQdcnMghrBDxVoDmlrCNhIa3gulaVmBOc+Wer7Q4NkXxJ5prOy2Uz2YOOIfV3EQMw5wrceQ3BbB9ibKkcLJO3ogaIUhf4boKJKIPmN54XjamrJEZjlHSOimlH7bGgg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825748228
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.436996936798,
+                        "value": "3EF476EA055E029EFE0F4876B1DAD00F~YAAQhRwhF8ZCVXSSAQAAYmwLhhnEPI2/IzuhSAuhgKRIz9C+sQQ10mbODNZH+g1/uZKT9zr/aj+GTmlZd09VZu9BUCUxS8MMgvfYifKESsBBPsK+qPiXPGO3p2w+Bzoy9Fn4w6jq5mqkkd1ecZkTYYJ+JJPKv+0Cew+y0L/KiHhDkQ7jcoJqfpRxdeULIeW3UmOjSUdcVawpQIlnK2jfl5ZNoqeubKWqTNrMh1+3uhICxxSllPyDRHuFSAnrf7bUnw==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825748438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7189.468297958374,
+                        "value": "3EF476EA055E029EFE0F4876B1DAD00F~YAAQhRwhF/pNVXSSAQAAeJcLhhmYCg8RdDYPVaAYTZ0SVYGpUGQ7CLSNBtcGkTZCggqbjZGX4kNamXxs9iOtaXASKGAAjT3ahdArUaXxlA1R5wOm1sE3E78XP8fuwOoEiSFcVx9kCpS6LwSdsUeibEfXM0GynVkJgRGE0xEZQTS+m05KyEVvNTY3KzMmS5XLcG4qwSR7pqBCPyAlzXdFv/UWT5gN2qV8W0WzK9urJn8x0Tsarb9q1IwublWaLk+2ww==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825759473
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7188.554848909378,
+                        "value": "3EF476EA055E029EFE0F4876B1DAD00F~YAAQhRwhFwBPVXSSAQAAtpsLhhkiYwut6hHPyMoTojAHiBAmGHG6WY49s8FBqEy9d2aB2C3vWanyN5zKhq/XSsmpJN2rOR4o3yS83psIWA5grSvROlBcUjDxVab6qCFZX0sjBcu14M9MW2AHyY28pdXOqzeO0qVxKCuvLXRwO+EcvJ9rOYqIS2JJE4WsM3ifAYTI1w39yH5/wjK5CkdEaThARm61m0V1DB9qUTPEu8sfJe2mjTx0N18/yxVsUyFYoA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825760555
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7137.865099906921,
+                        "value": "3EF476EA055E029EFE0F4876B1DAD00F~YAAQhRwhF1d/VXSSAQAAr2MMhhk2+UIUC7Ljs5cJKaw8q/WR8E/sOcwQGrmKIBnzvg7TR7m5OThUYAWmmUrKtCDEvIOX2Gf59fCd3E93fQOFQ5+oDUw4jxUcdDtVM+YJTBIpZxyCEWGJ3AK7xxqE1kXhU8g3DSiwFVmvrAjAV0fUDawisW/s2nXHQZXeV0Hz6Ivi7fX3tL4rJ203JHEsJVJGMQ6OCdI1e3GvEUfTFsX+TaJF70atNFKOjDcb5H/mWw==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825811867
+                    }
+                ]
+            },
+            "usaj-f": {
+                "name": "usaj-f",
+                "domain": "www.usajobs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825748241,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%7B%22Name%22%3A%22VAAPI%22%2C%22Enabled%22%3Afalse%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520515Z%22%7D%2C%7B%22Name%22%3A%22AppGuideSL%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520524Z%22%7D%2C%7B%22Name%22%3A%22JetTool%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.352053Z%22%7D%2C%7B%22Name%22%3A%22ResumeBuilder%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22rb%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520537Z%22%7D%2C%7B%22Name%22%3A%22SavedSearch%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520541Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520547Z%22%7D%2C%7B%22Name%22%3A%22EarlyCareers%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520551Z%22%7D%2C%7B%22Name%22%3A%22ProfileHome%22%2C%22Enabled%22%3Afalse%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222024-10-13T13%3A22%3A28.3520556Z%22%7D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825748236
+                    }
+                ]
+            }
+        }
+    }
+}

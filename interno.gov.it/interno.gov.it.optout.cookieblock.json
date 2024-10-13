@@ -1,0 +1,79 @@
+{
+    "interno.gov.it": {
+        "/": {
+            "cookie-agreed-categories": {
+                "name": "cookie-agreed-categories",
+                "domain": "www.interno.gov.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654890290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1737298490,
+                        "expiry": 8643600,
+                        "value": "[%22mandatory%22]",
+                        "same_site": "strict",
+                        "timestamp": 1728654890289
+                    }
+                ]
+            },
+            "cookie-agreed-version": {
+                "name": "cookie-agreed-version",
+                "domain": "www.interno.gov.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654890292,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1737298490,
+                        "expiry": 8643600,
+                        "value": "1.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728654890291
+                    }
+                ]
+            },
+            "cookie-agreed": {
+                "name": "cookie-agreed",
+                "domain": "www.interno.gov.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654890279,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1737298490,
+                        "expiry": 8643600,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654890273
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 8643600,
+                        "value": "2",
+                        "same_site": "strict",
+                        "timestamp": 1728654890291
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2466 @@
+{
+    "3lift.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740415180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516415.179472,
+                        "expiry": 7776000.17947197,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415179
+                    }
+                ]
+            },
+            "tluid": {
+                "name": "tluid",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740415182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516415.179515,
+                        "expiry": 7776000.179514885,
+                        "value": "787807520786163570224",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415181
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740416108,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516416.107479,
+                        "expiry": 7776000.107479095,
+                        "value": "U429HbenVROzm9GbI9kiF6ZU9I0if8Jrb1FP1iGKJ5GD1v5F7IMMKD-Tdz7KN7eI1vy_57inLqWbOsmTF7EJEkrPK6HJZ8KZwkMh3JymGOw.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416107
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.307796955,
+                        "value": "v6GFZ43yI48hKxKsGrKyrpjUQG9CfQ635-40a9o75bXzNQ8uTWX_PzJuRde22hEg4R9r36O92euZbstGQh2Y-vqBAhSGFam3mqzKI9xl6T4.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416308
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740416109,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516416.107522,
+                        "expiry": 7776000.107522011,
+                        "value": "ChgIpOReEAoYASABKAEwwPipuAY4AUABSAEQwPipuAYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416109
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.307847023,
+                        "value": "ChgIpOReEAoYASABKAEwwPipuAY4AUABSAEQwPipuAYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416308
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740416110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300416.107535,
+                        "expiry": 34560000.107534885,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416109
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.307864904,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416308
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740416110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516416.107548,
+                        "expiry": 7776000.107547998,
+                        "value": "2567883080934289436",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416110
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.307881117,
+                        "value": "5407871522023868118",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416308
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740415345,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1751377215.344612,
+                        "expiry": 22636800.344611883,
+                        "value": "Awg7rtJAFEoxp1otUqNhhmQ|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415345
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 22636800.537324905,
+                        "value": "Awg7rtJAFEoxp1otUqNhhmQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415539
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 22636800.74855995,
+                        "value": "Awg7rtJAFEoxp1otUqNhhmQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417749
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740415540,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300415.53743,
+                        "expiry": 34560000.53743005,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415539
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.748650074,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417750
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "CMID": {
+                "name": "CMID",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276417.451826,
+                        "expiry": 31536000.451826096,
+                        "value": "Zwp8QdHM6VIAACF9AA0rbQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417452
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.597146988,
+                        "value": "Zwp8QdHM6VIAACF9AA0rbQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417601
+                    }
+                ]
+            },
+            "CMPRO": {
+                "name": "CMPRO",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417454,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516417.451861,
+                        "expiry": 7776000.451860905,
+                        "value": "3510",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417454
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.597219944,
+                        "value": "3510",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417604
+                    }
+                ]
+            },
+            "CMPS": {
+                "name": "CMPS",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417454,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516417.45185,
+                        "expiry": 7776000.451849937,
+                        "value": "3510",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417453
+                    }
+                ]
+            }
+        }
+    },
+    "chroniclelive.co.uk": {
+        "/": {
+            "AMP_MKTG_d8c8a103d7": {
+                "name": "AMP_MKTG_d8c8a103d7",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740414562,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276414,
+                        "expiry": 31536000,
+                        "value": "JTdCJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740414561
+                    }
+                ]
+            },
+            "AMP_TLDTEST": {
+                "name": "AMP_TLDTEST",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740414557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "MQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740414557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "MQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418261
+                    }
+                ]
+            },
+            "AMP_d8c8a103d7": {
+                "name": "AMP_d8c8a103d7",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740414560,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276414,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4OTllOTBjNC0yZWY1LTRlN2YtYTk5OS00YTQ2OTA3ODA3NTklMjIlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1728740414559
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1728740414562
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDE0NTYyJTJDJTIybGFzdEV2ZW50SWQlMjIlM0EwJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740414564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDE0NjI3JTJDJTIybGFzdEV2ZW50SWQlMjIlM0ExJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740414628
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDE0NjMzJTJDJTIybGFzdEV2ZW50SWQlMjIlM0EyJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740414634
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDE0NjU2JTJDJTIybGFzdEV2ZW50SWQlMjIlM0EzJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740414658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMm9wdE91dCUyMiUzQWZhbHNlJTJDJTIybGFzdEV2ZW50SWQlMjIlM0EzJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740418262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDE0NjU2JTJDJTIybGFzdEV2ZW50SWQlMjIlM0EzJTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740418264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDE4Mjc2JTJDJTIybGFzdEV2ZW50SWQlMjIlM0E0JTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740418277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxNTk3Mzg0NDkuMTcyODc0MDQxNCUyMiUyQyUyMnNlc3Npb25JZCUyMiUzQTE3Mjg3NDA0MTQ1NjAlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNzI4NzQwNDI3OTY0JTJDJTIybGFzdEV2ZW50SWQlMjIlM0E1JTJDJTIycGFnZUNvdW50ZXIlMjIlM0EwJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1728740427966
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740418858,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762868418,
+                        "expiry": 34128000,
+                        "value": "DnN-QtBoVgZUDMCaIi",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418858
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740418860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728742218,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.chroniclelive.co.uk%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418859
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.chroniclelive.co.uk%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418861
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740413512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740413511
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740413512
+                    }
+                ]
+            },
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417375,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1752068417,
+                        "expiry": 23328000,
+                        "value": "ABR4nGNgYGBI56pxZIADAA7RAS8%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740417375
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417375,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1752068417,
+                        "expiry": 23328000,
+                        "value": "ACZ4nGNQSDE0NDNMTjE3N01JMTZMSkxLNLU0SDUyMU4ySUtKTrJkAIJ0rhpHBgQAAFt9CpQ%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740417373
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740417294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1752068417,
+                        "expiry": 23328000,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "lax",
+                        "timestamp": 1728740417293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 23328000,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "lax",
+                        "timestamp": 1728740417320
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 23328000,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "lax",
+                        "timestamp": 1728740417373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 23328000,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "lax",
+                        "timestamp": 1728740420279
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740418859,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762868418,
+                        "expiry": 34128000,
+                        "value": ".1728740418857.1728740418857.1.CkQpuqCtuWB0CnZROLDz-XjwCBxgQ8.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418859
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740420609,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736516420,
+                        "expiry": 7776000,
+                        "value": "fb.2.1728740420607.898941743699783114",
+                        "same_site": "lax",
+                        "timestamp": 1728740420608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.2.1728740420607.898941743699783114",
+                        "same_site": "lax",
+                        "timestamp": 1728740420613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.2.1728740420607.898941743699783114",
+                        "same_site": "lax",
+                        "timestamp": 1728740421690
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.2.1728740420607.898941743699783114",
+                        "same_site": "lax",
+                        "timestamp": 1728740423513
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740413974,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736516413,
+                        "expiry": 7776000,
+                        "value": "1.1.1248646360.1728740414",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740413973
+                    }
+                ]
+            },
+            "_gd1728740425285_sharedId": {
+                "name": "_gd1728740425285_sharedId",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740425721,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740425721
+                    }
+                ]
+            },
+            "_rdc1728740414339": {
+                "name": "_rdc1728740414339",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740414340,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728740424,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1728740414340
+                    }
+                ]
+            },
+            "_rdc1728740425791": {
+                "name": "_rdc1728740425791",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740425793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728740435,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1728740425792
+                    }
+                ]
+            },
+            "_sharedid": {
+                "name": "_sharedid",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740425722,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276425,
+                        "expiry": 31536000,
+                        "value": "1fbe317f-73bb-4af4-87f0-809033f6df2c",
+                        "same_site": "lax",
+                        "timestamp": 1728740425721
+                    }
+                ]
+            },
+            "_sharedid_cst": {
+                "name": "_sharedid_cst",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740425723,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276425,
+                        "expiry": 31536000,
+                        "value": "kSylLAssaw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728740425722
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740416181,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762436416,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740416180
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740416182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762436416,
+                        "expiry": 33696000,
+                        "value": "I_hOk_0bqlDiFPXqAHMBw9st1Ud",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740416181
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740417786": {
+                "name": "_vf_rd_test_1728740417786",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417801,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740417786",
+                        "same_site": "lax",
+                        "timestamp": 1728740417800
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740421437": {
+                "name": "_vf_rd_test_1728740421437",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740421439,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740421437",
+                        "same_site": "lax",
+                        "timestamp": 1728740421438
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740421438": {
+                "name": "_vf_rd_test_1728740421438",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740421441,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740421438",
+                        "same_site": "lax",
+                        "timestamp": 1728740421440
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740421711": {
+                "name": "_vf_rd_test_1728740421711",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740421713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740421711",
+                        "same_site": "lax",
+                        "timestamp": 1728740421712
+                    }
+                ]
+            },
+            "_vf_rd_test_1728740421713": {
+                "name": "_vf_rd_test_1728740421713",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740421715,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1728740421713",
+                        "same_site": "lax",
+                        "timestamp": 1728740421715
+                    }
+                ]
+            },
+            "_vfa": {
+                "name": "_vfa",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417809,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276417.800422,
+                        "expiry": 31536000.800421953,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.97742f94-815c-49e7-aa01-41c2f0562676.1728740414.1728740414.1728740414.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740417808
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.40782094,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.97742f94-815c-49e7-aa01-41c2f0562676.1728740414.1728740414.1728740414.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740419409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.41136408,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.97742f94-815c-49e7-aa01-41c2f0562676.1728740414.1728740414.1728740414.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740419412
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.440480947,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.97742f94-815c-49e7-aa01-41c2f0562676.1728740414.1728740414.1728740414.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740421441
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.715317965,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.97742f94-815c-49e7-aa01-41c2f0562676.1728740414.1728740414.1728740414.1",
+                        "same_site": "lax",
+                        "timestamp": 1728740421716
+                    }
+                ]
+            },
+            "_vfb": {
+                "name": "_vfb",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728742217.800062,
+                        "expiry": 1800.8000619411469,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.2.10.1728740414....",
+                        "same_site": "lax",
+                        "timestamp": 1728740417808
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.4075689315796,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.3.10.1728740414.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740419408
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.4102699756622,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.4.10.1728740414.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740419412
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.4378299713135,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.5.10.1728740414.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740421439
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.7123260498047,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.6.10.1728740414.true...",
+                        "same_site": "lax",
+                        "timestamp": 1728740421713
+                    }
+                ]
+            },
+            "_vfz": {
+                "name": "_vfz",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740777.790056,
+                        "expiry": 360.7900559902191,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.1728740414.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740417807
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 360.8009328842163,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.1728740414.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740417813
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 360.40822196006775,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.1728740414.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740419409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 360.41258788108826,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.1728740414.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1728740419413
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.43839406967163,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.1728740414.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740421439
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.71291303634644,
+                        "value": "www%2Echroniclelive%2Eco%2Euk.00000000-0000-4000-8000-ecb1138a6c24.1728740414.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740421713
+                    }
+                ]
+            },
+            "lotame_domain_check": {
+                "name": "lotame_domain_check",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740414977,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728740424,
+                        "expiry": 10,
+                        "value": "chroniclelive.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728740414976
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10,
+                        "value": "chroniclelive.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728740417293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10,
+                        "value": "chroniclelive.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728740417319
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10,
+                        "value": "chroniclelive.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728740420115
+                    }
+                ]
+            },
+            "mantisid": {
+                "name": "mantisid",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740413729,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276413,
+                        "expiry": 31536000,
+                        "value": "cf54bd68-f245-4a9a-976a-44e251d00558",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740413728
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "cf54bd68-f245-4a9a-976a-44e251d00558",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740418377
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826818,
+                        "expiry": 86401,
+                        "value": "1728826817299",
+                        "same_site": "lax",
+                        "timestamp": 1728740417294
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86401,
+                        "value": "1728826817331",
+                        "same_site": "lax",
+                        "timestamp": 1728740417320
+                    }
+                ]
+            },
+            "_gd1728740425283_sharedId": {
+                "name": "_gd1728740425283_sharedId",
+                "domain": ".www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740425714,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740425713
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740425717
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": ".www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740413460,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762436413.45867,
+                        "expiry": 33696000.4586699,
+                        "value": "1Y--",
+                        "same_site": "lax",
+                        "timestamp": 1728740413459
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.51491189,
+                        "value": "1YYN",
+                        "same_site": "lax",
+                        "timestamp": 1728740423515
+                    }
+                ]
+            },
+            "AMP_TEST": {
+                "name": "AMP_TEST",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740414555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "JTIyMTcyODc0MDQxNDU1NCUyMg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740414554
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "JTIyMTcyODc0MDQxODI1OSUyMg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418260
+                    }
+                ]
+            },
+            "DM_SitId868": {
+                "name": "DM_SitId868",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740416027,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740416026
+                    }
+                ]
+            },
+            "DM_SitId868SecId4809": {
+                "name": "DM_SitId868SecId4809",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740416027,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740416027
+                    }
+                ]
+            },
+            "DM_SitId868SecId4810": {
+                "name": "DM_SitId868SecId4810",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740418380,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418379
+                    }
+                ]
+            },
+            "GS_GROUP": {
+                "name": "GS_GROUP",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740412288,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731332412.274073,
+                        "expiry": 2592000.2740728855,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740412280
+                    }
+                ]
+            },
+            "GS_RESTRICT": {
+                "name": "GS_RESTRICT",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728740412294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740412293
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740413431
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740413820
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740413863
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740417772
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418772
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740426114
+                    }
+                ]
+            },
+            "GS_REVENUE_LOC": {
+                "name": "GS_REVENUE_LOC",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740412293,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731332412.276734,
+                        "expiry": 2592000.2767341137,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740412288
+                    }
+                ]
+            },
+            "TM_PagesViewed": {
+                "name": "TM_PagesViewed",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740421696,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728742221,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740421695
+                    }
+                ]
+            },
+            "TM_ga_clientId": {
+                "name": "TM_ga_clientId",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740413798,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300413.796925,
+                        "expiry": 34560000.79692507,
+                        "value": "159738449.1728740414",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740413797
+                    }
+                ]
+            },
+            "_lr_env_src_ats": {
+                "name": "_lr_env_src_ats",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740425724,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731332425,
+                        "expiry": 2592000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740425723
+                    }
+                ]
+            },
+            "_lr_geo_location": {
+                "name": "_lr_geo_location",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826817.678486,
+                        "expiry": 86400.67848610878,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740417679
+                    }
+                ]
+            },
+            "_lr_geo_location_state": {
+                "name": "_lr_geo_location_state",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728826817.678437,
+                        "expiry": 86400.67843699455,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740417678
+                    }
+                ]
+            },
+            "_lr_retry_request": {
+                "name": "_lr_retry_request",
+                "domain": "www.chroniclelive.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740425723,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728744025,
+                        "expiry": 3600,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740425723
+                    }
+                ]
+            }
+        },
+        "/cookie-policy": {
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".chroniclelive.co.uk",
+                "path": "/cookie-policy",
+                "current_label": 0,
+                "label_ts": 1728740418854,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418853
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728740418860
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417725,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762436416.724362,
+                        "expiry": 33695999.7243619,
+                        "value": "16cc126d-7394-4a06-91e4-003a47bbd0bf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417725
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752068417.361784,
+                        "expiry": 23328000.36178398,
+                        "value": "\"ABR4nGNgYGBI56pxZIADAA7RAS8%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23328000.270360947,
+                        "value": "\"ABR4nGNgYGBI56pxYYADAA7yATI%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420273
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752068417.361722,
+                        "expiry": 23328000.361721992,
+                        "value": "\"ACZ4nGNQSDE0NDNMTjE3N01JMTZMSkxLNLU0SDUyMU4ySUtKTrJkAIJ0rhpHBgQAAFt9CpQ%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23328000.27027011,
+                        "value": "\"ACZ4nGNQSDE0NDNMTjE3N01JMTZMSkxLNLU0SDUyMU4ySUtKTrJkAIJ0rhqXv%2F%2F%2F%2F%2BdngAMAvE4OoA%3D%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420273
+                    }
+                ]
+            },
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752066420.286469,
+                        "expiry": 23326003.286468983,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417287
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23326003.36150098,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417362
+                    }
+                ]
+            },
+            "_cc_domain": {
+                "name": "_cc_domain",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740417362,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752066420.361565,
+                        "expiry": 23326003.361565113,
+                        "value": ".cc.mirror.co.uk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417362
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740417290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1752066420.286571,
+                        "expiry": 23326003.286571026,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23326003.317991972,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23326003.36161399,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23326000.270090103,
+                        "value": "d1161cd775dd31bafa590e243b4fbcb9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420272
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740415746,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276415.745424,
+                        "expiry": 31536000.745424032,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.233603,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.017971992,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740418018
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.819268942,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740419820
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.319924116,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420320
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740415747,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276415.745473,
+                        "expiry": 31536000.745472908,
+                        "value": "UserID=fc35626b-ea03-4864-a2c0-d50d5adf7609&Created=10/12/2024 13:40:15&UserMode=0&guid=48aa6358-3d99-42c4-ab24-9999945054ed&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415747
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.233665943,
+                        "value": "UserID=fc35626b-ea03-4864-a2c0-d50d5adf7609&Created=10/12/2024 13:40:15&UserMode=0&guid=48aa6358-3d99-42c4-ab24-9999945054ed&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.018023968,
+                        "value": "UserID=fc35626b-ea03-4864-a2c0-d50d5adf7609&Created=10/12/2024 13:40:15&UserMode=0&guid=48aa6358-3d99-42c4-ab24-9999945054ed&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740418018
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.819406986,
+                        "value": "UserID=fc35626b-ea03-4864-a2c0-d50d5adf7609&Created=10/12/2024 13:40:15&UserMode=0&guid=48aa6358-3d99-42c4-ab24-9999945054ed&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740419821
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.31997204,
+                        "value": "UserID=fc35626b-ea03-4864-a2c0-d50d5adf7609&Created=10/12/2024 13:40:15&UserMode=0&guid=48aa6358-3d99-42c4-ab24-9999945054ed&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420320
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740416573,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736516416.572419,
+                        "expiry": 7776000.572418928,
+                        "value": "8ecced0b-790a-7df1-97b7-4148b520b9c0#1728740416554#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.797561884,
+                        "value": "8ecced0b-790a-7df1-97b7-4148b520b9c0#1728740416554#2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740417808
+                    }
+                ]
+            }
+        }
+    },
+    "omnitagjs.com": {
+        "/": {
+            "ayl_visitor": {
+                "name": "ayl_visitor",
+                "domain": ".omnitagjs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740416436,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731332416.435215,
+                        "expiry": 2592000.4352149963,
+                        "value": "69a7186edc0870e5dd0aae6bdc14bb7b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740416435
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740414879,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276414.877398,
+                        "expiry": 31536000.877398014,
+                        "value": "1|mFVHqHkj5bEGyjKLqQD3ziTZ8QWn7H601w1wSoM3hqpYvM4EOc2m5QsqUh1Tm+YC8fvfjhzPbWvQNbAu3SxAaTzVSpxmtMeXbYGA9Brf1J2+xUA9sgf/4b7FQD2yB//hsqlSNZOaaDQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.90131092,
+                        "value": "1|mFVHqHkj5bHjuNk+nR0/DiTZ8QWn7H601w1wSoM3hqpYvM4EOc2m5QsqUh1Tm+YC8fvfjhzPbWvQNbAu3SxAaTzVSpxmtMeXbYGA9Brf1J2+xUA9sgf/4b7FQD2yB//hsqlSNZOaaDQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414902
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.90238905,
+                        "value": "1|mFVHqHkj5bHjuNk+nR0/DiTZ8QWn7H601w1wSoM3hqpYvM4EOc2m5QsqUh1Tm+YC8fvfjhzPbWvQNbAu3SxAaTzVSpxmtMeXbYGA9Brf1J2+xUA9sgf/4b7FQD2yB//hsqlSNZOaaDQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.944525957,
+                        "value": "1|mFVHqHkj5bEPOysU88jDnCTZ8QWn7H601w1wSoM3hqpYvM4EOc2m5QsqUh1Tm+YC8fvfjhzPbWvQNbAu3SxAaTzVSpxmtMeXbYGA9Brf1J2+xUA9sgf/4b7FQD2yB//hsqlSNZOaaDQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414946
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.94495511,
+                        "value": "1|mFVHqHkj5bEPOysU88jDnCTZ8QWn7H601w1wSoM3hqpYvM4EOc2m5QsqUh1Tm+YC8fvfjhzPbWvQNbAu3SxAaTzVSpxmtMeXbYGA9Brf1J2+xUA9sgf/4b7FQD2yB//hsqlSNZOaaDQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414949
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740414878,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760276414.877364,
+                        "expiry": 31536000.87736392,
+                        "value": "M267EP4D-1H-1MTT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414877
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.901299953,
+                        "value": "M267EP48-1Z-IJ7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414902
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.902358055,
+                        "value": "M267EP48-1Z-IJ7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.944515944,
+                        "value": "M267EP47-V-LKN1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414945
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.944930077,
+                        "value": "M267EP47-V-LKN1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740414949
+                    }
+                ]
+            }
+        }
+    },
+    "stmg-prod.mirror.co.uk": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".stmg-prod.mirror.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728740413781,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300413.779793,
+                        "expiry": 34560000.779793024,
+                        "value": "GA1.4.159738449.1728740414",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740413780
+                    }
+                ]
+            }
+        }
+    },
+    "t.co": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".t.co",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740420650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728742220.648477,
+                        "expiry": 1800.6484770774841,
+                        "value": "5OGUYMXPRIEwYMWSRAcEgGqA6Oo5paHR6RHmD3Hm1Cw-1728740420-1.0.1.1-ieouIyGJ39hYTYUHkLwPnm2YFfGPSUA2WJ4rh6Q0GI_F5EcINtHGBCq7pBa93Wca1g8bTWNiCDh6UIo1ZZ2IzA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420650
+                    }
+                ]
+            },
+            "muc_ads": {
+                "name": "muc_ads",
+                "domain": ".t.co",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740420649,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300420.648435,
+                        "expiry": 34560000.648435116,
+                        "value": "51306cc1-29e3-42ae-bd3c-9a33aef0bcfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420649
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740415725,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762436415.710365,
+                        "expiry": 33696000.71036506,
+                        "value": "2nL7He0J9jbqX7iQNTdqjm4CRY2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740415724
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.809472084,
+                        "value": "2nL7He0J9jbqX7iQNTdqjm4CRY2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740418810
+                    }
+                ]
+            }
+        }
+    },
+    "twitter.com": {
+        "/": {
+            "guest_id": {
+                "name": "guest_id",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740420917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300420.911464,
+                        "expiry": 34560000.911463976,
+                        "value": "v1%3A172874042091932714",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420917
+                    }
+                ]
+            },
+            "guest_id_ads": {
+                "name": "guest_id_ads",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740420915,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300420.911405,
+                        "expiry": 34560000.91140509,
+                        "value": "v1%3A172874042091932714",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420914
+                    }
+                ]
+            },
+            "guest_id_marketing": {
+                "name": "guest_id_marketing",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728740420914,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300420.911203,
+                        "expiry": 34560000.91120291,
+                        "value": "v1%3A172874042091932714",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420912
+                    }
+                ]
+            },
+            "personalization_id": {
+                "name": "personalization_id",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728740420917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763300420.91144,
+                        "expiry": 34560000.911439896,
+                        "value": "\"v1_6150giij8p29+1A6DvzhVg==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728740420917
+                    }
+                ]
+            }
+        }
+    }
+}

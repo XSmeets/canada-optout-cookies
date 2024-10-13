@@ -1,0 +1,48 @@
+{
+    "retsinformation.dk": {
+        "/": {
+            "NSC_ESNS": {
+                "name": "NSC_ESNS",
+                "domain": "retsinformation.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655229820,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728655244.808856,
+                        "expiry": 15.808856010437012,
+                        "value": "1fbba2d0-2f7d-1709-9678-005056ab421f_1356124836_0206407317_00000000000531539552",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655229810
+                    }
+                ]
+            },
+            "NSC_mc_wt_qfyuxfc_iuuq": {
+                "name": "NSC_mc_wt_qfyuxfc_iuuq",
+                "domain": "retsinformation.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655229826,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728741629.809433,
+                        "expiry": 86400.8094329834,
+                        "value": "ffffffff09283d0345525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655229821
+                    }
+                ]
+            }
+        }
+    }
+}

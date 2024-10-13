@@ -1,0 +1,31 @@
+on: [push]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+      id-token: write
+      pages: write
+    name: Deploy to GitHub Pages
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate index.html
+        run: tree -T "Canada cookies after opting out (in cookie consent project)" -H . -I "index.html" -o index.html
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+
+    #   - name: Publish
+    #     uses: cloudflare/pages-action@v1
+    #     with:
+    #       apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    #       accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    #       projectName: 'mep-cookies-canada-optout'
+    #       directory: '.'
+    #       gitHubToken: ${{ secrets.GITHUB_TOKEN }}

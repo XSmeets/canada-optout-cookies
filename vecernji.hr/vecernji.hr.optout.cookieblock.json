@@ -1,0 +1,2564 @@
+{
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641583581,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337583.57935,
+                        "expiry": 33696000.579349995,
+                        "value": "09B282733D596AAE104597663CF36BEA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583580
+                    }
+                ]
+            }
+        }
+    },
+    "c.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641583581,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246383.579426,
+                        "expiry": 604800.5794260502,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583581
+                    }
+                ]
+            },
+            "SRM_B": {
+                "name": "SRM_B",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641583582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337583.579465,
+                        "expiry": 33696000.57946491,
+                        "value": "09B282733D596AAE104597663CF36BEA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583582
+                    }
+                ]
+            }
+        }
+    },
+    "c.clarity.ms": {
+        "/": {
+            "ANONCHK": {
+                "name": "ANONCHK",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641583717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642184.714109,
+                        "expiry": 601.7141089439392,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583716
+                    }
+                ]
+            },
+            "MR": {
+                "name": "MR",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641583716,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246384.714073,
+                        "expiry": 604801.7140729427,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583715
+                    }
+                ]
+            },
+            "SM": {
+                "name": "SM",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641583003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583002
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583715
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641583004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337584.002001,
+                        "expiry": 33696001.00200105,
+                        "value": "324885E0880F63770B1990F58C0F6D61",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583003
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696001.71398592,
+                        "value": "09B282733D596AAE104597663CF36BEA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641583715
+                    }
+                ]
+            },
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177580.524852,
+                        "expiry": 31536000.524852037,
+                        "value": "714f89bac7de40c8a35ce6920be3e60a.20241011.20251011",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641580525
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641594405,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337593.404481,
+                        "expiry": 33695999.404480934,
+                        "value": "NQpmtV9GVTIlMkJWaXk3emMzcWt2SWtnMWhEMTFRbW11eDlKZEI1R1Rqcmp1NHVROEM1MnBPZU9XY0hIWWprb2clMkZBS0dFZDh4SHhpSjVuJTJGeE84VWdna20zUjJFMHh4N3FpeHUzWXRHSkZ6ZjdXR1NGMCUzRA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641594405
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.531838894,
+                        "value": "5fqfK191U1NEdXRkRVRGU0dSb1dveDhzWTZlS0YlMkZWUThuOG1hRnlXbnd6WUFBNXRjY0lOTCUyQlklMkZSNVBJWU9Kd0MyVHMwVG84YXdKN2FGWmNmZmMlMkI2bHNMTSUyQkplQlh2QldPRTk4WmVLOUFMV2thMjQlM0Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641594533
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.63812399,
+                        "value": "4YiVR19BcDliTmVPektDTjhDazJLQ1NtVkYyc3N4UWQwS09IS2E3OTZaS3hQV3Z4bkhxS2pwUzVSRm5QTjJSWVdVZ2VFMDVWRG1XZ2Q1MDhFamtDelIlMkZ1OTQwaiUyRiUyRnpwVCUyRk9RdkNRbSUyRlNHNVY4aFklM0Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641597639
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.64270592,
+                        "value": "DfbbnV9pQzF3SFllR1hDSW1qVlRkYWdWcTJGUThCSnd5bDR6Z3RMdzQ3QWhDbnlMblZYdTFoZWhVeWxzc2RZM1NIJTJGN1hQeXlhTlFTaUx5V2lqaHJkdWE2MzFpblY4VmtTUTk3WFhMaWJTQlVEUzVnJTNE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641601644
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.7737031,
+                        "value": "mqssS19pQzF3SFllR1hDSW1qVlRkYWdWcTJGUThCSnd5bDR6Z3RMdzQ3QWhDbnlMblZYdTFoZWhVeWxzc2RZM1NIJTJGN1hQeXlhTlFTaUx5V2lqaHJkdWE2MzFvd2htMGpTb1ZTNjhRVDclMkZydmFYQzAlM0Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641601776
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177580.575252,
+                        "expiry": 31536000.575252056,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641580575
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.093962908,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581094
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.115259886,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596115
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.52972102,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.8326869,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596833
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177580.575294,
+                        "expiry": 31536000.575294018,
+                        "value": "UserID=b3dbf18d-cc53-4fbe-831d-ff8b56a33369&Created=10/11/2024 10:13:00&UserMode=0&guid=f485462b-ec23-44d5-af00-c94690911449&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641580576
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.09402895,
+                        "value": "UserID=b3dbf18d-cc53-4fbe-831d-ff8b56a33369&Created=10/11/2024 10:13:00&UserMode=0&guid=f485462b-ec23-44d5-af00-c94690911449&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581095
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.115300894,
+                        "value": "UserID=b3dbf18d-cc53-4fbe-831d-ff8b56a33369&Created=10/11/2024 10:13:00&UserMode=0&guid=f485462b-ec23-44d5-af00-c94690911449&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596116
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.52981305,
+                        "value": "UserID=b3dbf18d-cc53-4fbe-831d-ff8b56a33369&Created=10/11/2024 10:13:00&UserMode=0&guid=f485462b-ec23-44d5-af00-c94690911449&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.832737923,
+                        "value": "UserID=b3dbf18d-cc53-4fbe-831d-ff8b56a33369&Created=10/11/2024 10:13:00&UserMode=0&guid=f485462b-ec23-44d5-af00-c94690911449&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596833
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.rocks": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.rocks",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641581144,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177581.142958,
+                        "expiry": 31536000.142957926,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581143
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.638577938,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581639
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.640100956,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.116993904,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596117
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.877260923,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.089807034,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641597090
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.rocks",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641581145,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177581.143015,
+                        "expiry": 31536000.143014908,
+                        "value": "UserID=b2746abe-24e4-4a02-8602-5c9a917c8296&Created=10/11/2024 10:13:01&UserMode=0&guid=70074138-77d6-4958-b129-995fed50a723&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581144
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.638623953,
+                        "value": "UserID=b2746abe-24e4-4a02-8602-5c9a917c8296&Created=10/11/2024 10:13:01&UserMode=0&guid=70074138-77d6-4958-b129-995fed50a723&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581639
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.640176058,
+                        "value": "UserID=b2746abe-24e4-4a02-8602-5c9a917c8296&Created=10/11/2024 10:13:01&UserMode=0&guid=70074138-77d6-4958-b129-995fed50a723&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641581641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.117053032,
+                        "value": "UserID=b2746abe-24e4-4a02-8602-5c9a917c8296&Created=10/11/2024 10:13:01&UserMode=0&guid=70074138-77d6-4958-b129-995fed50a723&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596117
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.877305984,
+                        "value": "UserID=b2746abe-24e4-4a02-8602-5c9a917c8296&Created=10/11/2024 10:13:01&UserMode=0&guid=70074138-77d6-4958-b129-995fed50a723&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.089878082,
+                        "value": "UserID=b2746abe-24e4-4a02-8602-5c9a917c8296&Created=10/11/2024 10:13:01&UserMode=0&guid=70074138-77d6-4958-b129-995fed50a723&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641597090
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641582047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728643382.046579,
+                        "expiry": 1800.0465788841248,
+                        "value": "mivE4BTp_q_ZAcewfOieDY.G27rG4V.F9Z33ZrM3U1w-1728641582-1.0.1.1-VySUPuPL2k05fcSoOtmidzpROcH14AElCZXajOf7GBkzBpQ7UtmIwJbdiFjiPxVQrOOJGZYepuK.b1kD5s1kng",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641582047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.071053981781,
+                        "value": "L4IUjuyR1Wv4wwaW2Dx_6Gpm1_OdVKd6jRRl7stGbA8-1728641582-1.0.1.1-5qvUv_yG54FjDotRT.BC1K5GfK3QvZOwAfRYQdDnzmYL8Su9LyLFszsHIRGF3I9sRJQP1w9AJjbTz8FLoHofww",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641582071
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.0716569423676,
+                        "value": "v79H__mF9ubLvRkbah6HZiQNEt6NJI1tFpTtGW7kNd0-1728641582-1.0.1.1-8FLseTvHr8HE_QWhkSqkVTdpMvL.66ugrpTfmVLXVP4O_gckKK_47HHz.4CojM96IpcchU7eLeFWS7nzJ2cf.g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641582072
+                    }
+                ]
+            }
+        }
+    },
+    "vecernji.hr": {
+        "/": {
+            "__pat": {
+                "name": "__pat",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641582075,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731237182,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728641582074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728641582080
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728641596607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728641596611
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641582077,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728727982,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTI0a2tjeHFrY2d4NjJlbCIsImRvbWFpbiI6Ii52ZWNlcm5qaS5ociIsInRpbWUiOjE3Mjg2NDE1ODIwNzR9",
+                        "same_site": "lax",
+                        "timestamp": 1728641582076
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTI0a2tjeHFrY2d4NjJlbCIsImRvbWFpbiI6Ii52ZWNlcm5qaS5ociIsInRpbWUiOjE3Mjg2NDE1OTYzNjV9",
+                        "same_site": "lax",
+                        "timestamp": 1728641596366
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641582074,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201582.07271,
+                        "expiry": 34560000.07271004,
+                        "value": "%7Bkpex%7DqDa3r10m9RnIZCP2bvFxo1AjNsi43D3WptlwPJeEq0TIUm2vVG6e-JT7GFltNnfB",
+                        "same_site": "lax",
+                        "timestamp": 1728641582073
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07802105,
+                        "value": "%7Bkpex%7DqDa3r10m9RnIZCP2bvFxo1AjNsi43D3WptlwPJeEq0TIUm2vVG6e-JT7GFltNnfB",
+                        "same_site": "lax",
+                        "timestamp": 1728641582079
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60644102,
+                        "value": "%7Bkpex%7DqDa3r10m9RnIZCP2bvFxo1AjNsi43D3WptlwPJeEq0TIUm2vVG6e-JT7GFltNnfB",
+                        "same_site": "lax",
+                        "timestamp": 1728641596606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60928798,
+                        "value": "%7Bkpex%7DqDa3r10m9RnIZCP2bvFxo1AjNsi43D3WptlwPJeEq0TIUm2vVG6e-JT7GFltNnfB",
+                        "same_site": "lax",
+                        "timestamp": 1728641596610
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580770,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177580,
+                        "expiry": 31536000,
+                        "value": "1ou1p5j%7C2%7Cfpx%7C0%7C1745",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580769
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641581408,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728727981,
+                        "expiry": 86400,
+                        "value": "1tdq6b3%7C1728641581406%7C1%7C0%7Cu.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641581406
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "1tdq6b3%7C1728641596526%7C2%7C0%7Cu.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596526
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641581664,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kkdimws0dgr",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641582446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kko91z31fkb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596357
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kko923fblt0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596358
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kko93o2wh6w",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596359
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kko97nqxrtf",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kko9vvewfin",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kko9xosxxtr",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kkofyw4i71f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kkog1795nsn",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596610
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24kkog4bpte2v",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596613
+                    }
+                ]
+            },
+            "_dc_gtm_UA-98836491-1": {
+                "name": "_dc_gtm_UA-98836491-1",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641640,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580656
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580510,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201580.508772,
+                        "expiry": 34560000.5087719,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580509
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.51189399,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580513
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.54131889,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580541
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.06709504,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641585067
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34559999.99954796,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596000
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.001234055,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13393211,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596134
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.37129593,
+                        "value": "GA1.2.870007238.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641599372
+                    }
+                ]
+            },
+            "_gali": {
+                "name": "_gali",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641585047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641615,
+                        "expiry": 30,
+                        "value": "didomi-notice-learn-more-button",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641585046
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641640,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580511
+                    }
+                ]
+            },
+            "_gat_pianoTracker": {
+                "name": "_gat_pianoTracker",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641585070,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641645,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641585069
+                    }
+                ]
+            },
+            "_gd1728641593632": {
+                "name": "_gd1728641593632",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593634,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593634
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580510,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728727980,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580510
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580513
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580542
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641585067
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86399,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596000
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596002
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596135
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1807790538.1728641581",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641599372
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641581698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762773181,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24kkcxmwtyqiuqa%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728641581698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24kkcxmwtyqiuqa%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728641596364
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641581694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762773181,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmADgDYOAJl5CArGI4AWAOy8AnGPnyQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1728641581693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmADgDYOAJl5CArGI4AWAOy8AnGPnyQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1728641596364
+                    }
+                ]
+            },
+            "_rdc1728641593631": {
+                "name": "_rdc1728641593631",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641593633,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641603,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1728641593632
+                    }
+                ]
+            },
+            "_rdc1728641597378": {
+                "name": "_rdc1728641597378",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641597381,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641607,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1728641597380
+                    }
+                ]
+            },
+            "_rdc1728641601376": {
+                "name": "_rdc1728641601376",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641601383,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641611,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1728641601380
+                    }
+                ]
+            },
+            "_sharedID": {
+                "name": "_sharedID",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641593643,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177593,
+                        "expiry": 31536000,
+                        "value": "c008bdb2-378b-4ed2-bf55-279b2db21f6d",
+                        "same_site": "lax",
+                        "timestamp": 1728641593642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c008bdb2-378b-4ed2-bf55-279b2db21f6d",
+                        "same_site": "lax",
+                        "timestamp": 1728641593645
+                    }
+                ]
+            },
+            "_sharedid": {
+                "name": "_sharedid",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593636,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177593,
+                        "expiry": 31536000,
+                        "value": "40d73435-9c9e-4b4c-98a4-77f9aa3997e6",
+                        "same_site": "lax",
+                        "timestamp": 1728641593635
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "40d73435-9c9e-4b4c-98a4-77f9aa3997e6",
+                        "same_site": "lax",
+                        "timestamp": 1728641593638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "40d73435-9c9e-4b4c-98a4-77f9aa3997e6",
+                        "same_site": "lax",
+                        "timestamp": 1728641597383
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "40d73435-9c9e-4b4c-98a4-77f9aa3997e6",
+                        "same_site": "lax",
+                        "timestamp": 1728641597386
+                    }
+                ]
+            },
+            "active_template::646183": {
+                "name": "active_template::646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580845,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728814380,
+                        "expiry": 172800,
+                        "value": "pub_site.1728641580",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 172800,
+                        "value": "pub_site.1728641596",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596472
+                    }
+                ]
+            },
+            "cto_bidid": {
+                "name": "cto_bidid",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641594407,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762341182,
+                        "expiry": 33699588,
+                        "value": "LsiUQ19iMmRMeERFVTMxOWE5TDMwc2FYS0ZJc0RjdCUyRnJNbENNY25Nbks3emNtVm1WJTJGSXFRd2Y5TXhzaTlNRzRPRXJEaHhWRmxnZnhHRnhpa1JMeTFwdUdxWVElM0QlM0Q",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641594407
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699588,
+                        "value": "Utcm3191d2Q4WFU2ZXdJc2taeUVYRTcwelc5WDRnbTVBZWYlMkJid3lnJTJCdEVUdXAlMkZhendYWm5JcHFPYnJRWEpjVjlaeVY0dXNWVE0wQVclMkJOVHVUUWJ4RW9sRTB3JTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641594537
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699599,
+                        "value": "SuCqVV91d2Q4WFU2ZXdJc2taeUVYRTcwelc5WDRnbTVBZWYlMkJid3lnJTJCdEVUdXAlMkZhendYWm5JcHFPYnJRWEpjVjlaeVY0SFFrdXpJVXclMkZzVXVSVFpUSTA5RnlRJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699595,
+                        "value": "nqkQ5191d2Q4WFU2ZXdJc2taeUVYRTcwelc5WDRnbTVBZWYlMkJid3lnJTJCdEVUdXAlMkZhendYWm5JcHFPYnJRWEpjVjlaeVY0YSUyQnozdVJUOFZQNTlQTXNxdGNFcFhnJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641601650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699595,
+                        "value": "u1TqCl91d2Q4WFU2ZXdJc2taeUVYRTcwelc5WDRnbTVBZWYlMkJid3lnJTJCdEVUdXAlMkZhendYWm5JcHFPYnJRWEpjVjlaeVY0azJMWFdBcFBhM0dvSWw3UEhHajRqZyUzRCUzRA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641601779
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641594407,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762341182,
+                        "expiry": 33699588,
+                        "value": "T-telV9IaEZUWnVrNjBzTiUyRnpUOTNyRnZvaHVUNnRmbEdEanU0aEVhUlgyVWFlVEo3WDNQMVVkSFI0UHVpTkU0UGYlMkJMVSUyRmlOR2J2NFlFSVIlMkJSRDRFbHRySCUyQlBwYnJZdk12MkE3cjc0MEQ4VnBENWNad2hmU2N1QUhvWnNyY2ZldHhNUHU",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641594406
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699588,
+                        "value": "5hLTUV8yTmludTNUUndFWVRtU05uNFF1MzdRUk1zRUszbXBVMm9zTkg2a2k1diUyRnlIc1BrRnZkWDhmaFlqakdWUGolMkJtdWc3cFJQciUyQjlOTEwzRzNqU054c1NQckZ1clVxczB1aTElMkZtYU4wM3l3a1BIdkFVJTJGRjNiWDlrVTBvYzlEeWFuN3E",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641594535
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699599,
+                        "value": "BPPd918yTmludTNUUndFWVRtU05uNFF1MzdTZ0pDJTJGNklSdkIxeGJOb1N4eG9YRlRjNG9CdkFobEtvd2x6eFdtaTY0b0pEMENuWFl4bWNLJTJCTjJUZ1FMVnVya0UyRUlXTUJjYlRNdXpBUk55U01kdWVMdlRFb2g0VHZ2JTJGaUk1VXVzbDFCTw",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699595,
+                        "value": "TuZodV8yTmludTNUUndFWVRtU05uNFF1MzdWNU1xaTVJdjBCTmQxWm1KZUJJVjNHcXRwUlZERnFyWTl6SDlDN0pQVWRVOTZiUkQ5eFdGOGZWdTE5SUplVlFlRDE2QjBLVGlHNjhZczRwSE42MldxV212YVFoMCUyQnQ4TEwlMkI0SzVEY0N1TUU",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641601648
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33699595,
+                        "value": "eeDy9V8yTmludTNUUndFWVRtU05uNFF1MzdST3pnTmhEZ3BBT0FCbGVmcm8zJTJCbEsxdHBZQzV5V1pUMEVTTjZHSDNQUkZkYWFYZGdXcE5HYVdRYzZ3QWZldFlQR0phMTR0bjFleGtNeWZCZjFUM0hZU204RUtreTd1ZWVwdXk4JTJGS1dsd3g",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641601778
+                    }
+                ]
+            },
+            "df_uid": {
+                "name": "df_uid",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641580038,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201580.029448,
+                        "expiry": 34560000.02944803,
+                        "value": "33cb7d75-bb83-4590-857d-c7d8e434489b",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580030
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760263980,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2IxMTMtYzNmNS02YjU0LTg0NGMtNzY4MDAyM2ViYWQ3IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTA6MTM6MDAuMDk1WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEwOjEzOjAwLjA5NVoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728641580097
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2IxMTMtYzNmNS02YjU0LTg0NGMtNzY4MDAyM2ViYWQ3IiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTA6MTM6MDAuMDk1WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEwOjEzOjEzLjU5M1oiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImFtYXpvbiIsInR3aXR0ZXIiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6Z29vZ2xlYW5hLVhKM3I2V0puIl19LCJwdXJwb3NlcyI6eyJkaXNhYmxlZCI6WyJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwiZ2VvbG9jYXRpb25fZGF0YSIsInByaWplbm9zcC1UQWhEVHBjTSJdfSwidmVuZG9yc19saSI6eyJkaXNhYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5BQUFBIn0=",
+                        "same_site": "lax",
+                        "timestamp": 1728641593599
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760263993,
+                        "expiry": 31622400,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728641593599
+                    }
+                ]
+            },
+            "ezoab_646183": {
+                "name": "ezoab_646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580842,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728648780,
+                        "expiry": 7200,
+                        "value": "mod126-c",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580840
+                    }
+                ]
+            },
+            "ezopvc_646183": {
+                "name": "ezopvc_646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580845,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728643380,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596473
+                    }
+                ]
+            },
+            "ezoref_646183": {
+                "name": "ezoref_646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580844,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728643380,
+                        "expiry": 1800,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596472
+                    }
+                ]
+            },
+            "ezosuibasgeneris-1": {
+                "name": "ezosuibasgeneris-1",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641580840,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177580,
+                        "expiry": 31536000,
+                        "value": "9878c998-4c88-4dd7-64fc-984550d247c2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641580839
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "9878c998-4c88-4dd7-64fc-984550d247c2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641596470
+                    }
+                ]
+            },
+            "ezovuuid_646183": {
+                "name": "ezovuuid_646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641580844,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728643380,
+                        "expiry": 1800,
+                        "value": "bc5c84f8-eeb4-4865-4057-e7315cbb9e17",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "bc5c84f8-eeb4-4865-4057-e7315cbb9e17",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596472
+                    }
+                ]
+            },
+            "ezovuuidtime_646183": {
+                "name": "ezovuuidtime_646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641580843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728814380,
+                        "expiry": 172800,
+                        "value": "1728641580",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 172800,
+                        "value": "1728641596",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596470
+                    }
+                ]
+            },
+            "lp_646183": {
+                "name": "lp_646183",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641580843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728643380,
+                        "expiry": 1800,
+                        "value": "https://www.vecernji.hr/",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580842
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https://www.vecernji.hr/",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596470
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641581637,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641581636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596222
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641594172,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728727994,
+                        "expiry": 86400,
+                        "value": "1728727994265",
+                        "same_site": "lax",
+                        "timestamp": 1728641594171
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".vecernji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641582078,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201582.075258,
+                        "expiry": 34560000.07525802,
+                        "value": "%7Bkpex%7Drp9L2uwbAFi1ijKfVHfdvg",
+                        "same_site": "lax",
+                        "timestamp": 1728641582077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.0791769,
+                        "value": "%7Bkpex%7Drp9L2uwbAFi1ijKfVHfdvg",
+                        "same_site": "lax",
+                        "timestamp": 1728641582080
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.608285904,
+                        "value": "%7Bkpex%7DqhQp7BhndK3PjW_gqYeJYA",
+                        "same_site": "lax",
+                        "timestamp": 1728641596608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.61033201,
+                        "value": "%7Bkpex%7DqhQp7BhndK3PjW_gqYeJYA",
+                        "same_site": "lax",
+                        "timestamp": 1728641596611
+                    }
+                ]
+            },
+            "_gd1728641593635": {
+                "name": "_gd1728641593635",
+                "domain": ".www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593636,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593637
+                    }
+                ]
+            },
+            "_gd1728641593641": {
+                "name": "_gd1728641593641",
+                "domain": ".www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593642
+                    }
+                ]
+            },
+            "_gd1728641593643": {
+                "name": "_gd1728641593643",
+                "domain": ".www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593644
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593645
+                    }
+                ]
+            },
+            "_gd1728641597380": {
+                "name": "_gd1728641597380",
+                "domain": ".www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641597382,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597382
+                    }
+                ]
+            },
+            "_gd1728641597383": {
+                "name": "_gd1728641597383",
+                "domain": ".www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641597384,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597384
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597384
+                    }
+                ]
+            },
+            "DM_SitId218": {
+                "name": "DM_SitId218",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641580907,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580906
+                    }
+                ]
+            },
+            "DM_SitId218SecId818": {
+                "name": "DM_SitId218SecId818",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641580907,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580907
+                    }
+                ]
+            },
+            "DM_SitId218SecId818Stress": {
+                "name": "DM_SitId218SecId818Stress",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641581454,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641581454
+                    }
+                ]
+            },
+            "DM_SitId218Stress": {
+                "name": "DM_SitId218Stress",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641581453,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641581453
+                    }
+                ]
+            },
+            "DotMetrics.DomainCookie": {
+                "name": "DotMetrics.DomainCookie",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641580390,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177580,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"884153ed-946a-460a-af12-704f54bea17d\",\"ts\":1728641580388}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580388
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"884153ed-946a-460a-af12-704f54bea17d\",\"ts\":1728641580388}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596339
+                    }
+                ]
+            },
+            "_DABPlus5426_userid_consent_data": {
+                "name": "_DABPlus5426_userid_consent_data",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593640,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731233593,
+                        "expiry": 2592000,
+                        "value": "5910436903039829",
+                        "same_site": "lax",
+                        "timestamp": 1728641593639
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "5910436903039829",
+                        "same_site": "lax",
+                        "timestamp": 1728641601538
+                    }
+                ]
+            },
+            "_dynamicAdBoost_9sQugwt_userid_consent_data": {
+                "name": "_dynamicAdBoost_9sQugwt_userid_consent_data",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641597379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731233597,
+                        "expiry": 2592000,
+                        "value": "5910436903039829",
+                        "same_site": "lax",
+                        "timestamp": 1728641597378
+                    }
+                ]
+            },
+            "_dynamicAdBoost_zXKKbmU_userid_consent_data": {
+                "name": "_dynamicAdBoost_zXKKbmU_userid_consent_data",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641593632,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731233593,
+                        "expiry": 2592000,
+                        "value": "5910436903039829",
+                        "same_site": "lax",
+                        "timestamp": 1728641593631
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "5910436903039829",
+                        "same_site": "lax",
+                        "timestamp": 1728641601377
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641582354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201582.352023,
+                        "expiry": 34560000.35202289,
+                        "value": "0:m24kkdfw:I_63pKquQ3qmXnWCFB_x71Pxq2emeo3G",
+                        "same_site": "strict",
+                        "timestamp": 1728641582354
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.539088964,
+                        "value": "0:m24kkdfw:I_63pKquQ3qmXnWCFB_x71Pxq2emeo3G",
+                        "same_site": "strict",
+                        "timestamp": 1728641596539
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641582353,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728643382.351964,
+                        "expiry": 1800.3519639968872,
+                        "value": "0:m24kkdfw:PMPa0Z8XxHWCVg~dImoer6N0oBrwVf2o",
+                        "same_site": "strict",
+                        "timestamp": 1728641582352
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.5389211177826,
+                        "value": "0:m24kkdfw:PMPa0Z8XxHWCVg~dImoer6N0oBrwVf2o",
+                        "same_site": "strict",
+                        "timestamp": 1728641596539
+                    }
+                ]
+            },
+            "ab-session": {
+                "name": "ab-session",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641580546,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728643380,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641580545
+                    }
+                ]
+            },
+            "csrftoken": {
+                "name": "csrftoken",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641577898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760091177.887484,
+                        "expiry": 31449600.887484074,
+                        "value": "nfAEKQMjCBvc3YuYGEvU8jYVWb0xBKxnkmup5n2d7ixv5PuZ49E3nKGt7rczHgzm",
+                        "same_site": "lax",
+                        "timestamp": 1728641577892
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31449600.914374113,
+                        "value": "nfAEKQMjCBvc3YuYGEvU8jYVWb0xBKxnkmup5n2d7ixv5PuZ49E3nKGt7rczHgzm",
+                        "same_site": "lax",
+                        "timestamp": 1728641595917
+                    }
+                ]
+            },
+            "ezux_et_646183": {
+                "name": "ezux_et_646183",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641590545,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641590544
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593833
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596959
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641602466
+                    }
+                ]
+            },
+            "ezux_lpl_646183": {
+                "name": "ezux_lpl_646183",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641582489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177582,
+                        "expiry": 31536000,
+                        "value": "1728641582487|d94780cf-ef70-4748-5433-968418eac91a|false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641582488
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1728641597207|ddc4121c-7c16-4a42-462e-92a395983bcf|false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641597208
+                    }
+                ]
+            },
+            "ezux_tos_646183": {
+                "name": "ezux_tos_646183",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641590545,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641590545
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641593833
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596959
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641602466
+                    }
+                ]
+            },
+            "pnespsdk_ssn": {
+                "name": "pnespsdk_ssn",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641582598,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22%24s%22%3A1728641582596%2C%22visitNumber%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641582597
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22%24s%22%3A1728641582596%2C%22visitNumber%22%3A2%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596908
+                    }
+                ]
+            },
+            "pnespsdk_visitor": {
+                "name": "pnespsdk_visitor",
+                "domain": "www.vecernji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641582599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177582,
+                        "expiry": 31536000,
+                        "value": "m24kkcxmwtyqiuqa",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641582598
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "m24kkcxmwtyqiuqa",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641596908
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "t-online.de": {
+        "/": {
+            "_sp_su": {
+                "name": "_sp_su",
+                "domain": ".t-online.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728657884086,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760193884.076256,
+                        "expiry": 31536000.076256037,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728657884077
+                    }
+                ]
+            },
+            "PAPER_VARIANT": {
+                "name": "PAPER_VARIANT",
+                "domain": "www.t-online.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728657884088,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741617884,
+                        "expiry": 12960000,
+                        "value": "NO_CONSENT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728657884087
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 12960000,
+                        "value": "NO_CONSENT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728657901444
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 12960000,
+                        "value": "NO_CONSENT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728657903838
+                    }
+                ]
+            },
+            "testVariationconsent": {
+                "name": "testVariationconsent",
+                "domain": "www.t-online.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728657882325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731249882,
+                        "expiry": 2592000,
+                        "value": "2022-07-26-cmp-pur-7-B",
+                        "same_site": "unspecified",
+                        "timestamp": 1728657882319
+                    }
+                ]
+            }
+        }
+    }
+}

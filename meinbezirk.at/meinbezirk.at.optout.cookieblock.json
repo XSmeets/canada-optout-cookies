@@ -1,0 +1,272 @@
+{
+    "meinbezirk.at": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658586651,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194586,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T14:56:26.649Z",
+                        "same_site": "lax",
+                        "timestamp": 1728658586649
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658581809,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728658581847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a",
+                        "same_site": "lax",
+                        "timestamp": 1728658581872
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728658581872
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.meinbezirk.at%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728658581879
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.meinbezirk.at%2F&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658582044
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658586651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658586695
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658586711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658586713
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A56%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37ab244b-7644-4cdb-96bf-f6a1e218210a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0&intType=5",
+                        "same_site": "lax",
+                        "timestamp": 1728658586714
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658582585,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728658612,
+                        "expiry": 30,
+                        "value": "m24uoqwd6laq2s",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658582575
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658582595,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762790182,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24uoqwo5ipc3yz6%22%2C%22_t%22%3A%22mhtbre0w%7Cm24uoqww%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728658582594
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658582598,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762790182,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABb4ARjCgAGAB4AffgCYALGEoBHAO5SQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1728658582596
+                    }
+                ]
+            },
+            "_pprv": {
+                "name": "_pprv",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658582592,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762790182,
+                        "expiry": 34131600,
+                        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6ImVzc2VudGlhbCJ9LCIxIjp7Im1vZGUiOiJvcHQtaW4ifSwiMiI6eyJtb2RlIjoib3B0LWluIn0sIjMiOnsibW9kZSI6Im9wdC1pbiJ9LCI0Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNSI6eyJtb2RlIjoib3B0LWluIn0sIjYiOnsibW9kZSI6Im9wdC1pbiJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjpudWxsLCJfdCI6Im1odGJyZTBzfG0yNHVvcXdzIn0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728658582589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1vdXQifSwiMSI6eyJtb2RlIjoib3B0LWluIn0sIjIiOnsibW9kZSI6Im9wdC1pbiJ9LCIzIjp7Im1vZGUiOiJvcHQtaW4ifSwiNCI6eyJtb2RlIjoib3B0LWluIn0sIjUiOnsibW9kZSI6Im9wdC1pbiJ9LCI2Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNyI6eyJtb2RlIjoib3B0LWluIn19LCJwdXJwb3NlcyI6bnVsbCwiX3QiOiJtaHRicmUwc3xtMjR1b3F3cyJ9",
+                        "same_site": "lax",
+                        "timestamp": 1728658582593
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658586709,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194586,
+                        "expiry": 31536000,
+                        "value": "CQGUw_AQGUw_AAcABBDEBKFwAAAAAAAAAChQAAAU1gJAA4AM-AjwBKoDfAHbAO5AgoBIgCSgEowJkgTSAn2BRQCi0FGgUcApqAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728658586708
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658577028,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "je4fls1qbosf4b6j2kbbks8na7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658577017
+                    }
+                ]
+            }
+        }
+    }
+}

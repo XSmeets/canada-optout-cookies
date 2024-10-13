@@ -1,0 +1,58 @@
+{
+    "gov.ie": {
+        "/": {
+            "cookiejs_preferences": {
+                "name": "cookiejs_preferences",
+                "domain": "www.gov.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659162613,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744211162,
+                        "expiry": 15552000,
+                        "value": "{\"preferences_selected\":true}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659162604
+                    }
+                ]
+            },
+            "csrftoken": {
+                "name": "csrftoken",
+                "domain": "www.gov.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659156220,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760108756.210369,
+                        "expiry": 31449600.21036911,
+                        "value": "dgenCGVwEJKVWvRpOHY2q8cBisKooIayxyUg2vECpqyXhzBeKjycmOBJ2qlBd53E",
+                        "same_site": "lax",
+                        "timestamp": 1728659156212
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31449600.127142906,
+                        "value": "dgenCGVwEJKVWvRpOHY2q8cBisKooIayxyUg2vECpqyXhzBeKjycmOBJ2qlBd53E",
+                        "same_site": "lax",
+                        "timestamp": 1728659163129
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,533 @@
+{
+    "adkernel.com": {
+        "/": {
+            "ADKUID": {
+                "name": "ADKUID",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653468190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731245468.185251,
+                        "expiry": 2592000.1852509975,
+                        "value": "A3236967139381619040",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653468188
+                    }
+                ]
+            },
+            "DSP2F_106": {
+                "name": "DSP2F_106",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653468188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "766575",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653468188
+                    }
+                ]
+            },
+            "DSP2F_77": {
+                "name": "DSP2F_77",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653468188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "688143",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653468187
+                    }
+                ]
+            },
+            "SSPZ": {
+                "name": "SSPZ",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653468187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "221544",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653468186
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653469711,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189469.707702,
+                        "expiry": 31536000.70770192,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653469708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.714046,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653469714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.995492935,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653469998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.056171894,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470057
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653469998,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189470.99534,
+                        "expiry": 31536001.99534011,
+                        "value": "%24b%3d16999%3b%24o%3d12100%3b%24sw%3d1920%3b%24sh%3d1080",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653469996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.055890083,
+                        "value": "%24b%3d16999%3b%24o%3d12100%3b%24sw%3d1920%3b%24sh%3d1080",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470056
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653469999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760189470.995538,
+                        "expiry": 31536001.995537996,
+                        "value": "3203452288087280485",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653469998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.056294918,
+                        "value": "2587639456280005505",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470058
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.23328209,
+                        "value": "3203452288087280485",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.258595943,
+                        "value": "3203452288087280485",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470259
+                    }
+                ]
+            },
+            "sasd2": {
+                "name": "sasd2",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653470001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739870.995572,
+                        "expiry": 86401.99557209015,
+                        "value": "q=%24qc%3D1500053674%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638642502700835731&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653469999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.05649995804,
+                        "value": "q=%24qc%3D1500053674%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638642502701311991&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470058
+                    }
+                ]
+            },
+            "sasd": {
+                "name": "sasd",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653470002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739870.995609,
+                        "expiry": 86400.99560904503,
+                        "value": "%24qc%3D1500053674%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.0565969944,
+                        "value": "%24qc%3D1500053674%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653470059
+                    }
+                ]
+            }
+        }
+    },
+    "sudinfo.be": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653458127,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728653488,
+                        "expiry": 30,
+                        "value": "m24rmwul9y3k54",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653458126
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24rmwuxag4c49",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653458138
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653458134,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785058,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24rmwuqhzeklvke%22%2C%22_t%22%3A%22mht8pjys%7Cm24rmwus%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728653458133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24rmwuqhzeklvke%22%2C%22_t%22%3A%22mht8pjys%7Cm24rmwus%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728653458138
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653458137,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785058,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABb4AHAAcAVgE8AbgB9%2BAJgAsMfgHcwMkAF8gA",
+                        "same_site": "lax",
+                        "timestamp": 1728653458136
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABb4AHAAcAVgE8AbgB9%2BAJgAsMfgHcwMkAF8gA",
+                        "same_site": "lax",
+                        "timestamp": 1728653458139
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653457140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744464657,
+                        "expiry": 15811200,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JjNjctNmVmNi02OGE3LTg2MWYtNGM1ODU0MmFmZGEyIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6MzA6NTcuMTM1WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjMwOjU3LjEzNloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728653457137
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15811200,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JjNjctNmVmNi02OGE3LTg2MWYtNGM1ODU0MmFmZGEyIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6MzA6NTcuMTM1WiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjMxOjAzLjA1NloiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6eW91dHViZSIsImM6aG90amFyIiwiYzpjaGFydGJlYXQiLCJjOmdyYXBlc2hvdCIsImM6a2FtZWxlb29uIiwiYzp3aXNlcG9wcyIsImM6dmlkZW9wbGF6YSIsImM6aGVscGhlcm8tOVRCZlh0eXQiLCJjOnZpZGVvbG9neSIsImM6b25lc2lnbmFsLXFWMkNFcFdqIiwiYzpnb29nbGVhbmEtNFRYbkppZ1IiLCJjOnFpb3RhLWhVWUhLd3cyIiwiYzphaXJzaGlwIiwiYzpmYWNlYm9vayIsImM6c25hcGNoYXQiLCJjOmluc3RhZ3JhbSIsImM6dHdpdHRlciIsImM6cGlhbm8iLCJjOnNhb290aSIsImM6dGlrdG9rIiwiYzpzbWFydGxvb2siLCJjOnBpbnRlcmVzdCIsImM6cXVhbGlmaW8iLCJjOmZyYWN0aW9uYWwtbjJqWURGUE4iLCJjOnNlbGxpZ2VudC1HZ3dEV2RuaCIsImM6ZnJvb21sZSJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsiZ2VvbG9jYXRpb25fZGF0YSIsImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiLCJnZW9fYWRzIiwiZ2VvX21hcmtldGluZ19zdHVkaWVzIiwicmVzZWF1eHNvLWNheld5TkZ4Il19LCJ2ZW5kb3JzX2xpIjp7ImRpc2FibGVkIjpbImM6dmlkZW9sb2d5IiwiYzpmcmFjdGlvbmFsLW4yallERlBOIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkFBQUEuQUFBQSJ9",
+                        "same_site": "lax",
+                        "timestamp": 1728653463073
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653463075,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744464663,
+                        "expiry": 15811200,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAAAAAAAAAAAAAACkoAMAAQVCKQAYAAgqEOgAwABBUIhABgACCoQSADAAEFQg.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728653463073
+                    }
+                ]
+            },
+            "incognitoId": {
+                "name": "incognitoId",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653455425,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760189455.412746,
+                        "expiry": 31536000.412745953,
+                        "value": "34625d1af36296311d165c61b475a444478c52e5950a4a1c5728c717a8c941b5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653455419
+                    }
+                ]
+            },
+            "jwtToken": {
+                "name": "jwtToken",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653455431,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728653695.412963,
+                        "expiry": 240.41296291351318,
+                        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbm9ueW1vdXNJRCI6IjM0NjI1ZDFhZjM2Mjk2MzExZDE2NWM2MWI0NzVhNDQ0NDc4YzUyZTU5NTBhNGExYzU3MjhjNzE3YThjOTQxYjUiLCJicmFuZElEIjoiU1BfcHJvZCIsImFjY2Vzc0xpc3QiOnsiYWJvbm5lLXZvbyI6ZmFsc2UsImVhY2YiOmZhbHNlLCJlbmEiOmZhbHNlLCJsaWdodC1lbmEiOmZhbHNlLCJsaWdodC1yZXBsaWNhIjpmYWxzZX0sImF2YWlsYWJsZUZyZWVtaXVtIjowLCJhdmFpbGFibGVSV0ZyZWVtaXVtIjowLCJpc1ZhbGlkQWNjb3VudCI6dHJ1ZSwiZXhwIjoxNzI4NjUzNjk1LCJpYXQiOjE3Mjg2NTM0NTV9.fbQbIP0xtOIdE33xFUU2bC-yxTQnr2wx02NZ08Yop_Y",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653455425
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": "www.sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653458133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762781458,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1728653458132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1728653458134
+                    }
+                ]
+            }
+        }
+    },
+    "ultimedia.com": {
+        "/deliver/generic/iframe/mdtk/01515498/zone/55/showtitle/1/src/xul8vrf": {
+            "TESTCOOKIESENABLED": {
+                "name": "TESTCOOKIESENABLED",
+                "domain": "www.ultimedia.com",
+                "path": "/deliver/generic/iframe/mdtk/01515498/zone/55/showtitle/1/src/xul8vrf",
+                "current_label": 0,
+                "label_ts": 1728653464712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728653524,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653464711
+                    }
+                ]
+            }
+        }
+    }
+}

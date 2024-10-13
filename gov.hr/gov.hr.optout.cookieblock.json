@@ -1,0 +1,167 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641750382,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744452950.380365,
+                        "expiry": 15811200.380364895,
+                        "value": "518=D_jBckYy7SsAGYNXXQr3zr3sT9b6CpxsSEmipwEZU5wxDnJmGBrFfwzCPmYM-x83Z2lKd4KYoDSOYnusx4hzXSplUlcFIsMWN6HEW8XcsU5G9DMeZmDX56VxqRAHqCWodmJpE_ZRGzvRsMCtTm-3OWzGz6dfosKZVRNvH46yyoSLy5Ah",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641750382
+                    }
+                ]
+            }
+        }
+    },
+    "eusluge-nav.gov.hr": {
+        "/": {
+            "ASP.NET_SessionId": {
+                "name": "ASP.NET_SessionId",
+                "domain": "eusluge-nav.gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641746535,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "syoxi1kj3coiuvau3tslleqq",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641746533
+                    }
+                ]
+            },
+            "TS0108d024": {
+                "name": "TS0108d024",
+                "domain": "eusluge-nav.gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641746537,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01402d66b916dc7062deebd42091eae0fb7ef791ea1b631fd13d81b3a071351c37f558d615f2934f108bdeac6251a4990ecf522362",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641746535
+                    }
+                ]
+            }
+        }
+    },
+    "gov.hr": {
+        "/": {
+            "ASP.NET_SessionId": {
+                "name": "ASP.NET_SessionId",
+                "domain": "gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641744650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v12i211htxh4ebs2iem0ajl2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641744643
+                    }
+                ]
+            },
+            "TS0108d024": {
+                "name": "TS0108d024",
+                "domain": "gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641744657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01402d66b98db7bb4f06ef76809ea43a4cf53eec72a472f19d1021121e8ef925de9a28a867f0a3158d467b2cbee8f0941016c5c5bf",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641744650
+                    }
+                ]
+            },
+            "gd-cookieOptions": {
+                "name": "gd-cookieOptions",
+                "domain": "gov.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641758923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177758,
+                        "expiry": 31536000,
+                        "value": "W3sidGl0bGUiOiJOdSVDNSVCRW5pIiwiaWQiOiJSRVEiLCJjaGVja2VkIjp0cnVlfSx7InRpdGxlIjoiRnVua2Npb25hbG5pIiwiaWQiOiJGVU5LQyIsImNoZWNrZWQiOmZhbHNlfSx7InRpdGxlIjoiU3RhdGlzdGklQzQlOERraSIsImlkIjoiU1RBVFMiLCJjaGVja2VkIjpmYWxzZX1d",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641758919
+                    }
+                ]
+            },
+            "style": {
+                "name": "style",
+                "domain": "gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641759162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177759,
+                        "expiry": 31536000,
+                        "value": "null",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641759160
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "null",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641760369
+                    }
+                ]
+            }
+        }
+    }
+}

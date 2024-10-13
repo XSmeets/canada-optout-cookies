@@ -1,0 +1,283 @@
+{
+    "gsa.gov": {
+        "/": {
+            "ELOQUA": {
+                "name": "ELOQUA",
+                "domain": ".gsa.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728825138073,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763043139.070256,
+                        "expiry": 34218001.070255995,
+                        "value": "GUID=19C66F43CFAA475D86CDE25DA4EC9638",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825138071
+                    }
+                ]
+            },
+            "_sfid_7eef": {
+                "name": "_sfid_7eef",
+                "domain": ".www.gsa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825138680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763385138.678942,
+                        "expiry": 34560000.678941965,
+                        "value": "{%22anonymousId%22:%2298c92671889a6d22%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825138679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68786192,
+                        "value": "{%22anonymousId%22:%2298c92671889a6d22%22%2C%22consents%22:[]}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825138688
+                    }
+                ]
+            },
+            "_evga_f735": {
+                "name": "_evga_f735",
+                "domain": "www.gsa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825138682,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763385138.680152,
+                        "expiry": 34560000.68015194,
+                        "value": "{%22uuid%22:%2298c92671889a6d22%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825138681
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.29038596,
+                        "value": "{%22uuid%22:%2298c92671889a6d22%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825139291
+                    }
+                ]
+            }
+        },
+        "/website-information": {
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.gsa.gov",
+                "path": "/website-information",
+                "current_label": 0,
+                "label_ts": 1728825140264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825140261
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825140265
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825140680
+                    }
+                ]
+            }
+        }
+    },
+    "login.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".login.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825122772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385122.759159,
+                        "expiry": 34560000.75915909,
+                        "value": "GA1.1.1636983824.1728825123",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825122771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.54464412,
+                        "value": "GA1.1.1636983824.1728825123",
+                        "same_site": "strict",
+                        "timestamp": 1728825123547
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".login.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825123546,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763385123.544147,
+                        "expiry": 34560000.544147015,
+                        "value": "GS1.1.1728825123.1.0.1728825123.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825123545
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.17618203,
+                        "value": "GS1.1.1728825123.1.0.1728825132.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825132177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.95143509,
+                        "value": "GS1.1.1728825123.1.0.1728825134.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825134952
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.07215595,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825136073
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.073590994,
+                        "value": "GS1.1.1728825123.1.0.1728825136.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825136074
+                    }
+                ]
+            },
+            "_ga_HBYXWFP794": {
+                "name": "_ga_HBYXWFP794",
+                "domain": ".login.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825122771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763385122.758832,
+                        "expiry": 34560000.75883198,
+                        "value": "GS1.1.1728825122.1.0.1728825122.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825122766
+                    }
+                ]
+            }
+        }
+    },
+    "gsafederalacquisitionservice.us-6.evergage.com": {
+        "/": {
+            "AWSALBTGCORS": {
+                "name": "AWSALBTGCORS",
+                "domain": "gsafederalacquisitionservice.us-6.evergage.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825139290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729429939.285843,
+                        "expiry": 604800.2858428955,
+                        "value": "WqorsFkZmuS0DvenwYhwxV7/9acmRJnlX94X74qndeI8geqIE78mIKIr/axkMbvxdMqlfd5+dM2VWGTxsnQxA+AjfNx444qfVh5JzCMOrjLqN/0nXaLxFmBPIZGkhJe85kXFf1AfrIivW9XP4BbdDGlNJHpuPJwPMxW7kopGZS1ReAPrOWE=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825139286
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4284439087,
+                        "value": "Q7xqPgdt3w1+PwlEx/rPxP0hvhY3L472ah6kEGbMjut1B+w6Bxn+/77oqozN+w+OPYAngYc+hT7CfbiYahNTl0DHTIyIkvrUG/TNHb+ay2x3zJKjgR7tQ1qp74Oxc2LvsucIEfMgZ5tn0aWfw7DgWZvSsVRcLDOL3N5crUpObpskrquBfmo=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825139429
+                    }
+                ]
+            }
+        }
+    }
+}

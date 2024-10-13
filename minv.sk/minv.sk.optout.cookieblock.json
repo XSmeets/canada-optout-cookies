@@ -1,0 +1,81 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648537687,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744459737.684084,
+                        "expiry": 15811200.684083939,
+                        "value": "518=YKtX91iArfTP-6G2EaaCJZSaQ4y7K9tjYevCNfDlulZli7q_p8NfEl-Oa3V5LjVj1mkhzggW_ckme0fjmxVDjvgSUVbr680bH456R7uN5crmf8wE9ZNYV0nCNJ3swuSSEzGFqAPx93fHbb1otZaW44hj_AXM3bwTR31V9g4hizlyu-qzlg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728648537686
+                    }
+                ]
+            }
+        }
+    },
+    "minv.sk": {
+        "/": {
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.minv.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648553271,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2r8tdnnpnacm69b3k1fqg48kcu",
+                        "same_site": "strict",
+                        "timestamp": 1728648553260
+                    }
+                ]
+            },
+            "SwiftSiteDocumentID": {
+                "name": "SwiftSiteDocumentID",
+                "domain": "www.minv.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728648553276,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "20353",
+                        "same_site": "strict",
+                        "timestamp": 1728648553271
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16507",
+                        "same_site": "strict",
+                        "timestamp": 1728648570635
+                    }
+                ]
+            }
+        }
+    }
+}

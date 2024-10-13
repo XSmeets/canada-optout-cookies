@@ -1,0 +1,703 @@
+{
+    "gmx.at": {
+        "/": {
+            "NGUserID": {
+                "name": "NGUserID",
+                "domain": ".gmx.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658646193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194646.190236,
+                        "expiry": 31536000.19023609,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658646191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.546468973,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647547
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.77188897,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.997472048,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.023828983,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648024
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.034501076,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.038089037,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648039
+                    }
+                ]
+            },
+            "adtrgtng": {
+                "name": "adtrgtng",
+                "domain": ".gmx.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658645204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhIjp7ImNzIjowLCJjYSI6MCwiaSI6MCwiYSI6LTEsInVpIjotMSwiZnAiOjB9fQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658645203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhIjp7ImNzIjowLCJjYSI6MCwiaSI6MCwiYSI6LTEsInVpIjotMSwiZnAiOjB9fQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658645205
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhIjp7ImNzIjowLCJjYSI6MCwiaSI6MCwiYSI6LTEsInVpIjotMSwiZnAiOjB9fQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647329
+                    }
+                ]
+            },
+            "euconsent-bypass": {
+                "name": "euconsent-bypass",
+                "domain": ".gmx.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658611295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728658731.281035,
+                        "expiry": 120.28103494644165,
+                        "value": "1728658611",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658611284
+                    }
+                ]
+            },
+            "ua_id": {
+                "name": "ua_id",
+                "domain": ".gmx.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658640268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194640.264466,
+                        "expiry": 31536000.264466047,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658640267
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.190161943,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658646191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.54653597,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647547
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.771812916,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.997251034,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.023924112,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648024
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.034717083,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.037962914,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648039
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".gmx.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658640835,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194640,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:1%3Bexp-session$_ss:1%3Bexp-session$_st:1728660440832%3Bexp-session$ses_id:1728658640832%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658640833
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:2%3Bexp-session$_ss:0%3Bexp-session$_st:1728660447321%3Bexp-session$ses_id:1728658640832%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647322
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:3%3Bexp-session$_ss:0%3Bexp-session$_st:1728660447366%3Bexp-session$ses_id:1728658640832%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647372
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:6%3Bexp-session$_ss:0%3Bexp-session$_st:1728660447371%3Bexp-session$ses_id:1728658640832%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:7%3Bexp-session$_ss:0%3Bexp-session$_st:1728660447373%3Bexp-session$ses_id:1728658640832%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:8%3Bexp-session$_ss:0%3Bexp-session$_st:1728660447376%3Bexp-session$ses_id:1728658640832%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647376
+                    }
+                ]
+            },
+            "wa": {
+                "name": "wa",
+                "domain": ".gmx.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728658645339,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194645.337074,
+                        "expiry": 31536000.33707404,
+                        "value": "opt-out",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658645338
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.190397024,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658646193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.54651308,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647547
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.54826188,
+                        "value": "opt-out",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647548
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.56916809,
+                        "value": "opt-out",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658647569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.771915913,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.99753809,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658647999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.023893118,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648024
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.03465891,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.038151026,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658648039
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.gmx.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658611303,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658611302
+                    }
+                ]
+            },
+            "ui_cid": {
+                "name": "ui_cid",
+                "domain": "www.gmx.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658611301,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194611.281247,
+                        "expiry": 31536000.2812469,
+                        "value": "OPTOUT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658611295
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.264429092,
+                        "value": "OPTOUT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658640267
+                    }
+                ]
+            }
+        }
+    },
+    "gmx.net": {
+        "/": {
+            "NGUserID": {
+                "name": "NGUserID",
+                "domain": ".gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658615000,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194614.997187,
+                        "expiry": 31536000.9971869,
+                        "value": "TGP-OPT-OUT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658614998
+                    }
+                ]
+            },
+            "euconsent-bypass": {
+                "name": "euconsent-bypass",
+                "domain": ".gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658612166,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728658732.158286,
+                        "expiry": 120.15828609466553,
+                        "value": "1728658611",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658612164
+                    }
+                ]
+            },
+            "stl": {
+                "name": "stl",
+                "domain": ".gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658641747,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728665841,
+                        "expiry": 7200,
+                        "value": "true",
+                        "same_site": "strict",
+                        "timestamp": 1728658641744
+                    }
+                ]
+            },
+            "ua_id": {
+                "name": "ua_id",
+                "domain": ".gmx.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658615003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194614.997338,
+                        "expiry": 31535999.997338057,
+                        "value": "fd52299f-f2f6-452b-8e38-af1facaa2a7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658615001
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658613182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194613,
+                        "expiry": 31536000,
+                        "value": "_sn:1$_se:1%3Bexp-session$_ss:1%3Bexp-session$_st:1728660413178%3Bexp-session$ses_id:1728658613178%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658613180
+                    }
+                ]
+            },
+            "wa": {
+                "name": "wa",
+                "domain": ".gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658615005,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194614.997395,
+                        "expiry": 31535999.99739504,
+                        "value": "opt-out",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658615004
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.112997055,
+                        "value": "opt-out",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658644114
+                    }
+                ]
+            },
+            "__ppp__": {
+                "name": "__ppp__",
+                "domain": "www.gmx.net",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728658613204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658613204
+                    }
+                ]
+            },
+            "ui_cid": {
+                "name": "ui_cid",
+                "domain": "www.gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658612160,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194612.158217,
+                        "expiry": 31536000.158216953,
+                        "value": "OPTOUT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658612159
+                    }
+                ]
+            }
+        }
+    },
+    "oauth2.gmx.net": {
+        "/": {
+            "__Host.rts-rec": {
+                "name": "__Host.rts-rec",
+                "domain": "oauth2.gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658642800,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744210642.797418,
+                        "expiry": 15552000.797418118,
+                        "value": "d7345da6-3344-45d9-a4e6-e60f9d9fa1bf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658642798
+                    }
+                ]
+            }
+        }
+    },
+    "plus.gmx.net": {
+        "/": {
+            "stl": {
+                "name": "stl",
+                "domain": "plus.gmx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658639580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728673039.578192,
+                        "expiry": 14400.57819199562,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658639579
+                    }
+                ]
+            }
+        }
+    }
+}

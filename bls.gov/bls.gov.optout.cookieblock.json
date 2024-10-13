@@ -1,0 +1,195 @@
+{
+    "bls.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".bls.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828434202,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763388434.200259,
+                        "expiry": 34560000.20025897,
+                        "value": "GA1.1.1152692809.1728828434",
+                        "same_site": "strict",
+                        "timestamp": 1728828434202
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.90124011,
+                        "value": "GA1.1.1152692809.1728828434",
+                        "same_site": "strict",
+                        "timestamp": 1728828444902
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".bls.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828434202,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763388434.200048,
+                        "expiry": 34560000.20004797,
+                        "value": "GS1.1.1728828434.1.0.1728828434.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728828434201
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.19113207,
+                        "value": "GS1.1.1728828434.1.0.1728828442.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728828442191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.90086889,
+                        "value": "GS1.1.1728828434.1.1.1728828444.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728828444901
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.90600896,
+                        "value": "GS1.1.1728828434.1.1.1728828444.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728828444906
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91546297,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728828495916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91591191,
+                        "value": "GS1.1.1728828434.1.1.1728828495.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728828495918
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".bls.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728828434006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763388434.001114,
+                        "expiry": 34560000.00111389,
+                        "value": "70ac10df-5a55-61c7-4555-dd684379432c",
+                        "same_site": "lax",
+                        "timestamp": 1728828434001
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728828433982,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744380433.978781,
+                        "expiry": 15552000.978780985,
+                        "value": "8upSIU7oGy8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828433982
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728828433990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744380433.979807,
+                        "expiry": 15552000.9798069,
+                        "value": "CgJDQRIEGgAgOQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828433982
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728828433981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_PdTedXV38c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728828433980
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,826 @@
+{
+    "gencat.cat": {
+        "/": {
+            "RT": {
+                "name": "RT",
+                "domain": ".gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654352983,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729259152,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=gencat.cat&si=5fvacq6lkhq&ss=m24s62ri&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654352974
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=gencat.cat&si=b1kx3pfjk7j&ss=m24s62ri&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654365142
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=gencat.cat&si=s49402jzu5e&ss=m24s62ri&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654390732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=gencat.cat&si=2oae5chhwjx&ss=m24s62ri&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654397433
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".gencat.cat",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654355113,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214355.102206,
+                        "expiry": 34560000.10220599,
+                        "value": "3b204cc2-1cea-7c5e-827b-c11d154e8439",
+                        "same_site": "lax",
+                        "timestamp": 1728654355103
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654370102,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744465570.101423,
+                        "expiry": 15811200.101423025,
+                        "value": "518=PLCjLd_hnFVP4d-Zb3R8Rps1R7B6k2GsCH4nZq78u0yWhpH0dsM_nExsBijoNnm_K4_xSeUdxge6bjqgaTOQcNTwwG9-4EPoszvVqn7zhr3iLO6VuaHGiEys39JFPW-XScRQzxiFQz8QYveUgKTeTFKGzwfGanM9oLMaoQ9GrI1VNmmFvg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654370102
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654356290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206356.287886,
+                        "expiry": 15552000.287885904,
+                        "value": "7YsN_7MXZTg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654356290
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654356292,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206356.287946,
+                        "expiry": 15552000.287945986,
+                        "value": "CgJDQRIEGgAgHA%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654356291
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654356289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1yp45eNyDFU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654356288
+                    }
+                ]
+            }
+        }
+    },
+    "web.gencat.cat": {
+        "/": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654364424,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CDD54A8E25D2D7483DAE69E17EADD648.GKPSTX06",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654364423
+                    }
+                ]
+            },
+            "_pk_id.3549e606-b6f0-43a5-8484-ce91822a1817.ae4e": {
+                "name": "_pk_id.3549e606-b6f0-43a5-8484-ce91822a1817.ae4e",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654355999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654356.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654356003
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654365.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654365357
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654365.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654365357
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654365.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654365358
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654391.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654390935
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654391.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654390935
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654391.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654390937
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654398.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654397669
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654398.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654397671
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "59090b3289994791.1728654356.1.1728654398.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654397673
+                    }
+                ]
+            },
+            "_pk_id.eb50131d-1482-4c39-a0fa-835d5e4dacd6.ae4e": {
+                "name": "_pk_id.eb50131d-1482-4c39-a0fa-835d5e4dacd6.ae4e",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654356002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762609555,
+                        "expiry": 33955199,
+                        "value": "415a8d5c5d232f9e.1728654356.0.1728654356..",
+                        "same_site": "lax",
+                        "timestamp": 1728654356001
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654356.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654356005
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654365.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654365357
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654365.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654365359
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654391.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654390936
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654391.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654390938
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654398.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654397671
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "415a8d5c5d232f9e.1728654356.1.1728654398.1728654356.",
+                        "same_site": "lax",
+                        "timestamp": 1728654397674
+                    }
+                ]
+            },
+            "_pk_ses.3549e606-b6f0-43a5-8484-ce91822a1817.ae4e": {
+                "name": "_pk_ses.3549e606-b6f0-43a5-8484-ce91822a1817.ae4e",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654356004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728656156,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654356004
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654365358
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654390937
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654397673
+                    }
+                ]
+            },
+            "_pk_ses.eb50131d-1482-4c39-a0fa-835d5e4dacd6.ae4e": {
+                "name": "_pk_ses.eb50131d-1482-4c39-a0fa-835d5e4dacd6.ae4e",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654356006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728656156,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654356005
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654365359
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654390938
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728654397675
+                    }
+                ]
+            },
+            "stg_last_interaction": {
+                "name": "stg_last_interaction",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654355756,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:36%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654396058
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:36%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654396073
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:37%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654397637
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:37%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654397655
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:37%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654397663
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:38%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654398225
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:39%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654399431
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:39%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654399642
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:40%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654400131
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:45%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654405103
+                    }
+                ]
+            },
+            "stg_returning_visitor": {
+                "name": "stg_returning_visitor",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654355756,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:36%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654396059
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:36%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654396074
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:37%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654397638
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:37%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654397655
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:37%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654397664
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:38%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654398226
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:39%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654399431
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:39%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654399643
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:40%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654400131
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2011%20Oct%202024%2013:46:45%20GMT",
+                        "same_site": "strict",
+                        "timestamp": 1728654405103
+                    }
+                ]
+            },
+            "stg_traffic_source_priority": {
+                "name": "stg_traffic_source_priority",
+                "domain": "web.gencat.cat",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654355723,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654396060
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654396074
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654397639
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654397656
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654397664
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654398226
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654399431
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654399644
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654400132
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728654405104
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2335 @@
+{
+    "cquotient.com": {
+        "/": {
+            "uuid": {
+                "name": "uuid",
+                "domain": ".cquotient.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581520964,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762709520.963502,
+                        "expiry": 34128000.96350193,
+                        "value": "abXpxRDcNuo67tCbltjdzYI124",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581520963
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762277524.677013,
+                        "expiry": 33696000.67701292,
+                        "value": "0Ga4Z19Kc3FuMDJteGNMb1lqQ2NpRmR2SkxYeFNFbFVPTjklMkJzS0dJdllGZXBvQlJMWWl1ZHMlMkJVZ3lwMVk4R2VFaW1oc3NLcHFucmNYM1dyb1M4ZW5XU3FTclVWMWV0dFREY3hGZ2VsejFEVEhUOE5PY0hBcXJDT0dNSDQ2YXBseVF4WUNkSnR6TW9TZDlNcFdzeXlmcHNPUGt3JTNEJTNE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581524677
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524566,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762277524.564507,
+                        "expiry": 33696000.56450701,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581524566
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524565,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762277524.564466,
+                        "expiry": 33696000.564466,
+                        "value": "39263efc-4294-4f12-a840-1e019417812c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581524564
+                    }
+                ]
+            }
+        }
+    },
+    "ct.pinterest.com": {
+        "/": {
+            "_pinterest_ct_ua": {
+                "name": "_pinterest_ct_ua",
+                "domain": ".ct.pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760117524.804034,
+                        "expiry": 31536000.804033995,
+                        "value": "\"TWc9PSZMZjRVc0hGTUE5R0pkRkN5bUVPdjRDS0FKNGY4dGpJQmRzS21wc1lIODVtU0YzM29MTnlRci9nN21DQ1ZYZEovOWd0NVB5S21wZTQzVjBJRGhHTlJCbFp1eXZybHU2bWZmVy91UUpjNTR6az0mdzYrUHR0VTh4SmovUjl1M0g4a0tLK0Z1WVYwPQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581524805
+                    }
+                ]
+            }
+        }
+    },
+    "indigo.ca": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728585117.993042,
+                        "expiry": 3599.9930419921875,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581518008
+                    }
+                ]
+            },
+            "AMCVS_B5ED1C8B53309E7C0A490D4D%40AdobeOrg": {
+                "name": "AMCVS_B5ED1C8B53309E7C0A490D4D%40AdobeOrg",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581523865,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581523864
+                    }
+                ]
+            },
+            "AMCV_B5ED1C8B53309E7C0A490D4D%40AdobeOrg": {
+                "name": "AMCV_B5ED1C8B53309E7C0A490D4D%40AdobeOrg",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581520831,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763141520.830179,
+                        "expiry": 34560000.830178976,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520830
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.84228492,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588723s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581523866
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.21683788,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588724s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524217
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.70488191,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588733s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533705
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.95621991,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588733s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533956
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.512835026,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588735s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581535514
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.8003459,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588736s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581536801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.5881269,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588737s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581537589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.296243906,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588738s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581538297
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05281091,
+                        "value": "1836251486%7CMCIDTS%7C20007%7CMCMID%7C338407C89390F51E-6000058501F7E1E3%7CMCOPTOUT-1728588739s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581539054
+                    }
+                ]
+            },
+            "ConstructorioID_client_id": {
+                "name": "ConstructorioID_client_id",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519199,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760117519,
+                        "expiry": 31536000,
+                        "value": "a634324c-483f-4f3d-85f6-9d9a0bfdb604",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "a634324c-483f-4f3d-85f6-9d9a0bfdb604",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "a634324c-483f-4f3d-85f6-9d9a0bfdb604",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540643
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "a634324c-483f-4f3d-85f6-9d9a0bfdb604",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540645
+                    }
+                ]
+            },
+            "ConstructorioID_session": {
+                "name": "ConstructorioID_session",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519212,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760117519,
+                        "expiry": 31536000,
+                        "value": "{\"sessionId\":1,\"lastTime\":1728581519210}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"sessionId\":1,\"lastTime\":1728581540643}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540644
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"sessionId\":1,\"lastTime\":1728581540644}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540646
+                    }
+                ]
+            },
+            "ConstructorioID_session_id": {
+                "name": "ConstructorioID_session_id",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519210,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760117519,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519210
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540644
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540645
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581538945,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760117538,
+                        "expiry": 31536000,
+                        "value": "2024-10-10T17:32:18.944Z",
+                        "same_site": "lax",
+                        "timestamp": 1728581538944
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581520488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.indigo.ca%2Fen-ca%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728581520640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.indigo.ca%2Fen-ca%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728581520642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.indigo.ca%2Fen-ca%2F&groups=C0001%3A1%2CC0004%3A1%2CC0003%3A1%2CC0002%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1728581520660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.indigo.ca%2Fen-ca%2F&groups=C0001%3A1%2CC0004%3A1%2CC0003%3A1%2CC0002%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1728581520661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A18+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A1%2CC0003%3A1%2CC0002%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1728581538947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A18+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728581538947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A18+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728581538948
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728581540867
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728581540868
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+19%3A32%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1728581540926
+                    }
+                ]
+            },
+            "PIM-SESSION-ID": {
+                "name": "PIM-SESSION-ID",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519089,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NBJ30OmDLsVoDXyi",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519087
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519559,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729186319,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581519557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581525557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=1&tt=6ln&rl=1&ld=6lp\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581525558
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=1&tt=6ln&rl=1&ld=6lp&nu=207re2x3&cl=e70\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581535397
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=1&tt=6ln&rl=1&ld=6lp&nu=207re2x3&cl=e70&ul=hp8\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581539942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=1&tt=6ln&rl=1&ld=6lp&nu=207re2x3&cl=e70&ul=hp8&hd=i4b\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581540485
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=1&tt=6ln&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581540669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=2&tt=6ln&rl=1&obo=1&ld=pjk&r=cd4sry&ul=pjk\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581550106
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=indigo.ca&si=c4c5231d-ecd0-4474-9ad3-cb06d2fdd79f&ss=m23ksyq0&sl=2&tt=6ln&rl=1&obo=1&ld=pjk&r=cd4sry&ul=pjk&hd=pjp\"",
+                        "same_site": "lax",
+                        "timestamp": 1728581550110
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728581520829,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520828
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520830
+                    }
+                ]
+            },
+            "__cq_uuid": {
+                "name": "__cq_uuid",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581524185,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762709524.179695,
+                        "expiry": 34128000.17969489,
+                        "value": "abXpxRDcNuo67tCbltjdzYI124",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524184
+                    }
+                ]
+            },
+            "__tld__": {
+                "name": "__tld__",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728581524531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524777
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524785
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533691
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533824
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533862
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533871
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533878
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581524876,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760117524,
+                        "expiry": 31536000,
+                        "value": "2imx3b%7C2%7Cfpw%7C1%7C1744",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524875
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581525386,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728667925,
+                        "expiry": 86400,
+                        "value": "1m7gig8%7C1728581525384%7C1%7C0%7Cq.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525384
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524676,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760117524,
+                        "expiry": 31536000,
+                        "value": "dWlkPU1HWTNZbVV6WVRVdE5qUmhPUzAwWW1NekxXSXlOREF0TWpZM01UZ3pPREJrTWpReA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524675
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581525025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762277525,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525025
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581525026,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762277525,
+                        "expiry": 33696000,
+                        "value": "3-B9lVspAZISHrbXOBM6VVQPTHN",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525025
+                    }
+                ]
+            },
+            "ajs_anonymous_id": {
+                "name": "ajs_anonymous_id",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728581524769,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581524777
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581524780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581524784
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533581
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533689
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533697
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533823
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533861
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "c071c08f-b7cd-47fe-afc0-279dd66beacc",
+                        "same_site": "lax",
+                        "timestamp": 1728581533877
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728588718.438778,
+                        "expiry": 7200.438777923584,
+                        "value": "9458080A117A97BD51400C0004B2FA40~000000000000000000000000000000~YAAQzCshF7HfymiSAQAAqsR8dxmXHJdmHEgc7bT4xAxTsTkiFRoZGMzzvhGL3bQwJY7KDuJnBR7RNzVdYQaoHxd3ZC9q1Z6TdF/dXLDdM/em2mZNTBkyHlBetILsMxZrigTgt9SXwjQ3R8h2qJ8yPJFlVGcOXCghrCuZfOw8zKsqPM2stVnlNBGsf3myP68bqO6+4XzK8QBieYki0Iy3XZMpkY6qz6BPOud44MNYaN6EegMLPEev7ZNyUKL9ztru0ORHUZjIUogIuztKRmXsE69XGDOvCF/uVW81gO7azbEBP4aQMXLBUlSWBW1ilZCL+HqFy9xI4D0vHfW6/6CeRQg3z4cvc/RMQnM1WSH5s7AH8C4u5X1wAFv+KxEvFegy+DeVE7b172Y=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581518453
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.98553609848,
+                        "value": "39E23449F8D693EE4E4E8095B23B9C09~000000000000000000000000000000~YAAQxyshF2AbmnCSAQAA2MZ8dxkHJATqtvSD0r2+m9sBbB9WuM38HPku+fHylZ8Gu21JkE7iRfy7IHiVaR4+rc37HmpkhOYhCqWMb1ex3Ihs38uiLQd16gkS2+dKxXg7SzxlBZPKsoTrulmZKuO6sENJ3oYfTECag66BUkELtH6GCdUkp5AAGzw2HxFwPsOeV1wgOmSk1GwWf6OmsvGDzfeBZeqltvMp8gD0TuZ11IXJfqgeCGMCHziYpUO4Bk3gnmnYb7dygWvt7Jjm5GkeJafObaPUW87FVbId+plsNb8lE4FbZQFkKW/ojxDPQcTJAHFCTMtnfZxfVVaWJ2j4NrULNYkabc91jphuFE0maBToq4MtE9bI02Tpj7uuxPGmu+L6AJLVZSY+al9so0knUVLgHvKWmYsH/OiHZaMTYVQ=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581518986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.026542901993,
+                        "value": "39E23449F8D693EE4E4E8095B23B9C09~000000000000000000000000000000~YAAQxyshF+wbmnCSAQAA6cp8dxm2YB43fCRTDRilf2bIc5WYZ8KhmtbPYT1FXb1uWtbYrN1xe6ARiWckNpdSG09muLHyD5IJlI9aVPyeG/TFtdSpx1XcV63WOowLTYnffGEWUrvNG89yXehCU65ttqcBzn1Tu9cLBotvtDmQH+KzWKQ74WwxoRGsswE1Bse8Ra9+s9cTfZLfBG+972iBnkMv3dolYH/25B19ZOMkx9R386E9k1KzPCJ85vxGfep/+pDxJp4glbLK7hWAtFiNPjL+Sj7IDFrM4Hf8VIuLabzK9tpIzVI7SKq75+RM5kdf20KZrzW+Gq0GtC1mfefDdUv+mDTj+v2NI6o5l+F/qf290qV8h8I5F1ratqga+Hwl56iFeoXVf3QquoJpAJ8PDTCariD7UBV0SBJA6HFT3bEvKk3G2obOoii2s4m3pmKIjYd7Jtt/qg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520028
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.438844919205,
+                        "value": "39E23449F8D693EE4E4E8095B23B9C09~000000000000000000000000000000~YAAQxyshFyocmnCSAQAAhcx8dxmwSd9jebfUUzsAkMlEQcc3AiKZeup4CMRSO9RGReGl5x9DOn+itARlgzoDk4+BwBZ4k2SaT7j+gIcnmY4PR0DAd6vEke68998XUGLvGWSskTwImICWxmzCQa4QszeJWETzdkGwxgiRq1v8V2AgVpVMfSIEXhYWviLqOMaQ8EGpsZ/ERKdNAfb7a113gfg4cLY+sAR++AsgGdJMwtptvbiRIocHeADcpEoRSc4P2IfEfgI5ag3kS3RtMRRbD6YVc6PGmF3REPuN1+hmscaxNf0JCgXLVlY12eHuZYaH3/VpHB4HJ3rMQ9KlePYLnaPpz8WbRR5qlP5QM+On0som9fBZc7v/cec+IHy5k2ncimUD0D43ofj+X9jASIcakJP8Me1emXymVQzucisV2NlMwGxDbmf6LdmJIfv2dh93AZwVkJDhR7/qKFhCW0oN8J8/WzxsxtLX9OAnYSJyClvXFtRY9lImMDZ8qLG2x9NRBbAk7AM63exJVEEkjKyVmWAs",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520440
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.4710919857025,
+                        "value": "39E23449F8D693EE4E4E8095B23B9C09~000000000000000000000000000000~YAAQxyshFywcmnCSAQAApcx8dxlMyWkKtdtsx6vBsHckDyo9+MZW5M9SD9Xw5914t67yb4n4aSMb3LV9dwUmgdCrSY7vOFNzbwJAr+ywtKEDO2K75iJc774C4HRlDpqYkil13oy5sAuC7iFVFAK1t+hNbS10nZudNdRTUiCWDZs8Y60/NU7a2YaMBZ8NvAf3SwY/uKJ0vYCkx7su6jbJurv43cP/07rAP+dqGeQ6tcONomY8VrF7MD+ZW5oomL4V2LtmhGynu/Ut9F/oF5OeyJhPYqbL43uWOh4IQ5KZARwxFre8LXO6eeExTh8AGYFJqjGbCmpUWqe1eT5e9U/82JmbHmj9ilYkQ9EQtVJz4mfyJpqDBMHudLGRpSJMc/HBy+ADZuw72u5uTt29NpUykMk9ZFta0bEuho9+6eGHKmI07lXwsGmpK24BuG89qFrZ3NBHM/xfHRpwkbavh3ZTjcLMPHd3aaWnefFnlzs7eUCom7dImLLnvZbT+BUrFFwCVz8taLJwOzY8CnO5ZlIkUHxk",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520472
+                    }
+                ]
+            },
+            "bm_mi": {
+                "name": "bm_mi",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519332,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728588718.329791,
+                        "expiry": 7199.329791069031,
+                        "value": "3E350FBD2173B55FEC758E00E32969A4~YAAQxyshF6wbmnCSAQAAMMh8dxm0xVECacwZ0aj8YAVrzXLjZuTZX+IoBt1cDWmqvSfimv40mTX/Ut2u6nmYFlkhGf9ADzqJhqKEHwfaWaRmgOjvni/efD4uuY+2Nf/okrOBiaN1W62dX+w92zQeaXzqqR6lTslQfReN31KgZpdOVDDbP86tehGeyYYo283TJMgm+lvGqEDs/jHk9ACxVorcpP3mkOSHOeWTk9ge2gvqUFJPr0zT6gYVm4jMIpvuKDqMeAL+RCzuaHXT/L6CYwKbpFrDdbuex12kKYD7gWyHv5Ks1h3gBVu/k79Csh/ezJfQT5h3/beIW0PDSeoEwjQMAAWZt8Zmlq1AFw1W+WuxUyDCy3L1wePtdJjDXTe0QUE=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519330
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581519332,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728588719.329807,
+                        "expiry": 7200.329807043076,
+                        "value": "0E7698F0E28AA0F3333DEAD13DB6070E~YAAQxyshF60bmnCSAQAAMMh8dxkxHqaYnEeH+CUfW56f6eXqLRVQt6geAv2LRgGW7Jzu0fHDUNWD6f9FCnjgEc0kQJVHo2fymRiZM52/Ijq6JJDDQrk9n2/Z1gujaU3c+ExGh73Z36/EybzPZ79WEgTsgvpU9i9O42uOr2kXF6yu1nwu9HwRcIt0zVXNZIWZ8SzWL2Jko2AxOxDWZ6GrcEODQaOTlhE/pKtWWef9cO3GpK7eJ9TWCZDSisyPqbc=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519332
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7200.331831932068,
+                        "value": "1623AC6DF5A3EB456EB2F928F5EA0F04~YAAQxyshF64bmnCSAQAAMch8dxmbAJ9Z0Djgp7ZBwvw/2ZgLn84F+g42Ct01fJ4X3OiSHX8VndQea01G24oOVYX2lCWLpAL3ymwTvjOrAZ1eKGRpRim34euFfMFrESFFAHoUlwqUbiL89ITiemOiYIRz5ooWiVHsn302uh2+T7x0wWAwnjIIXcZ/a8N7Hv7HsHoamSS3OU85KfFmlARamFwlXhVYexNu8j9c6G3VNT13e8TVTV/VT+vfGuyK2P4=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581519334
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7179.196928024292,
+                        "value": "1623AC6DF5A3EB456EB2F928F5EA0F04~YAAQxyshF0IlmnCSAQAAsxl9dxkxlxctNOw0eRHTEciYE0g3SqLxadiRjGxQrnIX7BEFVrPEWGu5dQvYls2umYA7fBpPvoWYpjIJ4keqcSzd5JtGI7dXO3UOOsp//kciziuNPpq+gUVSo9pPhfuJxXkqLzfLaUXy8C6DQ4uDd5DtiFywuBAWt+Z/Hu01ZqcC2AzBv0mEDwTBP/jmVTw4sEgDuh+FcQfsRDSOgda8AyO9mmmMdK8AZ8p80vtpo1U=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540199
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7179.477807998657,
+                        "value": "1623AC6DF5A3EB456EB2F928F5EA0F04~YAAQxyshF2IlmnCSAQAAyxp9dxk8QyI5iv6nnF8+hw9loOndUrHu37vCRmSakLqniPK3PkhkvVEqg6MXV812tcr29ALiD3Lko9nWCe8rimbPb9Fym7F44Yxtjpc+pPr7Y9XviOl2ckRychvuZJ7MmC0PW0yKyajhbuQMOJnGyOCqVumgMs1TxDibRgj+4MqU8gdNXiW4u4U5TP0rVLyNZ0AfTk+d2eAAk037G++6v5UhW2jkC0urfutagiZHUYs=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540479
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7178.968014955521,
+                        "value": "1623AC6DF5A3EB456EB2F928F5EA0F04~YAAQxyshF4AlmnCSAQAAthx9dxmDdm/p6QNE3R7BvWwV+uudY8DrcuZV2iD37t1fFV926KvPGRfVcDgUhG89YvjVsBxsuKQ1C9l4+nu4l+mAZleZ34NxOYsOX6g/KfN7CFqF4yKxv+E67OmnstWWaPg+zqJw6WGV6sVhqHR/2QM5t1I5FRqPoBq/w/Vru+/7ixjlYLOc9NFSkL/PSgVFsvSEqQ1MyNeGjTfKvTttjleLqz+79G7YD0crDhQMoCU=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540968
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7178.9849219322205,
+                        "value": "1623AC6DF5A3EB456EB2F928F5EA0F04~YAAQxyshF4YlmnCSAQAAxxx9dxmRiZ0YeXXHpi5bVUYZvOKQeNUGmkn2RkWNAmzBZjEYICNeG2Pfq+nh6E0ohEJ9XR0lz+YteMDlmk1grV3zMrUelM5Wf68xQ3jA8W1dapHCWBRO7myfTf9r1raSk05htX1LC86H8aUqLxARlaEpuIdLRwcW643EGsbLoaDNi2nS5jIEjEyfrttn+Y805T/eRtY8fVRg4se1jPTP02bM3ioVWRY5L46XFPoHgvU=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540985
+                    }
+                ]
+            },
+            "cjConsent": {
+                "name": "cjConsent",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581525057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762709525,
+                        "expiry": 34128000,
+                        "value": "MHxOfDB8Tnww",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525056
+                    }
+                ]
+            },
+            "cjLiveRampLastCall": {
+                "name": "cjLiveRampLastCall",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581525058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762709525,
+                        "expiry": 34128000,
+                        "value": "2024-10-10T17:32:05.055Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525058
+                    }
+                ]
+            },
+            "cjUser": {
+                "name": "cjUser",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581525237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762709525.236039,
+                        "expiry": 34128000.23603892,
+                        "value": "3fc52e2e-7aae-4e41-a2bd-54b0da41497c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581525236
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762745524,
+                        "expiry": 34164000,
+                        "value": "tAo3U19lRlF5UFdFaUxxUVR4VUlPQTN4WUNuWEx1cmdOanNUbFNndEdoejduVnBEc2daUGNuZEx3SHV1MktRekRzbkFhcVc5WFIlMkZXQUxnWGNpV2klMkZ4ZG5IVCUyRk1NQXNVVSUyQkVxbjlVWXNCbnExUCUyRmtmM3RNbUw1QVo4SGgyM2R6WGdiWUJDd2dsYklOdWtIZnRxUmIwaGZIYk9BJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524678
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524219,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728585124,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524219
+                    }
+                ]
+            },
+            "forterToken": {
+                "name": "forterToken",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763141518,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581518577___19ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581518578
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581518577__UDF4_19ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520733
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581518577__UDF43_19ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581518577__UDF43-m4_19ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525877
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581540617__UDF43-m4_19ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581540617__UDF4_19ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540749
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581540617__UDF43_19ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6d048c2ec8b9416986049966ff4e58bb_1728581540617__UDF43-m4_19ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581541962
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581524213,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524212
+                    }
+                ]
+            },
+            "s_ips": {
+                "name": "s_ips",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581524207,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524207
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525548
+                    }
+                ]
+            },
+            "s_ivc": {
+                "name": "s_ivc",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581524189,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533826
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533826
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533828
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533864
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533868
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533874
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533881
+                    }
+                ]
+            },
+            "s_ppn": {
+                "name": "s_ppn",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581524206,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728583324,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524205
+                    }
+                ]
+            },
+            "s_ppv": {
+                "name": "s_ppv",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581524208,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C99%2C14%2C6085%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533938
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581533951
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581535419
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581536691
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581536700
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581537474
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581537478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581538181
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581538187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2C100%2C14%2C6148%2C6%2C6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581538941
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581535513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "onlineindigoca%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhome%2526link%253DPrivacy%252520Preferences%2526region%253Dfootercontent%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dhome%2526pidt%253D1%2526oid%253Dfunctiononclick%252528event%252529%25257BOneTrust.ToggleInfoDisplay%252528%252529%25257D%2526oidt%253D2%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581535512
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "onlineindigoca%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhome%2526link%253DSave%252520Preferences%2526region%253Donetrust-pc-sdk%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dhome%2526pidt%253D1%2526oid%253DSave%252520Preferences%2526oidt%253D3%2526ot%253DSUBMIT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581539053
+                    }
+                ]
+            },
+            "s_tp": {
+                "name": "s_tp",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581524207,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6148",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524207
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6148",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581525549
+                    }
+                ]
+            },
+            "s_vi": {
+                "name": "s_vi",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581521359,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.037806034,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581534038
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.1499939,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581534151
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.26352501,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581534264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.37535906,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581534376
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49136591,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581534492
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.51020694,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581535510
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79728794,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581536798
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.58340311,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581537584
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.29131889,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581538293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.048769,
+                        "value": "[CS]v1|338407C89390F51E-6000058501F7E1E3[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581539049
+                    }
+                ]
+            },
+            "s_vnc365": {
+                "name": "s_vnc365",
+                "domain": ".indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581524188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760133599,
+                        "expiry": 31552075,
+                        "value": "1760117524186%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524187
+                    }
+                ]
+            },
+            "selectedStore": {
+                "name": "selectedStore",
+                "domain": ".www.indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518448,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760117517.437865,
+                        "expiry": 31535999.43786502,
+                        "value": "\"\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518446
+                    }
+                ]
+            },
+            "__cq_dnt": {
+                "name": "__cq_dnt",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728581518452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518451
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581519330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581519334
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581540478
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581540968
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581540985
+                    }
+                ]
+            },
+            "cqcid": {
+                "name": "cqcid",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581518444,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "abXpxRDcNuo67tCbltjdzYI124",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518443
+                    }
+                ]
+            },
+            "cquid": {
+                "name": "cquid",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728581518446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "||",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518445
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728581534,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581524220
+                    }
+                ]
+            },
+            "dw_dnt": {
+                "name": "dw_dnt",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728581518453,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518452
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581519330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581519334
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581540479
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581540968
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581540985
+                    }
+                ]
+            },
+            "dwac_009a5afdea3a79f0f5364b438b": {
+                "name": "dwac_009a5afdea3a79f0f5364b438b",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518442,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "p5np_LIXPX3KM077TiJgvJvhevPVddFPm_w%3D|dw-only|||CAD|false|Canada%2FEastern|true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518440
+                    }
+                ]
+            },
+            "dwanonymous_d5d41a79f7afbc3d381233746c837157": {
+                "name": "dwanonymous_d5d41a79f7afbc3d381233746c837157",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518451,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744133518.438102,
+                        "expiry": 15552000.438102007,
+                        "value": "abXpxRDcNuo67tCbltjdzYI124",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518450
+                    }
+                ]
+            },
+            "dwsid": {
+                "name": "dwsid",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728581518006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "HrVuN6_8H8eXFn49vz1wzSLN_TjInvP1xtkTOpB4G8MxpKfioq6uPxWq3qPeYtwUqjG1HID7EN227gYLRcXytQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581517995
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": "www.indigo.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581518450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "p5np_LIXPX3KM077TiJgvJvhevPVddFPm_w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581518448
+                    }
+                ]
+            }
+        },
+        "/en-ca": {
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".indigo.ca",
+                "path": "/en-ca",
+                "current_label": 1,
+                "label_ts": 1728581520340,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581520340
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728581540629
+                    }
+                ]
+            }
+        }
+    },
+    "nr-data.net": {
+        "/": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": ".nr-data.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581525979,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "66c607fef2c0e2d0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581525978
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524805,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760117524.804,
+                        "expiry": 31536000.8039999,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581524804
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581524637,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762277524.636207,
+                        "expiry": 33696000.636207104,
+                        "value": "2nFvEG9kKfpBWlrfOGLRBn2g6Nr",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581524636
+                    }
+                ]
+            }
+        }
+    },
+    "yahoo.com": {
+        "/": {
+            "A3": {
+                "name": "A3",
+                "domain": ".yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728581525530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760139125.528679,
+                        "expiry": 31557600.528678894,
+                        "value": "d=AQABBJUPCGcCEMyyNgTSgXZkBBESCx-d4VQFEgEBAQFhCWcRZyXaxyMA_eMAAA&S=AQAAAi2ishiMit_AvYU-xMjmEKg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581525529
+                    }
+                ]
+            }
+        }
+    },
+    "measurement-api.criteo.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": "measurement-api.criteo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728581525536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728581525535
+                    }
+                ]
+            }
+        }
+    }
+}

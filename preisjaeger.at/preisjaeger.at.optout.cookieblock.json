@@ -1,0 +1,524 @@
+{
+    "connectad.io": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".connectad.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658785069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731286785.067062,
+                        "expiry": 2628000.067061901,
+                        "value": "3714d1af-7b32-4808-b9bc-1af81847e332",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658785067
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658787331,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762354787.328541,
+                        "expiry": 33696000.32854104,
+                        "value": "410otF9JZGZNczBJbTRMUmFyeDFJWVY3M0QlMkJ2dHJHZ2ZWdVh1MGYzV2pCJTJGT2U3aVJNOTNUY0phaVM1Ulh2bFVmek1ONzFwNHNSSzcwWjlMRlAxNGZGWXY3eVZmeVo3bnVwNlRIbXhHNjklMkZYWGw5OXlHN0U5d3IwOUp3bWNCN3pRT2xkbmglMkJmN3A3MlNBJTJCTWxrRjd2ZExRM1RnJTNEJTNE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658787329
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658787191,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762354787.186942,
+                        "expiry": 33696000.1869421,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658787189
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658787188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762354787.186893,
+                        "expiry": 33696000.18689299,
+                        "value": "9586e9e4-44d4-4c63-a77d-a658cf84ba0a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658787187
+                    }
+                ]
+            }
+        }
+    },
+    "onetag-sys.com": {
+        "/": {
+            "OTP": {
+                "name": "OTP",
+                "domain": ".onetag-sys.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658785017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762845482,
+                        "expiry": 34186697,
+                        "value": "52fmhG7g_o0k9z5RsoPIFVPH4W6W3lBbcsnVL-ItZUI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728658785016
+                    }
+                ]
+            }
+        }
+    },
+    "preisjaeger.at": {
+        "/": {
+            "browser_push_permission_requested": {
+                "name": "browser_push_permission_requested",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658789738,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763218789.736685,
+                        "expiry": 34560000.73668504,
+                        "value": "1728658789",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658789737
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.953758955,
+                        "value": "1728658789",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658789954
+                    }
+                ]
+            },
+            "cookie_policy_agreement": {
+                "name": "cookie_policy_agreement",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658784622,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194784.616968,
+                        "expiry": 31536000.616967916,
+                        "value": "3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658784621
+                    }
+                ]
+            },
+            "dont-track": {
+                "name": "dont-track",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658784619,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763218784.616929,
+                        "expiry": 34560000.616929054,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658784618
+                    }
+                ]
+            },
+            "f_c": {
+                "name": "f_c",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658784620,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763218784.616945,
+                        "expiry": 34560000.61694503,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658784619
+                    }
+                ]
+            },
+            "f_v": {
+                "name": "f_v",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658775432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760194774.411138,
+                        "expiry": 31535999.411138058,
+                        "value": "%226db8c262-87e1-11ef-a90e-0242ac110003%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658775426
+                    }
+                ]
+            },
+            "g_p": {
+                "name": "g_p",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658784621,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763218784.616956,
+                        "expiry": 34560000.616955996,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658784620
+                    }
+                ]
+            },
+            "guest_user_visit": {
+                "name": "guest_user_visit",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728658786488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728658905.487253,
+                        "expiry": 119.48725295066833,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658786488
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.79005289077759,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658788791
+                    }
+                ]
+            },
+            "navi": {
+                "name": "navi",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658775435,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731077975.411291,
+                        "expiry": 2419200.411290884,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658775434
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2419200.4872961044,
+                        "value": "%7B%22homepage%22%3A%22hei%5Cu00df%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658786489
+                    }
+                ]
+            },
+            "pepper_session": {
+                "name": "pepper_session",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658775424,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728660875.410904,
+                        "expiry": 2100.410903930664,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658775413
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.9432520866394,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658776943
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.9971640110016,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658776998
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.6167669296265,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658784617
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.487163066864,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658786488
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.7899379730225,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658788790
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.7366240024567,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658789737
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.953691005707,
+                        "value": "%22FR59k8EWy9Vf5dfbfQ5A1SiO0vIWQtdKsrcn39N0%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658789954
+                    }
+                ]
+            },
+            "u_l": {
+                "name": "u_l",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658775433,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728659675.411202,
+                        "expiry": 900.4112019538879,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658775432
+                    }
+                ]
+            },
+            "xsrf_t": {
+                "name": "xsrf_t",
+                "domain": "www.preisjaeger.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728658775434,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728784775.411244,
+                        "expiry": 126000.41124391556,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658775433
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.94329500198,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658776944
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.9972000122,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658776998
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.61689710617,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658784618
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 125999.4872739315,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658786489
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.79013800621,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658788791
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.73671007156,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658789738
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.9537858963,
+                        "value": "%22zzEIcSf87uMe4sIynR1OSfFTnkiZ4ybC9dDDHvni%22",
+                        "same_site": "strict",
+                        "timestamp": 1728658789954
+                    }
+                ]
+            }
+        }
+    }
+}

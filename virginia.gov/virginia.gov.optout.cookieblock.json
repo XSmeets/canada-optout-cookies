@@ -1,0 +1,470 @@
+{
+    "virginia.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".virginia.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728827099217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763387099.213983,
+                        "expiry": 34560000.21398306,
+                        "value": "GA1.1.119203886.1728827099",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827099216
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.58898997,
+                        "value": "GA1.1.119203886.1728827099",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827106590
+                    }
+                ]
+            },
+            "_ga_0DWMH7VB6G": {
+                "name": "_ga_0DWMH7VB6G",
+                "domain": ".virginia.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728827099216,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763387099.21377,
+                        "expiry": 34560000.21376991,
+                        "value": "GS1.1.1728827099.1.0.1728827099.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827099215
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.58858895,
+                        "value": "GS1.1.1728827099.1.1.1728827106.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827106589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.717577934,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827138719
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.virginia.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827097696,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.989855051,
+                        "value": "zl+31EU+br+QWYncJqUVywsxC5dKmHPBqneIyTzZC5x8APYnA+NiT82r4r/0X03ciRRR4yJNhRBqUXuICjfQv4seseoPBYVhjikyhHj0vuNU/iTGJvrW/pUxVN0T",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827103990
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3667340279,
+                        "value": "7gIwQFUH+DZ1ttXIrY7VNVAAAR2vnXs7D+9v3A0Eo9KR23jLxoFV2KUzgGTF1Y0P7KVzcmcFeKs4mFftJ6aTybTl291Tzb8sCu/1MGUOrunvX4/K8iDfO+coxZKm",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104367
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4646070004,
+                        "value": "FLmYRXtDlpo+xXPBxFqA5NurcdmHolGTVwAKptjsKCUBQFX1r3XbtZWlPuHsQ0bfAnpU3iqTGARdySiOcXmO9kzyqNqZvQfK2YNQHa9PUdNe21IuZ5J4AmqzGL8h",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104465
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4895749092,
+                        "value": "2NYS3dCOHXA4uQQsfOOX2EjCtTfeFNBpRFwpSc30so/vs/BaUsjuaithO4wTWnWYYLzO42Xvnvss4SGLEhZ0ANZF7t/1RO+aFbz+CWTpsyVKuWftUHlXBEOBgp4V",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104490
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4944109917,
+                        "value": "GVIFpOpGCwCsAXmcLpVWtlONv6kVLxakNffK4bsnDtTBwqllDeVCigXNej+XKbAZmDVjKu9TgBWh3dKi20dLxR/64RuCLumEw0S7HZ4cQpe+rbzbAc/Z4trydQcG",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104495
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5852088928,
+                        "value": "xS4bIXRNiGOA3zN4E9na5RxmfkK4106tUuwZqrNCLtY4QZeSA+5f8iY1YqD3Qat1UQwNmaZKdyvkHjMq9H/VGdKYoplp9oA/FXWF1Bx5UtjuZNLNThUh5ysZ7dy/",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104585
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6006469727,
+                        "value": "rD6+4i5glDDzHKNFQUSsvTTzFO6x6Gnmzld4XOhhOq2UKn4O/WYnOz+Do0jnTxQZepcO8fAABGhAOPNM2wUE6BNqE6z1ti3qxlSH0r0zb+RIfcDN8t5umrBrNlPk",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6039590836,
+                        "value": "Cx6wYsKeTMKeQoEiQzIO83WIPHz5hZrmTR1s9CvWzDSL3T3jt6OgQYbaPOFiG/Yy+l19ndY/lX4CD+7cTyCS5iKnJBSTEkx2comm9mhcc6bcloXSk79HqPuZD4MO",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104604
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6059970856,
+                        "value": "5Ac9J6PtWgNrlfIzrWLYg2yfoeJ5Vfu7IP8dmQsnMd3L4pJv1VuxYbA8EDqpEsiNn96mgECMuk4W9NXX4RihS4xnA5VstZvD5ONXTR9MQkziS9iT5QJmmn3tRFtP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827104606
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5237379074,
+                        "value": "jRluP+iwyBWKcaunQ9g7qrAZbfdxD/amXQwRonfiSE8CbM+XSxijfjT34ow3TO5QlghOzBN19F1JRjZPOiLgUWAlDsdqYeLAoiOd00T8cerrqfAGgv3lIHBcGQ4s",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827106526
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.virginia.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827097702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9899098873,
+                        "value": "zl+31EU+br+QWYncJqUVywsxC5dKmHPBqneIyTzZC5x8APYnA+NiT82r4r/0X03ciRRR4yJNhRBqUXuICjfQv4seseoPBYVhjikyhHj0vuNU/iTGJvrW/pUxVN0T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827103990
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3668079376,
+                        "value": "7gIwQFUH+DZ1ttXIrY7VNVAAAR2vnXs7D+9v3A0Eo9KR23jLxoFV2KUzgGTF1Y0P7KVzcmcFeKs4mFftJ6aTybTl291Tzb8sCu/1MGUOrunvX4/K8iDfO+coxZKm",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104367
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4647209644,
+                        "value": "FLmYRXtDlpo+xXPBxFqA5NurcdmHolGTVwAKptjsKCUBQFX1r3XbtZWlPuHsQ0bfAnpU3iqTGARdySiOcXmO9kzyqNqZvQfK2YNQHa9PUdNe21IuZ5J4AmqzGL8h",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104466
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4896700382,
+                        "value": "2NYS3dCOHXA4uQQsfOOX2EjCtTfeFNBpRFwpSc30so/vs/BaUsjuaithO4wTWnWYYLzO42Xvnvss4SGLEhZ0ANZF7t/1RO+aFbz+CWTpsyVKuWftUHlXBEOBgp4V",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104491
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.49446702,
+                        "value": "GVIFpOpGCwCsAXmcLpVWtlONv6kVLxakNffK4bsnDtTBwqllDeVCigXNej+XKbAZmDVjKu9TgBWh3dKi20dLxR/64RuCLumEw0S7HZ4cQpe+rbzbAc/Z4trydQcG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104495
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.5852530003,
+                        "value": "xS4bIXRNiGOA3zN4E9na5RxmfkK4106tUuwZqrNCLtY4QZeSA+5f8iY1YqD3Qat1UQwNmaZKdyvkHjMq9H/VGdKYoplp9oA/FXWF1Bx5UtjuZNLNThUh5ysZ7dy/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104585
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6006939411,
+                        "value": "rD6+4i5glDDzHKNFQUSsvTTzFO6x6Gnmzld4XOhhOq2UKn4O/WYnOz+Do0jnTxQZepcO8fAABGhAOPNM2wUE6BNqE6z1ti3qxlSH0r0zb+RIfcDN8t5umrBrNlPk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6040170193,
+                        "value": "Cx6wYsKeTMKeQoEiQzIO83WIPHz5hZrmTR1s9CvWzDSL3T3jt6OgQYbaPOFiG/Yy+l19ndY/lX4CD+7cTyCS5iKnJBSTEkx2comm9mhcc6bcloXSk79HqPuZD4MO",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104604
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6060218811,
+                        "value": "5Ac9J6PtWgNrlfIzrWLYg2yfoeJ5Vfu7IP8dmQsnMd3L4pJv1VuxYbA8EDqpEsiNn96mgECMuk4W9NXX4RihS4xnA5VstZvD5ONXTR9MQkziS9iT5QJmmn3tRFtP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827104606
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.5238409042,
+                        "value": "jRluP+iwyBWKcaunQ9g7qrAZbfdxD/amXQwRonfiSE8CbM+XSxijfjT34ow3TO5QlghOzBN19F1JRjZPOiLgUWAlDsdqYeLAoiOd00T8cerrqfAGgv3lIHBcGQ4s",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827106527
+                    }
+                ]
+            }
+        }
+    },
+    "developer.virginia.gov": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.developer.virginia.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827098689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729431898.687985,
+                        "expiry": 604800.6879849434,
+                        "value": "rDuSczbK1mGcFvnCqyA5oT1NgaAuABeG//dqGM9up2kdFFvOi/5kbGW9xrVT4DwtIO8NqgBCCzcTjG6RfByIR0F7M/6HisWGtPaFgL3iP5B1duC3GbLAB3P322iP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827098688
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.1902840137,
+                        "value": "oEknklvg6Ojy6OBRiLy+tdYpxWo9BQDzPgTzsHnEfz9T0fFeUUY/1qvjTLpLWr2lKSa78rh7R9oxRV4tEA0djfzcu8BvxH8mw+bdhkrpnmbjtgGdU4umY0qceDsc",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827099191
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.1921210289,
+                        "value": "EUpEwURC1X6+MwosnysA0Jn1FZ0R29VjziQMgZURakmpMIpDwYKNDsRnzVkOZnBjx9mYbNQOEsfhOcaj9tM7Wjh4gp/uq5jYm2sbhMx0rPzAhAWTwb3ZqfeDAe1T",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827099194
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.194963932,
+                        "value": "IAwLq1ielyLRmCdqelm+ZaPnwlK2E0AWRDgS4ACxzBpnIgNzCIp/irn0k3feMWwPMfh4MqlqI/KecC1t1vhQznYG+wMNb5IBpScCkr7R0O+uSehk35VrtI14THgP",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827099196
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.1959700584,
+                        "value": "oFNaTDCot4lFgYzaKYNHI5CGx98UOPC0zScYtW87VPfptxvQE2eSLEIErxeqUP17Lg96xyC8YMVy28zWpct+jDUnqXdgmBfFO8SkGxWnSLbrC6IL8XupgH9t7LE+",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827099197
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.developer.virginia.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827098690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729431898.688048,
+                        "expiry": 604800.6880478859,
+                        "value": "rDuSczbK1mGcFvnCqyA5oT1NgaAuABeG//dqGM9up2kdFFvOi/5kbGW9xrVT4DwtIO8NqgBCCzcTjG6RfByIR0F7M/6HisWGtPaFgL3iP5B1duC3GbLAB3P322iP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827098690
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1903860569,
+                        "value": "oEknklvg6Ojy6OBRiLy+tdYpxWo9BQDzPgTzsHnEfz9T0fFeUUY/1qvjTLpLWr2lKSa78rh7R9oxRV4tEA0djfzcu8BvxH8mw+bdhkrpnmbjtgGdU4umY0qceDsc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827099192
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1927480698,
+                        "value": "EUpEwURC1X6+MwosnysA0Jn1FZ0R29VjziQMgZURakmpMIpDwYKNDsRnzVkOZnBjx9mYbNQOEsfhOcaj9tM7Wjh4gp/uq5jYm2sbhMx0rPzAhAWTwb3ZqfeDAe1T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827099194
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1950860023,
+                        "value": "IAwLq1ielyLRmCdqelm+ZaPnwlK2E0AWRDgS4ACxzBpnIgNzCIp/irn0k3feMWwPMfh4MqlqI/KecC1t1vhQznYG+wMNb5IBpScCkr7R0O+uSehk35VrtI14THgP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827099196
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1960000992,
+                        "value": "oFNaTDCot4lFgYzaKYNHI5CGx98UOPC0zScYtW87VPfptxvQE2eSLEIErxeqUP17Lg96xyC8YMVy28zWpct+jDUnqXdgmBfFO8SkGxWnSLbrC6IL8XupgH9t7LE+",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827099197
+                    }
+                ]
+            }
+        }
+    },
+    "vita.virginia.gov": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.vita.virginia.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827098641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729431898.639169,
+                        "expiry": 604800.6391689777,
+                        "value": "Jl5EZvoPnUg8fS/soXgxztmwtIKca5S1cTY59giuA07m4JMS/uhLbh/AgeWAOT4FoY6O7PnfwqY8RgEHgBctVxt2PgN7Wqvt6Bp45r0Iwb/QH3iN9NbLxYxZl6QY",
+                        "same_site": "unspecified",
+                        "timestamp": 1728827098639
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.vita.virginia.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728827098642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729431898.639216,
+                        "expiry": 604800.6392159462,
+                        "value": "Jl5EZvoPnUg8fS/soXgxztmwtIKca5S1cTY59giuA07m4JMS/uhLbh/AgeWAOT4FoY6O7PnfwqY8RgEHgBctVxt2PgN7Wqvt6Bp45r0Iwb/QH3iN9NbLxYxZl6QY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728827098641
+                    }
+                ]
+            }
+        }
+    }
+}

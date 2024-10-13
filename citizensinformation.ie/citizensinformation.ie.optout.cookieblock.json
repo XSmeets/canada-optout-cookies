@@ -1,0 +1,69 @@
+{
+    "citizensinformation.ie": {
+        "/": {
+            "analytics_cookies": {
+                "name": "analytics_cookies",
+                "domain": ".www.citizensinformation.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658964595,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760194964,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658964594
+                    }
+                ]
+            },
+            "_pk_id.4.47ee": {
+                "name": "_pk_id.4.47ee",
+                "domain": "www.citizensinformation.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658963926,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762614164,
+                        "expiry": 33955201,
+                        "value": "dac19d43ac2080af.1728658964.",
+                        "same_site": "lax",
+                        "timestamp": 1728658963918
+                    }
+                ]
+            },
+            "_pk_ses.4.47ee": {
+                "name": "_pk_ses.4.47ee",
+                "domain": "www.citizensinformation.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658963933,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728660763,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728658963927
+                    }
+                ]
+            }
+        }
+    }
+}

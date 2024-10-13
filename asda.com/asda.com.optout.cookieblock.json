@@ -1,0 +1,679 @@
+{
+    "asda.com": {
+        "/": {
+            "AMCVS_B9CB1CFE53309CAD0A490D45%40AdobeOrg": {
+                "name": "AMCVS_B9CB1CFE53309CAD0A490D45%40AdobeOrg",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741615815,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615814
+                    }
+                ]
+            },
+            "AMCV_B9CB1CFE53309CAD0A490D45%40AdobeOrg": {
+                "name": "AMCV_B9CB1CFE53309CAD0A490D45%40AdobeOrg",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741615148,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301615.147364,
+                        "expiry": 34560000.1473639,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615147
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.81284404,
+                        "value": "179643557%7CMCMID%7C31831903812561277623839939661270920832%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615813
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.813523054,
+                        "value": "179643557%7CMCMID%7C31831903812561277623839939661270920832%7CMCAAMLH-1729346415%7C7%7CMCAAMB-1729346415%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615814
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.814924955,
+                        "value": "179643557%7CMCMID%7C31831903812561277623839939661270920832%7CMCAAMLH-1729346415%7C7%7CMCAAMB-1729346415%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728748815s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615816
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.4329679,
+                        "value": "179643557%7CMCMID%7C31831903812561277623839939661270920832%7CMCAAMLH-1729346415%7C7%7CMCAAMB-1729346415%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1728748816s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741616434
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741626888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277626,
+                        "expiry": 31536000,
+                        "value": "2024-10-12T14:00:26.886Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741626887
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277615,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615576
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615610
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=&landingPath=https%3A%2F%2Fwww.asda.com%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=&landingPath=https%3A%2F%2Fwww.asda.com%2F&groups=1%3A1%2C2%3A0%2C4%3A0%2C5%3A0%2CSTACK42%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=&landingPath=https%3A%2F%2Fwww.asda.com%2F&groups=1%3A1%2C2%3A0%2C4%3A0%2C5%3A0%2CSTACK42%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615775
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=&landingPath=NotLandingPage&groups=1%3A1%2C2%3A0%2C4%3A0%2C5%3A0%2CSTACK42%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741626889
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=&landingPath=NotLandingPage&groups=1%3A1%2C2%3A0%2C4%3A0%2C5%3A0%2CSTACK42%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741626892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isIABGlobal=false&datestamp=Sat+Oct+12+2024+16%3A00%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=6.29.0&hosts=&landingPath=NotLandingPage&groups=1%3A1%2C2%3A0%2C4%3A0%2C5%3A0%2CSTACK42%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741626911
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741615140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615139
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615145
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615146
+                    }
+                ]
+            },
+            "_px3": {
+                "name": "_px3",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615821,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728741945,
+                        "expiry": 330,
+                        "value": "8ee6d114306f469087b0efbbf21788b4ce2b5ea076f08a23be48e47672f62ca2:L1NJsS6AlkVgaLd/aA+K/Rl7B05Eo3//NjusCVa/YUGq4LgRIDym+yVLThGvxIbYiIhSQO3MRlUnmrefdcDNEA==:1000:mCYbpJitTzNHLrxdpCwYAOa5tgzvYlGRUT2HHl43qJdihFbXAHjEbm5J+d8q8JrgsqIW0PX+Nff4hV4oCS/eHeTg7y7EZo6pP+CCjQAuaORtDA/qSQDD0fOoRF3/d1uBggbkUNGIr+kftpGXLJ9N80gfTPKVHSnWXYuTkNXOTSF+Rf+5QQaHiD5UTymCi98ejm+4mlkhKhhdKuHc0lgErzOC09h7dvt6Wwd2H4olQGA=",
+                        "same_site": "lax",
+                        "timestamp": 1728741615817
+                    }
+                ]
+            },
+            "_pxTestCookie": {
+                "name": "_pxTestCookie",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741614930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741614925
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741614942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615817
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615821
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741622996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741625291
+                    }
+                ]
+            },
+            "_pxde": {
+                "name": "_pxde",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741614943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728741944,
+                        "expiry": 330,
+                        "value": "ec50be65f498cb691deb1b20949c231900036facd44cc31d19a3cc54648af367:eyJ0aW1lc3RhbXAiOjE3Mjg3NDE2MTQ5OTV9",
+                        "same_site": "lax",
+                        "timestamp": 1728741614942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 330,
+                        "value": "d0768ad2331daa291de62944c2da655aa135c4ec2177c0070dc59c0d6056fc8a:eyJ0aW1lc3RhbXAiOjE3Mjg3NDE2MTU4NzJ9",
+                        "same_site": "lax",
+                        "timestamp": 1728741615822
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 330,
+                        "value": "8844ec7049f4d59939b4c4de308ab4e95ceaa48f5ed29615c60a428d5a8b48a7:eyJ0aW1lc3RhbXAiOjE3Mjg3NDE2MjMwNDd9",
+                        "same_site": "lax",
+                        "timestamp": 1728741622996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 330,
+                        "value": "752e00e8c5f4a192cdec1810ff4fffe01d0a6c64dde8657903ead4c6180b7576:eyJ0aW1lc3RhbXAiOjE3Mjg3NDE2MjUzNDR9",
+                        "same_site": "lax",
+                        "timestamp": 1728741625292
+                    }
+                ]
+            },
+            "_pxvid": {
+                "name": "_pxvid",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741614941,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760277614,
+                        "expiry": 31536000,
+                        "value": "4e3013e8-88a2-11ef-b328-ecc2bf4589ab",
+                        "same_site": "lax",
+                        "timestamp": 1728741614940
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741626911,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760277626,
+                        "expiry": 31536000,
+                        "value": "CQGaQlcQGaQlcAcABBENDgCgAAAAAAAAAChQAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741626910
+                    }
+                ]
+            },
+            "pxcts": {
+                "name": "pxcts",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741614939,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4e302183-88a2-11ef-b328-c5c80ece0312",
+                        "same_site": "lax",
+                        "timestamp": 1728741614931
+                    }
+                ]
+            },
+            "s_ac": {
+                "name": "s_ac",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741622746,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741622745
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741616432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763301616.430431,
+                        "expiry": 34560000.43043089,
+                        "value": "MCMID%7C31831903812561277623839939661270920832",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741616431
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".asda.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728741622748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "wmiasdadotcom%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhttps%25253A%25252F%25252Fwww.asda.com%25252F%2526link%253DShow%252520Purposes%2526region%253Donetrust-button-group%2526.activitymap%2526.a%2526.c",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741622747
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "wmiasdadotcom%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhttps%25253A%25252F%25252Fwww.asda.com%25252F%2526link%253DReject%252520All%2526region%253Donetrust-pc-sdk%2526.activitymap%2526.a%2526.c%2526pid%253Dhttps%25253A%25252F%25252Fwww.asda.com%25252F%2526oid%253DReject%252520All%2526oidt%253D3%2526ot%253DSUBMIT",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741626886
+                    }
+                ]
+            },
+            "CL": {
+                "name": "CL",
+                "domain": ".www.asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615687,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "prod-az-westus-5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615686
+                    }
+                ]
+            },
+            "TS01d78aa3": {
+                "name": "TS01d78aa3",
+                "domain": ".www.asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "016e940b591a8f44c44d26d6886fc7e6267b30a98839253024d200aca01eb17af00ecbbf969226412e85d5cda56a39d6090546dae6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615689
+                    }
+                ]
+            },
+            "T1": {
+                "name": "T1",
+                "domain": "www.asda.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728741615688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "USW",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615688
+                    }
+                ]
+            },
+            "TS014e63e5": {
+                "name": "TS014e63e5",
+                "domain": "www.asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "016e940b591a8f44c44d26d6886fc7e6267b30a98839253024d200aca01eb17af00ecbbf969226412e85d5cda56a39d6090546dae6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615688
+                    }
+                ]
+            },
+            "TSd5ee6959027": {
+                "name": "TSd5ee6959027",
+                "domain": "www.asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08eb544fa0ab20003c56dc465bbeab9a02d60a705eeb867fc5a6cd757982177d575a9f79001f8a24088e5fe467113000d4c2b49e4c92c820e9e1eec280ed0d5c1044447c0e33d44dc8f74d5ff734f36c4fcb4a0bc902d68ae5ce0f0dedac12e4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615680
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "08bec4f5f5ab2000ece66b6205d8a8d8d6eca8e22893f202a2967677ae08894bf81209e96b9244ec089044d69111300075ba792785e7cd72327cfc257d2f0e6ffe6f209b192f5e2f16a7a316a4d7c737026abdfbbdb11ae49026dd1d65479545",
+                        "same_site": "unspecified",
+                        "timestamp": 1728741615691
+                    }
+                ]
+            },
+            "akavpau_www-asda-com-api": {
+                "name": "akavpau_www-asda-com-api",
+                "domain": "www.asda.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728741615683,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728742215~id=7535822b7858a14c96e5adcbbd749274",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615681
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728741615673,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744293615.671509,
+                        "expiry": 15552000.671509027,
+                        "value": "31808772912177657613837767291339988499",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.810823917,
+                        "value": "31808772912177657613837767291339988499",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728741615811
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "service-public.fr": {
+        "/": {
+            "SP_RGPD_OREJIME": {
+                "name": "SP_RGPD_OREJIME",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728830130993,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744554930,
+                        "expiry": 15724800,
+                        "value": "{\"internal-tracker\":true,\"eulerian\":false,\"ab-tasty\":false,\"streaming-video\":false}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830130991
+                    }
+                ]
+            },
+            "SP_SESSION": {
+                "name": "SP_SESSION",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728830123593,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZmFhYzY1ZmEtYWJiMC00MDkxLTg4OTktMzQxNzgwMDdmMDZl",
+                        "same_site": "lax",
+                        "timestamp": 1728830123584
+                    }
+                ]
+            },
+            "TS01425d24": {
+                "name": "TS01425d24",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728830123601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "012a7f58e0cd1733ba392f13817978aed5619dfa193e3b13531a4284286a4759e461521852a77f70b62eed9acacf1a7cb1dac6775390170ea4e0c2e1145d6aaeb354126d46",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830123599
+                    }
+                ]
+            },
+            "etuix": {
+                "name": "etuix",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728830126306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785326.301396,
+                        "expiry": 33955200.30139589,
+                        "value": "483Su9MbEGlbdtijAdF2vQsXX1evW_zUlIdgtCX5GOxnBFN1chHfug--",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728830126303
+                    }
+                ]
+            },
+            "TS012e9d3d": {
+                "name": "TS012e9d3d",
+                "domain": ".www.service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728830123599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "012a7f58e02803a2559d7a2a679af54a9a49d6f5bf3e3b13531a4284286a4759e4615218523ded8552f8731381d7e03039624a28e6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830123593
+                    }
+                ]
+            }
+        }
+    }
+}

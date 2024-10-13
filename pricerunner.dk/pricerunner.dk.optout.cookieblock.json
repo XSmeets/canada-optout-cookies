@@ -1,0 +1,230 @@
+{
+    "pricerunner.dk": {
+        "/": {
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".pricerunner.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728655105822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744207105,
+                        "expiry": 15552000,
+                        "value": "ID=47cb4c17cda1a7ab:T=1728655105:RT=1728655105:S=AA-AfjZl8va85Ei9UMQEKF-oQOIw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728655105820
+                    }
+                ]
+            },
+            "OTAdditionalConsentString": {
+                "name": "OTAdditionalConsentString",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655104583,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760191104,
+                        "expiry": 31536000,
+                        "value": "1~",
+                        "same_site": "lax",
+                        "timestamp": 1728655104582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1~",
+                        "same_site": "lax",
+                        "timestamp": 1728655154296
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655104561,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760191104,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T13:58:24.552Z",
+                        "same_site": "lax",
+                        "timestamp": 1728655104553
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2024-10-11T13:59:14.275Z",
+                        "same_site": "lax",
+                        "timestamp": 1728655154275
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655097155,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b6f16738-04be-4ed6-afbb-f232acc1b949&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728655104584
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1728655122686
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728655122728
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e",
+                        "same_site": "lax",
+                        "timestamp": 1728655122729
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728655122729
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.pricerunner.dk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728655122732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A58%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.pricerunner.dk%2F&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728655122887
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A59%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728655154277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A59%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728655154296
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+15%3A59%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5d9fb-af25-41e1-bb5a-4cde9b52063e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728655154299
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655104582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760191104,
+                        "expiry": 31536000,
+                        "value": "CQGUw_AQGUw_AAcABBENBKFwAAAAAEPgAAYgAAAUcgiAALAAeABUAC4AHAASAAuABkADwAIgARwAmQBSAFMAKsAXABdADEAHoAPgAfgBCACIAFGAMAAYYAygBsgDkAHOAO8AewA_QCEAERAIsARwAmgBcwC-gGKAM-AcQA6QB1IETAROAi8BKoCkQFogLZAXIAvMBfQC_wGCQMmAycBlgDVQG2AO5AfWBC8CHoEbwJFASjAmkBRaCjIKOAAA.YAAACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728655104573
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQGUw_AQGUw_AAcABBENBKFwAAAAAAAAAAYgAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728655154296
+                    }
+                ]
+            }
+        }
+    }
+}

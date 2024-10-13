@@ -1,0 +1,109 @@
+{
+    "southend.gov.uk": {
+        "/": {
+            "CookieControl": {
+                "name": "CookieControl",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742502678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736522102,
+                        "expiry": 7779600,
+                        "value": "{\"necessaryCookies\":[],\"optionalCookies\":{\"analytics\":\"revoked\"},\"statement\":{\"shown\":true,\"updated\":\"13/05/2020\"},\"consentDate\":1728742502675,\"consentExpiry\":90,\"interactedWith\":true,\"user\":\"3205E83A-E482-46A4-BBA5-1E1BAD7B0BF6\"}",
+                        "same_site": "lax",
+                        "timestamp": 1728742502677
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728742499825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763302499.822964,
+                        "expiry": 34560000.82296395,
+                        "value": "GA1.1.1277657666.1728742500",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742499825
+                    }
+                ]
+            },
+            "_ga_R0HFSHMR24": {
+                "name": "_ga_R0HFSHMR24",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728742499824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763302499.822412,
+                        "expiry": 34560000.822412014,
+                        "value": "GS1.1.1728742499.1.0.1728742499.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742499824
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742498006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-LcLJhjbDM8ng9cuU5oUJIwjMiH-xNOrDHNlIJ9SwLeSt7Km36EpgrPcEqw3d5Ag",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742497997
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742498498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742498491
+                    }
+                ]
+            }
+        }
+    }
+}

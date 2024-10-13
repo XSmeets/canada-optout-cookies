@@ -1,0 +1,327 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742763093,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728743663.09202,
+                        "expiry": 900.09202003479,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742763092
+                    }
+                ]
+            }
+        }
+    },
+    "edinburgh.gov.uk": {
+        "/": {
+            "CookieControl": {
+                "name": "CookieControl",
+                "domain": ".edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742764933,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736522364,
+                        "expiry": 7779600,
+                        "value": "{\"necessaryCookies\":[\"IV_JCT\",\"edi_sms\",\"Recite.Preferences\",\"AMWEBJCT!%2Fsps!JSESSIONID\",\"AMWEBJCT!%2FCAS!JSESSIONID\",\"AMWEBJCT!%2FCAS!FIM_IVTAPP_TARGET\",\"AMWEBJCT!%2FCAS!https%3A%2F%2Fauth.edinburgh.gov.uk%2Fsps%2FCAS%2Fsaml20FIMSAML20\",\"edi_redirect\",\"amFkdSBjbG91ZGZsYXJlIGNkbiBieXBhc3MgbGl2ZQ\"],\"optionalCookies\":{\"analytics\":\"revoked\"},\"statement\":{\"shown\":true,\"updated\":\"06/04/2020\"},\"consentDate\":1728742764927,\"consentExpiry\":90,\"interactedWith\":true,\"user\":\"8E375B57-5687-4F5D-8E11-EF29DFD4E810\"}",
+                        "same_site": "lax",
+                        "timestamp": 1728742764929
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7779600,
+                        "value": "{\"necessaryCookies\":[\"IV_JCT\",\"edi_sms\",\"Recite.Preferences\",\"AMWEBJCT!%2Fsps!JSESSIONID\",\"AMWEBJCT!%2FCAS!JSESSIONID\",\"AMWEBJCT!%2FCAS!FIM_IVTAPP_TARGET\",\"AMWEBJCT!%2FCAS!https%3A%2F%2Fauth.edinburgh.gov.uk%2Fsps%2FCAS%2Fsaml20FIMSAML20\",\"edi_redirect\",\"amFkdSBjbG91ZGZsYXJlIGNkbiBieXBhc3MgbGl2ZQ\"],\"optionalCookies\":{\"analytics\":\"revoked\"},\"statement\":{\"shown\":true,\"updated\":\"06/04/2020\"},\"consentDate\":1728742764927,\"consentExpiry\":90,\"interactedWith\":true,\"user\":\"8E375B57-5687-4F5D-8E11-EF29DFD4E810\"}",
+                        "same_site": "lax",
+                        "timestamp": 1728742764936
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728742762559,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763302762.557211,
+                        "expiry": 34560000.55721092,
+                        "value": "GA1.1.1530184028.1728742763",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742762559
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11033392,
+                        "value": "GA1.3.1530184028.1728742763",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742763110
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11434388,
+                        "value": "GA1.3.1530184028.1728742763",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742763114
+                    }
+                ]
+            },
+            "_ga_ENB58TQFF8": {
+                "name": "_ga_ENB58TQFF8",
+                "domain": ".edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728742762558,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763302762.556921,
+                        "expiry": 34560000.556921005,
+                        "value": "GS1.1.1728742762.1.0.1728742762.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742762558
+                    }
+                ]
+            },
+            "_gat_UA-11731499-1": {
+                "name": "_gat_UA-11731499-1",
+                "domain": ".edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728742763114,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728742823,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742763113
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728742763112,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728829163,
+                        "expiry": 86400,
+                        "value": "GA1.3.830174346.1728742763",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742763111
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.3.830174346.1728742763",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742763115
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742760855,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "p32rskjN0PpddzFV839NdiOAnI4KbJS96Uw685lc6hy3Ae9BqLqpqPbAHK1F%2CWQc",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742760844
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.edinburgh.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742761539,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742761532
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728742762670,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744294762.669837,
+                        "expiry": 15552000.669836998,
+                        "value": "Lxy5ZIyGXR4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742762670
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728742762671,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744294762.669859,
+                        "expiry": 15552000.669858932,
+                        "value": "CgJDQRIEGgAgUw%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742762670
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728742762670,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0TeKwaUF8wc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742762670
+                    }
+                ]
+            }
+        }
+    },
+    "chatbot-platform.prod.inform360.co": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "chatbot-platform.prod.inform360.co",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742762668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729347562.66751,
+                        "expiry": 604800.6675100327,
+                        "value": "WDYGEbz/Cy35xIfB/1GhWIrQiAhjMcy1kttPqy09xLVORUeUeh1oIaJq429AkH9N65g6L26LSyuLP0i8jxBm2MSt1cj7MDMaOJ7HuqOJCrx0oI6O10zUxrQ2FxNb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742762667
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0633430481,
+                        "value": "upJsMLGpqhGbvc8A0TPeeQCrjn30nBuaQJYkRSxY2BuoOwFZfQugQ9tpkjCMVyA+5LoBbiaJbi1Zii29MDb+S2yVhT+tEXM89VUjebKYb6x5UCmZDelTobP37BjG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742763065
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6563649178,
+                        "value": "IemvvvYfJGRynNX5ZL2dTm+FgQiWSz+JS0w9URuE4r8BF8s8OohYeUU2m03B15kDHIhJZVKJMUyFw1UpmkMgxT841Qlq10HkI/cdkaTpG95pE4FzQjSW/zdirior",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728742764657
+                    }
+                ]
+            }
+        }
+    }
+}

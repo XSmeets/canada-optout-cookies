@@ -1,0 +1,243 @@
+{
+    "otto.de": {
+        "/": {
+            "BrowserId": {
+                "name": "BrowserId",
+                "domain": ".otto.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658074313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763218074.296337,
+                        "expiry": 34560000.29633689,
+                        "value": "37950f2c-959c-4198-9767-cf26f987ef7b.v1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658074308
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".otto.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658080347,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763218080,
+                        "expiry": 34560000,
+                        "value": "2024-10-11T14:48:00.345Z",
+                        "same_site": "lax",
+                        "timestamp": 1728658080346
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".otto.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658078436,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A47%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728658078461
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A47%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086",
+                        "same_site": "lax",
+                        "timestamp": 1728658078462
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A47%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728658078463
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A47%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.otto.de%2F",
+                        "same_site": "lax",
+                        "timestamp": 1728658078463
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A47%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.otto.de%2F&groups=TRACK%3A0%2COTBER%3A0%2COTTCF%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728658078712
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A47%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.otto.de%2F&groups=TRACK%3A0%2COTBER%3A0%2COTTCF%3A0&genVendors=GOREM%3A0%2CMETAR%3A0%2CSNAPA%3A0%2CADVMK%3A0%2CPOLMG%3A0%2CMSADV%3A0%2COTTOT%3A0%2CGOANA%3A0%2CGOCCM%3A0%2CPINRT%3A0%2CGOCML%3A0%2CTKADV%3A0%2CCUSDP%3A0%2CMETAL%3A0%2C",
+                        "same_site": "lax",
+                        "timestamp": 1728658078712
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A48%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=TRACK%3A0%2COTBER%3A0%2COTTCF%3A0&genVendors=GOREM%3A0%2CMETAR%3A0%2CSNAPA%3A0%2CADVMK%3A0%2CPOLMG%3A0%2CMSADV%3A0%2COTTOT%3A0%2CGOANA%3A0%2CGOCCM%3A0%2CPINRT%3A0%2CGOCML%3A0%2CTKADV%3A0%2CCUSDP%3A0%2CMETAL%3A0%2C",
+                        "same_site": "lax",
+                        "timestamp": 1728658080351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A48%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=TRACK%3A0%2COTBER%3A0%2COTTCF%3A0&genVendors=GOREM%3A0%2CMETAR%3A0%2CSNAPA%3A0%2CADVMK%3A0%2CPOLMG%3A0%2CMSADV%3A0%2COTTOT%3A0%2CGOANA%3A0%2CGOCCM%3A0%2CPINRT%3A0%2CGOCML%3A0%2CTKADV%3A0%2CCUSDP%3A0%2CMETAL%3A0%2C",
+                        "same_site": "lax",
+                        "timestamp": 1728658080369
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A48%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=TRACK%3A0%2COTBER%3A0%2COTTCF%3A0&genVendors=GOREM%3A0%2CMETAR%3A0%2CSNAPA%3A0%2CADVMK%3A0%2CPOLMG%3A0%2CMSADV%3A0%2COTTOT%3A0%2CGOANA%3A0%2CGOCCM%3A0%2CPINRT%3A0%2CGOCML%3A0%2CTKADV%3A0%2CCUSDP%3A0%2CMETAL%3A0%2C",
+                        "same_site": "lax",
+                        "timestamp": 1728658080370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Oct+11+2024+16%3A48%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb89a744-7cc7-4dc6-abaf-0d2d840e3086&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=TRACK%3A0%2COTBER%3A0%2COTTCF%3A0&genVendors=GOREM%3A0%2CMETAR%3A0%2CSNAPA%3A0%2CADVMK%3A0%2CPOLMG%3A0%2CMSADV%3A0%2COTTOT%3A0%2CGOANA%3A0%2CGOCCM%3A0%2CPINRT%3A0%2CGOCML%3A0%2CTKADV%3A0%2CCUSDP%3A0%2CMETAL%3A0%2C",
+                        "same_site": "lax",
+                        "timestamp": 1728658080371
+                    }
+                ]
+            },
+            "devSpecs": {
+                "name": "devSpecs",
+                "domain": ".otto.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658075701,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763218075.699542,
+                        "expiry": 34560000.699542046,
+                        "value": "w=1920&h=890&bp=xl",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658075700
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".otto.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728658080368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763218080,
+                        "expiry": 34560000,
+                        "value": "CQGUw_AQGUw_AAcABBENBLFwAAAAAAAAAAYgAAAAAABDoAIBFikAEAiw.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728658080367
+                    }
+                ]
+            },
+            "visitorId": {
+                "name": "visitorId",
+                "domain": ".otto.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728658074306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763218074.296214,
+                        "expiry": 34560000.2962141,
+                        "value": "7534ec5e-eeab-4de3-9970-0c79b0f7471e.v1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658074297
+                    }
+                ]
+            }
+        },
+        "/wishlist-view": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.otto.de",
+                "path": "/wishlist-view",
+                "current_label": 0,
+                "label_ts": 1728658076475,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "FE73F0564749022793D1BCFA24FDFDDE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728658076475
+                    }
+                ]
+            }
+        }
+    }
+}

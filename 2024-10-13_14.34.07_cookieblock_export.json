@@ -1,0 +1,129 @@
+{
+    "ulta.com": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822833681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728826433.675834,
+                        "expiry": 3600.675833940506,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822833679
+                    }
+                ]
+            },
+            "X_ULTA_SITE": {
+                "name": "X_ULTA_SITE",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822833679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822833677
+                    }
+                ]
+            },
+            "X_ULTA_VISITOR_ID": {
+                "name": "X_ULTA_VISITOR_ID",
+                "domain": "ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822833329,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744374833.306918,
+                        "expiry": 15552000.306917906,
+                        "value": "6b6f0c33f363cb98e29c95cc2714ab16",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822833320
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.675661087,
+                        "value": "2c3591e5f936f164a412f2a30939fdbd",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822833677
+                    }
+                ]
+            },
+            "__ruid": {
+                "name": "__ruid",
+                "domain": "ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822833319,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744374833.306199,
+                        "expiry": 15552000.306199074,
+                        "value": "6b6f0c33f363cb98e29c95cc2714ab16",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822833308
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.675517082,
+                        "value": "2c3591e5f936f164a412f2a30939fdbd",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822833676
+                    }
+                ]
+            },
+            "akavpau_vp-www-ulta-com": {
+                "name": "akavpau_vp-www-ulta-com",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822833685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728823133~id=5683f13400db990e9712be3c153dea7a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822833683
+                    }
+                ]
+            }
+        }
+    }
+}

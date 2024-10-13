@@ -1,0 +1,472 @@
+{
+    "colorado.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".colorado.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829280771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389280.768657,
+                        "expiry": 34560000.76865697,
+                        "value": "GA1.1.1094081874.1728829281",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829280771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91936588,
+                        "value": "GA1.1.1094081874.1728829281",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829291920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.29108596,
+                        "value": "GA1.1.1094081874.1728829281",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829293291
+                    }
+                ]
+            },
+            "_ga_D2YN8J64BE": {
+                "name": "_ga_D2YN8J64BE",
+                "domain": ".colorado.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829280770,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389280.768389,
+                        "expiry": 34560000.76838899,
+                        "value": "GS1.1.1728829280.1.0.1728829280.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829280769
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.51953912,
+                        "value": "GS1.1.1728829280.1.0.1728829282.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829282520
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91899109,
+                        "value": "GS1.1.1728829280.1.1.1728829291.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829291919
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.29061794,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829293291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.29084492,
+                        "value": "GS1.1.1728829280.1.1.1728829293.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829293291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.50347304,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829309504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.504281044,
+                        "value": "GS1.1.1728829280.1.1.1728829309.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829309507
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05301595,
+                        "value": "GS1.1.1728829280.1.1.1728829310.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829310054
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".colorado.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829282057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389282.056456,
+                        "expiry": 34560000.05645609,
+                        "value": "a5035783-4a98-5181-f361-6001474c234f",
+                        "same_site": "lax",
+                        "timestamp": 1728829282056
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.colorado.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829278729,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0390610695,
+                        "value": "CGLJ5k3oexRqSD6sHYEWKJ+RtRjPn2riEAFWuDeTLqXiZsO07Yx5tCEV8wM0wmi10xCwq2VrMOPaxEi6KIc9YfYhmCd/mox64d5uaaWAY3yVNLh+vRpcyigRM71y",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829279039
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5608699322,
+                        "value": "mUimvG8sD3zeRfUb66usbBxTwm2YOOSle4PLbnnHCbCasVI2ohHA4YxJE0DvOZ0JxRksg7TOBBUPNt/fFmGHbOz/Lh4AJCggcqCRUs45usTopUpGQey2eSX/OBg6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829279562
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6270160675,
+                        "value": "mctghfxcN7yAf9j6k9l6qQGWPbMOecz9Ph/q0vLGHiBaCcWqo/ptt/ZGOoimUoP+Zk2mQh1U5myD2dI6JdbalL3axxYEJZ5eL3lgFfIO1gVSB0AlNBMXMmMiiN90",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829279628
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.7446520329,
+                        "value": "Gky6WJavoJ4lOLjoRjqZ3roy2HW8coW41s52X/tLAeJkhjZhTa+0a0OIgja0tpudqND0lMehbvdAOa+gtxvQhpBXqOBN9ZZeTI14qWuacDAVZ/7/eM6S/bqN/Rs8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829279746
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.7486081123,
+                        "value": "9YW2/3jbX6ea2WeaJfkK4PCR79MCBjJIjQdPaZAejgBI/gAlq5QEiJDjMpMChdtQZyuqNMpna6F+N8/fcHnszBGEs6a+qX5bvwfvdyiFO/CkO9ox7fpONg+oUxOC",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829279752
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.8032679558,
+                        "value": "7aJ4HV9QrwzXHu3z+1dVDrgtEcvOqDwTucMju2PDDCaAJtzDHz6HFlY1o+SO8fj75b51U3ZxU3/xqRAYTiK4PDB4GfXJKSJoDKfGvcGPXbaC4aWrPEEqLjG93+u+",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829283804
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4307069778,
+                        "value": "D60bIYB7QqA6XIQFH02lRW2/Ds7JkPy8K+M5LqU4d1EcpTje5cs6idntjekI0RtiOelocl6Fa1R1zPQ8MfJzQUCH+3Im0vliUSDFpD5/SYPCKAABe3NdljeocUug",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829291435
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.7370181084,
+                        "value": "lxx+rdGcpTMPB/QwIUNnAEyG5zfYZuUWsJ2up+J78Y865xUbHh4X066QhGCuXAQAs4I4dlaPOQQKD9Gk1/2rVcUY+nztIakWr7PkoCfLsfiClL9yfuibiw8WE6fJ",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829291738
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.7481210232,
+                        "value": "n1PvWaJ1e4Qc+4bcBbRNqfxzMektI5Rz+Tje0abhBAK2HHhqVtDmAebgHGRxyQPgYaUmHb0aETQ7b+qLyMfx39a9Gs9XY28nb8C++oCNj6KSrbwiU4fwKRO3Wmp8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829291750
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2398159504,
+                        "value": "Xw9tB47XssGNHzAZFS5j1jA4YxTrQRgSCUfiS1MvA25z11pDB41bCYd35p+7f9aQxK0qnwwQXaekEJctzQtSgm8JarQ/oPceHpiWnDcojKifvNmbxUIeOaDGFV/Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829293241
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.colorado.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829278734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.039096117,
+                        "value": "CGLJ5k3oexRqSD6sHYEWKJ+RtRjPn2riEAFWuDeTLqXiZsO07Yx5tCEV8wM0wmi10xCwq2VrMOPaxEi6KIc9YfYhmCd/mox64d5uaaWAY3yVNLh+vRpcyigRM71y",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829279039
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.5610499382,
+                        "value": "mUimvG8sD3zeRfUb66usbBxTwm2YOOSle4PLbnnHCbCasVI2ohHA4YxJE0DvOZ0JxRksg7TOBBUPNt/fFmGHbOz/Lh4AJCggcqCRUs45usTopUpGQey2eSX/OBg6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829279563
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6271800995,
+                        "value": "mctghfxcN7yAf9j6k9l6qQGWPbMOecz9Ph/q0vLGHiBaCcWqo/ptt/ZGOoimUoP+Zk2mQh1U5myD2dI6JdbalL3axxYEJZ5eL3lgFfIO1gVSB0AlNBMXMmMiiN90",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829279628
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.7447340488,
+                        "value": "Gky6WJavoJ4lOLjoRjqZ3roy2HW8coW41s52X/tLAeJkhjZhTa+0a0OIgja0tpudqND0lMehbvdAOa+gtxvQhpBXqOBN9ZZeTI14qWuacDAVZ/7/eM6S/bqN/Rs8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829279746
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.7490139008,
+                        "value": "9YW2/3jbX6ea2WeaJfkK4PCR79MCBjJIjQdPaZAejgBI/gAlq5QEiJDjMpMChdtQZyuqNMpna6F+N8/fcHnszBGEs6a+qX5bvwfvdyiFO/CkO9ox7fpONg+oUxOC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829279752
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.803344965,
+                        "value": "7aJ4HV9QrwzXHu3z+1dVDrgtEcvOqDwTucMju2PDDCaAJtzDHz6HFlY1o+SO8fj75b51U3ZxU3/xqRAYTiK4PDB4GfXJKSJoDKfGvcGPXbaC4aWrPEEqLjG93+u+",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829283804
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4308810234,
+                        "value": "D60bIYB7QqA6XIQFH02lRW2/Ds7JkPy8K+M5LqU4d1EcpTje5cs6idntjekI0RtiOelocl6Fa1R1zPQ8MfJzQUCH+3Im0vliUSDFpD5/SYPCKAABe3NdljeocUug",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829291435
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.737128973,
+                        "value": "lxx+rdGcpTMPB/QwIUNnAEyG5zfYZuUWsJ2up+J78Y865xUbHh4X066QhGCuXAQAs4I4dlaPOQQKD9Gk1/2rVcUY+nztIakWr7PkoCfLsfiClL9yfuibiw8WE6fJ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829291739
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.7481899261,
+                        "value": "n1PvWaJ1e4Qc+4bcBbRNqfxzMektI5Rz+Tje0abhBAK2HHhqVtDmAebgHGRxyQPgYaUmHb0aETQ7b+qLyMfx39a9Gs9XY28nb8C++oCNj6KSrbwiU4fwKRO3Wmp8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829291750
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2398900986,
+                        "value": "Xw9tB47XssGNHzAZFS5j1jA4YxTrQRgSCUfiS1MvA25z11pDB41bCYd35p+7f9aQxK0qnwwQXaekEJctzQtSgm8JarQ/oPceHpiWnDcojKifvNmbxUIeOaDGFV/Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829293242
+                    }
+                ]
+            },
+            "liveagent_oref": {
+                "name": "liveagent_oref",
+                "domain": "www.colorado.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829282054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365282,
+                        "expiry": 31536000,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829282053
+                    }
+                ]
+            },
+            "liveagent_ptid": {
+                "name": "liveagent_ptid",
+                "domain": "www.colorado.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829283332,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365283,
+                        "expiry": 31536000,
+                        "value": "63ec21ef-66e8-4b8b-abb9-18b653b05353",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829283332
+                    }
+                ]
+            },
+            "liveagent_sid": {
+                "name": "liveagent_sid",
+                "domain": "www.colorado.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829283331,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "63ec21ef-66e8-4b8b-abb9-18b653b05353",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829283329
+                    }
+                ]
+            },
+            "liveagent_vc": {
+                "name": "liveagent_vc",
+                "domain": "www.colorado.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829282054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365282,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829282054
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829283331
+                    }
+                ]
+            }
+        }
+    }
+}

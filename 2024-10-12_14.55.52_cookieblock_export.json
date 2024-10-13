@@ -1,0 +1,443 @@
+{
+    "bbc.co.uk": {
+        "/": {
+            "ckns_mvt": {
+                "name": "ckns_mvt",
+                "domain": ".bbc.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660001898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760196001,
+                        "expiry": 31536000,
+                        "value": "5c0b5df8-6a5e-4a8a-97ee-202e471cc2b2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660001893
+                    }
+                ]
+            }
+        }
+    },
+    "bbc.com": {
+        "/": {
+            "_cb": {
+                "name": "_cb",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660005944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762788005,
+                        "expiry": 34128000,
+                        "value": "BXIi_-CoJlwFt2ALp",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005943
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660005948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728661805,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.bbc.co.uk%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.bbc.co.uk%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005950
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728660005942,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005949
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728660005945,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762788005,
+                        "expiry": 34128000,
+                        "value": ".1728660005942.1728660005942.1.C73btZD8XumPCU535jDfMa3gCnxMsI.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005944
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660006567,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728660036,
+                        "expiry": 30,
+                        "value": "m24vj9npkpae83",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660006566
+                    }
+                ]
+            },
+            "ckns_policy": {
+                "name": "ckns_policy",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660005155,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196005,
+                        "expiry": 31536000,
+                        "value": "111",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660005154
+                    }
+                ]
+            },
+            "optimizelyDomainTestCookie": {
+                "name": "optimizelyDomainTestCookie",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728660004137,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744212004,
+                        "expiry": 15552000,
+                        "value": "0.8439484274682163",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660004136
+                    }
+                ]
+            },
+            "optimizelyEndUserId": {
+                "name": "optimizelyEndUserId",
+                "domain": ".bbc.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728660004139,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744212004,
+                        "expiry": 15552000,
+                        "value": "oeu1728660004134r0.3011925426132338",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660004138
+                    }
+                ]
+            },
+            "DM_SitId1778": {
+                "name": "DM_SitId1778",
+                "domain": "www.bbc.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728660006579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660006579
+                    }
+                ]
+            },
+            "DM_SitId1778SecId13934": {
+                "name": "DM_SitId1778SecId13934",
+                "domain": "www.bbc.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728660006580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728660006580
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": "www.bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660006575,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762791606,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24vj9nsjb4syb8l%22%2C%22_t%22%3A%22mhtclwry%7Cm24vj9ny%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728660006574
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": "www.bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660006578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762791606,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABb4AxqgDuMAJ4AffgCYALADcAVgE4kUkAF8gA",
+                        "same_site": "lax",
+                        "timestamp": 1728660006576
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": "www.bbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660006570,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762788006,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1728660006570
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660006248,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760196006.24679,
+                        "expiry": 31536000.246789932,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728660006247
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.25848198,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728660007259
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728660006251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760196006.246853,
+                        "expiry": 31536000.246853113,
+                        "value": "UserID=1176c590-d43d-4f4b-8f90-8e45b44f84e6&Created=10/11/2024 15:20:06&UserMode=0&guid=7cb73a80-cf45-4b26-a28d-5821d68ae6aa&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728660006249
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.258584976,
+                        "value": "UserID=1176c590-d43d-4f4b-8f90-8e45b44f84e6&Created=10/11/2024 15:20:06&UserMode=0&guid=7cb73a80-cf45-4b26-a28d-5821d68ae6aa&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728660007259
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728660003037,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762356003.030311,
+                        "expiry": 33696000.03031111,
+                        "value": "1A0286ad4439bfa15929cae1728660002",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728660003031
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728660003038,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762356003.030367,
+                        "expiry": 33696000.0303669,
+                        "value": "1A0286ad4439bfa15929cae1728660002",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728660003038
+                    }
+                ]
+            }
+        }
+    }
+}

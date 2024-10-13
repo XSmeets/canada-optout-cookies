@@ -1,0 +1,323 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641368834,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744452568.833339,
+                        "expiry": 15811200.833338976,
+                        "value": "518=UwgdfmtXUabGGCt8ACSpqzjtvBwrGrbx2Ru3uhSEluv_VgqyE7RIIUZqMpf_DRCQ1InKd0bho2RC66QHQMpdZnuduOKH1TgCjRQCGrlJaTyCXScpSCl5pbZciaF6ny31fvy2Bvqx2q8bTkAGv5uQfKvkyQby5ChJRBV6VeJafWPStfxfAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641368833
+                    }
+                ]
+            }
+        }
+    },
+    "public.gr": {
+        "/": {
+            "8352263200_oc": {
+                "name": "8352263200_oc",
+                "domain": ".www.public.gr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641364323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177364.322041,
+                        "expiry": 31536000.322041035,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641364323
+                    }
+                ]
+            },
+            "CITRUS_AD_ID": {
+                "name": "CITRUS_AD_ID",
+                "domain": ".www.public.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641364324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "95c74a5b89d4276fd754dc3ca9417ded0fe2076f73147ef3a2605ac1257ea08e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641364324
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.public.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641364237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729246164,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.public.gr&si=df5f325a-5ebf-471a-ba36-16fbc91c9e4f&ss=m24kfms8&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728641364234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.public.gr&si=df5f325a-5ebf-471a-ba36-16fbc91c9e4f&ss=m24kfms8&sl=1&tt=1sf&rl=1&ld=2d0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728641364238
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.public.gr&si=df5f325a-5ebf-471a-ba36-16fbc91c9e4f&ss=m24kfms8&sl=1&tt=1sf&rl=1&ld=2d0&nu=1csfdgad&cl=76g\"",
+                        "same_site": "lax",
+                        "timestamp": 1728641370480
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.public.gr&si=df5f325a-5ebf-471a-ba36-16fbc91c9e4f&ss=m24kfms8&sl=1&tt=1sf&rl=1&ld=2d0&nu=1csfdgad&cl=76g&ul=cor\"",
+                        "same_site": "lax",
+                        "timestamp": 1728641377620
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.public.gr&si=df5f325a-5ebf-471a-ba36-16fbc91c9e4f&ss=m24kfms8&sl=1&tt=1sf&rl=1&ld=2d0&nu=1csfdgad&cl=76g&ul=cor&hd=cos\"",
+                        "same_site": "lax",
+                        "timestamp": 1728641377623
+                    }
+                ]
+            },
+            "CookieConsent": {
+                "name": "CookieConsent",
+                "domain": "www.public.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641364550,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201364.549605,
+                        "expiry": 34560000.54960489,
+                        "value": "-3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641364550
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{stamp:%270fAxxmAH59nI/4eBpSDHFqd5Wes+dlhVkUrLRHEKPNICBYCf2HJGpw==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:2%2Cutc:1728641370774%2Cregion:%27ca%27}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641370718
+                    }
+                ]
+            },
+            "DYN_USER_CONFIRM": {
+                "name": "DYN_USER_CONFIRM",
+                "domain": "www.public.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641363823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744419826.802985,
+                        "expiry": 15778463.802984953,
+                        "value": "80abb5072cc059991cd0307eb2f3f137",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641363815
+                    }
+                ]
+            },
+            "DYN_USER_ID": {
+                "name": "DYN_USER_ID",
+                "domain": "www.public.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641363814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1744419826.801663,
+                        "expiry": 15778463.801662922,
+                        "value": "8352263200",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641363805
+                    }
+                ]
+            },
+            "J2ROUTE": {
+                "name": "J2ROUTE",
+                "domain": "www.public.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641363827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".route6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641363825
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.public.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641363824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729246163.803043,
+                        "expiry": 604800.8030428886,
+                        "value": "7Sh7De9sT47q2DWQeBC9z9Uydf3XekSFfBz7US90ep27m3oLJA1e!1818249701",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641363823
+                    }
+                ]
+            },
+            "_ALGOLIA": {
+                "name": "_ALGOLIA",
+                "domain": "www.public.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641368049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "anonymous-2979e046-9d8b-4c25-ad73-19b825b8ba7e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641368048
+                    }
+                ]
+            }
+        },
+        "/public/v1/": {
+            "language": {
+                "name": "language",
+                "domain": "www.public.gr",
+                "path": "/public/v1/",
+                "current_label": 0,
+                "label_ts": 1728641363825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201363.803086,
+                        "expiry": 34560000.80308604,
+                        "value": "el-GR",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641363824
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.32198596,
+                        "value": "el-GR",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641364322
+                    }
+                ]
+            }
+        },
+        "/rest/": {
+            "language": {
+                "name": "language",
+                "domain": "www.public.gr",
+                "path": "/rest/",
+                "current_label": 0,
+                "label_ts": 1728641364326,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201364.324938,
+                        "expiry": 34560000.32493806,
+                        "value": "el-GR",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641364325
+                    }
+                ]
+            }
+        }
+    }
+}

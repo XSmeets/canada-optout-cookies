@@ -1,0 +1,779 @@
+{
+    "dpgmedia.net": {
+        "/": {
+            "sp": {
+                "name": "sp",
+                "domain": ".dpgmedia.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659847125,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195847.121966,
+                        "expiry": 31536000.121965885,
+                        "value": "b43afa39-fd54-4b0a-ab1d-e11fea914cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659847123
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.338412046,
+                        "value": "b43afa39-fd54-4b0a-ab1d-e11fea914cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659847340
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.73889494,
+                        "value": "b43afa39-fd54-4b0a-ab1d-e11fea914cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659850740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.92257595,
+                        "value": "b43afa39-fd54-4b0a-ab1d-e11fea914cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659851923
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.138294935,
+                        "value": "b43afa39-fd54-4b0a-ab1d-e11fea914cba",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728659852139
+                    }
+                ]
+            }
+        }
+    },
+    "dpgmedia.nl": {
+        "/": {
+            "_sp_id.e23f": {
+                "name": "_sp_id.e23f",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659845712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763219845.707727,
+                        "expiry": 34560000.707726955,
+                        "value": "8f5e2480-9696-48a2-8da7-ba5c62ff76f8.1728659846.1.1728659846..15fbf4eb-5f16-4448-96ed-413e422cd14d..d8810245-479d-424d-9284-7b716c66242a.1728659845705.1",
+                        "same_site": "lax",
+                        "timestamp": 1728659845712
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.7137239,
+                        "value": "8f5e2480-9696-48a2-8da7-ba5c62ff76f8.1728659846.1.1728659846..15fbf4eb-5f16-4448-96ed-413e422cd14d..d8810245-479d-424d-9284-7b716c66242a.1728659845705.2",
+                        "same_site": "lax",
+                        "timestamp": 1728659845714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.52388692,
+                        "value": "8f5e2480-9696-48a2-8da7-ba5c62ff76f8.1728659846.1.1728659851..15fbf4eb-5f16-4448-96ed-413e422cd14d..d8810245-479d-424d-9284-7b716c66242a.1728659845705.3",
+                        "same_site": "lax",
+                        "timestamp": 1728659850524
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.71100092,
+                        "value": "8f5e2480-9696-48a2-8da7-ba5c62ff76f8.1728659846.1.1728659852..15fbf4eb-5f16-4448-96ed-413e422cd14d..d8810245-479d-424d-9284-7b716c66242a.1728659845705.4",
+                        "same_site": "lax",
+                        "timestamp": 1728659851711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.7151649,
+                        "value": "8f5e2480-9696-48a2-8da7-ba5c62ff76f8.1728659846.1.1728659852..15fbf4eb-5f16-4448-96ed-413e422cd14d..d8810245-479d-424d-9284-7b716c66242a.1728659845705.5",
+                        "same_site": "lax",
+                        "timestamp": 1728659851716
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1728659845699": {
+                "name": "_sp_root_domain_test_1728659845699",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659845702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1728659845699",
+                        "same_site": "lax",
+                        "timestamp": 1728659845700
+                    }
+                ]
+            },
+            "_sp_ses.e23f": {
+                "name": "_sp_ses.e23f",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659845708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728661645,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728659845707
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728659845713
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728659845715
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728659850525
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728659851712
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1728659851716
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659843549,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728667043.536533,
+                        "expiry": 7200.536533117294,
+                        "value": "0B0EDFD625C117B76ED4D854B79D0CA4~000000000000000000000000000000~YAAQlishF1jIgmiSAQAAXuknfBkSsc0R5U3UJF/mVjlrBVbUT+WhdlIeCksnMouVDSPoZhjX+GI24u1501hUnqMkhGKiVhkdIP0j1XRbXH0AE87xIm0hZbcbLWvNKLkewcVG3LAlGj7ULq0h5h7aUmh12ypw8HYkO4WSPKIdAJVahQeDo5CtSGPx/ojlLBebI0PqW5dIfVD5J+zQos7WvkHX4arP+WXmvZFTqkdsuj8fxrpY5774BuBBwS0fDSUREM3SrLWrZeuG5YhKhrmwJGsTzsibqU4svwXtCs8mgZxidttKsxOHmnQNtEBN8F6RFRQyWmUTWYaOW7IOMj0iFQClKqJVUmPNYnUDojTn0pxVcdFxgwzhIX0eNvQsAKbcDJBqt/unGxDL",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659843543
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659844713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728667044.709599,
+                        "expiry": 7200.709599018097,
+                        "value": "0BB47776B7D9146BB4589CEBC5A28848~YAAQlishF4PIgmiSAQAA6+0nfBkp61mCwJJVgSqrT1Dx0zYU3BXg9kv9Fecsfp2B30suZA1F/jPcDdistANGuxWJ14X1bzozu/2z0Iq9KSPFN/0xtyEkcRzRUECM7n+abG2sh5ZpYdnw09mEwQKSnhbZdhY8oY9grNTtmsaWFMyjJBCU7JsLsYlqfdQAjKH3MWCHSRAoUv0bGigrcQm6LpLjgTfxuiHH+wt5CVXzShDRZPBzdNz/Ezw+b0kp+npLTA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659844710
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7192.262868881226,
+                        "value": "0BB47776B7D9146BB4589CEBC5A28848~YAAQlishFy3JgmiSAQAAdAsofBmAu+aZmh86mLve0P83a8yP4La9Vw6vJzO1lgrOcISSq5gmrAWgaAVupcr/yVoPKki0uzl+oTkMpPlpl4F9uEOHE7HMM83V/d4siRNYYkxqhOrmmNUK6QTYnMHFba/BKkEUFW78XW8kCi5cBFJaCdVSMdNrK4OoRNHl44EdDYVSCNPt+rpnoSSfXoVkBUmr8ob3+S3JKUR6chmyuIKis9OH2TbnSgkwAz8hi5+D3w==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852264
+                    }
+                ]
+            }
+        }
+    },
+    "tweakers.net": {
+        "/": {
+            "SSID": {
+                "name": "SSID",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728659852778,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195852.771652,
+                        "expiry": 31536000.771651983,
+                        "value": "CQCQPh0OAAAAAACMQQlnJ4uAAIxBCWcBAAAAAAAAAAAAjEEJZwDQnDABAAEULgAAjEEJZwEA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852775
+                    }
+                ]
+            },
+            "SSLB": {
+                "name": "SSLB",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659852774,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853574
+                    }
+                ]
+            },
+            "SSOD": {
+                "name": "SSOD",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659852782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195852.771776,
+                        "expiry": 31536000.77177596,
+                        "value": "ADCfAAAAJADhDQAAAQAAAIxBCWeMQQlnAQBNDgAAAQAAAIxBCWeMQQlnAQAAAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.269100904,
+                        "value": "ADp7AAAAJADhDQAAAgAAAIxBCWeNQQlnAgBNDgAAAgAAAIxBCWeNQQlnAgAAAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.573559046,
+                        "value": "ACs2AAAAJADhDQAAAwAAAIxBCWeNQQlnAwBNDgAAAwAAAIxBCWeNQQlnAwAAAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853574
+                    }
+                ]
+            },
+            "SSPV": {
+                "name": "SSPV",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659852783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195852.77181,
+                        "expiry": 31536000.771810055,
+                        "value": "nYUAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852782
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.269268036,
+                        "value": "Ng8AAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.573596954,
+                        "value": "oDIAAAAAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853575
+                    }
+                ]
+            },
+            "SSRT": {
+                "name": "SSRT",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659852781,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195852.771744,
+                        "expiry": 31536000.771744013,
+                        "value": "jEEJZwABAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.505645037,
+                        "value": "kEEJZwADAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659856506
+                    }
+                ]
+            },
+            "SSSC": {
+                "name": "SSSC",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728659852780,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2.G7424537530256624423.1|304.11796",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852778
+                    }
+                ]
+            },
+            "__Secure-TnetID": {
+                "name": "__Secure-TnetID",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659842989,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729005442.985808,
+                        "expiry": 345600.98580789566,
+                        "value": ".0b1J51FDmwmjm9vCG8E5JaX-gusU5uFt",
+                        "same_site": "lax",
+                        "timestamp": 1728659842988
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 10371600.771838903,
+                        "value": "0b1J51FDmwmjm9vCG8E5JaX-gusU5uFt",
+                        "same_site": "lax",
+                        "timestamp": 1728659852783
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659843012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728667042.986166,
+                        "expiry": 7199.986166000366,
+                        "value": "0BF490A1FD66EA4D507209F6C3A7117C~000000000000000000000000000000~YAAQiishF8EJN3GSAQAANOcnfBlWpw163S3RK3+pnQA7emejEixGSdQPz7IjT6JkGh7l59svUfj6BS1YV52JAuihHK5n6JuF576wIFP9EQXoRAY0j5eg7s15x5JwQbKWBI/tKZ7P2gLxvVsDvKL4EkBbYKFUgtFrcXuyQaFpx8yZoX+YmIxHnbIw23HTpqVe9O5EnaKpqPr2G1iXud8WQyP+nGNr17uy63RveGLF8F+CFpMQ3qav+nswRPI9wBE1HtFd8CdQSklzRrZrWph/WI+VA5p17IhrtLOLIjZll/etw9WjtVrTdcQfF/cWmu0kmhDAWnoMi7/jc1VPSAWsDqvVLunQ0XOg49TU56t7EhRSTW+/uSGWdGa9MUEuWn1yhD5ObRzTjd50SA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659843008
+                    }
+                ]
+            },
+            "authId": {
+                "name": "authId",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659852784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731341852.771886,
+                        "expiry": 2682000.7718861103,
+                        "value": "077321e6-80c2-4107-a9cc-2f6c6a4e7a03",
+                        "same_site": "lax",
+                        "timestamp": 1728659852783
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659852786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728667052.771923,
+                        "expiry": 7200.771923065186,
+                        "value": "82AAEAD22D0F2EFAE0FDF0DB56D891F6~YAAQiishF2ULN3GSAQAAbg0ofBmfHPjDMr1OfiYzLFCDbsDcZpm7pAlEQgtzwZbAOFGa6vpOkXPG+bX9sRTEI2deMRfqf3nLYS48fg9txG0bquP8CFzO4/Vc87GnKIsYVPzaxPu29pAH4zfK3HTMBXRFHY+xVGZ1MkKeF/lINsa/kw6AOIy8MUk5GT/kHeQcXIlIimNAqIvVFM49g+eEPZomUSSKw5uePd+ONi/Rghb8YnvlfsA3xkbY9ECEIFVHqx8=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659852785
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.269331932068,
+                        "value": "82AAEAD22D0F2EFAE0FDF0DB56D891F6~YAAQiCshF6zEV3GSAQAAXw8ofBkUFvtRJIw41HymaisG5dLkfXgkkiCvnKBIQyPwYKfBoYI2/Z0awsiXt/VU79esSL3RojYFdqKbFE/9ez0eUFmoJG+yqXRaOnMLnIFfi8P0XfB5trdi4493InlI9LZcQs8DuTAFVFOAo/g3lrI3DLCDJRfnpH1hBmm4NN3hTqTQX3nG3JKdOL+q0rx2GTKfMl68ZmSHVD4i6pVinNJWC2Z0aKCVEoYeDSgU6LrozHk=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.573669910431,
+                        "value": "82AAEAD22D0F2EFAE0FDF0DB56D891F6~YAAQiCshF+PEV3GSAQAAkBAofBla45Mow08pziqYV2dDPQBugzA5MTcsVwIg6LChEzGjooaDfBMHWjNHPKAUmZbSMgA+6E8EdOxzemKroZgzfqGLtAfPgxONI0sng4yprbvM/CHYIL0YRNxa2QsbzdySOSJL023p7e3t8t2UvMXJt53SIpfmy3HlPBXi937BCt9uJhJFCmfmtvw92r1Pi5LRsjWSCgBOzVfr6U6y3otg8AO0v2ltyBwzIOeonmbA4dM=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659853578
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7196.292526006699,
+                        "value": "82AAEAD22D0F2EFAE0FDF0DB56D891F6~YAAQmSshF0oZFXGSAQAAMRsofBnf2cFhVE/FmZcEvJRv2EEzeILNUHsWiv0zvQFx5gidsMUqwVOAIdiV3vVi2ZHRoT5Qf/B6WV5hW7nreYpKI4FRagRvJXTGXIu8BSKScLRiV6OvLOxsDloaUs7QdFvtSg7YKswWjzywvMAorPYtRoc2a5pcXmIHId0YPxlp45ugn1juuOXHN7QQBKKTx1xW3iGvl7EiAiBLg3kZAUrPk3TnzYPmPOK+F2xR2QdvJjk=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659856295
+                    }
+                ]
+            },
+            "pl": {
+                "name": "pl",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659853578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731255453.57364,
+                        "expiry": 2595600.573640108,
+                        "value": "4206%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728659853577
+                    }
+                ]
+            },
+            "ssa-did": {
+                "name": "ssa-did",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659843000,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195842.986048,
+                        "expiry": 31536000.986047983,
+                        "value": "01927c27-e6f8-714c-8909-dbb49ad225aa",
+                        "same_site": "lax",
+                        "timestamp": 1728659842989
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.573622942,
+                        "value": "01927c27-e6f8-714c-8909-dbb49ad225aa",
+                        "same_site": "lax",
+                        "timestamp": 1728659853577
+                    }
+                ]
+            },
+            "ssa-sid": {
+                "name": "ssa-sid",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659843008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728661642.986117,
+                        "expiry": 1799.986116886139,
+                        "value": "01927c27-e6f8-714c-8909-dbb49b69b495",
+                        "same_site": "lax",
+                        "timestamp": 1728659843000
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.5736529827118,
+                        "value": "01927c27-e6f8-714c-8909-dbb49b69b495",
+                        "same_site": "lax",
+                        "timestamp": 1728659853578
+                    }
+                ]
+            },
+            "twk-theme": {
+                "name": "twk-theme",
+                "domain": ".tweakers.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659854221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763219854.219265,
+                        "expiry": 34560000.219264984,
+                        "value": "twk-light",
+                        "same_site": "lax",
+                        "timestamp": 1728659854220
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "tweakers.net",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728659856410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763219856.40826,
+                        "expiry": 34560000.40826011,
+                        "value": "0:m24vg1sl:GoOu1~ydp0Wz3ITQVTvFWs6JNxN637g7",
+                        "same_site": "strict",
+                        "timestamp": 1728659856409
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "tweakers.net",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728659856409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728661656.408203,
+                        "expiry": 1800.4082028865814,
+                        "value": "0:m24vg1sl:fevN4zwmoLM_LEQIXIpsXD4DCDzfJDLG",
+                        "same_site": "strict",
+                        "timestamp": 1728659856408
+                    }
+                ]
+            }
+        }
+    },
+    "myprivacy.dpgmedia.nl": {
+        "/": {
+            "authId": {
+                "name": "authId",
+                "domain": "myprivacy.dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659843542,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762355843.536505,
+                        "expiry": 33696000.536504984,
+                        "value": "077321e6-80c2-4107-a9cc-2f6c6a4e7a03",
+                        "same_site": "lax",
+                        "timestamp": 1728659843540
+                    }
+                ]
+            },
+            "xAuthId": {
+                "name": "xAuthId",
+                "domain": "myprivacy.dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659843539,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762355843.536407,
+                        "expiry": 33696000.536406994,
+                        "value": "077321e6-80c2-4107-a9cc-2f6c6a4e7a03",
+                        "same_site": "lax",
+                        "timestamp": 1728659843537
+                    }
+                ]
+            }
+        }
+    }
+}

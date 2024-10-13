@@ -1,0 +1,89 @@
+{
+    "mef.gov.it": {
+        "/": {
+            "_pk_id.wGpbLde0Yb.4d80": {
+                "name": "_pk_id.wGpbLde0Yb.4d80",
+                "domain": "www.mef.gov.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654860674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762610061,
+                        "expiry": 33955201,
+                        "value": "fbf259f4bcf43306.1728654861.",
+                        "same_site": "lax",
+                        "timestamp": 1728654860668
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955199,
+                        "value": "fbf259f4bcf43306.1728654861.",
+                        "same_site": "lax",
+                        "timestamp": 1728654862897
+                    }
+                ]
+            },
+            "_pk_ses.wGpbLde0Yb.4d80": {
+                "name": "_pk_ses.wGpbLde0Yb.4d80",
+                "domain": "www.mef.gov.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654860678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728656660,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728654860674
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728654862898
+                    }
+                ]
+            },
+            "cookieConsentMef": {
+                "name": "cookieConsentMef",
+                "domain": "www.mef.gov.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654862639,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744379662,
+                        "expiry": 15724800,
+                        "value": "19623a5f18000",
+                        "same_site": "lax",
+                        "timestamp": 1728654862638
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,647 @@
+{
+    "fgov.be": {
+        "/": {
+            "TS01ce6e16": {
+                "name": "TS01ce6e16",
+                "domain": ".fgov.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659483683,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d32615de2f66c8ab3fe995fec3874f327276fa9e2e0ac5f0643328dea1dcdeafd2e6c6895ae0fb50b8648e60e2da0e54026",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659483671
+                    }
+                ]
+            },
+            "TS86a07092029": {
+                "name": "TS86a07092029",
+                "domain": "fgov.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659483692,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728659513.668859,
+                        "expiry": 30.668859004974365,
+                        "value": "084c9d00c5ab28000e79d496504b1e3f9f174ab10b04141d19512344d48d0292e0c19545af99816dcb24218c1a8f9b6c",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659483685
+                    }
+                ]
+            },
+            "TSe569e346027": {
+                "name": "TSe569e346027",
+                "domain": "fgov.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659483694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2000c9fe710160acfb78c9c0c6669c45ed5c77e7caa334f2f895925d7a0a359ed6e80873668fa411300084f7d6b5ea1fb446560e452cdaa2590bc059d03f342277f44f1fb528d895c154301a3d7f54880cf4a37d3d83614dcf14",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659483693
+                    }
+                ]
+            }
+        }
+    },
+    "belgium.be": {
+        "/": {
+            "TS016a4e3d": {
+                "name": "TS016a4e3d",
+                "domain": ".www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659484500,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493473
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493494
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493510
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493510
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493529
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493703
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493706
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493707
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d2e30d3221f357d8e90288e1756b74896f78adf30e73127d2e19112e16ec6a01ee1b79f9e4d70226d34a61d41c2c8652403a3ed2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493986
+                    }
+                ]
+            },
+            "TS00000000074": {
+                "name": "TS00000000074",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659493894,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728745893,
+                        "expiry": 86400,
+                        "value": "084c9d00c5ab280027ef7f0035d5a5f2639218e31166a9785bd6aa706f478ce60aa5ceef24f0ed83c451408541a1235d085cfb020d07e000a4847a6cc144c11bd674768d17afb59b99bed9675c337e98cfb23b7ce4deb6e6eb5cf4148e505bc203b5912bb14a7756cdbbc644450ba85e243420231d0d5df8bc46de3b4fe9f05ebaf519a4485992ac36e870091f9d4fd32ac76f4f5806485aaa063e2df38e7410b564d9295f81a040a8506f1e8bea2bc501d4147327fa857fd5d4dcfa22a7ddc30754e20101e0d964892bef5413a0d68d28e0af3d57c51640ee6599243ae40b31a81d47172f63847dc8cf86b894ab0798857a948441bc99f5bbabe88da48406da5bb0a72b0b325379023fd2ee95a84e8fd0f130d0af2d36da",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493891
+                    }
+                ]
+            },
+            "TS00000000076": {
+                "name": "TS00000000076",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659493901,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab280027ef7f0035d5a5f2639218e31166a9785bd6aa706f478ce60aa5ceef24f0ed83c451408541a1235d085cfb020d09d0000f23e43c1c0bada35d743962cd694472703927f12b5386bfcec7b1dfd0a37fa9cfb41b046a40ab9f7eac6557c9e8d6e043cbaccbbbbbe52a30f5f68cf0382e80d188a948ebacb78943f7c7058e39cbf4092de00aab038d1c84bcd29cbe74a4dbbe414e0b06cb0eb570506a59ac17e1f372d833010d62c1dae1414b1d281e60c7f450e53241e7505772348e2f3ce6e7d999f0184a9f35a5df27ab25e532f0224eb3f1a0d9c60e12b4b3c4722e5f152a067c7fc88074f9fe1578dae928b3074db7543b19050f53d4603213d945fb6ae538",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493900
+                    }
+                ]
+            },
+            "TS86a07092029": {
+                "name": "TS86a07092029",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659484504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.18382501602173,
+                        "value": "084c9d00c5ab2800b0e28a9cea0f262a3420e299e188dde1e84e34bd016036885e362fbce66b2476c1c2d30c4713e494",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659488184
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.189155101776123,
+                        "value": "084c9d00c5ab2800c6b7630d71f445684b4fd269c18de7b98c10ac55bf833fe22b4a69039f05b68932d138932fdab26d",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659488189
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.367165088653564,
+                        "value": "084c9d00c5ab28004402be37269d966dad7f5535fbfe1c04f54ee9db944f35702bdc2ed77cb10155ad91187c24e467aa",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659488368
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.60260009765625,
+                        "value": "084c9d00c5ab2800c2db061b8775fa7142ea2d93d8b51eec2a2377e3aed814efa3fe37629afd5fe0a21fe95c0a609e60",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659488605
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.39606499671936,
+                        "value": "084c9d00c5ab280021bd40126eebd0b6c429c1c457c24b01260952151e6562aaa0c58ce6c50a01e1dc39f5cb5710b084",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659492404
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.638484001159668,
+                        "value": "084c9d00c5ab28007b238981b984ec04493ae459df7c58abb7a8dce7e3a0dab8afa79459c3fbd61e66fa791387149654",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659492639
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.855592012405396,
+                        "value": "084c9d00c5ab2800a5b63c8aca32531f13f521b6e29026f28f7a02864adb4ad13e53d2ed1ab8b319e4e467359ae0257a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659492856
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.892314910888672,
+                        "value": "084c9d00c5ab28000339f40a00313fc8db6fe6137b9d877634e561bfafe479d09f1e4dfb8e1d3ace960caddfe90eb84f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659492893
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.070033073425293,
+                        "value": "084c9d00c5ab28008b1e0655968de09eef967fd6fa12b09906237aac92b8f12402637a3b7259fa69648a5c5e004a90a6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493070
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.070094108581543,
+                        "value": "084c9d00c5ab28009c5882252336746e0c892a8f14a74acdaffab1b95bfa3b3dac7ef14e2b49187127b0d9283657a0f9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493072
+                    }
+                ]
+            },
+            "TS86a07092077": {
+                "name": "TS86a07092077",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659489157,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2800ca8328e256f2b12a5a60299487ac64bedefdeb795b82275476aa604da3578ddcd02eb37976af117808be8123c217200005963a6900bd2faf450c3faa988b72269fac30a5f57cb7ef68c9c62b4f7448b7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659489155
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2800ca8328e256f2b12a5a60299487ac64bedefdeb795b82275476aa604da3578ddcd02eb37976af117808be8123c217200052d9aeac2647c748450c3faa988b7226d0be492395e44f1cd268ef20a9438eeb",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659492407
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab28003c6f7022d5b819cd0bef0d6864163c7ba28c694c8dc06539ea288244b2b44e2434d758060445d4650827b69493172000067ab3bb5a75d8d6450c3faa988b722656f3feb982b78504fec180d1277557ab",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493770
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab28003c6f7022d5b819cd0bef0d6864163c7ba28c694c8dc06539ea288244b2b44e2434d758060445d4650827b69493172000213c1f2bb3f59639450c3faa988b722660b2cd042cb319ad4a8713f4f91a6794",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659494031
+                    }
+                ]
+            },
+            "TSPD_101": {
+                "name": "TSPD_101",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659495149,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab28000f12a8dc38b8ae8e8260df6f44d08d896d20b8054ac785baa75ae1bd9b8be3acaf0865ac714f410308cffeeee505180097fd1bc27a1fb73340414fe7f167e101000df29754710b1f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659495148
+                    }
+                ]
+            },
+            "TSPD_101_DID": {
+                "name": "TSPD_101_DID",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659494936,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab280027ef7f0035d5a5f2639218e31166a9785bd6aa706f478ce60aa5ceef24f0ed83c451408541a1235d085cfb020d0638001dfb16ff79a754418c5b2d2b10a2df95641c121ca2c3ab2340cb4ca1f57db8ab8816db92095022f8b311898d3120fb8f44fd62c459767167",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659494935
+                    }
+                ]
+            },
+            "TSe569e346027": {
+                "name": "TSe569e346027",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659484507,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2000d48dc3bb4cdaf5ba72c6a18300119008af99aa2782586c3241b8da229a389e2b085d157649113000b55cfd3fb007aa85db146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493495
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab200028fe2fd50f082f8a90b46d71a36bad0ebbcc6f37979cd5508ab303aac1b96d4608584f8963113000494a84f9677b79ccdb146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493510
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab200033816f685735bb0fc315714c407e6b8bc084c483e3680e715ae27acafcce368808e8f2eec4113000ad947916ac8cbe61db146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493511
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab200093993548becf4afd5ee24ced15936e1b57275afb3d08e705834ca928676cbc6f08011a96601130009605c9a9631de82adb146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493529
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2000ef555d88bf92007a9891cc8e3fead8bf996920ecb4e44dbeedf89985e91158a108f1f2290411300050e41589623b3a73db146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493703
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab20003703aa4fb9bfa1e746d0dffa2a3ae9bddf2ca7a6a54f6334d95ea3b4e34f24c908c2c08c27113000bdfa3ce04f280019db146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493706
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab200079144433875276d9a7d192c0e001ae84454cb95be744149f73956afb9c5b9f9608a2b471a4113000d048884215d74349db146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493709
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2000a040c805e7a4530cae88a0b6bc47c144b07b70b841394298be8f7bf63f4d101e08a8e4c5bd113000bea2c9a69d18f988db146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493978
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab20008f75b05cb06c4e8e645c4fb16f8441b9f61856781720c75331cfeaca3c059a1708bc161f66113000e708ed3d9f234fdbdb146778245f4324066f8870a3b7e20ed2f266aaad040a07e87a31d5f31d08d784db69a214ca5a2a",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493986
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab2000d957348d69ece845a92cf35db7c30791b71fd23af5f5b750764f5ea84e2a52ad08f0c18d46113000b7b4b9b7ec5833d467ea92cc90192223b9deb88db917aab436ae110001123ed350138cf8800ebffcfba311b4243afa3c",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659495150
+                    }
+                ]
+            },
+            "fedconsent": {
+                "name": "fedconsent",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659494030,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736435494,
+                        "expiry": 7776000,
+                        "value": "{\"essential\":true,\"functional\":true,\"matomo\":false}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659494028
+                    }
+                ]
+            },
+            "language": {
+                "name": "language",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659492398,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760141242.396004,
+                        "expiry": 31481750.39600396,
+                        "value": "nl",
+                        "same_site": "lax",
+                        "timestamp": 1728659492396
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": "www.belgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728659493895,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "084c9d00c5ab280027ef7f0035d5a5f2639218e31166a9785bd6aa706f478ce60aa5ceef24f0ed83c451408541a1235d085cfb020d091000ddbfe2243e0e0abfc111387b68dc5054",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493895
+                    }
+                ]
+            }
+        },
+        "/TSPD": {
+            "TS86a07092071": {
+                "name": "TS86a07092071",
+                "domain": "www.belgium.be",
+                "path": "/TSPD",
+                "current_label": 0,
+                "label_ts": 1728659494938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728659499,
+                        "expiry": 5,
+                        "value": "084c9d00c5ab280027ef7f0035d5a5f2639218e31166a9785bd6aa706f478ce60aa5ceef24f0ed83c451408541a1235d:085cfb020d04b000d67b861704cbec5947fe366d6a248b1bb4ad0b5c264e51ede0dd351fd0aaf6c9ee25641ad9540137d98847bc9fa173484f401e9a334bb1c5e49e82bca5956fea617b1dc74062521718904abeab9a0108d074dd050cb0646ed09c2d7c11b795b1d04030c74bc8422e0765a6e05fc1f8fde440ab2006b941222fd4e2eacca4378c72773a94e5e47b75950a77e396adfaec1a149c84fb98ec1ea7f6488653bf27f704ad1b833c9fa7fbb6170d78f1d34ab2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659494937
+                    }
+                ]
+            },
+            "TSURLCK_test": {
+                "name": "TSURLCK_test",
+                "domain": "www.belgium.be",
+                "path": "/TSPD",
+                "current_label": 1,
+                "label_ts": 1728659489159,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "test_cookie_support",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659489157
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "test_cookie_support",
+                        "same_site": "unspecified",
+                        "timestamp": 1728659493105
+                    }
+                ]
+            }
+        }
+    }
+}

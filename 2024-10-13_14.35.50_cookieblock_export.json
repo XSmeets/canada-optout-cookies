@@ -1,0 +1,603 @@
+{
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822941844,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729427741.842152,
+                        "expiry": 604800.8421521187,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941843
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762518941.842092,
+                        "expiry": 33696000.84209204,
+                        "value": "35268A8C8EDE664919419F9B8FE567C1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941842
+                    }
+                ]
+            }
+        }
+    },
+    "ct.pinterest.com": {
+        "/": {
+            "_pinterest_ct_ua": {
+                "name": "_pinterest_ct_ua",
+                "domain": ".ct.pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822942165,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760358942.163913,
+                        "expiry": 31536000.16391301,
+                        "value": "\"TWc9PSZlcGJuaklvcUhzbkxmZHQ0L3lYZmNTZ2d0alZJN0J0VTdxckNyUlB6S01lYVdwcU9oam43N1lMNDhJWHY1SFh3dVNGb2ZuVmdJd2dvYnFmY0s4OEFXckg4bHlRbTR5ODhmdUpCUzE2TFFacz0mUWx4bXRYOXBISDVZeUF2WDM1czEvSlptUnNVPQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822942164
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822941849,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728823841.848588,
+                        "expiry": 900.8485879898071,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941848
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.858216047287,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941858
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8825469017029,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941883
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.9314041137695,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941931
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.9329419136047,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941933
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941996,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760358941.994803,
+                        "expiry": 31536000.99480295,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941995
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.163826942,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822942164
+                    }
+                ]
+            }
+        }
+    },
+    "poshmark.com": {
+        "/": {
+            "G_ENABLED_IDPS": {
+                "name": "G_ENABLED_IDPS",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822941091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763382941.090701,
+                        "expiry": 34560000.0907011,
+                        "value": "google",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941091
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941408,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736598941,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728822941406.272033017877336135",
+                        "same_site": "lax",
+                        "timestamp": 1728822941407
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728822941362,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763382941.358666,
+                        "expiry": 34560000.35866594,
+                        "value": "GA1.1.1231632221.1728822941",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941361
+                    }
+                ]
+            },
+            "_ga_S34VRNNVTV": {
+                "name": "_ga_S34VRNNVTV",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728822941360,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763382941.358245,
+                        "expiry": 34560000.358244896,
+                        "value": "GS1.1.1728822941.1.0.1728822941.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941359
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.37578106,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941376
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.37613106,
+                        "value": "GS1.1.1728822941.1.0.1728822941.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941377
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822939762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736598939,
+                        "expiry": 7776000,
+                        "value": "1.1.1704680718.1728822940",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822939761
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775999,
+                        "value": "1.1.1704680718.1728822940",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941243
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775999,
+                        "value": "1.1.1704680718.1728822940",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941387
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941998,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760358941,
+                        "expiry": 31536000,
+                        "value": "dWlkPVpXRm1NMlkzTW1RdE9URmpaaTAwTXpBMkxUaGlOakF0Wm1JeVpEazBPVEJoTXpGaw",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941998
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941684,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728909341,
+                        "expiry": 86400,
+                        "value": "a8b082f0895f11ef9e938fbbd1abb5a6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941681
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".poshmark.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941687,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762518941,
+                        "expiry": 33696000,
+                        "value": "a8b085d0895f11ef9438e3a87ae25d55",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822941685
+                    }
+                ]
+            },
+            "_csrf": {
+                "name": "_csrf",
+                "domain": "poshmark.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822937480,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "noVKS5U-hGWHO3uYeIXwAWvd",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822937474
+                    }
+                ]
+            },
+            "_dd_s": {
+                "name": "_dd_s",
+                "domain": "poshmark.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728822938764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728823838,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1728823838762",
+                        "same_site": "strict",
+                        "timestamp": 1728822938763
+                    }
+                ]
+            },
+            "dd_cookie_test_fe2637d3-b8d9-42bd-ad2c-31aa009bb565": {
+                "name": "dd_cookie_test_fe2637d3-b8d9-42bd-ad2c-31aa009bb565",
+                "domain": "poshmark.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822938762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728822939,
+                        "expiry": 1,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1728822938762
+                    }
+                ]
+            },
+            "ps": {
+                "name": "ps",
+                "domain": "poshmark.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822937473,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763382937.459153,
+                        "expiry": 34560000.45915294,
+                        "value": "%7B%22bid%22%3A%22670bbe999c55220008a38328%22%2C%22extvid%22%3A%22ext1%3A37eb0e5a-ac0c-4564-a464-b5183f80d188%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822937467
+                    }
+                ]
+            },
+            "rt": {
+                "name": "rt",
+                "domain": "poshmark.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822938930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763382938.928731,
+                        "expiry": 34560000.928730965,
+                        "value": "%7B%22src%22%3A%5B%7B%22rf%22%3A%22%22%2C%22lpu%22%3A%22%2F%22%2C%22lpt%22%3A%22Home%22%2C%22rs%22%3Anull%2C%22ca%22%3A%222024-10-13T12%3A35%3A38.928Z%22%7D%5D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728822938929
+                    }
+                ]
+            },
+            "vsegv3": {
+                "name": "vsegv3",
+                "domain": "poshmark.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728822937481,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763382937.459344,
+                        "expiry": 34560000.45934391,
+                        "value": "eyJsMDEiOiIwODYiLCJsMDIiOiIwMzUiLCJsMDMiOiIwODciLCJsMDQiOiIwNTUiLCJsMDUiOiIwMzQiLCJsMDYiOiIwNDYiLCJsMDciOiIwMzAiLCJsMDgiOiIwMjQifQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728822937480
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760358940.861058,
+                        "expiry": 31535999.861057997,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941862
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760358941.860965,
+                        "expiry": 31536000.860965014,
+                        "value": "9ac83d0c-e3aa-4d63-841f-1afcbdfa35bf-tucte05441d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941861
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728822941862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760358941.860993,
+                        "expiry": 31536000.86099291,
+                        "value": "9ac83d0c-e3aa-4d63-841f-1afcbdfa35bf-tucte05441d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941862
+                    }
+                ]
+            }
+        },
+        "/poshmarkinc-sccnx/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/poshmarkinc-sccnx/",
+                "current_label": 0,
+                "label_ts": 1728822941864,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_72eb2e7c7383a36a9b1b6df4122cce2a_9ac83d0c-e3aa-4d63-841f-1afcbdfa35bf-tucte05441d_1728822941_1728822941_CNawjgYQm_tWGMaugq-oMiABKAEwJjiJ6AdA2e8HSOq43ANQ____________AVgAYABo08PDtdmU4-6jAXABgAEA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728822941863
+                    }
+                ]
+            }
+        }
+    }
+}

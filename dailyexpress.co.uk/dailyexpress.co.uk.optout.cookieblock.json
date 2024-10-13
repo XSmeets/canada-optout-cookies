@@ -1,0 +1,1715 @@
+{
+    "ad.gt": {
+        "/": {
+            "au_3p_check": {
+                "name": "au_3p_check",
+                "domain": ".ad.gt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739092543,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092543
+                    }
+                ]
+            },
+            "au_id": {
+                "name": "au_id",
+                "domain": ".ad.gt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275093.250114,
+                        "expiry": 31536000.250113964,
+                        "value": "AU1D-0100-001728739093-DXKB4OLY-RI3L",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093250
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092980,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736515092.979183,
+                        "expiry": 7776000.979182959,
+                        "value": "nimoGtxYTxKMPE5PsdkCT0ZZ6-S0tsUdrg4XFeVX8I-IWjyxznwMWXp1Sy6sVg730ByU42ZIoXcDax58kv52Aa9PkTrY8OLSthmbdOkQ5oI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092979
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.164525986,
+                        "value": "nimoGtxYTxKMPE5PsdkCT0ZZ6-S0tsUdrg4XFeVX8I-IWjyxznwMWXp1Sy6sVg730ByU42ZIoXcDax58kv52Aa9PkTrY8OLSthmbdOkQ5oI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093165
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763299092.979281,
+                        "expiry": 34560000.97928095,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.1645751,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093165
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736515092.979333,
+                        "expiry": 7776000.979332924,
+                        "value": "3948519008233724394",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.164594889,
+                        "value": "3948519008233724394",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093165
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092996,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.994564,
+                        "expiry": 31536000.994564056,
+                        "value": "CAEYBSgCMgsIto-A5eGytT0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092995
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.132889986,
+                        "value": "CAEYBSABKAIyCwi2j4Dl4bK1PRAFOAE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.395286083,
+                        "value": "CAESFAoFdGFwYWQSCwiE3-O7y7K1PRAFGAEgASgCMgsImtXm6OGytT0QBTgBWgV0YXBhZGAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093396
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092995,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.994462,
+                        "expiry": 31536000.994462013,
+                        "value": "0887d7c8-aa36-4f4f-a670-f98e98685a86",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092995
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.132745028,
+                        "value": "0887d7c8-aa36-4f4f-a670-f98e98685a86",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.395176888,
+                        "value": "0887d7c8-aa36-4f4f-a670-f98e98685a86",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093396
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739089418,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275089.417169,
+                        "expiry": 31536000.417169094,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739089417
+                    }
+                ]
+            }
+        }
+    },
+    "cootlogix.com": {
+        "/": {
+            "vdz_sync": {
+                "name": "vdz_sync",
+                "domain": ".cootlogix.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739089387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.159168005,
+                        "value": "e8ab0b4a-77c8-7ebd-c3fe-592594f38c3f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090159
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1641180515,
+                        "value": "965ebc42-ae62-bb1c-4432-42628b7e8f4c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090165
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.272423029,
+                        "value": "85addc97-bba1-f6a5-1b64-44a3118813c2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090273
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.2856099606,
+                        "value": "4a2e410f-6dcb-34ff-ef2f-16ff93c698f2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090286
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.349841118,
+                        "value": "4bd94778-5776-9128-f078-262def71b03d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090357
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.381230116,
+                        "value": "886b7bb8-f7e9-2ab8-9a0c-f2d6dbc1e985",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090387
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.474873066,
+                        "value": "f1424618-fec0-9d03-12f7-bd204ff98d4c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090476
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.5450758934,
+                        "value": "341f8c0d-6a00-0166-87ac-af711755278e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090545
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.6362240314,
+                        "value": "f772e411-946a-e475-d6ee-c20f928a32aa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.2472310066,
+                        "value": "41c59a2b-a36c-f3f6-7c34-4b99092de677",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739091600
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763299092.889813,
+                        "expiry": 34560000.88981295,
+                        "value": "AHWqTUniLSgYOS2DOQfBkIQ3uRrkcExm6gRacuGxradnotHaQrPZzBdp-LNIwmd1e3s",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092890
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739992.735937,
+                        "expiry": 900.7359371185303,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092736
+                    }
+                ]
+            }
+        }
+    },
+    "express.co.uk": {
+        "/": {
+            "_au_1d": {
+                "name": "_au_1d",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.556869,
+                        "expiry": 31536000.55686903,
+                        "value": "AU1D-0100-001728739093-DXKB4OLY-RI3L",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092562
+                    }
+                ]
+            },
+            "_au_last_seen_iab_tcf": {
+                "name": "_au_last_seen_iab_tcf",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760275093.160845,
+                        "expiry": 31536000.16084504,
+                        "value": "1728739093160",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739093161
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739089011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762867089,
+                        "expiry": 34128000,
+                        "value": "JhJcRBKIdPQB1GnrV",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089010
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739089013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740889,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089013
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089015
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739094021
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739088900,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088900
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088901
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089006
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089007
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739094019
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728739089011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762867089,
+                        "expiry": 34128000,
+                        "value": ".1728739089008.1728739089008.1.BqX2aIB0MXPEBYmNSMDd4YCOCfW_Jz.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089011
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728739095492,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739155,
+                        "expiry": 60,
+                        "value": "t=NkhLvBl5-tHDm2H4ZcjVMDC8eMTy&E=1&x=0&c=0.11&y=17239&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739095491
+                    }
+                ]
+            },
+            "_dlt": {
+                "name": "_dlt",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739088392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825488,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088391
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728739093394,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763299093.393803,
+                        "expiry": 34560000.39380288,
+                        "value": "GA1.3.2087337403.1728739093",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739093394
+                    }
+                ]
+            },
+            "_gd1728739088351_sharedId": {
+                "name": "_gd1728739088351_sharedId",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739088358,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088357
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728739093395,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825493,
+                        "expiry": 86400,
+                        "value": "GA1.3.3322594.1728739093",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739093395
+                    }
+                ]
+            },
+            "_rdc1728739088857": {
+                "name": "_rdc1728739088857",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739088859,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728739098,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1728739088858
+                    }
+                ]
+            },
+            "_sharedid": {
+                "name": "_sharedid",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739088352,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760275088,
+                        "expiry": 31536000,
+                        "value": "88201f6c-45e1-4e08-948a-6052003d9fbc",
+                        "same_site": "lax",
+                        "timestamp": 1728739088351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "88201f6c-45e1-4e08-948a-6052003d9fbc",
+                        "same_site": "lax",
+                        "timestamp": 1728739088358
+                    }
+                ]
+            },
+            "_sharedid_cst": {
+                "name": "_sharedid_cst",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739088353,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760275088,
+                        "expiry": 31536000,
+                        "value": "kCyXLDMsOQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728739088352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "kCyXLDMsOQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728739088359
+                    }
+                ]
+            },
+            "_v__cb_cp": {
+                "name": "_v__cb_cp",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739095494,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739155,
+                        "expiry": 60,
+                        "value": "D0pNkrDmdBgsCKKEYuD2duWGfU3BE",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739095493
+                    }
+                ]
+            },
+            "_v__chartbeat3": {
+                "name": "_v__chartbeat3",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739094020,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762867094,
+                        "expiry": 34128000,
+                        "value": "DX60aD1AliZFhHCN",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739094019
+                    }
+                ]
+            },
+            "lotame_domain_check": {
+                "name": "lotame_domain_check",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739091749,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728739101,
+                        "expiry": 10,
+                        "value": "express.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728739091748
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739089165,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739089165
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739091750,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825492,
+                        "expiry": 86401,
+                        "value": "1728825491786",
+                        "same_site": "lax",
+                        "timestamp": 1728739091749
+                    }
+                ]
+            },
+            "_gd1728739088348_sharedId": {
+                "name": "_gd1728739088348_sharedId",
+                "domain": ".www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739088349,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088350
+                    }
+                ]
+            },
+            "addtl_consent": {
+                "name": "addtl_consent",
+                "domain": ".www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739088324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762435088.317018,
+                        "expiry": 33696000.31701803,
+                        "value": "1~",
+                        "same_site": "lax",
+                        "timestamp": 1728739088322
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739088322,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762435088.316918,
+                        "expiry": 33696000.316917896,
+                        "value": "CQGYVgAQGYVgAAKA3DENBLFgAAAAAAAAAAwIAAAU1gJAA4AM-AjwBKoDfAHbAO5AgoBIgCSgEowJkgTSAn2BRQCi0FGgUcApqAMEgwgAIAAXABQAFQAOAAeABBAC8ANQAeABEACYAFUAN4AegA_ACEgEMARIAjgBLACaAGAAMOAZQBlgDZAHPAO4A74B7AHxAPsA_YB_gIAARSAi4CMAEagJEAksBPwFBgKgAq4BcwC9AGKANEAbQA3ABxAEOwI9AkUBOwChwFHgKRAU2AtgBd4C8wGGwMjAyQBk4DLgGZgM5gauBrIDYwG0ANvAbmA3UBwQDkwHLgPHAe0A_4CCYEGAIQwQtBC-CHoIfwR9BH8CRQEkIJMAkyBLMCW4EvgJgQTLBMwCZwE1QJuATmAnSBO4CeEFBwUIAoWBRUCkoFLgKeAVAJQPgAEAALAAoABwAHgARAAmABVAC4AGKAQwBEgCOAFGAMAAbIA7wB-QFRAVcAuYBigDqAIQAQ6AiYBF8CPQJFAUeApOBTQFNgLFAWwAvOBkYGSAMnAZYAzkBrADbwHtAQBAgeBBgCEIEPQI-gSKAkgBJUCXQEvoJlgmYBM4CaoE3AJwgTmAncBPACeYFFQKSgUuHQdwAFwAUABUADgAIIAXABqADwAIgATAApgBVgC4ALoAYgA3gB6AD9AIYAiQBLACaAE4AKMAYAAwwBlADRAGyAOeAdwB3wD2APiAfYB-gD_gIoAjEBHQElgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIQAQ6AicBF8CPQJFATIAnYBQ8CjwKQAUnApoCmwFWALFgWwBbIC3QFwALtAXeAvMBfQDDQGPQMjAyQBk4DKoGWAZcAzMBnIDTQGqwNXA1gBtADbwG6gOLAcmA5cB44DyQHtAPrAfcA_sB_wEAQIMAQtAh0BD2CPoI_gSKAkgBJmCWYJaAS6Al8BMACZgEzgJqgTcAm8BOECcwE6YJ2gncBPACeYFAAKDAULAokBRUCkoFLgKeEIGoACwAKAAuABqAFUALgAYgA3gB6AEcAMAAc8A7gDvAH-ARQAlIBQYCogKuAXMAxQBtADqAInAR6ApOBTQFNgKsAWKAtEBcADIwGTgM5AaqA8cB_YEGAIUAQtAh0BD0CRQEkAJdATOAnMBO4CeAE8wKDAUVApKBS4pBcAAXABQAFQAOAAggBkAGgAPAAiABMACkAFUAMQAfoBDAESAKMAYAAygBogDZAHOAO-AfYB-gEWAIxAR0BJQCgwFRAVcAuYBeQDFAG0ANwAdQA9oB9gEOwImAicBF8CPQJFATsAocBSACk4FNAU2AqwBYoC2AFwALtAXmAvoBhsDIwMkAZPAywDLgGcwNYA1kBt4DdQHBAOTAeKA8cB7QD-wH_AQTAgwBCECFoEM4Icgh1BH0EfwJFASQgkwCTIEswJdAS-AmABMwCZwE1QJvATmAncBPACeYFCwKKgUlApcBTwtASABqAMAAdwBegD7AKHgU0BTYCrAGZgPHAh6BMwCbgE5gJ3ATwApIBS4AA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728739088317
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": ".www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739082776,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762435082.775205,
+                        "expiry": 33696000.7752049,
+                        "value": "1---",
+                        "same_site": "lax",
+                        "timestamp": 1728739082775
+                    }
+                ]
+            },
+            "X-Experiment": {
+                "name": "X-Experiment",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739080653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1737379080.643722,
+                        "expiry": 8640000.643722057,
+                        "value": "C",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739080644
+                    }
+                ]
+            },
+            "_lr_env_src_ats": {
+                "name": "_lr_env_src_ats",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739088356,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731331088,
+                        "expiry": 2592000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088355
+                    }
+                ]
+            },
+            "_lr_geo_location": {
+                "name": "_lr_geo_location",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739090661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825490.659556,
+                        "expiry": 86400.65955591202,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739090661
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.78348898888,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739090784
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.90447402,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739090905
+                    }
+                ]
+            },
+            "_lr_geo_location_state": {
+                "name": "_lr_geo_location_state",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739090660,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825490.659512,
+                        "expiry": 86400.659512043,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739090660
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.7834379673,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739090783
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.90442609787,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739090905
+                    }
+                ]
+            },
+            "_lr_retry_request": {
+                "name": "_lr_retry_request",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739088355,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728742688,
+                        "expiry": 3600,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739088355
+                    }
+                ]
+            },
+            "_lr_sampling_rate": {
+                "name": "_lr_sampling_rate",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739094372,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825494,
+                        "expiry": 86400,
+                        "value": "100",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739094371
+                    }
+                ]
+            },
+            "amplitudeid": {
+                "name": "amplitudeid",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728739088336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763299088.335442,
+                        "expiry": 34560000.335442066,
+                        "value": "AMPL.3.2706234447.1728739088",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739088336
+                    }
+                ]
+            },
+            "testcookie": {
+                "name": "testcookie",
+                "domain": "www.express.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739081885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1728739081885
+                    }
+                ]
+            }
+        }
+    },
+    "gumgum.com": {
+        "/": {
+            "cs": {
+                "name": "cs",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739089411,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275089.409924,
+                        "expiry": 31536000.40992403,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739089410
+                    }
+                ]
+            },
+            "vst": {
+                "name": "vst",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739089412,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275089.409967,
+                        "expiry": 31536000.409966946,
+                        "value": "u_d7dda52a-ba27-4f81-bf4d-c2ffa71e1553",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739089411
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739095440,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739395.439373,
+                        "expiry": 300.4393730163574,
+                        "value": "7be0dcd1-87c2-72e0-a8ce-c46e951c06d1#1728739095445#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739095439
+                    }
+                ]
+            }
+        }
+    },
+    "lijit.com": {
+        "/": {
+            "ljt_reader": {
+                "name": "ljt_reader",
+                "domain": ".lijit.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092538,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.278535,
+                        "expiry": 31536000.27853489,
+                        "value": "Je_eASZHdLOaWqzfSjKLvPZ1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092537
+                    }
+                ]
+            }
+        }
+    },
+    "pubmatic.com": {
+        "/": {
+            "KADUSERCOOKIE": {
+                "name": "KADUSERCOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093391,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275093.39049,
+                        "expiry": 31536000.390490055,
+                        "value": "84650E8C-C213-4241-B60D-FE8E7C463DD3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093390
+                    }
+                ]
+            },
+            "KTPCACOOKIE": {
+                "name": "KTPCACOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739093215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736515093.214769,
+                        "expiry": 7776000.214768887,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093215
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739092990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.986671,
+                        "expiry": 31536000.98667097,
+                        "value": "1|AvsOCxpbhmOpEdxsvqVGm/82IIMRAiENiGkhovKYwQMk2fEFp+x+tJeqDEpcLHOpTpyEfareaQzyUhTWCqUS/Pv31DA4fHDqMp0HTDw5gZ7V/IjBlWfcnf3fySjU2FHYpTSTKLFVWY0WPHkaRxwIN1Lr3i16qigEYPDxny9O7hNPVHjylZIeXNAPlTu0R9RN",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092990
+                    }
+                ]
+            },
+            "audit_p": {
+                "name": "audit_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739092988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.986584,
+                        "expiry": 31536000.986583948,
+                        "value": "1|AvsOCxpbhmOpEdxsvqVGm/82IIMRAiENiGkhovKYwQMk2fEFp+x+tJeqDEpcLHOpTpyEfareaQzyUhTWCqUS/Pv31DA4fHDqMp0HTDw5gZ7V/IjBlWfcnf3fySjU2FHYpTSTKLFVWY0WPHkaRxwIN1Lr3i16qigEYPDxny9O7hNPVHjylZIeXNAPlTu0R9RN",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092987
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092989,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.986625,
+                        "expiry": 31536000.986624956,
+                        "value": "M266MD5Z-1Z-640A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092988
+                    }
+                ]
+            },
+            "khaos_p": {
+                "name": "khaos_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739092990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275092.986657,
+                        "expiry": 31536000.986656904,
+                        "value": "M266MD5Z-1Z-640A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739092989
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739093658,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275093.657148,
+                        "expiry": 31536000.657147884,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093657
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093658,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275093.657175,
+                        "expiry": 31536000.657175064,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093658
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275093.792732,
+                        "expiry": 31536000.792732,
+                        "value": "5762087550401404661",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093793
+                    }
+                ]
+            }
+        }
+    },
+    "tapad.com": {
+        "/": {
+            "TapAd_3WAY_SYNCS": {
+                "name": "TapAd_3WAY_SYNCS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093258,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733923093.257269,
+                        "expiry": 5184000.257268906,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.550435066,
+                        "value": "1!6877",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093551
+                    }
+                ]
+            },
+            "TapAd_DID": {
+                "name": "TapAd_DID",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093102,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733923093.100527,
+                        "expiry": 5184000.100527048,
+                        "value": "2ede7939-c092-49ee-98cd-b979ca9f3153",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093101
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.257249117,
+                        "value": "2ede7939-c092-49ee-98cd-b979ca9f3153",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.550414085,
+                        "value": "2ede7939-c092-49ee-98cd-b979ca9f3153",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093551
+                    }
+                ]
+            },
+            "TapAd_TS": {
+                "name": "TapAd_TS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093101,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733923093.100484,
+                        "expiry": 5184000.100483894,
+                        "value": "1728739093136",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093101
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.257190943,
+                        "value": "1728739093136",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.550369024,
+                        "value": "1728739093136",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093550
+                    }
+                ]
+            }
+        }
+    },
+    "the-ozone-project.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".the-ozone-project.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739090287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740890.287232,
+                        "expiry": 1800.2872319221497,
+                        "value": "w3Wg4D_U7ZcRiDdqhW5eSa4iuzpXzjm.TCmlCWyHmG8-1728739090-1.0.1.1-KzSXUET8x1zY8Na_U1QnGejsa5yIkWK06SgwDsr.tAroHHTdFgFtnsVHRRMLqMDYRQy1_nHS7Ei5HX4t5ou2Cg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739090287
+                    }
+                ]
+            },
+            "ozone_uid": {
+                "name": "ozone_uid",
+                "domain": ".the-ozone-project.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739095220,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736515095.219051,
+                        "expiry": 7776000.219050884,
+                        "value": "2nL4bgyR2On4ALkDoQPOp0LgMQ2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739095219
+                    }
+                ]
+            }
+        }
+    },
+    "turn.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".turn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739093781,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744291094.68541,
+                        "expiry": 15552001.685410023,
+                        "value": "7799967874836549111",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739093781
+                    }
+                ]
+            }
+        }
+    },
+    "dailyexpress.co.uk": {
+        "/": {
+            "X-Experiment": {
+                "name": "X-Experiment",
+                "domain": "dailyexpress.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739079767,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1737379079.755698,
+                        "expiry": 8640000.755697966,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739079757
+                    }
+                ]
+            }
+        }
+    }
+}

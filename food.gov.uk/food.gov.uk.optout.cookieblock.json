@@ -1,0 +1,89 @@
+{
+    "food.gov.uk": {
+        "/": {
+            "SSESS1ef60337e5852c76517587a668495ee5": {
+                "name": "SSESS1ef60337e5852c76517587a668495ee5",
+                "domain": ".www.food.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742665530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728915465.525896,
+                        "expiry": 172800.5258960724,
+                        "value": "Z7G1tnTHXHZFMzUJyWHWguBAHXDJ0XDquoEmopKkIKgofUSH",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742665527
+                    }
+                ]
+            },
+            "cookie_preferences": {
+                "name": "cookie_preferences",
+                "domain": ".www.food.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742662904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760278662.893061,
+                        "expiry": 31536000.893060923,
+                        "value": "%7B%22analytics%22%3A%22no%22%2C%22third_party%22%3A%22no%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728742662894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"third_party\":\"yes\",\"analytics\":\"yes\"}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742664806
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.525810957,
+                        "value": "%7B%22analytics%22%3A%22no%22%2C%22third_party%22%3A%22no%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728742665526
+                    }
+                ]
+            },
+            "cookieconsent_dismissed": {
+                "name": "cookieconsent_dismissed",
+                "domain": ".www.food.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742664812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760278664,
+                        "expiry": 31536000,
+                        "value": "yes",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742664807
+                    }
+                ]
+            }
+        }
+    }
+}

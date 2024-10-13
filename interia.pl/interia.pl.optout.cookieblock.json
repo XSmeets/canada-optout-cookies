@@ -1,0 +1,565 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641928387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642828.384559,
+                        "expiry": 900.3845589160919,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641928385
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641944183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744453144.182397,
+                        "expiry": 15811200.182396889,
+                        "value": "518=q4cKrG-ff7TTxCTobBK0pz0Nit5Dusd8FpMMcpxs7ODM2Kr8T3HCbebPQPLVgewC7htfSAcbD6isCl3xFuLgDIqTgnd3r7u2HwS1KPZbLOVAonqHl6fXxwcoF7v4ku1Hhbaf-GyFNu0r-D52cBGIwT26eQvQT0nduj05_Vf8go0e5qMv9w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641944183
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641930012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769930.009863,
+                        "expiry": 34128000.0098629,
+                        "value": "KlGDlMaGQMQGrBGllR6fx2MUssGMe1gcL6nxmGtRZaHLQLnnGsRPtP7iGKGGqQ0EgGlsle82syRPgS4THFSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641930010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.62987995,
+                        "value": "KlSL5MMGQMQGrBGllR6fx2MUssGMk1gcL6nxmGtRZaHLQLnnGsRPeeHiGKGGqQ0EgGlsle82syRPgSVgRMSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641947630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.89653492,
+                        "value": "KlGTFRaGQMQGrBGllR6fx2MUssGME1gcL6nxmGtRZaHLQLnnGsRPeeHiGKGGqQ0EgGlsle82syRPgSVgEMSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641948897
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641929789,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769929.786994,
+                        "expiry": 34128000.78699398,
+                        "value": "PaZg9OKIkzb2norKnEdc.NMDZqhSwTqTAL5Lx4UYr3v.z7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641929788
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00988603,
+                        "value": "xZO64spqp2KUqkroXvj3mCSUiSsCVSkB.McZsbMtBZ3.S7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641930012
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.62993193,
+                        "value": "OwxniImGaoN42t0O44tfAQFJ9HxWSGK9tkWeOAD8Elj.a7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641947630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.896565914,
+                        "value": "E87HpG8K8tyj8xDw4sOodv8a_43ADyvIuMCUbYOPWsv.F7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641948897
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641929788,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246729.786964,
+                        "expiry": 604800.7869639397,
+                        "value": "KlxunMGGQMQGrBGllR6fx2MUssGMXP8c25nSGAg9ltQn6j1UsG..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641929788
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641929788,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769929.786892,
+                        "expiry": 34128000.78689194,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641929787
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00974393,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641930010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.62979889,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641947630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.89647794,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641948896
+                    }
+                ]
+            }
+        }
+    },
+    "hit.interia.pl": {
+        "/": {
+            "__u_vid_iwa2": {
+                "name": "__u_vid_iwa2",
+                "domain": ".hit.interia.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641927984,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201927.982283,
+                        "expiry": 34560000.982283115,
+                        "value": "91b8f0fd-346a-45b5-8ccf-e50f3caeb1fc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641927982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.534845114,
+                        "value": "91b8f0fd-346a-45b5-8ccf-e50f3caeb1fc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641947535
+                    }
+                ]
+            }
+        }
+    },
+    "interia.pl": {
+        "/": {
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".interia.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641929500,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762769929,
+                        "expiry": 34128000,
+                        "value": "F0K1LPqacGdvQH1UGgcp7PGY9FA0XVR1R83gj5iha6b.77|1728641929|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641929499
+                    }
+                ]
+            },
+            "__iwa_dvid": {
+                "name": "__iwa_dvid",
+                "domain": ".interia.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641928008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201928.007406,
+                        "expiry": 34560000.007406,
+                        "value": "195130f7-b006-46b0-80c0-5afde38c3e27$IWAStorageItem$",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641928007
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".interia.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641927998,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201927.996278,
+                        "expiry": 34560000.99627805,
+                        "value": "GA1.1.1368001769.1728641928",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641927998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.412224054,
+                        "value": "GA1.1.1368001769.1728641928",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641947413
+                    }
+                ]
+            },
+            "_ga_KTT130KQ7K": {
+                "name": "_ga_KTT130KQ7K",
+                "domain": ".interia.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641927997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201927.99575,
+                        "expiry": 34560000.99574995,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641927996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.99590206,
+                        "value": "GS1.1.1728641927.1.0.1728641927.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641927998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.284379005,
+                        "value": "GS1.1.1728641927.1.1.1728641947.40.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641947284
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.41210294,
+                        "value": "GS1.1.1728641927.1.1.1728641947.40.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641947412
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.20443106,
+                        "value": "GS1.1.1728641927.1.1.1728641954.33.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641954205
+                    }
+                ]
+            },
+            "inpl_mobile": {
+                "name": "inpl_mobile",
+                "domain": ".interia.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641925974,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728901925.961249,
+                        "expiry": 260000.96124911308,
+                        "value": "d",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641925964
+                    }
+                ]
+            },
+            "inplrd": {
+                "name": "inplrd",
+                "domain": ".interia.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641945455,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729851545,
+                        "expiry": 1209600,
+                        "value": "{\"v\":\"4\",\"d\":1728641945426,\"tcf\":\"CQGVCkAQGVCkADnACAENBGFgAAAAAAAAAB5YKaNV_G__bWlr8X73aftkeY1P9_h77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIAu3bBIQNlGJDUTVCgaogVryDMak2coTNKJ6BkiFMRO2dYCF5vm4tj-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA5-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wU1AJMNCogDLIkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABRkACAAASABCIAIACgQAAQCBQABgAQDAQAMDAAGACwEAgABAdAxTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8CiAREwUAAAJABWAAICwWBxJICViQQJcQbQAAEACAQQAVCKTswBBAGbLUXiybRlaYFo-YLntMAyQAA.YAAAAAAAAAAA\"}",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641945450
+                    }
+                ]
+            },
+            "_iwa_vid": {
+                "name": "_iwa_vid",
+                "domain": ".www.interia.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641927930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201927.928848,
+                        "expiry": 34560000.92884803,
+                        "value": "5f9e6deb-f301-470d-b227-7f5aac917d43$IWAStorageItem$",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641927929
+                    }
+                ]
+            },
+            "_iwa_vid_main": {
+                "name": "_iwa_vid_main",
+                "domain": "www.interia.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641927932,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201927.929126,
+                        "expiry": 34560000.929126024,
+                        "value": "5f9e6deb-f301-470d-b227-7f5aac917d43",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641927931
+                    }
+                ]
+            },
+            "extraCapping": {
+                "name": "extraCapping",
+                "domain": "www.interia.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641926977,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729246726,
+                        "expiry": 604800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641926969
+                    }
+                ]
+            }
+        }
+    },
+    "nsaudience.pl": {
+        "/": {
+            "ucUdTwixw-Jqk": {
+                "name": "ucUdTwixw-Jqk",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641948717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642008.715145,
+                        "expiry": 60.715145111083984,
+                        "value": "mi1927b16dc6e5ba3d0a3a8866503",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641948715
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641948920,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177948.919646,
+                        "expiry": 31536000.919646025,
+                        "value": "mi1927b16dc6e5ba3d0a3a8866503",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641948920
+                    }
+                ]
+            },
+            "ut": {
+                "name": "ut",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641948921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177948.919691,
+                        "expiry": 31536000.919691086,
+                        "value": "1728641948985",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641948920
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "38degrees.org.uk": {
+        "/": {
+            "CookieControl": {
+                "name": "CookieControl",
+                "domain": ".38degrees.org.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742398366,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736521998,
+                        "expiry": 7779600,
+                        "value": "{\"necessaryCookies\":[\"CookieControl\",\"rack.session\",\"_rack_session\",\"connect.sid\",\"_agra_session\",\"ipp_key\",\"ipp_uid\",\"ipp_uid1\",\"ipp_uid2\",\"_cflb\",\"_cf_bm\",\"_cfduid\",\"_GRECAPTCHA\",\"guid\"],\"optionalCookies\":{\"analytics-marketing\":\"revoked\"},\"statement\":{\"shown\":true,\"updated\":\"27/04/2021\"},\"consentDate\":1728742398355,\"consentExpiry\":90,\"interactedWith\":true,\"user\":\"DF5E778A-57AA-4A5D-90F6-966060800B77\"}",
+                        "same_site": "lax",
+                        "timestamp": 1728742398358
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "impots.gouv.fr": {
+        "/": {
+            "etuix": {
+                "name": "etuix",
+                "domain": ".impots.gouv.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728653593636,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762608793.622105,
+                        "expiry": 33955200.62210488,
+                        "value": "k1I4tQQqpfJsV7JV1c6VggI6zAzpV5NFl.fl6hbuCF7mQ7bdgXBMIA--",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653593625
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,827 @@
+{
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654259492,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190259.490903,
+                        "expiry": 31536000.4909029,
+                        "value": "9k2vf0v12ttq2sgoc85jbmrch",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259491
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.622066975,
+                        "value": "cx:n45jqnl4hhyz29420a7q44od6:46kvmrsyjm3r",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259622
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.873532057,
+                        "value": "9k2vf0v12ttq2sgoc85jbmrch",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259874
+                    }
+                ]
+            }
+        }
+    },
+    "elespanol.com": {
+        "/": {
+            "___iat_ses": {
+                "name": "___iat_ses",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654256423,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728656056,
+                        "expiry": 1800,
+                        "value": "6B781563CE578E20",
+                        "same_site": "lax",
+                        "timestamp": 1728654256421
+                    }
+                ]
+            },
+            "__pat": {
+                "name": "__pat",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654257396,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731249857,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728654257395
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654257397,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728740657,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTI0czQxOHA0emtsMGFxdyIsImRvbWFpbiI6Ii5lbGVzcGFub2wuY29tIiwidGltZSI6MTcyODY1NDI1NzM5NH0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728654257396
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654257394,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214257.393086,
+                        "expiry": 34560000.39308596,
+                        "value": "%7Bkpex%7DtL3HJhs2vVWAqDMV3VETf29c-nmnwvNm1ddHvUHZ4udtp_bXkiR1Iu_diLd8bRb4",
+                        "same_site": "lax",
+                        "timestamp": 1728654257393
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654256942,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728654286,
+                        "expiry": 30,
+                        "value": "m24s417vf67vot",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654256940
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s418edag1s7",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654256959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s418f6l5hw5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654256960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s418n8wd6p0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654256969
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s41khhj7emm",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654257395
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s427nm6s5pt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654258228
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s427sepihma",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654258232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s428mec1i78",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654258263
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s43hee0fbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654259875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24s45kmjti3fw",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654262586
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654256989,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785856,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24s418l82pzw2d5%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728654256988
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654256968,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785856,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1728654256967
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWDgTgBsAVgDsAZgEAODkMliATN3l8QAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1728654256969
+                    }
+                ]
+            },
+            "_pcus": {
+                "name": "_pcus",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654257401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785857,
+                        "expiry": 34131600,
+                        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVHM6ZGEyNjU5ZjMzNzA0OGJjOTc1ZWFiZDMwNTdhNDA2YzJlZTg3MjczOTpub19zY29yZSIsIkxUYzozYjA1ZmVkMzc4NTIwNjZiMTc1NWQyYjYyYjg2NWQ1MjZiODJjYjY0Om5vX3Njb3JlIl19fX0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1728654257399
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654259877,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785859,
+                        "expiry": 34131600,
+                        "value": "cx%3An45jqnl4hhyz29420a7q44od6%3A46kvmrsyjm3r",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654259876
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654258265,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762785858,
+                        "expiry": 34131600,
+                        "value": "m24s418l82pzw2d5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654258263
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24s418l82pzw2d5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654262587
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654245986,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276645,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JkMjgtMDVjMy02YzJlLThiODMtZTYzNDhkN2JlZWUzIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDQ6MDUuOTgwWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQ0OjA1Ljk4MFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654245981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JkMjgtMDVjMy02YzJlLThiODMtZTYzNDhkN2JlZWUzIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDQ6MDUuOTgwWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQ0OjE1Ljc5NFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIiwiYzpwaWFuby1hcHAiXX0sInB1cnBvc2VzIjp7ImRpc2FibGVkIjpbImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiLCJnZW9sb2NhdGlvbl9kYXRhIl19LCJ2ZW5kb3JzX2xpIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6cGlhbm8tYXBwIl19LCJwdXJwb3Nlc19saSI6eyJkaXNhYmxlZCI6WyJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwiZ2VvX2FkcyIsImdlb19tYXJrZXRpbmdfc3R1ZGllcyJdfSwidmVyc2lvbiI6MiwiYWMiOiJBQUFBLkFBQUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654255801
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654255803,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276655,
+                        "expiry": 31622400,
+                        "value": "CQGVCkAQGVCkAAHABBENBGFgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728654255801
+                    }
+                ]
+            },
+            "juid": {
+                "name": "juid",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654257256,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729904257.250865,
+                        "expiry": 1250000.2508649826,
+                        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjE3Mjg2NTQyNTcyMzQsImlzcyI6IkVsIEVzcGHDsW9sIn0.6zglxn87NU9Clwj7piJBu-Y_ipdXjqR5jK2Wxim05yE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654257253
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654246718,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654246717
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654257253,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729904257.250736,
+                        "expiry": 1250000.2507359982,
+                        "value": "e72fdb835eb058f8359ab4dc11847101%23%23%231728654257234",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654257251
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".elespanol.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654257399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214257.395093,
+                        "expiry": 34560000.395092964,
+                        "value": "%7Bkpex%7DheZi2XrfauERXQfUSvEHDQ",
+                        "same_site": "lax",
+                        "timestamp": 1728654257397
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654261381,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744465461.379708,
+                        "expiry": 15811200.379708052,
+                        "value": "518=DZBJyjox5ayHuqltdtKHxhUg9Or1UjSkdFBZhDz4FqsDuaBdKFwxGNxa4ZW0VfBkM_1ybh1GUw_rMRwJlu0zsUJ99Z3DiVy_STZPuwDqESO7dMx1ymUXzm5rJqh9eGuagn5jN4bHT_mdA7muts0Viy25Gsa3w-3Rp1w3WnelcOSfJDppxw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654261381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.381092072,
+                        "value": "518=0V1Fi5r-HmXAEqiyzgsk41prjkWp5MsI7Q99Mwlc7ee6E-HRWnTVvrmtw_PqQfyfB1hP_xXHX9iKBvJS2rTbNRVGU2iMLyN4UP4bdcjwLvqKtv484qEjyjXL-8YmVy9VWJsjHgeIU8nvLLi6bKPi7KQsAX9SWMt0-KiOGAp2L2NRRKJuNw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654261383
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654257392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728656057.391571,
+                        "expiry": 1800.3915710449219,
+                        "value": "L8RBrRs3iTOHeqhzCX4C5Kd.tvRshIS6BtjxHjM5Ero-1728654257-1.0.1.1-FGPHP35kpRJ8vXYHw07BzwVOxmVgi1lcJv.bk4uRlUd3Aarcv2.3qJ9LvxqXQxKHz1UsR..SyzWuIHPNLwekRw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654257392
+                    }
+                ]
+            }
+        }
+    },
+    "tinypass.com": {
+        "/": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": ".tinypass.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654259741,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3DE4B0C33F321685C3CCBCA1FC847340",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259740
+                    }
+                ]
+            },
+            "LANG": {
+                "name": "LANG",
+                "domain": ".tinypass.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654258375,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731246258.372682,
+                        "expiry": 2592000.3726820946,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654258374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.37590504,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.428011894,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259429
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5603919,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5896039,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259591
+                    }
+                ]
+            },
+            "LANG_CHANGED": {
+                "name": "LANG_CHANGED",
+                "domain": ".tinypass.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654259410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740659,
+                        "expiry": 86400,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259429
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259565
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "es_ES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259591
+                    }
+                ]
+            },
+            "ch_sid": {
+                "name": "ch_sid",
+                "domain": ".tinypass.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654258373,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728657858.372649,
+                        "expiry": 3600.3726489543915,
+                        "value": "Cq0UQfaNx1NfnUi",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654258373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.74565410614,
+                        "value": "Cq0UQfaNx1NfnUi",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259746
+                    }
+                ]
+            }
+        },
+        "/checkout/offer": {
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".tinypass.com",
+                "path": "/checkout/offer",
+                "current_label": 1,
+                "label_ts": 1728654259565,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259591
+                    }
+                ]
+            }
+        },
+        "/checkout/template": {
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".tinypass.com",
+                "path": "/checkout/template",
+                "current_label": 1,
+                "label_ts": 1728654259407,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259407
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259428
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654259429
+                    }
+                ]
+            }
+        }
+    }
+}

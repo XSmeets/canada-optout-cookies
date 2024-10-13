@@ -1,0 +1,348 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641199771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642099.770184,
+                        "expiry": 900.7701840400696,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641199770
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641202086,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744452402.085404,
+                        "expiry": 15811200.08540392,
+                        "value": "518=O385qbEPw3M9x3RrmmCDUF91VLt9Zu_HJepAQx32vJNGRfU0oqgCgy21E7iOgRsjI18oJCG7N2RIz6fqFxFW1m0-wVXAPGFMP7HTQLd9XKqyGQsBO1G6CMu-nH8AnUNjK7L4Cs2SDPyI1jD-mWNgwqCn0cFta1kpzBe7Y4LQfjEAYjL4RQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641202086
+                    }
+                ]
+            }
+        }
+    },
+    "iefimerida.gr": {
+        "/": {
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".iefimerida.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641199008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736417199,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641199007
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641202922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641203721
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641204294
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641205054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641205724
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1728641199006.606431782692225440",
+                        "same_site": "lax",
+                        "timestamp": 1728641207968
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".iefimerida.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641197753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201197.746178,
+                        "expiry": 34560000.74617791,
+                        "value": "GA1.2.315593284.1728641198",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641197748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.38139796,
+                        "value": "GA1.1.315593284.1728641198",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641199384
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49383211,
+                        "value": "GA1.2.315593284.1728641198",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641207494
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.954534054,
+                        "value": "GA1.1.315593284.1728641198",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641207955
+                    }
+                ]
+            },
+            "_ga_GDNCXZDS8T": {
+                "name": "_ga_GDNCXZDS8T",
+                "domain": ".iefimerida.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641199383,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201199.381106,
+                        "expiry": 34560000.3811059,
+                        "value": "GS1.1.1728641198.1.0.1728641198.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641199382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.46432996,
+                        "value": "GS1.1.1728641198.1.0.1728641207.51.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641207464
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.95431399,
+                        "value": "GS1.1.1728641198.1.1.1728641207.51.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641207954
+                    }
+                ]
+            },
+            "_gat_ief": {
+                "name": "_gat_ief",
+                "domain": ".iefimerida.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641197758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728641257,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641197758
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".iefimerida.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641197757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728727597,
+                        "expiry": 86400,
+                        "value": "GA1.2.237847747.1728641198",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641197753
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.237847747.1728641198",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641207494
+                    }
+                ]
+            },
+            "addtl_consent": {
+                "name": "addtl_consent",
+                "domain": ".www.iefimerida.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641205760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337205.758113,
+                        "expiry": 33696000.75811291,
+                        "value": "1~",
+                        "same_site": "lax",
+                        "timestamp": 1728641205760
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".www.iefimerida.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641205759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337205.757955,
+                        "expiry": 33696000.757955074,
+                        "value": "CQGVCkAQGVCkAAKA1DELBLFgAAAAAAAAAAyIAAAU1gJAA4AM-AjwBKoDfAHbAO5AgoBIgCSgEowJkgTSAn2BRQCi0FGgUcApqAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728641205758
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641208444,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728643008.443915,
+                        "expiry": 1800.4439148902893,
+                        "value": "6xik4HBQp2qgrGNDECI6NLd3.jgUoSsa4GKWUrIXGQE-1728641208-1.0.1.1-o.7TXdwl3urHC3kAel.94zJ5UYn6WieoQ0GKjo3CosWQIOh5t84gmK09bsqKQPNIZgCs64ksUBvegNjfduWcLA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641208444
+                    }
+                ]
+            }
+        }
+    }
+}

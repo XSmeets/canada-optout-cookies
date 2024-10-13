@@ -1,0 +1,829 @@
+{
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739187499,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729343988.497681,
+                        "expiry": 604801.4976809025,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739187499
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604801.6314649582,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739187632
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739187498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762435188.497573,
+                        "expiry": 33696001.4975729,
+                        "value": "0BD281D5EC5A686814CD94C3ED7069B6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739187498
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696001.63140893,
+                        "value": "072FAC2E36476FC41484B938376D6E11",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739187632
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739190162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275190.158916,
+                        "expiry": 31536000.158915997,
+                        "value": "2x9t98iaobcjr38pvp6b4ypy2c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190160
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.302268982,
+                        "value": "cx:319eixvatotb33lr2u3qnvscgl:2a4pc61fd9r2b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190303
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739187526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275187.524529,
+                        "expiry": 31536000.52452898,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739187525
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.09134698,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739188092
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739187527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760275187.524572,
+                        "expiry": 31536000.524571896,
+                        "value": "UserID=57713bc7-a8c1-4978-afda-94fe14193714&Created=10/12/2024 13:19:47&UserMode=0&guid=d543558f-723d-4529-8e60-9cc634687990&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739187526
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.09140396,
+                        "value": "UserID=57713bc7-a8c1-4978-afda-94fe14193714&Created=10/12/2024 13:19:47&UserMode=0&guid=d543558f-723d-4529-8e60-9cc634687990&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739188092
+                    }
+                ]
+            }
+        }
+    },
+    "inews.co.uk": {
+        "/": {
+            "__pat": {
+                "name": "__pat",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188878,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731334788,
+                        "expiry": 2595600,
+                        "value": "3600000",
+                        "same_site": "lax",
+                        "timestamp": 1728739188878
+                    }
+                ]
+            },
+            "__pid": {
+                "name": "__pid",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728739188075,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731334788,
+                        "expiry": 2595600,
+                        "value": ".inews.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728739188074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2595600,
+                        "value": ".inews.co.uk",
+                        "same_site": "lax",
+                        "timestamp": 1728739188205
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188879,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825588,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTI2Nm9lN2t3NTUya2YxZiIsImRvbWFpbiI6Ii5pbmV3cy5jby51ayIsInRpbWUiOjE3Mjg3MzkxODg4Nzd9",
+                        "same_site": "lax",
+                        "timestamp": 1728739188878
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188877,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763299188.875886,
+                        "expiry": 34560000.87588596,
+                        "value": "%7Bkpex%7DSPokc6sVWQNWgd9zfT6mYP30WH4SF82uNK98vp544zfwUEA0yEt3fN_46xfRuWOF",
+                        "same_site": "lax",
+                        "timestamp": 1728739188876
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739186755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739216,
+                        "expiry": 30,
+                        "value": "m266odhdyhy0z9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739186754
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266oe6tz29ga3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266oe7af985cv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187686
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266oe7b7r0c6m",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266oe7hpxxifr",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187695
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266oekogxybbo",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739188169
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266oeku6slbjy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739188175
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266of4ccnqo79",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739188878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266of4thcw6yw",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739188894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m266ogb2puoi6x",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739190418
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739187700,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762870787,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m266oe7gds7wxfat%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728739187699
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739187694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762870787,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1728739187693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzICYAWAdgE4ArAL58AbFwCMIgTwlcuAZhABfIA",
+                        "same_site": "lax",
+                        "timestamp": 1728739187695
+                    }
+                ]
+            },
+            "_pcus": {
+                "name": "_pcus",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188883,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762870788,
+                        "expiry": 34131600,
+                        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVGM6N2VlNmEyMGY0ZDViYzY0MmQyMGI2YmI2YWQ3ZDhiNDBiN2FlYWFjYTpub19zY29yZSIsIkxUczoxZWYwOWM3ZTllNzk2MDhmYWNkZTY4MGExYzNhOTQ0NjIwMmRhYmQ1Om5vX3Njb3JlIiwiTFRyZWc6MTI4MjZiNDBlOTFkNjgzNDFjNWU2OGVkNjgxOTEwYjhlZjJjOGQ4MDpub19zY29yZSIsIlJldmVudWVPcHQ6NDUwYjJmMjE2OGY1NTZiZGVhMTk4YWRiZDVlZWY3MmJmMmVhYjZhMDo5NSIsIkNTY29yZTpmMjBmNTgzMzJlNTFmOTdhNmZlNWRkMjg5MDEwZDI4ZjA1NGRiYzhmOm5vX3Njb3JlIiwiTFRyZXR1cm46MjNlNzE4YmNmOWQ3ZGQ5MDBiZDY5ZDczN2IzZDc3ZmM4NGY2YzA4Mjpub19zY29yZSJdfX19",
+                        "same_site": "lax",
+                        "timestamp": 1728739188881
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739187486,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825587,
+                        "expiry": 86400,
+                        "value": "a74c3970889c11ef9b9a6b656328d8db",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187485
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739187487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762435187,
+                        "expiry": 33696000,
+                        "value": "a74c7440889c11efaecbc178c9636869",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187486
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739186030,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728746385.018198,
+                        "expiry": 7199.018198013306,
+                        "value": "4F0EDEB2B4D3B62A7FD844D3A9451791~000000000000000000000000000000~YAAQz+g3F76Hq3OSAQAAlpXigBnV35DfJKDTfXu691tT7zPCMUbxLTCwfxyG2e6AErokiZCBLpwrjAI/JNOrG//++teGADlAtYb/c3R0Rg/Zw7xEsIIEmCY35wmiLOUavQlw318SDqqXB/h8ZSUSyWvaopCw8XTtMRFrbcuDLArZemorxjIqMly6Cwebi48rLAT4XjtcxCUhmlURBjFZiGyt0EfMFy8zdlM+VlOmthh0yfTfQgpQQayPyJe8QyqK6L5YdKYiXj0I1B3vzX4ozwgYO8YVcoehUn/sWd5LovDE1SvJ2GWe9UOA1sV6ul1k/T3dQsSzWVmSVngAxkoRTNiMItbgkm8sLd7lz7V93XlQLB8iJh6MLXhtT8XuLfdGFoK7PAck/EP+jTs=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739186022
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739186235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728746386.22408,
+                        "expiry": 7200.224080085754,
+                        "value": "091479A54C2D4847DE34BC53E41B6421~YAAQz+g3F8eHq3OSAQAAUpbigBncZP90C/ULb3FHSuS60Q0TTl7GHUJMlm/4paxfLFcc8lqKFzG0rSdnF1sGAHFT2/9CEhTE7AD6nRZcygrMrPQsK7oplzYAjDOn1ET8dsdx6ZxmaQ8cpSYd3vSRwyvP40W7tRX/HXBCcFhU6ZC9LB+L9hbRMYKmXRgK9lpR0EUzS3UPBajQk33FPFxK3BxV354bYrHO2k0/gH4Gzq9mTmtXtqSHRqIDZmDxQrnb3w==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739186225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.090773105621,
+                        "value": "091479A54C2D4847DE34BC53E41B6421~YAAQz+g3F5eIq3OSAQAAl6HigBmApAW1ouDePgWWCWvosKEogEy7WIMf5PeskWN5g2Zl7+/8kG2/P1DpPiFBlC0MCWpiGXUxO/tSFrFBR6GoLJ7DlsD+m3wkxQgy8mjjBR/LB2PMD7nbwGSXtWdoy2hRONCQtcxzhsjyFRfir/K7P4/gI+hXMP/s2d6nwLvsknEIUy3i6um+zfLMuzQ9+oyUPOlI9h7LgSl1vGBuMUoyCnoTRmu4jw8c5I8j23LQlg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739189091
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188895,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762870788,
+                        "expiry": 34131600,
+                        "value": "m266oe7gds7wxfat",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739188895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m266oe7gds7wxfat",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739190419
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188881,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763299188.878212,
+                        "expiry": 34560000.878211975,
+                        "value": "%7Bkpex%7DQ34_9Q2QPxta9-CNX_1PMFDAHQMaDKp2pEu5ZANTqCy31_8OHFsoCVvHjSfUx3SUdUveNhcWMLgk5Yt0l59ALA",
+                        "same_site": "lax",
+                        "timestamp": 1728739188881
+                    }
+                ]
+            },
+            "DM_SitId914": {
+                "name": "DM_SitId914",
+                "domain": "inews.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739187884,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187884
+                    }
+                ]
+            },
+            "DM_SitId914SecId11591": {
+                "name": "DM_SitId914SecId11591",
+                "domain": "inews.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739187886,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739187885
+                    }
+                ]
+            },
+            "_pc_gdprConsent": {
+                "name": "_pc_gdprConsent",
+                "domain": "inews.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739186643,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "not_supported",
+                        "same_site": "unspecified",
+                        "timestamp": 1728739186642
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188854,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728740988.854224,
+                        "expiry": 1800.8542239665985,
+                        "value": "HaoNLRTAvtQAZLZlSUKziw6j03Q85HQGM7XqfoBTMtI-1728739188-1.0.1.1-6WXdQZId3gFtNm_FkSkt6jNeuf.pL6BExIxKtTbWBKyU6sMG5qZ.W0DHQg5Tn.e8RHsOfd8Xl279PMQKIhVprQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739188854
+                    }
+                ]
+            }
+        }
+    },
+    "tinypass.com": {
+        "/": {
+            "LANG": {
+                "name": "LANG",
+                "domain": ".tinypass.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728739190226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763299190.22443,
+                        "expiry": 34560000.224430084,
+                        "value": "en_US",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190226
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.24208999,
+                        "value": "en_US",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190243
+                    }
+                ]
+            },
+            "LANG_CHANGED": {
+                "name": "LANG_CHANGED",
+                "domain": ".tinypass.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728739190228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728825590,
+                        "expiry": 86400,
+                        "value": "en_US",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190227
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "en_US",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190244
+                    }
+                ]
+            }
+        },
+        "/checkout/template": {
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".tinypass.com",
+                "path": "/checkout/template",
+                "current_label": 1,
+                "label_ts": 1728739190227,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190226
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190242
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739190243
+                    }
+                ]
+            }
+        }
+    },
+    "id.tinypass.com": {
+        "/": {
+            "AWSELBCORS": {
+                "name": "AWSELBCORS",
+                "domain": "id.tinypass.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728739188073,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728739788.072631,
+                        "expiry": 600.0726308822632,
+                        "value": "D54D83371CA73269B30D9CD8F7A2329AB776287862FFD8DC0100DB03DE8A35C66583798973079CCB00631E25CD19D4DE9F504722D6CADA83FEFB72C94C5AD099F27EBB6BAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739188073
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 600.2034940719604,
+                        "value": "D54D83371CA73269B30D9CD8F7A2329AB776287862FFD8DC0100DB03DE8A35C66583798973079CCB00631E25CD19D4DE9F504722D6CADA83FEFB72C94C5AD099F27EBB6BAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728739188204
+                    }
+                ]
+            }
+        }
+    }
+}

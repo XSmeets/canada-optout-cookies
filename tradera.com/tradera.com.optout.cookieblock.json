@@ -1,0 +1,328 @@
+{
+    "tradera.com": {
+        "/": {
+            "trd_at": {
+                "name": "trd_at",
+                "domain": ".tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460252,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHAiOiJUb3VjaFdlYiIsImV4cCI6IjIwMjQtMTAtMTJUMTQ6MDQ6MjBaIn0.x0JRk5Zu8Cdh0VenAf0bXALI_l2j_bvAbUibgRdc8D0",
+                        "same_site": "lax",
+                        "timestamp": 1728655460241
+                    }
+                ]
+            },
+            "addtl_consent": {
+                "name": "addtl_consent",
+                "domain": ".www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655473759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762351473.757509,
+                        "expiry": 33696000.75750899,
+                        "value": "1~",
+                        "same_site": "lax",
+                        "timestamp": 1728655473759
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655473758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762351473.757423,
+                        "expiry": 33696000.757422924,
+                        "value": "CQGVCkAQGVCkAAKA1DSVBLFgAAAAAAAAACQgAAAU1gDAGfASqBRQCi0FGgUcApqAAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728655473757
+                    }
+                ]
+            },
+            "ASP.NET_SessionId": {
+                "name": "ASP.NET_SessionId",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655461118,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4eg1urlkkyrcc41hj2g5bavc",
+                        "same_site": "lax",
+                        "timestamp": 1728655461116
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655478231
+                    }
+                ]
+            },
+            "experiment_bucket": {
+                "name": "experiment_bucket",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460261,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241284,
+                        "expiry": 34560000.24128389,
+                        "value": "966724676",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460255
+                    }
+                ]
+            },
+            "gdpr_consent_v1": {
+                "name": "gdpr_consent_v1",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655473765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760191473,
+                        "expiry": 31536000,
+                        "value": "1:1,2:0,3:0,4:0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655473763
+                    }
+                ]
+            },
+            "gdpr_dismissed_v1": {
+                "name": "gdpr_dismissed_v1",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655473765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760191473,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655473765
+                    }
+                ]
+            },
+            "si": {
+                "name": "si",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728655461119,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655461118
+                    }
+                ]
+            },
+            "splittest_attribute_suggestion_extractor": {
+                "name": "splittest_attribute_suggestion_extractor",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241685,
+                        "expiry": 34560000.24168491,
+                        "value": "1893874830",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460264
+                    }
+                ]
+            },
+            "splittest_category_boost_version": {
+                "name": "splittest_category_boost_version",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460261,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241361,
+                        "expiry": 34560000.2413609,
+                        "value": "454876760",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460261
+                    }
+                ]
+            },
+            "splittest_mobile_tag_based_navigation_filtering": {
+                "name": "splittest_mobile_tag_based_navigation_filtering",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460263,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241562,
+                        "expiry": 34560000.24156189,
+                        "value": "952383375",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460263
+                    }
+                ]
+            },
+            "splittest_search_ranking_variant": {
+                "name": "splittest_search_ranking_variant",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460262,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241436,
+                        "expiry": 34560000.241436005,
+                        "value": "1615513910",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460261
+                    }
+                ]
+            },
+            "splittest_seller_suggestions_position": {
+                "name": "splittest_seller_suggestions_position",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460265,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241757,
+                        "expiry": 34560000.241756916,
+                        "value": "975343705",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460264
+                    }
+                ]
+            },
+            "splittest_tag_based_navigation_filtering_v2": {
+                "name": "splittest_tag_based_navigation_filtering_v2",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460263,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241504,
+                        "expiry": 34560000.241503954,
+                        "value": "553639313",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460262
+                    }
+                ]
+            },
+            "splittest_userreg_auth_provider": {
+                "name": "splittest_userreg_auth_provider",
+                "domain": "www.tradera.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728655460264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763215460.241652,
+                        "expiry": 34560000.24165201,
+                        "value": "1929879475",
+                        "same_site": "unspecified",
+                        "timestamp": 1728655460263
+                    }
+                ]
+            }
+        }
+    }
+}

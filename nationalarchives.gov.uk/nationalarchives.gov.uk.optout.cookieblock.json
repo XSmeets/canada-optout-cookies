@@ -1,0 +1,89 @@
+{
+    "nationalarchives.gov.uk": {
+        "/": {
+            "cookies_policy": {
+                "name": "cookies_policy",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742556733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736518556.720734,
+                        "expiry": 7776000.720733881,
+                        "value": "%7B%22usage%22%3Afalse%2C%22settings%22%3Afalse%2C%22essential%22%3Atrue%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742556722
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.807743073,
+                        "value": "%7B%22usage%22%3Afalse%2C%22settings%22%3Afalse%2C%22essential%22%3Atrue%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728742559808
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.495209932,
+                        "value": "%7B%22usage%22%3Afalse%2C%22settings%22%3Afalse%2C%22essential%22%3Atrue%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742562497
+                    }
+                ]
+            },
+            "dontShowCookieNotice": {
+                "name": "dontShowCookieNotice",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742562497,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736518562.495086,
+                        "expiry": 7776000.495085955,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728742562496
+                    }
+                ]
+            },
+            "ga-disable-": {
+                "name": "ga-disable-",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728742559815,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760278559.808953,
+                        "expiry": 31536000.808953047,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1728742559809
+                    }
+                ]
+            }
+        }
+    }
+}

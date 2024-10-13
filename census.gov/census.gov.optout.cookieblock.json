@@ -1,0 +1,2127 @@
+{
+    "census.gov": {
+        "/": {
+            "AMCVS_3BE068F454E7806E0A4C98A6%40AdobeOrg": {
+                "name": "AMCVS_3BE068F454E7806E0A4C98A6%40AdobeOrg",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728829337247,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337246
+                    }
+                ]
+            },
+            "AMCV_3BE068F454E7806E0A4C98A6%40AdobeOrg": {
+                "name": "AMCV_3BE068F454E7806E0A4C98A6%40AdobeOrg",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829336476,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389336.475352,
+                        "expiry": 34560000.47535205,
+                        "value": "1176715910%7CMCIDTS%7C20010%7CvVersion%7C5.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336475
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.239748,
+                        "value": "1176715910%7CMCIDTS%7C20010%7CMCMID%7C79073579164884656103458794830587905694%7CMCAAMLH-1729434137%7C7%7CvVersion%7C5.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337240
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.24090195,
+                        "value": "1176715910%7CMCIDTS%7C20010%7CMCMID%7C79073579164884656103458794830587905694%7CMCAAMLH-1729434137%7C7%7CMCAAMB-1729434137%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337243
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.24574399,
+                        "value": "1176715910%7CMCIDTS%7C20010%7CMCMID%7C79073579164884656103458794830587905694%7CMCAAMLH-1729434137%7C7%7CMCAAMB-1729434137%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1728836537s%7CNONE%7CvVersion%7C5.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337248
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07772589,
+                        "value": "1176715910%7CMCIDTS%7C20010%7CMCMID%7C79073579164884656103458794830587905694%7CMCAAMLH-1729434137%7C7%7CMCAAMB-1729434137%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1728836537s%7CNONE%7CMCSYNCSOP%7C411-20017%7CvVersion%7C5.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338080
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829337302,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=cf415058-0b98-4be5-8fd7-5552e8d29354&ss=m27oclgn&sl=3&tt=82a&se=p0&bcn=%2F%2F17de4c15.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829385114
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=cf415058-0b98-4be5-8fd7-5552e8d29354&ss=m27oclgn&sl=3&tt=82a&se=p0&ul=11ir&bcn=%2F%2F17de4c15.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829385118
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=cf415058-0b98-4be5-8fd7-5552e8d29354&ss=m27oclgn&sl=3&tt=82a&se=p0&hd=11ix&bcn=%2F%2F17de4c15.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829385121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=cf415058-0b98-4be5-8fd7-5552e8d29354&ss=m27oci6v&sl=0&tt=0&se=p0&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=cf415058-0b98-4be5-8fd7-5552e8d29354&ss=m27oci6v&sl=0&tt=0&se=p0&ul=1cy6&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=fbf8b5fe-8bfc-4f14-ab23-3cc967dceed7&ss=m27oclgn&sl=1&tt=xz&se=p0&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=fbf8b5fe-8bfc-4f14-ab23-3cc967dceed7&ss=m27oclgn&sl=1&tt=xz&se=p0&ul=19ol&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395694
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=6ffab5dd-8660-4b43-b219-f03e4fe40dbd&ss=m27oclgn&sl=1&tt=14c&se=p0&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395697
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=6ffab5dd-8660-4b43-b219-f03e4fe40dbd&ss=m27oclgn&sl=1&tt=14c&se=p0&ul=19or&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.census.gov&si=cf415058-0b98-4be5-8fd7-5552e8d29354&ss=m27oci6v&sl=0&tt=0&se=p0&hd=1cyn&bcn=%2F%2F17de4c1f.akstat.io%2F\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829395702
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829336469,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336474
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345550
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345551
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345553
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352794
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352794
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354075
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354075
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829339016,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389339.014263,
+                        "expiry": 34560000.014262915,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829339015
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.942028046,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "strict",
+                        "timestamp": 1728829339944
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.61303401,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.63744092,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "strict",
+                        "timestamp": 1728829346637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.20726991,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354207
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.2339139,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "strict",
+                        "timestamp": 1728829354234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.52642012,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354526
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.54011893,
+                        "value": "GA1.1.757553678.1728829339",
+                        "same_site": "strict",
+                        "timestamp": 1728829354541
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829339943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.233532906,
+                        "value": "GS1.1.1728829339.1.1.1728829354.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829354234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.53984308,
+                        "value": "GS1.1.1728829339.1.1.1728829354.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829354540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36109996,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829356361
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.361381054,
+                        "value": "GS1.1.1728829339.1.1.1728829356.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829356362
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.806615114,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829383807
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.80697298,
+                        "value": "GS1.1.1728829339.1.1.1728829383.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829383807
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.12773991,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829385128
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.12810993,
+                        "value": "GS1.1.1728829339.1.1.1728829385.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829385129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.71056104,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829395711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.71089101,
+                        "value": "GS1.1.1728829339.1.1.1728829395.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829395711
+                    }
+                ]
+            },
+            "_ga_VY5XG9XWGG": {
+                "name": "_ga_VY5XG9XWGG",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829339014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.080446005,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829355081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08094597,
+                        "value": "GS1.1.1728829339.1.1.1728829355.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829355085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35534692,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829356356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35606289,
+                        "value": "GS1.1.1728829339.1.1.1728829356.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829356357
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.798902035,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829383799
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.799335,
+                        "value": "GS1.1.1728829339.1.1.1728829383.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829383800
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.12255001,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829385122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.12290907,
+                        "value": "GS1.1.1728829339.1.1.1728829385.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829385123
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.70514107,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728829395706
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.70553899,
+                        "value": "GS1.1.1728829339.1.1.1728829395.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728829395706
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829334460,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.961918115616,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhF/gIYHaSAQAACi5ChhkTrdDIbsHiBOC6S8uLKTkf8U+OH/kKSnGIhqezprL5gBxnl6FQs7pjOWg9ABE/yfYlvsABaINgW2fMn3GVbb4SyDdV04yQwELc2O8BbspaIb053LsPHk+/1YzovRBK3/6OLD0mLwcDuVqe2ic04iQDRHzNzu6GC61cTa+uAaIq6gkv2mItO74fLdVhkAL6F3qQog/C/Ko0enhQxO/xBQeD9oRhlK2exM3PpE1NR+6u4NfbWnz68lg2/LVakXLoynyyvGky/oSJ11JLeYmim3uDhT8VWCF9jfdFMegErqODm7XghLNxiiFFnVNtd5RgLe3PsMzLWBOvh6d6tQ5b02zPFhobDHkf8f3S6heDDl6MoiLnQyj1hWKWvvB61lzIU8zWUB8wlsHkejahfWBd51+PjFzKGXVzVVH+9Zpza4eTHlc=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336962
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.9623939991,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhF/AIYHaSAQAABS5Chhm1D/vAYX3vCiSjfHfi6Tc8IF3LdXunhbDr4bXeC5VbYHWD2QW3tQMNLGcxRpK7qM3jcVxngWqe9pVOuGPmbU5S+0Gw9xaQGSy8A52zTWhlZwO+Lxc6CZtLxiYxcent926Pxo8pS6nCuY72TjFRQXdJ55R3vHY3zAulEEjkUGTX+IGxuPxqJu6qxbr2IJzc8AAOqZ9TcvKyPjsXRY5LonObpcODML30DcCwHdis1kWJNEBkKbmEFy1zddL9yW78itki5sUMoMBUcUhNFVugm4vOVDUZNRh8B1sfTn7V1ZHOt4yq1SGRFdZwFnAjM1ggFEr0YEx2sQPvr1TfcuRX9TYdD6FNQCpL4kuiVC2cKCD31dVU9n7EYntFqB9x1PfHP5/1jPhyKLv8+DmYajApvMtRWv+AIUQ3yP0RaowdDjVj2m0=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336963
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.963334083557,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhF/0IYHaSAQAAEy5ChhmU0VY02R8Fb5NN2Gx3pDdV+qnDF5QqaHjzg4DvVywj1nMOxP1RmjraIcgy/IwYuYguQjx8dw+4jLAx8EHyrrpIeE2cF6YHuybQQm6LC7T7AgJpe5zrboO/O+NlWFPrEWD1AuoE4VeixndfnNNCh0ujTd+UMxrqwNKbrxW/inEUswNCOeNbdLB9QJkJI6468IkQxd8V4lBZ1J8YIj6ENEMEA8mmCcMIOPakk1P67P2Sgzgar5fijwL5nEyl/PhrcImHwnOZJCscIyVNIbtbUstf0/8KdDvkJHGrKKNB4jvJrcTju9f7mIb6obtpx/694qn/5IcUXGS8PUS4eOyoMKgbENaiPmIwPOn5Bc7w/kVPQ91nchqvgMgGMlv4UXPHnPgjw4zUS2mT//ftSz4IC/NkStmOjIjejmTrOX6OR+M6u+8=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336963
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.965989112854,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhFwEJYHaSAQAAGS5ChhmRiXOzLXbHnAaauUrfpu66FwYvJJr2QCAar4VRM3m3rPvh3oxTYtUZKVdotrc9XWTglFuxMdy+SdDsTZwGNIclkJmFOYVvOZtN08suOj5geozHcvJ79C4Z6c+SBuK/tI50xNcdTNCWMS/kugNxnA6/aVXQlurRGuA7xbCexlUCmg0zTypaYSIAE0mo2WVVNWtihiCTRFDkUFaUp2hHeh/SUcqxzfHF8z8heVfH80nkl/tGrtM4N6fkEC2l2XQmHZM2Y65LmEgMG3BwCJfq0liDTc0Jia+FJ7/M04iF9ox+0CBNR0ZflpvVgM0TDiyuzWP9JUQQvhvB7ecKqocriILpPvbWyfnEHTbsBM+uj8eIkUWBDdAK6MQqvzZ6OSp3ykGayHvsv6PEm43bhTd9acUZuPwfn42bQbs1Ktnw3IV/ss4=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336966
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.03130698204,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhFxIJYHaSAQAARy5Chhmu97H02W1fGjqoRGGc6XWfYlEYiockce++Sepry9YYgHv85guwIDigvI1mGqsQEofpsBbBAqcJlVeOC7O1yAuRbFMdMeDnTHEO3X04lk+GcsFz7+inH5nYLkKiHX4p3u6AJqx8ih6JPVcsJCeahL9jCQemV7hMad70SYwGHLpWha7q7f76B08OgyoGbSxntH7oe48PnAXgfFxP9iQnN/PETiKclNhAaVE32Phh91M0E2ww8C2WpzPkuk5qu22J9GcgfttEybSS1XK5ED+GqHeHqgybi7iGMR3vqbWFgLcrINlFT878cQuVYb0SabY6I1U4JfhwfzoVQKpc8ukGPlSs5svcwqf2sQoTu7jAppxsEUInSed5SfbgJ7lri2gAmCyD5d7sXntXfusyJjCgCKKoxPb2mangoNu3J0iP7HMqUbE=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337032
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.039743900299,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhFyYJYHaSAQAAZi5ChhmzJCt7NIHYXYvlXT80VJod8+XIY+zEHIIIYl3t+QggkjwJjzveA+0GnWweBiIA99tjJVUOQObiJgAUvSRyYazP5Wp+CCswbJu2g78ZIMTLBW81EkWMJweiVPqdYvgteQi5xvhS1LmQGKH7S5+PPpa5jpjEjM6gQxSd8hkON3GGjJkBDZ9eacZWM8dm2ngOkl810KQ5RtqTJz9u9cChpu6W7jcPFRaY4MPJ8cEoI6xF7QhvLSAxFU61UMfGELB5nKbJXAahHkpX+ImhRlpOKiGzbprtNnP9w2te22DXBy0+UmClr+26oJz3f8/3myMJ74PslguJauVQNgEeXy7fyXoKKhDss2h03RDWW/zhVXkQmQyfaN/KN08jAVDn8QH0xwGx4Bs9yPB/aH+aLj7noXWQCKp66/0MLXI9air3GiLu6jg=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.3459649086,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhF5AJYHaSAQAAkS9Chhm7qwog5tEYNJsJP0GxNC0+OkfLta0RSnGNt5AW9liLmNYmt8/wKBhm14Jan9CkAAuQEFzOXt6sogVGWbNLpxhmLPskC2hIZh6EyHoVUk8TboeYYIHOq2yjWIJn6HbljZHh+Rz3+0rcGqxcoapmPaSAwYkjvWtiWdUahBWz4zgndlAptNlwFaFnDO1yjvvH1isvRtU4rcg/0OCRXcM6HOr6xCYlKOFMcyiWuoMyvPEUEyjpgC2PGups0TfWbchCNysPlCqeiWHs2g3KKUaVwfvsZIs61+aUTLhihTDUrnzyUEEQrsZCLTiEOzaN1wW3ivn+6O6WP0J8lbJ2Yta3Jk5jDUNemqs2WzVIvAsa6/6Ph1zuPYZKZ/WOp2U8FEyVqLR5g2V7sEz4vlYN/jI7bBdgGrVSOqXcG7Q99wyMamKZOroj8ZJ9Bas5",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.6812698841095,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhF/kJYHaSAQAA6DBChhmcHQ3yClWGLj4jO5fq/xRD1TMWRdnJymrgWTuKdBZ/PWtTk/e4w2JYpKwCGnTR7W14bL46y28giZMm6eZoxy1uOBJkmY7WzecKdK70kiEQkJqL5sb0oO6EXG1uCyGA3xEueuI7gzI9TuLp5gwFsjNaRbg12OTtEsI321ddxWOdO1V7x4V9TYtdc+j/DYeLOCZgdy4AxUy7AUr+5L67FBAkzfi2f8d76Y0vaK+KpnNsqjjvUsFUd0H5WiTvYa7nnaHwXEkrPTFgNjGiPyCqHgwJKNdFDqV8h1eMO602TeIKN7sglK5Y35OYWQ8pV/dJYtCup/1ZUjgeGdYOWlS61fI+zo+vkKLuta8T/8cNAewdOOV6bgFjRH/F5evlapEtKr5XC25ZtSXOrIOkCkhUt4NASAwL0HThQnK9+4RSrZnqUCMFVrq97Tuf8glS0zd7WXECh/mucqpYV7N0gydthsOWhriCw37EbPx9EBH+S9X5o/yZLg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.711088895798,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhFwAKYHaSAQAABDFChhnlff9OLgs+mdx6GKSdGx25shtxAPy1bsC3HCZxBX1RZx2HNnEcvG26/hQxA7G87Ab4XuDoxr5DGC47jMWbAcd8JFf7TczNkAHjG9gQVkqZ5DhfspRg+a8fsHIsW+inbeIdD1tro++2tSW1Xp+PdPseTsIOFIOmaAncMPwd3D3fAEebGCryF677koXzq86bZwH2PrQSZHwcTR5pmkgMCYKfQGjGTkcb5T4rqHlgIGoQeXwJyO6mhthI+YWXqcjLysmwbdCT+pv2UVc8Hjumed6nNSIH7zQItN1CkJitICQoFzZWM3hXMD+iUxxP95bLzhrLpOZ45YOC2Vrqjwu8Ae5TOw1bVL/ZTZR9cxrPKwxIZ5o0K3Tj3AwumBnQ4AL2ne/PNpBT6ZTYL3hieFVxmw6jHiYaLJtydgGNU7pP60k7NsCxxhBoynqVLcqGSKTeyu/Di4ulajQZRVJaiL4UPyIUJuLhdfN2ETRZ4K1UO7MGQrH+EA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.770313978195,
+                        "value": "EADE26BC9D53CAF94050DBB5D085C057~000000000000000000000000000000~YAAQlRwhFx8KYHaSAQAAPzFChhmPghv0QYXL0joL20fAIRTiq8d9eeg3Pd200xNsZKsd5cEI4uKuEB4m7wN2JaEntDVXYb6UgPnWQ5UqMqseNb00dNCYeK2Pl05A22MIKA+TXKK+3735RrFYPY2FG1Q6BDb+6scSp8i6j4+AaiXJ6IEy6Ah1gRplMOyVgoV1Dcw7Nwok2NzDFBiMgErunxOpMZPcjkTzUwsnmUktbQ4wKfUlSYTCn/EdRigTAgtG91wTPwM6hmy68/j4Bf1lERwHyCAoHJ2dZ5vqv81reuvSjjUaLfilXZQrQvY2dKFubG0oSfD+5/o8cw4Ys3xzIR2e3ExsjC7Xzg5oblohPecfRlDWqXnpJmT1v1YiBwz7NP36WfqAz9SCZiUHLF5kfHFuw9dYrWQvR5VubzQeSYSokVbmZyvUUiPQxEsDjgE6/vA1Bnc2r3J0IuwCwo4/e+i/4ffEGGHUtEUtWwwaxumSNzmAo9CSuD+bTMw3kaiPiKtALOrwFw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337771
+                    }
+                ]
+            },
+            "bm_mi": {
+                "name": "bm_mi",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829336753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728836534.751709,
+                        "expiry": 7198.751708984375,
+                        "value": "22BB9BC4590634656BF32E68B32B55E2~YAAQlRwhF3QIYHaSAQAA9CxChhlssSIIa9qpgcvcaMMg9MQdnUKbImpy2nq5IQsbKCOeob6zt0t4CqhBd+v8sHKGegC+ByzYoQ3Ir/bWKifkfrC9uOK7LBFFPc4SLRNT4aHZ1hUXu6voUMSxAQohqsZlGzh1V0ATHa5GKPPQdI6YFA5VN4ZNFwQCJoTG9BbNrQw1+9lwc/icYH66UPMFXvszzRTkDMuREbhSxYoDN6jPmh7Wg8QEF1Ku82MDW9+qfMw+8mxPQA0gu7a89VmxVkMJsNOc9hFIXWUhYKsueRtfCVZaKufjB74rfh2N5m4c2QDV99+egxA=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336752
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.763701915741,
+                        "value": "8B72DA23AB942E39B48EE6927A9FCC5C~YAAQlRwhF4oIYHaSAQAALy1Chhk11m9h1+VrxFTat3IColvBzWMs8lwm/dSvF4eITVfHwqYr3hC/sVNeFiLdihhy8roNJuyJqq1uvEWA1K54HI+fdlIybT4PT6knv/gRqRmUDbc3yIojZvdbeSfgrWc+OZwjhtjcMGkPc1V7vh3srzgXZ3ouHAUZtVennllH7dcxwhf0XmzM0QNmdBumw/KntJ9tJ/qyB1pq4hPQt+wNDoZK/IXlhVdRKDtT/wF5nxSiyNv1Ld5+qSDrWfgwzxLemrsGjM+ZlJk3KlOhakReSYgm+7C0RRgbLjftQofGDEgKxm1HoivmAwA2B+goWTcqJHKrvfkCfmACxOYZvcuUgyI=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336764
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829336568,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.7637259960175,
+                        "value": "5890E252E05BA3EEB00E6B81CB09353F~YAAQlRwhF4sIYHaSAQAALy1ChhlF3Lv5+zZupYJuiFawI6JMImn85VkzINjtoazk3QQ5JIcOpYGR4aOefWRwVMgBuRhFbVmstjNu4n6paNu8oKTmy+RrQczhfNnyJhMR4KlqlmM8r8vG6bZaJzkC8zbqlsf0anLVHKBIKPXn/XlySNb1k/+To+VHP8gNt7LP0BJdwvRPM+56aOnJ1ECPnka0vm3TxOtlqPXaVTqOVOpm4NG+6E3z4NBjtdyJ6fqj~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336764
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.910619020462,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF9EIYHaSAQAApS1ChhmlS+tUq9j2+CdxrymB+CjrDdcoFlJfVPyCiuAu06pklFWDQf0n6e1wUpfZChPh6jcKO52I1QeUmf9tiynzrcED3LFMiG7t/6wJeOwXoIYzgQO4E4TiNn9m3TX1CXD4qqPPKqRES3j/YhFU+icAmma42GUwIbFA39sF+YZutzdpax7TDkN3lbhnUrFzZ8LjcpVtUDOqC4x/00MYKU9SbeSAqfAciFZG6zN7Wm4P~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.7703330516815,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhFyAKYHaSAQAAPzFChhlmre0h8h79Ffq1rqz17L+91QHLgCnTCq2V2uWuF255WgPmmocPLiAstzC45qkeTIhT3cm+g3trKU0lN2+PQbSzhYMHLHq3jVCO6Uk0CnTvuz7FCqjdk7k3khrssnU75EW75tpEVoH7Kbe0nCs8Lvcy762d70+zqZliUwd0UzdPmNTF4OxWTMu/NGiyG94WNi+JIKH8xMr+XCp52E5rcOH3+W+Ob4DPOKd+jU9y~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.868120908737,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhFzcKYHaSAQAAozFChhnt+hM0PCE4atKfnbLkcTSW843TY5N8X2a0IOhdqXS6mSLCLvhnDrYlzx8/8nk/jXtg1LnT9mFcN8k6Sh2ttAW682txrD7SE3RQy9qm/+A+d6mlzcZrRGHO0wveQQejpWMU+jOkWwPdSvA5qBp97BPUghPVG/SdGdibCcgn2t/jvVrzN+rnLokOep+QIIF0NeR22bTIapp1/Fr0yoFG38IDNZHEbNZ6pKij5ZwR~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337869
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7191.347388982773,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF08TYHaSAQAA2k5Chhkp1T+xU2NTQySDgRaH+QOg3I+7wgHkNzB8QWO5C7OnVHai51SZIC8UkpdJfr0tswL9eyo+YV7hDq6KZvti3+tbp05xv4PnC5cl3goHfE/+DMBhzMgIFDRmdXHtqu/FWIc9QpL3FBJZmBaNwgjFKXquDY4hjzk4a/YAn4szO8iqD/CTImIK1ipSbyPmeL0Rk+eJEHodpvLzJkWUE55UN9LTJDjYz1UwccRaCfbB~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7191.542599916458,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF7UTYHaSAQAAm09Chhn6wQ+mRSC84ypJ5LFqnwjpHIXetVh2FSzCkKgPEoA0VvqhEjdk68eWoqI9NudPF2UAH8sArHxcBOVW59E0jGsru9Vi/MLMx+rLndS7IriWTd6NB+GlN+XAe7IfC3f72ujj4B/yZDFJ7I9js48MmuAJ29TtU28Pb9JXcMLZ2Rq6bOYRcOj1oM6Fa+KVMbN7XZhrGZhMZb8fctBxwfDxa5MDNrr7zXFIonCMhCm/~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345543
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7184.602374076843,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF+AdYHaSAQAAL2tChhneC4vXBEs9zFlGfOySFhGP6f1w2qzcPwnxLxICySqIS635t889hQXoLcsfgVKrnLjR6w8Ytciytx2HNiOB39sMNXCWp+/4tpvtL7IuqaGWf5yO1NngFB/U5DM0G8jA8gMHGs86iktqIubRsS9O0dTMOPYOxzdwxWs4uchuP0id3HcE0mOflohTdGw9topnpX6W66R1lwdeuGdnNv1za2NV8xjNmrRupci65jcY~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7183.954757928848,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF1YeYHaSAQAAjmxChhlozUtQ8sUXDoTW6f9QUj0mscjND7dmmGHjeb+PIDknKHQSbGzU0Vq9XoVeNbcZ6RrL55lv45P+3ZMlZkcRzb+6WjO2zqLp3l9d7kSkuwm7R7stGxapjjqpJuTnePwetK3zjI8bdwJ/aRlDckxuUWIel8ttGUzu2rPWMmFsCzbPSPt5HmyScLEIGwNuR28/6DwxWefCEQDwTt2j5XIBbgYwUVUt7p4v+aDdT+sE~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7182.033890008926,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF2wfYHaSAQAAyHBChhk6AvrEdHGIQDIxuaDFFe9A+NyP3ncBvKFFm1G4c9bTsLEAyF9kypS9ZIyTKA87xFtZETLM0NSTv79imle2ls+ct/CYwqWdg+wCgBGZpjpHEIgW93B6SHpqUXmy/tZHWFxgi8XoV4h6aVrZIZ5iCC5mdHGVUOj/9m/pKEr1/SKme/HtXxLTrkOgOjwWYEbE107LheW8HEskdS0TUJQJhUN1LkTs0km5XJ1URcI9Rg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7182.218103885651,
+                        "value": "03EDB41817C49FBC2E87ADF816A3D1D1~YAAQlRwhF6QfYHaSAQAAgXFChhkiIBXDDFF7LJDJNEmjZLMKE4UUIpz8ROLfHETdOXKZ0a/KOkNAAk/wARVaGSzP3MdEg4efSaYbiPGN80ro27+ADZxPanYV+ris070AAzlOw6ncREtNHqmDtKihpFnXub8nri4Zgp/Xew/JF/gCtXLHieGfPgPh9K8vjUNKAvvlOkpFd0jjrcVcWbdOpJfv6Y6Me95vUwtZwdtOJRuLVvPsbns8veBYLzNXXy885g==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354218
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829338198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354611
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354770
+                    }
+                ]
+            },
+            "s_inv": {
+                "name": "s_inv",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829338194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728831138,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344366
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829351730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353276
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354767
+                    }
+                ]
+            },
+            "s_ips": {
+                "name": "s_ips",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829338197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "891",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829341606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "892",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829347376
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1355",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1395",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "890",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354768
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1396",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829355090
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "891",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829356880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "900",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829356890
+                    }
+                ]
+            },
+            "s_ivc": {
+                "name": "s_ivc",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829338196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728831138,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344366
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829351730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354767
+                    }
+                ]
+            },
+            "s_nr60": {
+                "name": "s_nr60",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829338081,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829346607-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829346669-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829351725-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829351726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829353274-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829354151-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354152
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829354201-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354201
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829354503-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829354523-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354523
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829354606-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000,
+                        "value": "1728829354764-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354765
+                    }
+                ]
+            },
+            "s_ppv": {
+                "name": "s_ppv",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829338198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C95%2C9%2C9698%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C95%2C9%2C9699%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C95%2C9%2C9705%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384595
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C95%2C9%2C9718%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C95%2C9%2C9736%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384621
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C95%2C9%2C9757%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384635
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C96%2C9%2C9782%2C10%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384648
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C96%2C9%2C9821%2C11%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C96%2C9%2C9861%2C11%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Online%2520Privacy%2520Policy_256055%2C97%2C9%2C9901%2C11%2C11",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829384715
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829344368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cebucensusglobalprod%3D%2526c.%2526a.%2526activitymap.%2526page%253DCensus.gov%252520%25257C%252520U.S.%252520Census%252520Bureau%252520Homepage_166506%2526link%253DData%252520Protection%252520and%252520Privacy%252520Policy%2526region%253Ddata-uscb-main-footer%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DCensus.gov%252520%25257C%252520U.S.%252520Census%252520Bureau%252520Homepage_166506%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.census.gov%25252Fprivacy%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344366
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cebucensusglobalprod%3D%2526c.%2526a.%2526activitymap.%2526page%253DData%252520Protection%252520and%252520Privacy%252520Policy_451616%2526link%253DOnline%252520Privacy%252520Policy%252520Information%252520on%252520children%252527s%252520online%252520privacy%25252C%252520data%252520retention%25252C%252520document%252520accessibility%25252C%252520info%252520collected%252520from%252520e-ma%2526region%253DlistArticlesContainer_List_1565923007%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DData%252520Protection%252520and%252520Privacy%252520Policy_451616%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.census.gov%25252Fabout%25252Fpolicies%25252Fprivacy%25252Fprivacy-policy.html%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829351731
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cebucensusglobalprod%3D%2526c.%2526a.%2526activitymap.%2526page%253DData%252520Protection%252520and%252520Privacy%252520Policy_451616%2526link%253DOur%252520Privacy%252520Principles%252520Information%252520about%252520the%252520U.S.%252520Census%252520Bureau%252527s%252520privacy%252520principles.%2526region%253DlistArticlesContainer_List_1565923007%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DData%252520Protection%252520and%252520Privacy%252520Policy_451616%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.census.gov%25252Fabout%25252Fpolicies%25252Fprivacy%25252Fdata_stewardship%25252Four_privacy_principles.html%2526ot%253DA",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354611
+                    }
+                ]
+            },
+            "s_tp": {
+                "name": "s_tp",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829338197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7133",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7133",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829341607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2853",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2853",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829347377
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2927",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2927",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10236",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354769
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2927",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829355091
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10236",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829356880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "10236",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829356890
+                    }
+                ]
+            },
+            "s_tslv": {
+                "name": "s_tslv",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829338193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763389338.191941,
+                        "expiry": 34560000.19194102,
+                        "value": "1728829338191",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338192
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.361068964,
+                        "value": "1728829344360",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344362
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.66928196,
+                        "value": "1728829346669",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829346669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.72645903,
+                        "value": "1728829351726",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829351729
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.275187016,
+                        "value": "1728829353275",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.607373,
+                        "value": "1728829354607",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.76525688,
+                        "value": "1728829354765",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354766
+                    }
+                ]
+            },
+            "s_vnc60": {
+                "name": "s_vnc60",
+                "domain": ".census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829338195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1734044399,
+                        "expiry": 5215061,
+                        "value": "1734013338192%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829338195
+                    }
+                ]
+            },
+            "TS01a30f36": {
+                "name": "TS01a30f36",
+                "domain": ".www.census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829334458,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01283c52a47ffcb31b6a1123fa85538342f29a91a164d194564e4282fd61043c5665605e4db5212651e53d4dc8c394ba1b7d099818",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829334457
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01283c52a47ffcb31b6a1123fa85538342f29a91a164d194564e4282fd61043c5665605e4db5212651e53d4dc8c394ba1b7d099818",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01283c52a47ffcb31b6a1123fa85538342f29a91a164d194564e4282fd61043c5665605e4db5212651e53d4dc8c394ba1b7d099818",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344665
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01283c52a47ffcb31b6a1123fa85538342f29a91a164d194564e4282fd61043c5665605e4db5212651e53d4dc8c394ba1b7d099818",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01283c52a47ffcb31b6a1123fa85538342f29a91a164d194564e4282fd61043c5665605e4db5212651e53d4dc8c394ba1b7d099818",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01283c52a47ffcb31b6a1123fa85538342f29a91a164d194564e4282fd61043c5665605e4db5212651e53d4dc8c394ba1b7d099818",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354038
+                    }
+                ]
+            },
+            "": {
+                "name": "",
+                "domain": "www.census.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829334452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "HttpOnly",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829334445
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "HttpOnly",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344663
+                    }
+                ]
+            },
+            "K755t7m": {
+                "name": "K755t7m",
+                "domain": "www.census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829334457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!M5JYvxQBbpa9mAOZAeF/WD3VYW/e2G/13w/G6oENUySQQoZA5DGWGL4eS7iOwKPixpTr3DxEZEWgyA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829334452
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!+rU+8iSyIb6Hi0GZAeF/WD3VYW/e2N8l9e6u6kDrDqtUqArrdE8U9RDtRna6vpAHwZNBxyn0oKTJCkk=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829337770
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!uc0abnRM74WE+nyZAeF/WD3VYW/e2OQvoT3rsqmC/dXrGoGWBGHvpC5rpDqLh9ECK6SZ5U7WGV+ZHjs=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829344665
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!/dx4NB0WNKAJ1mWZAeF/WD3VYW/e2OVzjrfsTj8hKUVV9MuoBjgEIBMy8EEdEVfZw6RtMp4jFY53d5Y=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345351
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!SQTFiAnqC5pejyWZAeF/WD3VYW/e2IJGY3cJIlO6oTRnMK1W+FevfdrCIYWnojS2JTQzTbHYg/ig2jk=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352606
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!yRK1yVH/vCegE7WZAeF/WD3VYW/e2GLCixSyPbYfZX6K+NOMX425ICRmCLmGz6AUjKLEXl8Q/2ZQLLU=",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354037
+                    }
+                ]
+            },
+            "dateLastVisited": {
+                "name": "dateLastVisited",
+                "domain": "www.census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829336708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365336,
+                        "expiry": 31536000,
+                        "value": "Sun Oct 13 2024 16:22:16 GMT+0200 (Central European Summer Time)",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336706
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Sun Oct 13 2024 16:22:25 GMT+0200 (Central European Summer Time)",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345823
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Sun Oct 13 2024 16:22:33 GMT+0200 (Central European Summer Time)",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353184
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Sun Oct 13 2024 16:22:34 GMT+0200 (Central European Summer Time)",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354265
+                    }
+                ]
+            },
+            "visitNumber": {
+                "name": "visitNumber",
+                "domain": "www.census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829336708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365336,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336708
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345823
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829353184
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354265
+                    }
+                ]
+            },
+            "visitor": {
+                "name": "visitor",
+                "domain": "www.census.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829336706,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365336,
+                        "expiry": 31536000,
+                        "value": "census website visitor",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829336704
+                    }
+                ]
+            }
+        },
+        "/about/policies": {
+            "": {
+                "name": "",
+                "domain": "www.census.gov",
+                "path": "/about/policies",
+                "current_label": 1,
+                "label_ts": 1728829345351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "HttpOnly",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829345349
+                    }
+                ]
+            }
+        },
+        "/about/policies/privacy": {
+            "": {
+                "name": "",
+                "domain": "www.census.gov",
+                "path": "/about/policies/privacy",
+                "current_label": 1,
+                "label_ts": 1728829352604,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "HttpOnly",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829352603
+                    }
+                ]
+            }
+        },
+        "/about/policies/privacy/data_stewardship": {
+            "": {
+                "name": "",
+                "domain": "www.census.gov",
+                "path": "/about/policies/privacy/data_stewardship",
+                "current_label": 1,
+                "label_ts": 1728829354035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "HttpOnly",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829354034
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728829337238,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744381337.236004,
+                        "expiry": 15552000.236004114,
+                        "value": "79039699107088478633462148202254433955",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829337237
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.076546907,
+                        "value": "79039699107088478633462148202254433955",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829338078
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728829338077,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744381338.076509,
+                        "expiry": 15552000.076508999,
+                        "value": "79039699107088478633462148202254433955",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829338076
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728829337940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760365337.938751,
+                        "expiry": 31536000.938750982,
+                        "value": "g_surferid~ZwvXmgAAAFvtdgN2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728829337939
+                    }
+                ]
+            }
+        }
+    }
+}

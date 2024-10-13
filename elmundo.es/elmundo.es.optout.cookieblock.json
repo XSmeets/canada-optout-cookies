@@ -1,0 +1,635 @@
+{
+    "adkernel.com": {
+        "/": {
+            "ADKUID": {
+                "name": "ADKUID",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654079763,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731246079.756909,
+                        "expiry": 2592000.7569088936,
+                        "value": "A6787704467671380770",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654079762
+                    }
+                ]
+            },
+            "DSP2F_106": {
+                "name": "DSP2F_106",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654079762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "766575",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654079761
+                    }
+                ]
+            },
+            "DSP2F_77": {
+                "name": "DSP2F_77",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654079761,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "688143",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654079760
+                    }
+                ]
+            },
+            "SSPZ": {
+                "name": "SSPZ",
+                "domain": ".adkernel.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654079760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "221544",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654079758
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654087433,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762350086.429456,
+                        "expiry": 33695999.429455996,
+                        "value": "KEGHeF81M3RyOUhuRyUyRjgzeDlBeDlGblFMNnhJcDFsbFFuV2I3RjR4d3dSRUdsMnBrOXpJUnVQU2hIbVU1UXNteGMwaFd3elpYUVB0S096VVFMY0xlOVdlSEhFbkY2R1hUVGVRMU8lMkZVOUtlZCUyQkJEc3hZYm5JNU5XVHIyWUdwN0VJbjRocUw4eUFKOW9iNGNIWmFDRVZ2MFdyalElM0QlM0Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654087430
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654087297,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762350086.287628,
+                        "expiry": 33695999.287627935,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654087296
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654087290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762350086.287507,
+                        "expiry": 33695999.28750706,
+                        "value": "88863035-f29a-4830-9de1-7b609e6e617d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654087288
+                    }
+                ]
+            }
+        }
+    },
+    "dailymotion.com": {
+        "/": {
+            "_TEST_": {
+                "name": "_TEST_",
+                "domain": ".dailymotion.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654075433,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654075433
+                    }
+                ]
+            },
+            "ts": {
+                "name": "ts",
+                "domain": ".dailymotion.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654075432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762782075.431484,
+                        "expiry": 34128000.431483984,
+                        "value": "440969",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654075432
+                    }
+                ]
+            },
+            "v1st": {
+                "name": "v1st",
+                "domain": ".dailymotion.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654075433,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762782075.431521,
+                        "expiry": 34128000.43152094,
+                        "value": "b91f998d-26d2-65d6-ffd3-dea8f847de76",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654075432
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654075700,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728654975.698166,
+                        "expiry": 900.6981658935547,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654075699
+                    }
+                ]
+            }
+        }
+    },
+    "elmundo.es": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654074410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728654104,
+                        "expiry": 30,
+                        "value": "m24s04dj1cv6i4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654074408
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654075196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214075.191414,
+                        "expiry": 34560000.19141412,
+                        "value": "GA1.1.1475671487.1728654075",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654075195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.47177696,
+                        "value": "GA1.2.1475671487.1728654075",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654075472
+                    }
+                ]
+            },
+            "_ga_96F1LB48N7": {
+                "name": "_ga_96F1LB48N7",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654075194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214075.191162,
+                        "expiry": 34560000.19116211,
+                        "value": "GS1.1.1728654074.1.0.1728654074.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654075194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.37001705,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654106372
+                    }
+                ]
+            },
+            "_gat_gtag_UA_181957286_1": {
+                "name": "_gat_gtag_UA_181957286_1",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654075477,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728654135,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654075475
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728654075474,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728740475,
+                        "expiry": 86400,
+                        "value": "GA1.2.1871113235.1728654075",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654075473
+                    }
+                ]
+            },
+            "apw_cache": {
+                "name": "apw_cache",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654074104,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760190074.097845,
+                        "expiry": 31536000.097845078,
+                        "value": "f39b03e4-ae9a-44f6-ae95-2a55bd14deb2.1728654074.gt_CMg.CA.0...0.0..0.wgIdd-0nnA9a3VQqM_kFaZaGStakf9S9zErQS52AkV4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654074098
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654074913,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760276474,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JjZmUtNDFlMy02OWM5LTg4NmUtZDRkY2RjN2MxZTlkIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDE6MTQuOTEwWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQxOjE0LjkxMFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654074911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2JjZmUtNTQzOS02ZmQ5LWI3MWItYjE2YTg0ZmU1YTlmIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTM6NDE6MTUuMjAzWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEzOjQxOjE1LjIwM1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728654075204
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654075212,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728654075211
+                    }
+                ]
+            },
+            "ue_consentState": {
+                "name": "ue_consentState",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728654076071,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728657676.069376,
+                        "expiry": 3600.0693759918213,
+                        "value": "%7B%22step%22%3A1%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728654076070
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3600.760071992874,
+                        "value": "%7B%22step%22%3A2%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728654096760
+                    }
+                ]
+            },
+            "ue_privacyPolicy": {
+                "name": "ue_privacyPolicy",
+                "domain": ".elmundo.es",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654074260,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763214074.258848,
+                        "expiry": 34560000.25884795,
+                        "value": "16",
+                        "same_site": "lax",
+                        "timestamp": 1728654074259
+                    }
+                ]
+            }
+        }
+    },
+    "richaudience.com": {
+        "/": {
+            "avcid-sht-uid": {
+                "name": "avcid-sht-uid",
+                "domain": ".richaudience.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654081864,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736430081.862563,
+                        "expiry": 7776000.862562895,
+                        "value": "2616a466-036c-46e0-8f59-fdff0fc283b8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654081863
+                    }
+                ]
+            },
+            "pdid": {
+                "name": "pdid",
+                "domain": ".richaudience.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654080828,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731246080.825426,
+                        "expiry": 2592000.8254261017,
+                        "value": "96fc51e0-0a4c-47ca-8882-1zz1728654042",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654080826
+                    }
+                ]
+            }
+        }
+    },
+    "sharethrough.com": {
+        "/": {
+            "stx_user_id": {
+                "name": "stx_user_id",
+                "domain": ".sharethrough.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654081620,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731246081.617858,
+                        "expiry": 2592000.617857933,
+                        "value": "2616a466-036c-46e0-8f59-fdff0fc283b8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654081618
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654073553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206073.549965,
+                        "expiry": 15552000.549964905,
+                        "value": "LAvfIHl4ebY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654073552
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728654073563,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744206073.550884,
+                        "expiry": 15552000.550884008,
+                        "value": "CgJDQRIEGgAgJQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654073553
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728654073552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "xnR7UXmZFpQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728654073551
+                    }
+                ]
+            }
+        }
+    }
+}

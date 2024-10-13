@@ -1,0 +1,96 @@
+{
+    "kela.fi": {
+        "/": {
+            "KelaAA010c55cf": {
+                "name": "KelaAA010c55cf",
+                "domain": ".kela.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652328914,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "018411a762bc0dcb4e990f2e139ecf9c609b1d2d1489efce4b3729f01661277a91b32f1cb3c5496bbb2cacf8260786417e117f515bf472a66aa5629cdcbfd80588c6a4c0f8",
+                        "same_site": "lax",
+                        "timestamp": 1728652328906
+                    }
+                ]
+            },
+            "KelaAA01d28664": {
+                "name": "KelaAA01d28664",
+                "domain": ".www.kela.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652329931,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "018411a7621dec0d272d9f4eb1dac6fb67618f0527f00de240689abd9b3c57dc76fd51f23b8f788d2b4aba126afde72e9adb99e85e6c541663b5e909392351689b9fc37573",
+                        "same_site": "lax",
+                        "timestamp": 1728652329929
+                    }
+                ]
+            },
+            "__Host-kelaBalancer": {
+                "name": "__Host-kelaBalancer",
+                "domain": "kela.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652328905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0cca89ee6ce41fa060efced163eaba68",
+                        "same_site": "strict",
+                        "timestamp": 1728652328895
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "f7653a1294b3751c98260b9a156b2883",
+                        "same_site": "strict",
+                        "timestamp": 1728652329928
+                    }
+                ]
+            },
+            "__Host-siteLanguage": {
+                "name": "__Host-siteLanguage",
+                "domain": "www.kela.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728652334157,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "fi",
+                        "same_site": "lax",
+                        "timestamp": 1728652334156
+                    }
+                ]
+            }
+        }
+    }
+}

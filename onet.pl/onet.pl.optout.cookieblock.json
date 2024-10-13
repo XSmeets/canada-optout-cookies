@@ -1,0 +1,2388 @@
+{
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641878881,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246678.878895,
+                        "expiry": 604800.8788950443,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641878880
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MSPTC": {
+                "name": "MSPTC",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641906148,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337907.146779,
+                        "expiry": 33696001.14677906,
+                        "value": "vQ1v8T5dDqeRj8mGzL8TZ-oVm-pgV1R4P_5bo3DzDP8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906147
+                    }
+                ]
+            },
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641878880,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337878.878814,
+                        "expiry": 33696000.87881398,
+                        "value": "0F0F5E79346C665A10D84B6C354667FB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641878879
+                    }
+                ]
+            }
+        }
+    },
+    "csr.onet.pl": {
+        "/": {
+            "adp_cpd": {
+                "name": "adp_cpd",
+                "domain": ".csr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641904699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728814704.696179,
+                        "expiry": 172800.69617891312,
+                        "value": "\"eJyrrgUAAXUA+Q==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 172799.75985908508,
+                        "value": "\"eJyrrgUAAXUA+Q==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908029
+                    }
+                ]
+            },
+            "adp_session": {
+                "name": "adp_session",
+                "domain": ".csr.onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641904698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201904.69609,
+                        "expiry": 34560000.69608998,
+                        "value": "bHU6MjAyNDEwMTExMjE3NTA0MDQ3MjAxNjU5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904697
+                    }
+                ]
+            },
+            "dedup_camp": {
+                "name": "dedup_camp",
+                "domain": ".csr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641905782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "\"eJyrVjI0szAxMDNRsjI0N7IwMzG0NDDVAQqaGloaGaILGlgYWVggC9YCAKoZDTM=\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641905781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eJyrVjI0szAxMDNRsjI0N7IwMzG0NLDUAQqaGloaGSIJmoIEDSyMLCzQVVoamJkZIwvWAgDnJhFj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909689
+                    }
+                ]
+            },
+            "onet_cap": {
+                "name": "onet_cap",
+                "domain": ".csr.onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641905784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731233905.781118,
+                        "expiry": 2592000.781117916,
+                        "value": "eJyLjlZKSSzWMTQzNbQ0MlTSMdQxNDeyACJjA9PYWABy1gcW",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641905783
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.6883978844,
+                        "value": "eJyLjlZKSSzWMTQzNbQ0MlTSMdQxNDeyACJjA9NYHZikpYGZmTGKpGVsLACjMA2p",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909689
+                    }
+                ]
+            },
+            "onet_rt": {
+                "name": "onet_rt",
+                "domain": ".csr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641904700,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731233904.696223,
+                        "expiry": 2592000.6962230206,
+                        "value": "\"dGIzMHNnfDE3MzEyMzM5MDR8dGI3c2d8MTcyOTI0NjcwNHx0YjJzZ3wxNzI4ODE0NzA0fHRiM3NnfDE3Mjg5MDExMDR8dGI0c2d8MTcyODk4NzUwNHx0YnNnfDE3Mjg3MjgzMDR8c3luY2VkfDE3MzEyMzM5MDQ=\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904699
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2591999.7600450516,
+                        "value": "\"dGIzMHNnfDE3MzEyMzM5MDR8dGI3c2d8MTcyOTI0NjcwNHx0YjJzZ3wxNzI4ODE0NzA0fHRiM3NnfDE3Mjg5MDExMDR8dGI0c2d8MTcyODk4NzUwNHx0YnNnfDE3Mjg3MjgzMDR8c3luY2VkfDE3MzEyMzM5MDR8bG9jP2NpdHk9V0FSU1pBV0F8MTczMTMyMDMwNw==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908030
+                    }
+                ]
+            },
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "csr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641870070,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177870.066451,
+                        "expiry": 31536000.066451073,
+                        "value": "97",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870067
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.426489115,
+                        "value": "35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870427
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "csr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641870071,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177870.066529,
+                        "expiry": 31536000.066529036,
+                        "value": "1728641859",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870070
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.426538944,
+                        "value": "1728641870",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870427
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": "csr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641904697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177904.695997,
+                        "expiry": 31536000.695997,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904696
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31535999.759735107,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908028
+                    }
+                ]
+            }
+        },
+        "/1746213": {
+            "euconsent": {
+                "name": "euconsent",
+                "domain": ".csr.onet.pl",
+                "path": "/1746213",
+                "current_label": 3,
+                "label_ts": 1728641904307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337904.305788,
+                        "expiry": 33696000.30578804,
+                        "value": "CQGUw_AQGUw_AEYACAENBJFgAAAAAAAAAB5YKfwAAU_AJMNCogDLAkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABBkACAAACABCIAIACgQAAQCBQABgAQDAQAEDAACACwEAgABAdAxTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8AiAREwUAAAAABWAAICwWBxJICVCQQJcQbQAAEACAQQAFCCTkwABAGbLUHgybRlaYBo-YJENMAyAIAAAAA.cAAAAbgAAIAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904307
+                    }
+                ]
+            },
+            "gpubconsent": {
+                "name": "gpubconsent",
+                "domain": ".csr.onet.pl",
+                "path": "/1746213",
+                "current_label": 3,
+                "label_ts": 1728641904306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337904.305714,
+                        "expiry": 33696000.30571389,
+                        "value": "npa%3D1%26vendorListVersion%3D73%26cmpTid%3D1746213%26publicationVersion%3D1178%26customVendorsConsent%3D0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904306
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641905381,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744193905.380532,
+                        "expiry": 15552000.380532026,
+                        "value": "AfxxVi7B6Nxwu3dGjVMucWBTHqVmV4WlUNWeKFtKIqDcLykX83w5IQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641905381
+                    }
+                ]
+            },
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641908393,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201908.341583,
+                        "expiry": 34560000.34158301,
+                        "value": "AHWqTUkpGyun4Ld716WxnCZ-aH-CFpQi2QlHSknPcnf7jeRlq1LNZvjnHqYGZ4qSwlw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908392
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641905382,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744193905.380591,
+                        "expiry": 15552000.380590916,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641905382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.341532946,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908392
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641905383,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642805.380609,
+                        "expiry": 900.380609035492,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641905383
+                    }
+                ]
+            }
+        }
+    },
+    "ems.onet.pl": {
+        "/": {
+            "cdps": {
+                "name": "cdps",
+                "domain": ".ems.onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641875504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201875.501729,
+                        "expiry": 34560000.50172901,
+                        "value": ".202410111217504047201659",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641875502
+                    }
+                ]
+            }
+        }
+    },
+    "events.ocdn.eu": {
+        "/": {
+            "ea_uuid": {
+                "name": "ea_uuid",
+                "domain": ".events.ocdn.eu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641870333,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201870.331943,
+                        "expiry": 34560000.331943035,
+                        "value": "202410111217504047201659",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870332
+                    }
+                ]
+            },
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "events.ocdn.eu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641870334,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177870.332025,
+                        "expiry": 31536000.33202505,
+                        "value": "28",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870334
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "events.ocdn.eu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641870335,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177870.332048,
+                        "expiry": 31536000.33204794,
+                        "value": "1728641870",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870335
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641876817,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744453076.81727,
+                        "expiry": 15811200.81727004,
+                        "value": "518=NBe7xYsY98LmsiPkAjoDYKgjn7zwVwyfQBALkcQK-NuD1nX9kBDQIGHtu-jtm7sraW8nbgwR1fr_I1KgIgAjbAC7OOa7Zm_dQuKrq6vukoXvwQ-1NAMqNe3yqmdZ3FctLIQ3dc8NoiEuMbg8_YaJMIDn34qafwQ18OCeVwyGtrsfMpfjZA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876817
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.819964886,
+                        "value": "518=k_4lyDELMMfMznlihJX85-iHrr5muYxmAjOdBKFkKHZFj1Mv022_bvkc08OTkfz1NBdndE2IXes40kXcdtDu1vV6Sfp4-qFX4ces_NTC1fPcucI_dmz1SNCTfxLwfgfhg_L-mhMGvSO2P10KGPRqquMpXBbONf4NHmaX7buIc61zbpzsJgg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876820
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.820658922,
+                        "value": "518=Cbi6oMHDizWrKR9yk_uV2-zfSNDPZFuoipzWYfnDV48wtqZqLywavJPvm8DEVbqMVjJuuWnFZLLR3XfhXfm-A-POHHpQM_xIePPs51foMIq0P6DGbsuRyIE_qKdtuJQFce2UYFc4GY4mSptvi2yidZSyp9h-Eb9wWO48BZFjiUShr6N-Wg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876821
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.096786976,
+                        "value": "518=LNLCXmN2GAHpodIJV23y-2RVpxLu_xP_1XwUr2zfNzMJz0Y_Yzp0XyFus3QM149JRT6p3XAZuFboTaxshhh5YaLzA2vzSulLhZvLs6TVk-d604AFyuwVofYC9NKoazR0aZg4ppjLe8Kfbss8ii6QDQLVwdsA5RwECANJmnYq8HQUfhzwstdlkGIjPg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641880097
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641874123,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769874.11441,
+                        "expiry": 34128000.11440992,
+                        "value": "KlS3TRaGQMGGBXLBxaAyx2MUssGMB1DcL6nxmGtypSs7yOaUGsRPtP7iGKGGqQ0EgGlsle82syRPgS4THFSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.345675945,
+                        "value": "KlShvMGGQMGGBXLBxaAyx2MUssGMR1DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVgRMSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.19521999,
+                        "value": "KlGzoRMGQMGGBXLBxaAyx2MUssGMI1DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVgEMSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641877196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.30796695,
+                        "value": "KlQ-YRaGQMGGBXLBxaAyx2MUssGMI1DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVgFMSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641877308
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.27090192,
+                        "value": "KlxdnRMGQMGGBXLBxaAyx2MUssGMy1DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVg9MSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906271
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.54899001,
+                        "value": "KlSq2MMGQMGGBXLBxaAyx2MUssGMy1DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVgfMSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.915429115,
+                        "value": "KlQDfRXGQMGGBXLBxaAyx2MUssGM31DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVg2MSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.95682001,
+                        "value": "KlGPVMGGQMGGBXLBxaAyx2MUssGM31DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgS4TXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.89453292,
+                        "value": "Klx-dMMGQMGGBXLBxaAyx2MUssGMZ1DcL6nxmGtypSs7yOaUGsRPBeniGKGGqQ0EgGlsle82syRPgSVgXMnG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641910897
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641873891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769873.888206,
+                        "expiry": 34128000.888206005,
+                        "value": "RxcWBen4s2kUAuC2xnhag_MLKuD5iN3OSrC7X1YC8Gb.37",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641873890
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.11445403,
+                        "value": "Ouja8ZavzKv3buZgx9LCbdUEN1zUaxsaAVuaHCRqH0j.y7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874123
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.345957994,
+                        "value": "dnB6BLK71iEfldMttHtJAdq2eLzC3V2TbMXCRqcjYoD.K7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876348
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.19524288,
+                        "value": "_PUXY8ArVYQSB0Lr4nBXr4yAKqdLbP.pbLJae0xjBiD.Q7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641877196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.308017015,
+                        "value": "_P8RxWAQiqnSawm7EqKT_2xDKjEbel.svAqATwyuczz.k7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641877308
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.27103591,
+                        "value": "6wkquFDxRuwQxe2ENFz1JgO59uv6hv12p4u_P6Em0Fr.Q7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906272
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.549015045,
+                        "value": "SwJ1VEDSmdxGCsKuVcI3CiOFxyTp0rK41I1pHPtFnu3.27",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.91545296,
+                        "value": "cgARjp55fPMsaoNUu9BgY3jC6SRfEGxFM6Bg.lGhBi3.O7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.9568491,
+                        "value": "bGYXKC2Z2Ncu4EyF_4CTE1lTS3mPfLK78wRxTlEw6ej..7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.894633055,
+                        "value": "ym0qOvMS.JE4cEuvmmcor82v1UwjagcJH_lKCwSQhSH.v7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641910897
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641873890,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246673.888174,
+                        "expiry": 604800.888174057,
+                        "value": "KlxCBRGGQMGGBXLBxaAyx2MUssGMXP8c25nSGhDfYaLIXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641873889
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641873889,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769873.888095,
+                        "expiry": 34128000.8880949,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641873888
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.11413002,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.345519066,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.19516802,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641877196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.30791211,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641877308
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.2708199,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906271
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.54890704,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.91537404,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.95672202,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641909957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.89423895,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641910897
+                    }
+                ]
+            }
+        }
+    },
+    "onet.pl": {
+        "/": {
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641873336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762769873,
+                        "expiry": 34128000,
+                        "value": "rDTBYv8RABhvXPIrpvkEyfD0u7dBiNjQxy06jda4zLn.L7|1728641873|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641873335
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641878752,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728728278,
+                        "expiry": 86400,
+                        "value": "16c5c39087ba11ef9457dd32b8aecb3e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641878750
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "16c5c39087ba11ef9457dd32b8aecb3e",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641906803
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641878753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762337878,
+                        "expiry": 33696000,
+                        "value": "16c5d38087ba11efbd5b3dd4eda85ef6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641878752
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "16c5d38087ba11efbd5b3dd4eda85ef6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641906804
+                    }
+                ]
+            },
+            "ats_ri": {
+                "name": "ats_ri",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641869567,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1734002269,
+                        "expiry": 5360400,
+                        "value": "fp_ms=1728555469564",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869566
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5360400,
+                        "value": "fp_ms=1728555469564&ri=&model=&models=eyJhdHNfcmkiOm51bGx9&ttl_ms=3600000&expires_ms=1728645470789&version=1728641870.841&fs=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870792
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5360400,
+                        "value": "fp_ms=1728641906294&ri=&model=&models=eyJhdHNfcmkiOm51bGx9&ttl_ms=3600000&expires_ms=1728645470789&version=1728641870.841&fs=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906295
+                    }
+                ]
+            },
+            "ea_uuid": {
+                "name": "ea_uuid",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641870560,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201870.558121,
+                        "expiry": 34560000.558120966,
+                        "value": "202410111217504047201659",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870559
+                    }
+                ]
+            },
+            "leuconsent": {
+                "name": "leuconsent",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641904283,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337904,
+                        "expiry": 33696000,
+                        "value": "CQGUw_AQGUw_AEYACAENBJFgAAAAAAAAAB5YKfwAAU_AJMNCogDLAkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABBkACAAACABCIAIACgQAAQCBQABgAQDAQAEDAACACwEAgABAdAxTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8AiAREwUAAAAABWAAICwWBxJICVCQQJcQbQAAEACAQQAFCCTkwABAGbLUHgybRlaYBo-YJENMAyAIAAAAA.cAAAAbgAAIAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904282
+                    }
+                ]
+            },
+            "lpubconsent": {
+                "name": "lpubconsent",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641904282,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337904,
+                        "expiry": 33696000,
+                        "value": "npa%3D1%26vendorListVersion%3D73%26cmpTid%3D1746213%26publicationVersion%3D1178%26customVendorsConsent%3D0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641904281
+                    }
+                ]
+            },
+            "tld_cookie": {
+                "name": "tld_cookie",
+                "domain": ".onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869566,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869565
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870790
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641906295
+                    }
+                ]
+            },
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641867987,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177867.976476,
+                        "expiry": 31536000.976475954,
+                        "value": "17",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641867979
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.564888954,
+                        "value": "84",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641868565
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641867997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177867.976748,
+                        "expiry": 31536000.97674799,
+                        "value": "1728641868",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641867988
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "www.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872913,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201872.910925,
+                        "expiry": 34560000.91092491,
+                        "value": "0:m24kqln1:Few~Y5Aod9RFLtgKhd89r3SCWx_jRXha",
+                        "same_site": "strict",
+                        "timestamp": 1728641872912
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.30222607,
+                        "value": "0:m24kqln1:Few~Y5Aod9RFLtgKhd89r3SCWx_jRXha",
+                        "same_site": "strict",
+                        "timestamp": 1728641906303
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "www.onet.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641872912,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728643672.910831,
+                        "expiry": 1800.9108309745789,
+                        "value": "0:m24kqln1:TyrmCfITFEYMTLX_2HqZMOCDSUHz9fMn",
+                        "same_site": "strict",
+                        "timestamp": 1728641872911
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.3020949363708,
+                        "value": "0:m24kqln1:TyrmCfITFEYMTLX_2HqZMOCDSUHz9fMn",
+                        "same_site": "strict",
+                        "timestamp": 1728641906302
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641906246,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1728641906246
+                    }
+                ]
+            }
+        }
+    },
+    "pulsembed.eu": {
+        "/": {
+            "__gfp_s_64b": {
+                "name": "__gfp_s_64b",
+                "domain": ".pulsembed.eu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641876972,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762769876,
+                        "expiry": 34128000,
+                        "value": "1q2Kol2E6co6JlpQD9gsjnthijClSwcFBGi.nWEaWxb.r7|1728641876|2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641876971
+                    }
+                ]
+            },
+            "ats_ri": {
+                "name": "ats_ri",
+                "domain": ".pulsembed.eu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641874823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1734002274,
+                        "expiry": 5360400,
+                        "value": "fp_ms=1728555474820",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874822
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5360400,
+                        "value": "fp_ms=1728641908127",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908130
+                    }
+                ]
+            },
+            "leuconsent": {
+                "name": "leuconsent",
+                "domain": ".pulsembed.eu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641908128,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337908,
+                        "expiry": 33696000,
+                        "value": "CQGUw_AQGUw_AEYACAENBJFgAAAAAAAAAB5YKfwAAU_AJMNCogDLAkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABBkACAAACABCIAIACgQAAQCBQABgAQDAQAEDAACACwEAgABAdAxTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8AiAREwUAAAAABWAAICwWBxJICVCQQJcQbQAAEACAQQAFCCTkwABAGbLUHgybRlaYBo-YJENMAyAIAAAAA.cAAAAbgAAIAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908128
+                    }
+                ]
+            },
+            "lpubconsent": {
+                "name": "lpubconsent",
+                "domain": ".pulsembed.eu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641908127,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337908,
+                        "expiry": 33696000,
+                        "value": "npa%3D1%26vendorListVersion%3D73%26cmpTid%3D1746213%26publicationVersion%3D1178%26customVendorsConsent%3D0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908126
+                    }
+                ]
+            },
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "pulsembed.eu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872427,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.425976,
+                        "expiry": 31536000.425976038,
+                        "value": "48",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872426
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "pulsembed.eu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.426014,
+                        "expiry": 31536000.426013947,
+                        "value": "1728641857",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872427
+                    }
+                ]
+            }
+        },
+        "/p2em/I430pqdKc": {
+            "tld_cookie": {
+                "name": "tld_cookie",
+                "domain": ".pulsembed.eu",
+                "path": "/p2em/I430pqdKc",
+                "current_label": 0,
+                "label_ts": 1728641874822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874821
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641908129
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641874487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744193874.486314,
+                        "expiry": 15552000.486314058,
+                        "value": "FdHWp7wrIdg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874487
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641874487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744193874.486342,
+                        "expiry": 15552000.486341953,
+                        "value": "CgJDQRIEGgAgMw%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874487
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641874486,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "L1gxXW94wxQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874486
+                    }
+                ]
+            }
+        }
+    },
+    "cdn.raspaid.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "cdn.raspaid.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.600288,
+                        "expiry": 31536000.600287914,
+                        "value": "90",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872600
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "cdn.raspaid.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872602,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.600332,
+                        "expiry": 31536000.60033202,
+                        "value": "1728641872",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872601
+                    }
+                ]
+            }
+        }
+    },
+    "cdp.ems.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "cdp.ems.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641870365,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177870.362617,
+                        "expiry": 31536000.362617016,
+                        "value": "87",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870363
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "cdp.ems.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641870366,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177870.36268,
+                        "expiry": 31536000.36267996,
+                        "value": "1728641870",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641870365
+                    }
+                ]
+            }
+        }
+    },
+    "cmp.dreamlab.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "cmp.dreamlab.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.525763,
+                        "expiry": 31536000.525763035,
+                        "value": "89",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872526
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.757978916,
+                        "value": "89",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641875758
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "cmp.dreamlab.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872528,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.525799,
+                        "expiry": 31536000.525799036,
+                        "value": "1728641336",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872527
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.758222103,
+                        "value": "1728641336",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641875758
+                    }
+                ]
+            }
+        }
+    },
+    "cmp.ringpublishing.com": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "cmp.ringpublishing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641871162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177871.16065,
+                        "expiry": 31536000.160650015,
+                        "value": "86",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641871161
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "cmp.ringpublishing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641871164,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177871.160715,
+                        "expiry": 31536000.160715103,
+                        "value": "1728641871",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641871163
+                    }
+                ]
+            }
+        }
+    },
+    "img.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "img.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872787,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.786619,
+                        "expiry": 31536000.786618948,
+                        "value": "88",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872787
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "img.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641872788,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177872.786651,
+                        "expiry": 31536000.786650896,
+                        "value": "1728640979",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641872787
+                    }
+                ]
+            }
+        }
+    },
+    "konto.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "konto.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641871860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177871.859706,
+                        "expiry": 31536000.859705925,
+                        "value": "43",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641871860
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "konto.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641871861,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177871.859748,
+                        "expiry": 31536000.859747887,
+                        "value": "1728641871",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641871861
+                    }
+                ]
+            }
+        }
+    },
+    "lib.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "lib.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177869.227311,
+                        "expiry": 31536000.227310896,
+                        "value": "74",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869227
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.02154994,
+                        "value": "18",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874024
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.225617886,
+                        "value": "74",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874226
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.633594036,
+                        "value": "19",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641875634
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "lib.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869230,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177869.227354,
+                        "expiry": 31536000.22735405,
+                        "value": "1728640981",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869229
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.021682978,
+                        "value": "1728641793",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874024
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.225662947,
+                        "value": "1728640981",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874226
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.63363099,
+                        "value": "1728641421",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641875634
+                    }
+                ]
+            }
+        }
+    },
+    "livebar.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "livebar.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869480,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177869.479072,
+                        "expiry": 31536000.479072094,
+                        "value": "60",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869479
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "livebar.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869481,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177869.479097,
+                        "expiry": 31536000.47909689,
+                        "value": "1728641869",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869480
+                    }
+                ]
+            }
+        }
+    },
+    "sgqcvfjvr.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "sgqcvfjvr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177869.366842,
+                        "expiry": 31536000.36684203,
+                        "value": "85",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869367
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.367108107,
+                        "value": "12",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869369
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.420104027,
+                        "value": "60",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869420
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.612543106,
+                        "value": "12",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874613
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.669109106,
+                        "value": "60",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874669
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "sgqcvfjvr.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869370,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177869.367225,
+                        "expiry": 31536000.36722493,
+                        "value": "1728641453",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869369
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.42015004,
+                        "value": "1728641784",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869420
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.612624884,
+                        "value": "1728641453",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874614
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.66915989,
+                        "value": "1728641784",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874670
+                    }
+                ]
+            }
+        }
+    },
+    "static.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "static.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.509965897,
+                        "value": "65",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869510
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51166892,
+                        "value": "49",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869511
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51488805,
+                        "value": "26",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869515
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51984501,
+                        "value": "30",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869520
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.5245049,
+                        "value": "24",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869525
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.52591896,
+                        "value": "52",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869526
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.581012964,
+                        "value": "21",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869581
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.58187604,
+                        "value": "41",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869582
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.588378906,
+                        "value": "6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869588
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.596734047,
+                        "value": "6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869597
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "static.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641869218,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.509985924,
+                        "value": "1728062037",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869510
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.511684895,
+                        "value": "1728285215",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869512
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51491189,
+                        "value": "1728381924",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869515
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.519870996,
+                        "value": "1728381924",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869520
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.524533987,
+                        "value": "1728556526",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869525
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.525953054,
+                        "value": "1728088727",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869526
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.58110404,
+                        "value": "1728088727",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869581
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.581895113,
+                        "value": "1728089879",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869582
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.588414907,
+                        "value": "1728224586",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869588
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.596777916,
+                        "value": "1728394834",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641869597
+                    }
+                ]
+            }
+        }
+    },
+    "yfp.onet.pl": {
+        "/": {
+            "acc_segment": {
+                "name": "acc_segment",
+                "domain": "yfp.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641874084,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177874.082592,
+                        "expiry": 31536000.08259201,
+                        "value": "29",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874083
+                    }
+                ]
+            },
+            "acc_segment_ts": {
+                "name": "acc_segment_ts",
+                "domain": "yfp.onet.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641874086,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177874.082663,
+                        "expiry": 31536000.08266306,
+                        "value": "1728641874",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641874085
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,929 @@
+{
+    "irs.gov": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825008854,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728828608.838914,
+                        "expiry": 3600.8389139175415,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825008843
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825010278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729429810,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=6o9xlco48yf&ss=m27lruqk&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825010276
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=bnllbf4w7p7&ss=m27lruqk&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825042574
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=rpg5sm0efhe&ss=m27lruqk&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825048525
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=rpg5sm0efhe&ss=m27lruqk&sl=1&tt=0&obo=1&ld=uhc\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049005
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=rpg5sm0efhe&ss=m27lruqk&sl=1&tt=0&obo=1&ld=uhc\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049006
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=rpg5sm0efhe&ss=m27lruqk&sl=1&tt=0&obo=1&ld=uhc&r=cedcbb7a89e1ed1db326b42aa1e556dd&ul=uhd\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=rpg5sm0efhe&ss=m27lruqk&sl=1&tt=0&obo=1&ld=uhc&r=cedcbb7a89e1ed1db326b42aa1e556dd&ul=uhd&hd=uhi\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049011
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=xmhi0zvzqhf&ss=m27lruqk&sl=1&tt=0&obo=1\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049032
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=4td4l81v1y4&ss=m27lruqk&sl=1&tt=0&obo=1\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083335
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=irs.gov&si=0yt8puwxlgsr&ss=m27lruqk&sl=1&tt=0&obo=1\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101428
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825008862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760361008.840314,
+                        "expiry": 31536000.84031391,
+                        "value": "736DB3FFB5554DD11575003A3099D844~-1~YAAQchjQF2za0XOSAQAAQiMAhgwIsZ8g9QX2Ng9m7byHQ137cH9/9XGZK2H1gm5HiH6+oUILCLpzwfTocR6ISA2IFgdB65oBG2r2H+02K33RsLzoB7Fmm9ZStLsNQoklR4+Lja0MNMXLH6h0tGMvCL4oDpZ/SfBpsOvQU6J9EG0WxExm1vERBZKD85YIF2HYYs8YiC9X1zTPoWAR6hlrtxCzsmC2BTkfT+XvKQkN9wU6MkftfrppuvM1oxm2+D6FajfShuzKCF4NHpuIULPClNXKXyzgEnXylRk6lPHCXj407iPDKZO3+SV7Yn6jj2C39lSP07yXeHZME5rhHOuwSwNsso6m8G6OCP6OrdVxw+l/7n/YtBsJUrLvIhfcg8RkM4QUs9voMmpqHz10dxriW2RLpFRuZweojeg=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825008860
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825010669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07731891,
+                        "value": "GA1.1.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049078
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08523011,
+                        "value": "GA1.1.1824613405.1728825011",
+                        "same_site": "strict",
+                        "timestamp": 1728825049086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.71120691,
+                        "value": "GA1.2.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.735919,
+                        "value": "GA1.1.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083736
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.74265599,
+                        "value": "GA1.2.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083742
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.76519489,
+                        "value": "GA1.1.1824613405.1728825011",
+                        "same_site": "strict",
+                        "timestamp": 1728825083766
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.4494009,
+                        "value": "GA1.2.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101449
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.480741024,
+                        "value": "GA1.2.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101481
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49919796,
+                        "value": "GA1.1.1824613405.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101499
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.50948405,
+                        "value": "GA1.1.1824613405.1728825011",
+                        "same_site": "strict",
+                        "timestamp": 1728825101510
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825011484,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.634213924,
+                        "value": "GS1.1.1728825011.1.1.1728825042.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825042634
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18284011,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825047183
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18304896,
+                        "value": "GS1.1.1728825011.1.1.1728825047.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825047184
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.55658293,
+                        "value": "GS1.1.1728825011.1.1.1728825048.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825048557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08504701,
+                        "value": "GS1.1.1728825011.1.1.1728825049.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825049085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08999705,
+                        "value": "GS1.1.1728825011.1.1.1728825049.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825049090
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.7648859,
+                        "value": "GS1.1.1728825011.1.1.1728825083.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825083765
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.49894595,
+                        "value": "GS1.1.1728825011.1.1.1728825100.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825100500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.40525699,
+                        "value": "GS1.1.1728825011.1.1.1728825101.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825101406
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.509202,
+                        "value": "GS1.1.1728825011.1.1.1728825101.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825101509
+                    }
+                ]
+            },
+            "_ga_ZY6FM95CS5": {
+                "name": "_ga_ZY6FM95CS5",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825010959,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.170083046,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825086170
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.17038298,
+                        "value": "GS1.1.1728825010.1.1.1728825086.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825086171
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.33946395,
+                        "value": "GS1.1.1728825010.1.1.1728825091.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825091340
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.44026995,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825093441
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.440675974,
+                        "value": "GS1.1.1728825010.1.1.1728825093.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825093442
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.96364403,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728825094964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.963835955,
+                        "value": "GS1.1.1728825010.1.1.1728825094.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825094964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.48949289,
+                        "value": "GS1.1.1728825010.1.1.1728825100.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825100491
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.39337897,
+                        "value": "GS1.1.1728825010.1.1.1728825101.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728825101394
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.4990139,
+                        "value": "GS1.1.1728825010.1.1.1728825101.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101499
+                    }
+                ]
+            },
+            "_gali": {
+                "name": "_gali",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728825041806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165979_366688",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825073404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165977_381141",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825080703
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165976_660530",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083930
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165974_908386",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825085606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165974_908386",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825086167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165972_529611",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825091336
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165971_477864",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825093437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "headingCollapsible1705618165970_420159",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825094961
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "accessible-megamenu-navigation",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101200
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "stickyNavLogo",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101388
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825010786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825070,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825010784
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825071214
+                    }
+                ]
+            },
+            "_gat_GSA_ENOR0": {
+                "name": "_gat_GSA_ENOR0",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728825010793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825070,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825010792
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083743
+                    }
+                ]
+            },
+            "_gat_UA-22588183-12": {
+                "name": "_gat_UA-22588183-12",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825047807,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728825107,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825047806
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728825010669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825042595
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825047805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825048524
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825048530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049048
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825049066
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083712
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083743
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101450
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1371665967.1728825011",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825101481
+                    }
+                ]
+            },
+            "akaalb_DMAF_ALB_PROD": {
+                "name": "akaalb_DMAF_ALB_PROD",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825008860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728825908~op=~rv=72~m=~os=~id=d92d38b23a6d9bcf9adb385f815884e1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825008854
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".irs.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728825008864,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728839408.840399,
+                        "expiry": 14400.84039902687,
+                        "value": "924882589C5C9CABAB8CA059ABAAEEE3~YAAQchjQF23a0XOSAQAAQiMAhhkoRa8V+i9SP2M+ocYdJ7VcYsHcbEk8SYj9c7jooqsdOGvXjYNV7gWsGj8JvqkzWdQlFgAaYMlZd1dA9MP02ht63PzCRTciYpBMYnucxUVtEvQuQ0M4kFq6bQB9pBPjSKc2oH+VTwXD3B9rgSjLGXFz0TZlCrFA/LjT24KXNkXDfDPaSpe8mfly9csDml/JKg+9DBZQHnN/8+ka6vxN2w+SmDpt2qAhpwjl2Br/9MRVOr0ASU3Bo39aj5dvJeTg+SIXgHkVPzi20RWDnADOiSJPT1c7vzAAcPpux+EbAkOkercvLk0Hx5WZzgtVfW2DcnS9tpoUW8eLV7dGYSWAvxO4bM5YS1cto7fwpT/utTnrsDgd8bCZ~4468791~3355974",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825008862
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14366.095207929611,
+                        "value": "924882589C5C9CABAB8CA059ABAAEEE3~YAAQchjQF0Xg0XOSAQAA6qQAhhmIHsmmTOmgPcdeNhdof+CSk1daaJ2eW/PvSIWdgJRgaXIkUtkVEMYmmz3xyKrJgpmxD/HjCmTOqtAnJTjDfU4uDsOxDxW5pVKIWIod6V0iWETJj1YMsXlRN1v/Hwpngnd1p7T3Cg/DYpDWTHmVL8N+oPkfCW03PC76odbmXkYBgdti9QTkCHjo4QtZPgIk3EIwMcjdXeqgwdz2BSTTIzYtGgtiyNq+a60ap+jSyVh8mDiqo+kodX1HRrqAfg/5PU8eybwRDanlItlMxmVXY2+fCWBgNKAJXyoFnbitIVxvdqMvBuXM9ks1s8ptcyrTkn7paHvulJx9jkJR6oFOcArjpkjttFYpovmLtZSdvYcgeh8TRV39WPKgSqnVXA==~4468791~3355974",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825042098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14360.984941959381,
+                        "value": "924882589C5C9CABAB8CA059ABAAEEE3~YAAQchjQFwDh0XOSAQAALbwAhhn2dL/9cO554Qy0KsRoHBlmDraAGLz7KVu7/60jgI+rVIe3+eHb8WIKrsTCm+J/m/Y68NbIvAAjenkcNyXipYj44qS4HOfTY8kKKm58lGnWWOH8pKaEO/FynqG5uE++kKZFwYl85jaFls8XCJOE3NvlfMSwIt0TufgUmZkGVsRVq05yQyB1bq8zSEdzU0FBjp6u1whL+ElU3ORlBEc+CQBe0ABCDJuv7mks3JckpFEUo7e/igoE5hOsDUeqL1n7tVAQ3ACzHiWZhLE8gb5ujM99FrdDvqjAsmVDnK5nM1gibFVPCd/9kgQCAVN7nEWYzkXkVpdztSUCtxPl/CG4Z89ItU/CWGny5AfgTLit1U1a5gRS7tAGvpATUilDk9+AtJWi~4468791~3355974",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825047986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14325.1525349617,
+                        "value": "924882589C5C9CABAB8CA059ABAAEEE3~YAAQchjQF1bj0XOSAQAAjUUBhhneMsBgEL/6A/qmkUvjwplgvdRcbT3qGR7fHJkldC7zZoJu9TNQyUItj+VL/ZnTOy+f+a7pxnS/3D2WWPld+6QfwfI8hc0BEqDl+UzuZiIte5I1b9f64pgGkmWEBFugPBt0XU13HoUpNfoErTnSgT0hfvdu7KLg7itRDGlfOAYIV9x1m3sWraO5mjeY19c2vSqPFL1j3nySFP2eUZShXtedK9arPF3Pkw2XVKfNGDToIXC/f2dWTEfeAJU+gdyUxdBNq0jXhAYafSDMCC+76O1dO7f2D3leegdHpnYqTl7IaNAcm7S00lOWGjrFBQ5Ya5ck1AqsAIpIHS73LbZOgczhNmR+vbbGMtgRKM+r1kcVTpvAZKJszbK1oBh9GucJWn/fgUU8uoHG~4468791~3355974",
+                        "same_site": "unspecified",
+                        "timestamp": 1728825083154
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728825010654,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744377010.653403,
+                        "expiry": 15552000.653403044,
+                        "value": "HR2iFp05VR0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825010654
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728825010655,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1744377010.653439,
+                        "expiry": 15552000.653439045,
+                        "value": "CgJDQRIEGgAgDw%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825010654
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728825010653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A0wfXLWgSyI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728825010653
+                    }
+                ]
+            }
+        }
+    }
+}

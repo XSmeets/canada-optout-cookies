@@ -1,0 +1,1691 @@
+{
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641660515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337660.514386,
+                        "expiry": 33696000.51438594,
+                        "value": "11B846C3E70B6DC53F8453D6E6A16CF3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660514
+                    }
+                ]
+            }
+        }
+    },
+    "c.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641660516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246460.514433,
+                        "expiry": 604800.5144329071,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660515
+                    }
+                ]
+            },
+            "SRM_B": {
+                "name": "SRM_B",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641660516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337660.514451,
+                        "expiry": 33696000.51445103,
+                        "value": "11B846C3E70B6DC53F8453D6E6A16CF3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660516
+                    }
+                ]
+            }
+        }
+    },
+    "c.clarity.ms": {
+        "/": {
+            "ANONCHK": {
+                "name": "ANONCHK",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641660650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642260.64873,
+                        "expiry": 600.6487300395966,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660650
+                    }
+                ]
+            },
+            "MR": {
+                "name": "MR",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641660650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1729246460.64867,
+                        "expiry": 604800.6486699581,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660649
+                    }
+                ]
+            },
+            "SM": {
+                "name": "SM",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641660051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660649
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641660052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762337661.05057,
+                        "expiry": 33696001.05057001,
+                        "value": "0669AEA257D062AB3BA8BBB753D06C86",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.64851904,
+                        "value": "11B846C3E70B6DC53F8453D6E6A16CF3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641660649
+                    }
+                ]
+            },
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641657362,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177657.360659,
+                        "expiry": 31536000.360658884,
+                        "value": "ab6db259f14a4745868e8977efa064c0.20241011.20251011",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641657361
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641658180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177658.178523,
+                        "expiry": 31536000.178523064,
+                        "value": "2t2rhojtugfhs95t8vnv4liel",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.846786976,
+                        "value": "2t2rhojtugfhs95t8vnv4liel",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.975472927,
+                        "value": "cx:2239yccho0d4d3v0x9u7uxspoy:2dvcjvq4621xj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658976
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.34877801,
+                        "value": "cx:2239yccho0d4d3v0x9u7uxspoy:2dvcjvq4621xj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641659349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.083818913,
+                        "value": "cx:2239yccho0d4d3v0x9u7uxspoy:2dvcjvq4621xj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665084
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.25234294,
+                        "value": "cx:2239yccho0d4d3v0x9u7uxspoy:2dvcjvq4621xj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665253
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.417495012,
+                        "value": "cx:2239yccho0d4d3v0x9u7uxspoy:2dvcjvq4621xj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665418
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641657369,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177657.36818,
+                        "expiry": 31536000.368180037,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641657368
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.024998903,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.15022993,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665151
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.50407505,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.84044695,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665841
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641657371,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177657.368218,
+                        "expiry": 31536000.368217945,
+                        "value": "UserID=c9f3ba0b-291a-45f7-8ae4-f1edce746af9&Created=10/11/2024 10:14:17&UserMode=0&guid=463e14f1-2722-4c97-9c5b-9ae6d7ddc675&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641657370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.025032997,
+                        "value": "UserID=c9f3ba0b-291a-45f7-8ae4-f1edce746af9&Created=10/11/2024 10:14:17&UserMode=0&guid=463e14f1-2722-4c97-9c5b-9ae6d7ddc675&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.150271893,
+                        "value": "UserID=c9f3ba0b-291a-45f7-8ae4-f1edce746af9&Created=10/11/2024 10:14:17&UserMode=0&guid=463e14f1-2722-4c97-9c5b-9ae6d7ddc675&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665151
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.504170895,
+                        "value": "UserID=c9f3ba0b-291a-45f7-8ae4-f1edce746af9&Created=10/11/2024 10:14:17&UserMode=0&guid=463e14f1-2722-4c97-9c5b-9ae6d7ddc675&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665512
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.840554,
+                        "value": "UserID=c9f3ba0b-291a-45f7-8ae4-f1edce746af9&Created=10/11/2024 10:14:17&UserMode=0&guid=463e14f1-2722-4c97-9c5b-9ae6d7ddc675&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665841
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.rocks": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.rocks",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658383,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177658.38284,
+                        "expiry": 31536000.382839918,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658383
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.777873993,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658778
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.914520025,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658915
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.15093589,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665152
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.79194188,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.99489498,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665995
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.rocks",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658384,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177658.382901,
+                        "expiry": 31536000.382900953,
+                        "value": "UserID=27c31e3a-5f95-469b-b1d4-b78c6b070267&Created=10/11/2024 10:14:18&UserMode=0&guid=26467427-1510-4a57-a7b2-408eec9a4560&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658384
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.778019905,
+                        "value": "UserID=27c31e3a-5f95-469b-b1d4-b78c6b070267&Created=10/11/2024 10:14:18&UserMode=0&guid=26467427-1510-4a57-a7b2-408eec9a4560&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658778
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.914565086,
+                        "value": "UserID=27c31e3a-5f95-469b-b1d4-b78c6b070267&Created=10/11/2024 10:14:18&UserMode=0&guid=26467427-1510-4a57-a7b2-408eec9a4560&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658915
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.150985003,
+                        "value": "UserID=27c31e3a-5f95-469b-b1d4-b78c6b070267&Created=10/11/2024 10:14:18&UserMode=0&guid=26467427-1510-4a57-a7b2-408eec9a4560&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665152
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.792084932,
+                        "value": "UserID=27c31e3a-5f95-469b-b1d4-b78c6b070267&Created=10/11/2024 10:14:18&UserMode=0&guid=26467427-1510-4a57-a7b2-408eec9a4560&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.994966984,
+                        "value": "UserID=27c31e3a-5f95-469b-b1d4-b78c6b070267&Created=10/11/2024 10:14:18&UserMode=0&guid=26467427-1510-4a57-a7b2-408eec9a4560&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665995
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641665387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201665.385944,
+                        "expiry": 34560000.38594389,
+                        "value": "AHWqTUlOK9dj2USZxHb3qNN2CHCDwMMZLpPfc5UxcIg6MqELLNlFUeVbQQiHM_F5Ga8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665386
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.52191901,
+                        "value": "AHWqTUkqqVDYbGVxiJrPVrNPhCOlEmcsxn2zRxnwX8zsRXroPbT6NSyFhIuTtX0n",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665523
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.54502797,
+                        "value": "AHWqTUlcBfclvglgjfjjM2qMpwlQUH3WzHmL-qAs3c57lafh_Oz6CmyfqQ3Cv7J1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641665546
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641657564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728642557.563169,
+                        "expiry": 900.563169002533,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641657563
+                    }
+                ]
+            }
+        }
+    },
+    "lijit.com": {
+        "/": {
+            "ljt_reader": {
+                "name": "ljt_reader",
+                "domain": ".lijit.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641658824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177658.823129,
+                        "expiry": 31536000.82312894,
+                        "value": "JemGASZHU790cD-mQ3Ok6tL9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658823
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658365,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728643458.365303,
+                        "expiry": 1800.3653030395508,
+                        "value": "wPA46HCcqC9GC9TBctzCxZaCHJGLxzgkjw_bPdRDj34-1728641658-1.0.1.1-z9z6cTLxOko3FS5N7GPhs6Nh.YP0Plp7OT15rIl5sBr3qbHaJ1mhaDwCxDjng8AX4zlun7mAdMQxB7FuaDPMyQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.3878920078278,
+                        "value": "djp75s5ExKL3nOlSXpjiY0Vz2F06sTHSXtbhP6Gr4R0-1728641658-1.0.1.1-HQziGE.PLQR06dKd.h9Rqp6_2N3zqFu7zz8RRR1eaqgDr0GwIZROAC2_aa9YB55dE7sts93g0A5IuvNKAm4Xaw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728641658388
+                    }
+                ]
+            }
+        }
+    },
+    "slobodnadalmacija.hr": {
+        "/": {
+            "__pat": {
+                "name": "__pat",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658391,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1731237258,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728641658390
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2595600,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1728641665503
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658391,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728728058,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTI0a2x6dHJmZWdzc3k0bSIsImRvbWFpbiI6Ii5zbG9ib2RuYWRhbG1hY2lqYS5ociIsInRpbWUiOjE3Mjg2NDE2NTgzODl9",
+                        "same_site": "lax",
+                        "timestamp": 1728641658391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTI0a2x6dHJmZWdzc3k0bSIsImRvbWFpbiI6Ii5zbG9ib2RuYWRhbG1hY2lqYS5ociIsInRpbWUiOjE3Mjg2NDE2NjUyNjF9",
+                        "same_site": "lax",
+                        "timestamp": 1728641665263
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658389,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201658.388825,
+                        "expiry": 34560000.38882494,
+                        "value": "%7Bkpex%7D0kaHB_jBdBq8FV4G7aaEcI8iaYvOgK1RJdmI2Z3Y5VyIyOCWNU_oqdlK98CqLMY5",
+                        "same_site": "lax",
+                        "timestamp": 1728641658389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.501595974,
+                        "value": "%7Bkpex%7D0kaHB_jBdBq8FV4G7aaEcI8iaYvOgK1RJdmI2Z3Y5VyIyOCWNU_oqdlK98CqLMY5",
+                        "same_site": "lax",
+                        "timestamp": 1728641665501
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641657614,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177657,
+                        "expiry": 31536000,
+                        "value": "1i744i7%7C2%7Cfpx%7C0%7C1745",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657614
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658493,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728728058,
+                        "expiry": 86400,
+                        "value": "1bt49oz%7C1728641658491%7C1%7C1%7Cu.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658492
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "1bt49oz%7C1728641665500%7C2%7C1%7Cu.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665500
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641657592,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5ewog5ixh",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5f8dv9ih6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5f96h7r8y",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5fjqzr2o6",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5fkcoy4t4",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665281
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5ftm2lcwo",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5ftgkm3uv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665290
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5lppflkr9",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665502
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km5lwd632vy",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665513
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m24km9iagy9md",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641670563
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641657669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201657.666925,
+                        "expiry": 34560000.66692495,
+                        "value": "GA1.1.1404281877.1728641658",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.0518589,
+                        "value": "GA1.1.1404281877.1728641658",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658053
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13167596,
+                        "value": "GA1.1.1404281877.1728641658",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13669801,
+                        "value": "GA1.1.1404281877.1728641658",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665137
+                    }
+                ]
+            },
+            "_ga_0PCQNHB2ZD": {
+                "name": "_ga_0PCQNHB2ZD",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201658.050793,
+                        "expiry": 34560000.05079293,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05123496,
+                        "value": "GS1.1.1728641657.1.0.1728641657.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658053
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13121295,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665131
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13136792,
+                        "value": "GS1.1.1728641657.1.1.1728641665.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665132
+                    }
+                ]
+            },
+            "_ga_6T0EF2L0K7": {
+                "name": "_ga_6T0EF2L0K7",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641657668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201657.666762,
+                        "expiry": 34560000.66676211,
+                        "value": "GS1.1.1728641657.1.0.1728641657.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657667
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.3939271,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658394
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.3944149,
+                        "value": "GS1.1.1728641657.1.0.1728641658.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658394
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13533211,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665135
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13604307,
+                        "value": "GS1.1.1728641657.1.1.1728641665.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665136
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641657662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762773257,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24klzi4k7zj7ckz%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728641657661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24klzi4k7zj7ckz%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728641658013
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24klzi4k7zj7ckz%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728641665010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7B%22browserId%22%3A%22m24klzi4k7zj7ckz%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1728641665262
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641657599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762773257,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1728641657598
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWADgDYAnPwCsAdgn9%2BAJg4BmDmO4gAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1728641657663
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWADgDYAnPwCsAdgn9%2BAJg4BmDmO4gAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1728641658014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWADgDYAnPwCsAdgn9%2BAJg4BmDmO4gAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1728641665011
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWADgDYAnPwCsAdgn9%2BAJg4BmDmO4gAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1728641665263
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641659352,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1762773259,
+                        "expiry": 34131600,
+                        "value": "cx%3A2239yccho0d4d3v0x9u7uxspoy%3A2dvcjvq4621xj",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641659352
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641657663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657701
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641664956
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665281
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665282
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34131600,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641670563
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641657524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760264057,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2IxMjYtYWIxNy02OThmLWJiNWQtNWM0OWNiZWEwZDJiIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTA6MTQ6MTcuNTIxWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEwOjE0OjE3LjUyMloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1728641657523
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkyN2IxMjYtYWIxNy02OThmLWJiNWQtNWM0OWNiZWEwZDJiIiwiY3JlYXRlZCI6IjIwMjQtMTAtMTFUMTA6MTQ6MTcuNTIxWiIsInVwZGF0ZWQiOiIyMDI0LTEwLTExVDEwOjE0OjIzLjYxMFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIl19LCJwdXJwb3NlcyI6eyJkaXNhYmxlZCI6WyJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwiZ2VvbG9jYXRpb25fZGF0YSJdfSwidmVuZG9yc19saSI6eyJkaXNhYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5BQUFBIn0=",
+                        "same_site": "lax",
+                        "timestamp": 1728641663615
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641663616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760264063,
+                        "expiry": 31622400,
+                        "value": "CQGVCkAQGVCkAAHABBENBKFgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1728641663615
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1728641658393,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763201658.390613,
+                        "expiry": 34560000.39061308,
+                        "value": "%7Bkpex%7Dwj7hLgijQe1pR6M_23OmXw",
+                        "same_site": "lax",
+                        "timestamp": 1728641658392
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.503456116,
+                        "value": "%7Bkpex%7DEtcnZV4gRYeZ8F4KVQtEfg",
+                        "same_site": "lax",
+                        "timestamp": 1728641665503
+                    }
+                ]
+            },
+            "DM_SitId821": {
+                "name": "DM_SitId821",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641657705,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657704
+                    }
+                ]
+            },
+            "DM_SitId821SecId4273": {
+                "name": "DM_SitId821SecId4273",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641657706,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657705
+                    }
+                ]
+            },
+            "DM_SitId821SecId4273Stress": {
+                "name": "DM_SitId821SecId4273Stress",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641658594,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658593
+                    }
+                ]
+            },
+            "DM_SitId821Stress": {
+                "name": "DM_SitId821Stress",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641658592,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658592
+                    }
+                ]
+            },
+            "DotMetrics.DomainCookie": {
+                "name": "DotMetrics.DomainCookie",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728641657188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177657,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"c6032941-314e-4614-a0a3-2fd7e46cf1fc\",\"ts\":1728641657182}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641657182
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"c6032941-314e-4614-a0a3-2fd7e46cf1fc\",\"ts\":1728641657182}",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665317
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641660248,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763201660.246039,
+                        "expiry": 34560000.246038914,
+                        "value": "0:m24km1jn:gYpxn3vd8lwzFhXt0gPD9INGypB~4UPT",
+                        "same_site": "strict",
+                        "timestamp": 1728641660247
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.12101197,
+                        "value": "0:m24km1jn:gYpxn3vd8lwzFhXt0gPD9INGypB~4UPT",
+                        "same_site": "strict",
+                        "timestamp": 1728641666123
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728641660247,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728643460.245952,
+                        "expiry": 1800.2459518909454,
+                        "value": "0:m24km1jn:DZkzEdp_9_kyA2WWQZQmZo65iSuCE12S",
+                        "same_site": "strict",
+                        "timestamp": 1728641660246
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.1209530830383,
+                        "value": "0:m24km1jn:DZkzEdp_9_kyA2WWQZQmZo65iSuCE12S",
+                        "same_site": "strict",
+                        "timestamp": 1728641666123
+                    }
+                ]
+            },
+            "ab_test": {
+                "name": "ab_test",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641654957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177654,
+                        "expiry": 31536000,
+                        "value": "a_version",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641654949
+                    }
+                ]
+            },
+            "pnespsdk_ssn": {
+                "name": "pnespsdk_ssn",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658918,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22%24s%22%3A1728641658917%2C%22visitNumber%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658918
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22%24s%22%3A1728641658917%2C%22visitNumber%22%3A2%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665804
+                    }
+                ]
+            },
+            "pnespsdk_visitor": {
+                "name": "pnespsdk_visitor",
+                "domain": "slobodnadalmacija.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728641658919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177658,
+                        "expiry": 31536000,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641658919
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "m24klzi4k7zj7ckz",
+                        "same_site": "unspecified",
+                        "timestamp": 1728641665805
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "clegc-gckey.gc.ca": {
+        "/": {
+            "_gckey_lb": {
+                "name": "_gckey_lb",
+                "domain": ".clegc-gckey.gc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728638913985,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".03",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728638913975
+                    }
+                ]
+            }
+        },
+        "/j/": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "clegc-gckey.gc.ca",
+                "path": "/j/",
+                "current_label": 0,
+                "label_ts": 1728638911291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "E6E30CACF90CE8F787E7A40D8D19FE38",
+                        "same_site": "lax",
+                        "timestamp": 1728638911281
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8EB5C2A085B85E2AA70DF68F4543CC11",
+                        "same_site": "lax",
+                        "timestamp": 1728638913986
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,601 @@
+{
+    "fcc.gov": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829989928,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728837189.915716,
+                        "expiry": 7200.915715932846,
+                        "value": "D1F2467C027B69B15776DD36D0A11677~000000000000000000000000000000~YAAQzB/XF8Nj/WqSAQAAtSRMhhmQS2BwP2z5ZjW/p2KEQKHp7s9tOi5ItNWQDTCD5dcH3VyfcV1ovCBfnXRKlteZdYKhDQbIAA9WnLg7r3BX7AoVR9QEpoTShJ7rBItqjYgtSGBV6+YnhBnJthy+ZKZQPAmgCbZFPjwrx5PMxgaTRHMLHER+m8TTev6YDrts/DXUvnRw3/03oGu77k7D/TBHLYxwbqdHXDx3R2YXR/hvRrUM73OjtGY4fSbTOhXMmU9VN40jcbA9rQpTt+ZlXUwP22PUMH5B1f+hE9Ps5jy6v/8NpMCXOgUDd+g/fTcRrkTSrvonyr/j3glcR/7SGFJTzo6pI0hlWuHDNwL77trpg8DZbXCGpZMovnorcfvqo17BQnYS",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829989918
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829991613,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728837191.610852,
+                        "expiry": 7200.6108520030975,
+                        "value": "E6A8EE2DD1D929142AEA808E27EE2522~YAAQzB/XF3Vk/WqSAQAAFCtMhhnxcwqwj/MZG7lSzk5gho5qubVFjkBynwBzYdYa2ybB2g3Wsv+zGi/vjb/HCHegK2FU3RwuCJkBByDGxPEPW3wF1Z4UcSSX4F9gEb24mhqCPq04ntEnWz/UM8IO2OD3OjyALDmSmCWOfNrQWFc9L+GiXdtrKEW2XGYXuK+2XtxyxtFreh5WuQMd+shXoveAfvPlQ3vfXBMy/qvFOY2x5/m4CVYFXmFlNacJ~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829991611
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.750051021576,
+                        "value": "E6A8EE2DD1D929142AEA808E27EE2522~YAAQzB/XF4lk/WqSAQAA3itMhhmkko+7BE8UqsGAhm126ZrUEo0LtFWXiH1uUk/NoMTylwfmD8oDODUrPogQiUChPfUKop3FkWP9D9XDyLtdvg4d2r7EhuFeWe5TRFox6wqCNv1F+15cie5/GD9ofozDcP1rVTH3dcbORw+USfCvkvSli/lXoTFr6wlEghPo+CCfYfWrsH8VzlQDTe6hg5SAn2bL1hiAt2SlgKVTEi30inUprK5ipDwReeTn~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829991751
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7196.671080112457,
+                        "value": "E6A8EE2DD1D929142AEA808E27EE2522~YAAQzB/XFx1m/WqSAQAAMDtMhhn7LNnufLE+4llumnMH2p3E2fVcfcC0BFJ4aY83E40rPODOoVP93hMTRmtaeSlLAYG1AvTKIdpL8km3AhOhHqBUbIjw/I1gHlTkPwXEs7MQcNv4ZrcnDkg4cpUVVsQqf8gk/EDQx84RPWjwa123SQyixwORjP8YwPIbeO4OTlr+TNshcCuTfrHhWAIXlQYDVkuIcca4dK76vc/z0jq8LO32vfHkYID+ms46~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7189.802450895309,
+                        "value": "E6A8EE2DD1D929142AEA808E27EE2522~YAAQzB/XFzNp/WqSAQAACldMhhnY+DUZIY3In1Ja8UHGIBg4KgOqa7upznuauJRAnvPrSJyALtRToXZs1RaICGIVpyJt/UDE+zLWobLrboVN8xZpEJfHnRf0H8lskse143CjA939mnTQSZIFCVUjOyY5CA8Jk8VtC983k+WbMeB4ExQXjKiSQ+Kv5DBJds1FjptUpqhKExvyV1CMG1KvcXz6Ip678X16y+2Tf9akhWkT6ITrSCpQnTDQuYZV~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830002804
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7187.203855037689,
+                        "value": "E6A8EE2DD1D929142AEA808E27EE2522~YAAQzB/XF8Bp/WqSAQAAhVxMhhlek3nbDV8xknOXmri4K+lj41BLmc4S2pxwf+2m8F87jeNxRV7xcPdE7A4OkRIbedYDYKc8EOEvKpm9BTPFU1j2+eafwMbA1k9WydLcKy/EKNx4a7q20H6SJPSf0DeBlrnqzkaCG7Ti0838QN3ihDTmHx0z15kifWwUc/Ggz4kgiq/Kq4QHPr4EmBPXuSCxT6mZuAuLOebaCusWcaRppjpt2xckXVWMdEus~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004204
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7187.349102973938,
+                        "value": "E6A8EE2DD1D929142AEA808E27EE2522~YAAQzB/XF8Zp/WqSAQAAFl1MhhnrqRUmJhMkpUcm86scZfT2rB5Pn1qcGOu/1b9LP4+kbC8w4buoiFbFU7TGGCFAi9orHX2lRogHSOnNysJpqBy4Gys/uBRmvzRuJP6uZG5t3NX2kwmSAYndDz4ctmS0IYJf1q9Hy17wdlrXJwy6imklGUqRjRKeaLBxFdOGO5Kqm7ABcY/xexy+Al1858iZaU57rawJUyEWAIWYWuuJPVYnhXNP7UijgPNN~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004351
+                    }
+                ]
+            },
+            "dtCookie": {
+                "name": "dtCookie",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829990440,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_-2D44_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829990433
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829997500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829997514
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829997529
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004645
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830039300
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_8_sn_D1E2EOC05DRU4O4PEJ450FS278SKMJMJ_perc_100000_ol_0_mul_1_app-3Ad4189a392587ff62_0_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830039306
+                    }
+                ]
+            },
+            "dtPC": {
+                "name": "dtPC",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829990448,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-44$229990429_62h1vKRPAHMHCJRQUDWQOCDNQIIKRUOURRBMN-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829990447
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-44$229990429_62h2vKRPAHMHCJRQUDWQOCDNQIIKRUOURRBMN-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829992226
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-44$229990429_62h1vKRPAHMHCJRQUDWQOCDNQIIKRUOURRBMN-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829992232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-44$229990429_62h-vKRPAHMHCJRQUDWQOCDNQIIKRUOURRBMN-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829992234
+                    }
+                ]
+            },
+            "dtSa": {
+                "name": "dtSa",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728829990446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829990446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830039298
+                    }
+                ]
+            },
+            "rxVisitor": {
+                "name": "rxVisitor",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728829990442,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17288299904314JQVUB9L9COJM07GRIFQ0NR95C7GU1D3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829990441
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17288299904314JQVUB9L9COJM07GRIFQ0NR95C7GU1D3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17288299904314JQVUB9L9COJM07GRIFQ0NR95C7GU1D3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829997530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17288299904314JQVUB9L9COJM07GRIFQ0NR95C7GU1D3",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004647
+                    }
+                ]
+            },
+            "rxvt": {
+                "name": "rxvt",
+                "domain": ".fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829990447,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728831790439|1728829990433",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829990446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1728831792223|1728829990433",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829992224
+                    }
+                ]
+            },
+            "_aeaid": {
+                "name": "_aeaid",
+                "domain": "www.fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829994883,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760365994,
+                        "expiry": 31536000,
+                        "value": "22a563ed-001c-4abe-8883-17b3077926b8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829994880
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "22a563ed-001c-4abe-8883-17b3077926b8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004679
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "22a563ed-001c-4abe-8883-17b3077926b8",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005750
+                    }
+                ]
+            },
+            "aeatstartmessage": {
+                "name": "aeatstartmessage",
+                "domain": "www.fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829995572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995571
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995572
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005051
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005052
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830022764
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830022765
+                    }
+                ]
+            },
+            "aelastsite": {
+                "name": "aelastsite",
+                "domain": "www.fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829995020,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389995,
+                        "expiry": 34560000,
+                        "value": "6pJisO9oBG%2FFP4OngM7sCTanp2pMw0pvehz8wFnqtybY8GpyVXZ6lvGLJPOm2wDv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995019
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6pJisO9oBG%2FFP4OngM7sCTanp2pMw0pvehz8wFnqtybY8GpyVXZ6lvGLJPOm2wDv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995567
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6pJisO9oBG%2FFP4OngM7sCTanp2pMw0pvehz8wFnqtybY8GpyVXZ6lvGLJPOm2wDv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004711
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6pJisO9oBG%2FFP4OngM7sCTanp2pMw0pvehz8wFnqtybY8GpyVXZ6lvGLJPOm2wDv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005048
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6pJisO9oBG%2FFP4OngM7sCTanp2pMw0pvehz8wFnqtybY8GpyVXZ6lvGLJPOm2wDv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005767
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "6pJisO9oBG%2FFP4OngM7sCTanp2pMw0pvehz8wFnqtybY8GpyVXZ6lvGLJPOm2wDv",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830022761
+                    }
+                ]
+            },
+            "aelreadersettings": {
+                "name": "aelreadersettings",
+                "domain": "www.fcc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728829995022,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763389995,
+                        "expiry": 34560000,
+                        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995021
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728829995567
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830004711
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005048
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830005767
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1728830022761
+                    }
+                ]
+            }
+        }
+    }
+}

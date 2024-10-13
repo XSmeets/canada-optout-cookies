@@ -1,0 +1,233 @@
+{
+    "lefigaro.fr": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653355481,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728660555.468835,
+                        "expiry": 7200.468835115433,
+                        "value": "22F3B9AE43E939E5E714D11E734D3B59~000000000000000000000000000000~YAAQlyshFy7BanWSAQAAKerEexkJF0Ku+LV+z++no32wSBwpiujAi9TOrMImFdOaW8wT88ok4r3+t5QKREUCr+0QNXTf4r+Q5WtlZ/mwwubBLqpW6fCu8cPM8ioX1zLCmwNtyQTMWn9244Sa3uHgfagyUtiZEKImvVSx7JwLabMiUm/w/qPmbdlaI/qM08vpAl9YRcnBeubzO83ZEINpLHeypESgvE2UIatji/N12M8d4gDIoIPBWJDR46O6/mCQ1oIEGE8MbXMUwzCJ8Tu5cEGx1EUB4CdFO1E6KzsjlxNr19VH6537ozJRCDZOzhig9ieoRx5KxF2+fF8r4duAHo7CsYCzfnE8bUpZejvpfH7W5oJkA5d2ehhY1iuwuqiUd1BEsOZOl829bQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653355471
+                    }
+                ]
+            },
+            "fig_save_consent": {
+                "name": "fig_save_consent",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653355836,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760189355.832241,
+                        "expiry": 31536000.83224106,
+                        "value": "zj16PSKQXEtA8TfOpr7SaSk5DyknCWVJ",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653355832
+                    }
+                ]
+            },
+            "mrf_cookie": {
+                "name": "mrf_cookie",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653357572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653357571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ok",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653363666
+                    }
+                ]
+            },
+            "uhz": {
+                "name": "uhz",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653361226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736605761,
+                        "expiry": 7952400,
+                        "value": "bO3ADeTEQso",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653361225
+                    }
+                ]
+            },
+            "Wysistat": {
+                "name": "Wysistat",
+                "domain": "www.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653357486,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762781357,
+                        "expiry": 34128000,
+                        "value": "0.698256182631956_1728653357478%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931728653357478%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931728653357%C3%AF%C2%BF%C5%930.698256182631956_1728653357478%C3%AF%C2%BF%C5%931762781357478",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653357481
+                    }
+                ]
+            },
+            "WysistatAC": {
+                "name": "WysistatAC",
+                "domain": "www.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653357480,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731245357,
+                        "expiry": 2592000,
+                        "value": "WysistatAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653357478
+                    }
+                ]
+            }
+        }
+    },
+    "cdn.taboola.com": {
+        "/": {
+            "abLdr": {
+                "name": "abLdr",
+                "domain": "cdn.taboola.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653361402,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728664161.401321,
+                        "expiry": 10800.401320934296,
+                        "value": "24",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653361401
+                    }
+                ]
+            }
+        }
+    },
+    "connect.lefigaro.fr": {
+        "/": {
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "connect.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653362970,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1736537371.968711,
+                        "expiry": 7884009.968710899,
+                        "value": "emtkagk0fmgqv6gtt63hshqn1t",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653362969
+                    }
+                ]
+            },
+            "Wysistat": {
+                "name": "Wysistat",
+                "domain": "connect.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653363386,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1762781363,
+                        "expiry": 34128000,
+                        "value": "0.6858242741909617_1728653363383%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931728653363383%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931728653363%C3%AF%C2%BF%C5%930.6858242741909617_1728653363383%C3%AF%C2%BF%C5%931762781363383",
+                        "same_site": "unspecified",
+                        "timestamp": 1728653363385
+                    }
+                ]
+            },
+            "WysistatAC": {
+                "name": "WysistatAC",
+                "domain": "connect.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728653363385,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1731245363,
+                        "expiry": 2592000,
+                        "value": "WysistatAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728653363383
+                    }
+                ]
+            }
+        }
+    }
+}

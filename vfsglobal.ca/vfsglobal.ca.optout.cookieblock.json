@@ -1,0 +1,295 @@
+{
+    "vfsglobal.ca": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".vfsglobal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594900674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728596700.67047,
+                        "expiry": 1800.6704699993134,
+                        "value": "BM43fCy84f9a4C9Bhd8GLuuxM6DUDjlJo70u9xQQP94-1728594900-1.0.1.1-08rgvF88B_YJt0sdckleiO6GoZbh9Yv05oQiuzVycBU0gsrfW5a.jO023jaNDeAz1otXxx3._vcM0wkDUzxEcQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594900673
+                    }
+                ]
+            },
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".vfsglobal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594900686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eJ7zkNQgMDGtuBgtUOVqY61oUQPp6Y8kJ9KMSp1wpaE-1728594900768-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594900675
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".vfsglobal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594903255,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130903.254939,
+                        "expiry": 31536000.25493908,
+                        "value": "5_XelQc.2l7FvJ1cbW1Vk1TZYWUm01sOLFuckFwlYdo-1728594903-1.2.1.1-vWWsQUMO_pcmRQ1tn6FPNaIRxJyWRCZCQFE0PQ8nsviEfdAVvRdwyKu6hD6fSisjs4Jk9qH_6os6f4pA2FUAgSditA.Q9JZUjVlWLWuWCb9TBkLzIaOFnRhN2YlOfm8wNFaLULykGsWBg_suqONyC0nk6g_d5cUXwRxHkYeBAvrvZe6v_ug2FehsUj7OpE5HQBnhygHDv_PyTOrgsCeFrV.X4pzTrxAfXK2Z1PfdmZAJPb5xnawP0kffy8F5lyk2H4qjs7UXFSIZWY2_u8Av2WLh8I81J8NzLX0U1Z7xg31.WmqWKQQan2wuae.m3bNEbnGoU._NIs1UHaZ2jOvjSllzXXZ_W7zAA9czrU4OC6lNC00V0nm._3KkW_7VTIU8uzu5xcxiCpHT_OCSMNjqCQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594903255
+                    }
+                ]
+            },
+            "BIGipServer~vfsglobal~cicmvfswebtest_443": {
+                "name": "BIGipServer~vfsglobal~cicmvfswebtest_443",
+                "domain": "www.vfsglobal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594901223,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rd1046o00000000000000000000ffff1e802d17o443",
+                        "same_site": "unspecified",
+                        "timestamp": 1728594901210
+                    }
+                ]
+            }
+        }
+    },
+    "vfsglobal.com": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".vfsglobal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594915742,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130915,
+                        "expiry": 31536000,
+                        "value": "2024-10-10T21:15:15.740Z",
+                        "same_site": "lax",
+                        "timestamp": 1728594915740
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".vfsglobal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594914099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1728594914101
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1728594914102
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1728594914104
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fvisa.vfsglobal.com%2Fgbr%2Fen%2Fcan",
+                        "same_site": "lax",
+                        "timestamp": 1728594914108
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fvisa.vfsglobal.com%2Fgbr%2Fen%2Fcan&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728594914316
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fvisa.vfsglobal.com%2Fgbr%2Fen%2Fcan&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728594914317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728594915743
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728594915744
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1728594915746
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Oct+10+2024+23%3A15%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aea2e90b-d412-4cd7-aa47-ea7b7e0b6f5f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0&intType=2",
+                        "same_site": "lax",
+                        "timestamp": 1728594915748
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".vfsglobal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594909625,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728596709.624449,
+                        "expiry": 1800.6244490146637,
+                        "value": "r_LBCkJhMv3WrZ_CVTbUkdf_IHKuln_4D3G9.ZjiCb4-1728594909-1.0.1.1-Yi4G_bmtnv2YJcmYQ8iXKzEPmwYqW2BGA28zHLp2ovtwFC.gPF61CnqziZNVBSYy8_ZNCBZq70ojZchjKNt0Vg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594909625
+                    }
+                ]
+            },
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".vfsglobal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594909627,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "bNK6_8R8xschfJ3z3q4ggXvzCqzhQxAhG1I5RjfgWXA-1728594909721-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594909626
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".vfsglobal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728594910867,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130910.866859,
+                        "expiry": 31536000.86685896,
+                        "value": "atoMzIB7cfjWsWYbI0wjWhylcpSIvFl2jwUTKs3ps1M-1728594910-1.2.1.1-n4IEv8f93CCaohLe3EzOEfNUuGQvJxWsa5J3J_fDTM8KNnh4QYybwyj5BPkjvrvFqvE8s._f1OFbFNloLIHS3_SJCXZruxp2dDAhcNUx1kHJ8IPORLWgip8jhV6gCoGZs.C7VdqJYHKucFMsD_R_nCnNAApuFAwTAAG44sm4JC8BLOYPVAjMI_ZWFT8WrWyJY.umhu7EK15J4NxnLUkf8LpbjtSAsh78CXzO7FZAmV7x9AeKWBXTrYTgBpFd0ykSfbUcPaWG.jgojCC5UlXps2GuE7IoPvruTDCVLu83HmYPGnFwae127IG22vACXRhpVaAeKRjWZ7TGGIBhU9oiBxsY_34Z3Bg6JBLC8lG10L5h3QZHBQ6X0kHAsx7er2CaregAi8QeSb5iLy2mP8mtOg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594910867
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.98045206,
+                        "value": "Z4Wd6u9vmZw7JM3kDGavQKX9ytGJcBP2l2sRvD2c6ow-1728594911-1.2.1.1-i.FWZ8ESgAsTtejXjZAkBxiVr0tTn5d3w413Ls6HHbvT.j7seJcddDuNACAR2XZSBNOVbX0ghw0NJ8BU04fOIkO.P0sBANVePLSgLma9LuqIjh5ZvNGOGrNDkl_D7Clkx4IATGrXUMAuhIDUhRCdZbsgJVs1Zf0l5HNpsaiYeHaedJcboJ5rG126ruWqEgONrBbKp1tHw3gJYhfnd70sIp8oshE8Wz779QdSvdpxlRSQi.CX14dLUSkiZmNYbozF1SZYN8VLnM8jccmD4R77WOINqZDQ.Ec.MSpTzV7Mmmmkfl54xVMW0KmF19_3qlq8l0SINIcrqg52W5hrCJWOJ1.zoFPKFBhu8g6WvHhiOZ0YtprkGfoJrHi4IpriCvfQOUIFvEJexejMvOAIzErC0A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1728594910981
+                    }
+                ]
+            }
+        }
+    }
+}

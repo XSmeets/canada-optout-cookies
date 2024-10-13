@@ -1,0 +1,709 @@
+{
+    "ssa.gov": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824905730,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728828505.718786,
+                        "expiry": 3600.7187860012054,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824905721
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824907683,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763384907.675905,
+                        "expiry": 34560000.67590499,
+                        "value": "GA1.1.148385490.1728824908",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824907682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.985713005,
+                        "value": "GA1.1.148385490.1728824908",
+                        "same_site": "strict",
+                        "timestamp": 1728824907988
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.37438202,
+                        "value": "GA1.1.148385490.1728824908",
+                        "same_site": "strict",
+                        "timestamp": 1728824910375
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.38313699,
+                        "value": "GA1.1.148385490.1728824908",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824910384
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824907987,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763384907.985304,
+                        "expiry": 34560000.98530412,
+                        "value": "GS1.1.1728824907.1.0.1728824907.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824907986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18854499,
+                        "value": "GS1.1.1728824907.1.0.1728824908.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824908189
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.37420201,
+                        "value": "GS1.1.1728824907.1.1.1728824910.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824910374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.61132312,
+                        "value": "GS1.1.1728824907.1.1.1728824918.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824918612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.1496501,
+                        "value": "GS1.1.1728824907.1.1.1728824942.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824942150
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.363502026,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824948364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36397004,
+                        "value": "GS1.1.1728824907.1.1.1728824948.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824948366
+                    }
+                ]
+            },
+            "_ga_VSSTFV3FKR": {
+                "name": "_ga_VSSTFV3FKR",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824907681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763384907.675633,
+                        "expiry": 34560000.67563295,
+                        "value": "GS1.1.1728824907.1.0.1728824907.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824907681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.38303304,
+                        "value": "GS1.1.1728824907.1.1.1728824910.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824910384
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.69210696,
+                        "value": "GS1.1.1728824907.1.1.1728824918.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824918693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36736488,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824948368
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824907772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1729429707,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824907770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824907991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=1&tt=2u5&rl=1&ld=2u6\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824907992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=1&tt=2u5&rl=1&ld=2u6&nu=125xup2l&cl=481\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824909786
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=1&tt=2u5&rl=1&ld=2u6&nu=125xup2l&cl=481&ul=487\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824909793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=1&tt=2u5&rl=1&ld=2u6&nu=125xup2l&cl=481&ul=487&hd=4de\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824909980
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=1&tt=2u5&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824910358
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=1&tt=2u5&rl=1&nu=2kfyyb2j&cl=b35\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824918683
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=2&tt=3go&rl=1&nu=2kfyyb2j&cl=b35&ld=xzc&r=125xup2l&ul=xzd\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824948356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=27977f6d-7ebe-4a06-9801-db3f59d3e885&ss=m27lplkp&sl=2&tt=3go&rl=1&nu=2kfyyb2j&cl=b35&ld=xzc&r=125xup2l&ul=xzd&hd=xzf\"",
+                        "same_site": "lax",
+                        "timestamp": 1728824948362
+                    }
+                ]
+            },
+            "YSNP01789c80": {
+                "name": "YSNP01789c80",
+                "domain": ".www.ssa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824909978,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "017e2f91c3f6b713db33705ed13353066fc056553cf80882085ac32e40d5aeedc67f751cde42c034fdf85ff771378abbd0bc2b6c13",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824909976
+                    }
+                ]
+            },
+            "YSNP01ca4a68": {
+                "name": "YSNP01ca4a68",
+                "domain": ".www.ssa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824910280,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01cfd667a50dc33d9a2d6a536afd3812fe08b21092895eec5d310c73b3a9097f8b6dab1d292d69e771f8a06306d0e0d13df949527f",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824910276
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01cfd667a535be2c5c6ee557f8fb1cfbe964b84faf0835d956ebd542b0095b959306fdca8e0c1e55f107565989056579f4512ecc89",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824910281
+                    }
+                ]
+            }
+        }
+    },
+    "usa.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824920945,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763384920.94235,
+                        "expiry": 34560000.94234991,
+                        "value": "GA1.1.1131991798.1728824921",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824920945
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.44089699,
+                        "value": "GA1.1.1131991798.1728824921",
+                        "same_site": "strict",
+                        "timestamp": 1728824921443
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.23241401,
+                        "value": "GA1.1.1131991798.1728824921",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.261328936,
+                        "value": "GA1.1.1131991798.1728824921",
+                        "same_site": "strict",
+                        "timestamp": 1728824926262
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824921442,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1763384921.440306,
+                        "expiry": 34560000.44030595,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1728824921440
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.440546036,
+                        "value": "GS1.1.1728824921.1.0.1728824921.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824921443
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18949604,
+                        "value": "GS1.1.1728824921.1.0.1728824926.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824926190
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.26113796,
+                        "value": "GS1.1.1728824921.1.1.1728824926.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824926261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.63961792,
+                        "value": "GS1.1.1728824921.1.1.1728824932.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824932640
+                    }
+                ]
+            },
+            "_ga_GXFTMLX26S": {
+                "name": "_ga_GXFTMLX26S",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824920944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763384920.942083,
+                        "expiry": 34560000.94208288,
+                        "value": "GS1.1.1728824920.1.0.1728824920.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824920943
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.79270291,
+                        "value": "GS1.1.1728824920.1.0.1728824925.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824925793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.232108116,
+                        "value": "GS1.1.1728824920.1.1.1728824926.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.24469495,
+                        "value": "GS1.1.1728824920.1.1.1728824926.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824926245
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.636482954,
+                        "value": "GS1.1.1728824920.1.1.1728824932.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1728824932637
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1728824920593,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1763384920.592588,
+                        "expiry": 34560000.59258795,
+                        "value": "8000857a-6311-8fb7-dee6-e325625d62bf",
+                        "same_site": "lax",
+                        "timestamp": 1728824920593
+                    }
+                ]
+            },
+            "QSI_HistorySession": {
+                "name": "QSI_HistorySession",
+                "domain": "www.usa.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1728824922727,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.usa.gov%2Foptout-instructions~1728824922724",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824922725
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.usa.gov%2Foptout-instructions~1728824922724%7Chttps%3A%2F%2Fwww.usa.gov%2Fprivacy-security~1728824926621",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926621
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1728824922900,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824922906
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824922908
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926624
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926626
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926627
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926627
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926628
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926630
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1728824926631
+                    }
+                ]
+            }
+        }
+    }
+}
